@@ -1,0 +1,24 @@
+Date -- Date listed is local to the match
+Time -- Time listed is local to the match venue
+Time is written in the 24-hour notation
+Your local time is in (·)
+Round -- Round or Phase of Competition
+Day -- Day of week
+GF -- Goals For
+Goals For
+GA -- Goals Against
+Goals Against
+xG -- Expected Goals
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by Opta.
+An underline indicates there is a match that is missing data, but will be updated when available.
+xGA -- xG Allowed
+Expected Goals Allowed
+xG totals include penalty kicks, but do not include penalty shootouts (unless otherwise noted).
+Provided by Opta.
+An underline indicates there is a match that is missing data, but will be updated when available.
+Poss -- Possession
+Possession
+Calculated as the percentage of passes attempted
+Formation -- Number of players in each row from defenders to forwards, not including the goalkeeper.
+Formations provided by Data Sports Group and Opta.
