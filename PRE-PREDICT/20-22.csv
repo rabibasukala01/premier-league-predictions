@@ -1,0 +1,1521 @@
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,team
+0,2020-09-21,20,Matchweek 2,Mon,Away,W,3,1,Wolves,1.9,0.6,65,,Fernandinho,4-2-3-1,Andre Marriner,manchester city
+1,2020-09-27,16,Matchweek 3,Sun,Home,L,2,5,Leicester City,0.9,2.9,72,,Fernandinho,4-2-3-1,Michael Oliver,manchester city
+2,2020-10-03,17,Matchweek 4,Sat,Away,D,1,1,Leeds United,1.2,2.4,49,,Kevin De Bruyne,4-3-3,Mike Dean,manchester city
+3,2020-10-17,17,Matchweek 5,Sat,Home,W,1,0,Arsenal,1.3,0.9,58,,Raheem Sterling,3-1-4-2,Chris Kavanagh,manchester city
+4,2020-10-24,12,Matchweek 6,Sat,Away,D,1,1,West Ham,1.0,0.3,69,,Raheem Sterling,4-3-3,Anthony Taylor,manchester city
+5,2020-10-31,12,Matchweek 7,Sat,Away,W,1,0,Sheffield Utd,1.6,0.5,65,,Kevin De Bruyne,4-3-3,Michael Oliver,manchester city
+6,2020-11-08,16,Matchweek 8,Sun,Home,D,1,1,Liverpool,1.4,1.2,54,,Kevin De Bruyne,4-2-3-1,Craig Pawson,manchester city
+7,2020-11-21,17,Matchweek 9,Sat,Away,L,0,2,Tottenham,1.4,0.7,66,,Kevin De Bruyne,4-3-3,Mike Dean,manchester city
+8,2020-11-28,15,Matchweek 10,Sat,Home,W,5,0,Burnley,1.7,0.5,68,,Kevin De Bruyne,4-2-3-1,Lee Mason,manchester city
+9,2020-12-05,15,Matchweek 11,Sat,Home,W,2,0,Fulham,2.9,0.3,69,,Kevin De Bruyne,4-2-3-1,Jonathan Moss,manchester city
+10,2020-12-12,17,Matchweek 12,Sat,Away,D,0,0,Manchester Utd,1.3,0.6,54,,Fernandinho,4-2-3-1,Chris Kavanagh,manchester city
+11,2020-12-15,20,Matchweek 13,Tue,Home,D,1,1,West Brom,2.2,0.4,77,,Kevin De Bruyne,4-2-3-1,Peter Bankes,manchester city
+12,2020-12-19,15,Matchweek 14,Sat,Away,W,1,0,Southampton,0.9,0.7,52,,Kevin De Bruyne,4-2-3-1,Mike Dean,manchester city
+13,2020-12-26,20,Matchweek 15,Sat,Home,W,2,0,Newcastle Utd,3.0,0.3,74,,Kevin De Bruyne,3-4-3◆,Andre Marriner,manchester city
+14,2021-01-03,16,Matchweek 17,Sun,Away,W,3,1,Chelsea,2.7,0.8,46,,Kevin De Bruyne,4-3-3,Anthony Taylor,manchester city
+15,2021-01-13,18,Matchweek 18,Wed,Home,W,1,0,Brighton,2.0,0.2,65,,Kevin De Bruyne,4-3-3,Darren England,manchester city
+16,2021-01-17,19,Matchweek 19,Sun,Home,W,4,0,Crystal Palace,0.7,0.1,71,,Fernandinho,4-3-3,Lee Mason,manchester city
+17,2021-01-20,18,Matchweek 1,Wed,Home,W,2,0,Aston Villa,3.4,0.6,69,,Kevin De Bruyne,4-3-3,Jonathan Moss,manchester city
+18,2021-01-26,20,Matchweek 20,Tue,Away,W,5,0,West Brom,1.8,0.5,77,,Raheem Sterling,4-3-3,Chris Kavanagh,manchester city
+19,2021-01-30,15,Matchweek 21,Sat,Home,W,1,0,Sheffield Utd,1.5,0.2,75,,Fernandinho,4-3-3,David Coote,manchester city
+20,2021-02-03,18,Matchweek 22,Wed,Away,W,2,0,Burnley,2.0,0.1,74,,Raheem Sterling,4-3-3,Martin Atkinson,manchester city
+21,2021-02-07,16,Matchweek 23,Sun,Away,W,4,1,Liverpool,3.5,1.2,44,,Raheem Sterling,4-3-3,Michael Oliver,manchester city
+22,2021-02-13,17,Matchweek 24,Sat,Home,W,3,0,Tottenham,2.2,0.3,60,,Raheem Sterling,4-3-3,Paul Tierney,manchester city
+23,2021-02-17,20,Matchweek 16,Wed,Away,W,3,1,Everton,1.0,1.0,71,,Raheem Sterling,4-3-3,Andre Marriner,manchester city
+24,2021-02-21,16,Matchweek 25,Sun,Away,W,1,0,Arsenal,1.8,0.3,55,,Fernandinho,4-3-3,Jonathan Moss,manchester city
+25,2021-02-27,12,Matchweek 26,Sat,Home,W,2,1,West Ham,0.5,1.5,63,,Fernandinho,4-3-3,Michael Oliver,manchester city
+26,2021-03-02,20,Matchweek 29,Tue,Home,W,4,1,Wolves,3.3,0.3,72,,Kevin De Bruyne,4-3-3,Chris Kavanagh,manchester city
+27,2021-03-07,16,Matchweek 27,Sun,Home,L,0,2,Manchester Utd,1.3,1.7,66,,Kevin De Bruyne,4-2-3-1,Anthony Taylor,manchester city
+28,2021-03-10,18,Matchweek 33,Wed,Home,W,5,2,Southampton,2.6,1.6,58,,Fernandinho,4-3-3,Jonathan Moss,manchester city
+29,2021-03-13,20,Matchweek 28,Sat,Away,W,3,0,Fulham,2.2,0.3,54,,Sergio Agüero,3-4-3,Andre Marriner,manchester city
+30,2021-04-03,17,Matchweek 30,Sat,Away,W,2,0,Leicester City,1.4,0.3,56,,Fernandinho,4-2-3-1,Anthony Taylor,manchester city
+31,2021-04-10,12,Matchweek 31,Sat,Home,L,1,2,Leeds United,2.1,0.1,71,,Fernandinho,4-3-3,Andre Marriner,manchester city
+32,2021-04-21,20,Matchweek 32,Wed,Away,W,2,1,Aston Villa,1.2,0.7,72,,İlkay Gündoğan,4-3-3,Peter Bankes,manchester city
+33,2021-05-01,12,Matchweek 34,Sat,Away,W,2,0,Crystal Palace,1.7,0.9,68,,Fernandinho,4-4-1-1,David Coote,manchester city
+34,2021-05-08,17,Matchweek 35,Sat,Home,L,1,2,Chelsea,1.8,0.7,48,,Raheem Sterling,3-1-4-2,Anthony Taylor,manchester city
+35,2021-05-14,20,Matchweek 36,Fri,Away,W,4,3,Newcastle Utd,1.5,2.2,82,,Raheem Sterling,4-3-3,Kevin Friend,manchester city
+36,2021-05-18,19,Matchweek 37,Tue,Away,L,2,3,Brighton,0.9,1.1,37,7945.0,İlkay Gündoğan,4-3-3,Stuart Attwell,manchester city
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,5,0,Everton,2.5,1.1,67,10000.0,Fernandinho,4-3-3,Michael Oliver,manchester city
+0,2020-09-19,17,Matchweek 2,Sat,Home,L,1,3,Crystal Palace,1.2,1.6,75,,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+1,2020-09-26,12,Matchweek 3,Sat,Away,W,3,2,Brighton,1.5,2.5,47,,Harry Maguire,4-2-3-1,Chris Kavanagh,manchester utd
+2,2020-10-04,16,Matchweek 4,Sun,Home,L,1,6,Tottenham,0.9,3.4,39,,Harry Maguire,4-2-3-1,Anthony Taylor,manchester utd
+3,2020-10-17,20,Matchweek 5,Sat,Away,W,4,1,Newcastle Utd,2.3,0.9,63,,Harry Maguire,4-2-3-1,Craig Pawson,manchester utd
+4,2020-10-24,17,Matchweek 6,Sat,Home,D,0,0,Chelsea,0.6,0.2,51,,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+5,2020-11-01,16,Matchweek 7,Sun,Home,L,0,1,Arsenal,0.4,1.0,54,,Harry Maguire,4-1-2-1-2◆,Mike Dean,manchester utd
+6,2020-11-07,12,Matchweek 8,Sat,Away,W,3,1,Everton,1.5,0.4,45,,Harry Maguire,4-2-3-1,Paul Tierney,manchester utd
+7,2020-11-21,20,Matchweek 9,Sat,Home,W,1,0,West Brom,2.4,0.6,63,,Harry Maguire,4-2-3-1,David Coote,manchester utd
+8,2020-11-29,14,Matchweek 10,Sun,Away,W,3,2,Southampton,2.1,0.5,50,,Harry Maguire,4-3-1-2,Jonathan Moss,manchester utd
+9,2020-12-05,17,Matchweek 11,Sat,Away,W,3,1,West Ham,1.7,2.0,60,2000.0,Harry Maguire,4-2-3-1,Andre Marriner,manchester utd
+10,2020-12-12,17,Matchweek 12,Sat,Home,D,0,0,Manchester City,0.6,1.3,46,,Harry Maguire,4-2-3-1,Chris Kavanagh,manchester utd
+11,2020-12-17,20,Matchweek 13,Thu,Away,W,3,2,Sheffield Utd,1.9,1.5,60,,Harry Maguire,4-2-3-1,Michael Oliver,manchester utd
+12,2020-12-20,16,Matchweek 14,Sun,Home,W,6,2,Leeds United,3.6,1.8,41,,Harry Maguire,4-2-3-1,Anthony Taylor,manchester utd
+13,2020-12-26,12,Matchweek 15,Sat,Away,D,2,2,Leicester City,1.7,0.9,46,,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+14,2020-12-29,20,Matchweek 16,Tue,Home,W,1,0,Wolves,1.5,0.5,58,,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+15,2021-01-01,20,Matchweek 17,Fri,Home,W,2,1,Aston Villa,2.1,1.4,48,,Harry Maguire,4-2-3-1,Michael Oliver,manchester utd
+16,2021-01-12,20,Matchweek 1,Tue,Away,W,1,0,Burnley,1.2,0.9,62,,Harry Maguire,4-2-3-1,Kevin Friend,manchester utd
+17,2021-01-17,16,Matchweek 19,Sun,Away,D,0,0,Liverpool,1.1,1.2,35,,Harry Maguire,4-2-3-1,Paul Tierney,manchester utd
+18,2021-01-20,20,Matchweek 18,Wed,Away,W,2,1,Fulham,1.7,0.9,62,,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+19,2021-01-27,20,Matchweek 20,Wed,Home,L,1,2,Sheffield Utd,1.1,1.0,75,,Harry Maguire,4-2-3-1,Peter Bankes,manchester utd
+20,2021-01-30,17,Matchweek 21,Sat,Away,D,0,0,Arsenal,1.6,0.9,57,,Harry Maguire,4-2-3-1,Michael Oliver,manchester utd
+21,2021-02-02,20,Matchweek 22,Tue,Home,W,9,0,Southampton,4.7,0.5,74,,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+22,2021-02-06,20,Matchweek 23,Sat,Home,D,3,3,Everton,1.8,1.5,61,,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+23,2021-02-14,14,Matchweek 24,Sun,Away,D,1,1,West Brom,0.5,1.0,73,,Harry Maguire,4-2-3-1,Craig Pawson,manchester utd
+24,2021-02-21,19,Matchweek 25,Sun,Home,W,3,1,Newcastle Utd,1.7,0.4,71,,Harry Maguire,4-2-3-1,Paul Tierney,manchester utd
+25,2021-02-28,16,Matchweek 26,Sun,Away,D,0,0,Chelsea,0.4,1.1,43,,Harry Maguire,4-2-3-1,Stuart Attwell,manchester utd
+26,2021-03-03,20,Matchweek 29,Wed,Away,D,0,0,Crystal Palace,0.9,0.9,63,,Harry Maguire,4-2-3-1,Andre Marriner,manchester utd
+27,2021-03-07,16,Matchweek 27,Sun,Away,W,2,0,Manchester City,1.7,1.3,34,,Harry Maguire,4-2-3-1,Anthony Taylor,manchester utd
+28,2021-03-14,19,Matchweek 28,Sun,Home,W,1,0,West Ham,1.5,0.6,61,,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+29,2021-04-04,19,Matchweek 30,Sun,Home,W,2,1,Brighton,1.5,1.2,57,,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+30,2021-04-11,16,Matchweek 31,Sun,Away,W,3,1,Tottenham,2.1,0.9,53,,Harry Maguire,4-2-3-1,Chris Kavanagh,manchester utd
+31,2021-04-18,16,Matchweek 32,Sun,Home,W,3,1,Burnley,2.5,0.9,69,,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+32,2021-04-25,14,Matchweek 33,Sun,Away,D,0,0,Leeds United,1.2,0.3,56,,Harry Maguire,4-2-3-1,Craig Pawson,manchester utd
+33,2021-05-09,14,Matchweek 35,Sun,Away,W,3,1,Aston Villa,1.7,0.5,59,,Harry Maguire,4-2-3-1,Chris Kavanagh,manchester utd
+34,2021-05-11,18,Matchweek 36,Tue,Home,L,1,2,Leicester City,0.2,0.9,53,,Nemanja Matić,4-2-3-1,Craig Pawson,manchester utd
+35,2021-05-13,20,Matchweek 34,Thu,Home,L,2,4,Liverpool,1.9,2.7,53,,Bruno Fernandes,4-2-3-1,Anthony Taylor,manchester utd
+36,2021-05-18,18,Matchweek 37,Tue,Home,D,1,1,Fulham,0.9,0.9,57,10000.0,Bruno Fernandes,4-2-3-1,Lee Mason,manchester utd
+37,2021-05-23,16,Matchweek 38,Sun,Away,W,2,1,Wolves,2.0,0.9,43,4500.0,Nemanja Matić,4-2-3-1,Mike Dean,manchester utd
+0,2020-09-12,17,Matchweek 1,Sat,Home,W,4,3,Leeds United,2.7,0.3,49,,Jordan Henderson,4-3-3,Michael Oliver,liverpool
+1,2020-09-20,16,Matchweek 2,Sun,Away,W,2,0,Chelsea,2.1,0.9,61,,Jordan Henderson,4-3-3,Paul Tierney,liverpool
+2,2020-09-28,20,Matchweek 3,Mon,Home,W,3,1,Arsenal,2.7,1.3,66,,Virgil van Dijk,4-3-3,Craig Pawson,liverpool
+3,2020-10-04,19,Matchweek 4,Sun,Away,L,2,7,Aston Villa,1.8,2.7,69,,Virgil van Dijk,4-3-3,Martin Atkinson,liverpool
+4,2020-10-17,12,Matchweek 5,Sat,Away,D,2,2,Everton,2.6,1.2,58,,Jordan Henderson,4-3-3,Michael Oliver,liverpool
+5,2020-10-24,20,Matchweek 6,Sat,Home,W,2,1,Sheffield Utd,2.3,1.6,62,,Jordan Henderson,4-2-3-1,Mike Dean,liverpool
+6,2020-10-31,17,Matchweek 7,Sat,Home,W,2,1,West Ham,1.7,0.3,72,,Jordan Henderson,4-3-3,Kevin Friend,liverpool
+7,2020-11-08,16,Matchweek 8,Sun,Away,D,1,1,Manchester City,1.2,1.4,46,,Jordan Henderson,4-2-3-1,Craig Pawson,liverpool
+8,2020-11-22,19,Matchweek 9,Sun,Home,W,3,0,Leicester City,3.1,1.6,56,,James Milner,4-3-3,Chris Kavanagh,liverpool
+9,2020-11-28,12,Matchweek 10,Sat,Away,D,1,1,Brighton,0.2,2.3,60,,James Milner,4-3-3,Stuart Attwell,liverpool
+10,2020-12-06,19,Matchweek 11,Sun,Home,W,4,0,Wolves,1.2,0.4,60,2000.0,Jordan Henderson,4-3-3,Craig Pawson,liverpool
+11,2020-12-13,16,Matchweek 12,Sun,Away,D,1,1,Fulham,1.8,1.5,74,2000.0,Jordan Henderson,4-3-3,Andre Marriner,liverpool
+12,2020-12-16,20,Matchweek 13,Wed,Home,W,2,1,Tottenham,1.0,1.1,75,2000.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+13,2020-12-19,12,Matchweek 14,Sat,Away,W,7,0,Crystal Palace,2.5,0.3,64,,Jordan Henderson,4-3-3,Jonathan Moss,liverpool
+14,2020-12-27,16,Matchweek 15,Sun,Home,D,1,1,West Brom,1.5,0.6,77,2000.0,Jordan Henderson,4-3-3,Kevin Friend,liverpool
+15,2020-12-30,20,Matchweek 16,Wed,Away,D,0,0,Newcastle Utd,1.4,0.5,72,,Jordan Henderson,4-3-3,Paul Tierney,liverpool
+16,2021-01-04,20,Matchweek 17,Mon,Away,L,0,1,Southampton,1.5,0.4,66,,Jordan Henderson,4-3-3,Andre Marriner,liverpool
+17,2021-01-17,16,Matchweek 19,Sun,Home,D,0,0,Manchester Utd,1.2,1.1,65,,Jordan Henderson,4-3-3,Paul Tierney,liverpool
+18,2021-01-21,20,Matchweek 18,Thu,Home,L,0,1,Burnley,1.6,1.1,72,,Georginio Wijnaldum,4-3-3,Mike Dean,liverpool
+19,2021-01-28,20,Matchweek 20,Thu,Away,W,3,1,Tottenham,2.5,0.1,50,,Jordan Henderson,4-3-3,Martin Atkinson,liverpool
+20,2021-01-31,16,Matchweek 21,Sun,Away,W,3,1,West Ham,2.0,0.8,67,,Jordan Henderson,4-3-1-2,Jonathan Moss,liverpool
+21,2021-02-03,20,Matchweek 22,Wed,Home,L,0,1,Brighton,1.0,1.3,63,,Jordan Henderson,4-3-3,Kevin Friend,liverpool
+22,2021-02-07,16,Matchweek 23,Sun,Home,L,1,4,Manchester City,1.2,3.5,56,,Jordan Henderson,4-3-3,Michael Oliver,liverpool
+23,2021-02-13,12,Matchweek 24,Sat,Away,L,1,3,Leicester City,1.7,1.9,62,,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+24,2021-02-20,17,Matchweek 25,Sat,Home,L,0,2,Everton,1.4,1.6,71,,Jordan Henderson,4-3-3,Chris Kavanagh,liverpool
+25,2021-02-28,19,Matchweek 26,Sun,Away,W,2,0,Sheffield Utd,2.7,0.7,60,,Georginio Wijnaldum,4-3-3,Jonathan Moss,liverpool
+26,2021-03-04,20,Matchweek 29,Thu,Home,L,0,1,Chelsea,0.3,1.0,54,,Georginio Wijnaldum,4-3-3,Martin Atkinson,liverpool
+27,2021-03-07,14,Matchweek 27,Sun,Home,L,0,1,Fulham,0.9,1.3,63,,James Milner,4-3-3,Kevin Friend,liverpool
+28,2021-03-15,20,Matchweek 28,Mon,Away,W,1,0,Wolves,0.9,1.1,47,,Georginio Wijnaldum,4-3-3,Craig Pawson,liverpool
+29,2021-04-03,20,Matchweek 30,Sat,Away,W,3,0,Arsenal,2.4,0.1,64,,James Milner,4-3-3,Stuart Attwell,liverpool
+30,2021-04-10,15,Matchweek 31,Sat,Home,W,2,1,Aston Villa,2.3,0.5,65,,James Milner,4-3-3,Paul Tierney,liverpool
+31,2021-04-19,20,Matchweek 32,Mon,Away,D,1,1,Leeds United,1.4,2.3,39,,James Milner,4-3-3,Anthony Taylor,liverpool
+32,2021-04-24,12,Matchweek 33,Sat,Home,D,1,1,Newcastle Utd,2.4,1.0,68,,Georginio Wijnaldum,4-4-2,Andre Marriner,liverpool
+33,2021-05-08,20,Matchweek 35,Sat,Home,W,2,0,Southampton,1.7,1.1,54,,Georginio Wijnaldum,4-3-3,Kevin Friend,liverpool
+34,2021-05-13,20,Matchweek 34,Thu,Away,W,4,2,Manchester Utd,2.7,1.9,47,,Georginio Wijnaldum,4-3-3,Anthony Taylor,liverpool
+35,2021-05-16,16,Matchweek 36,Sun,Away,W,2,1,West Brom,1.9,1.0,76,,Roberto Firmino,4-3-3,Mike Dean,liverpool
+36,2021-05-19,20,Matchweek 37,Wed,Away,W,3,0,Burnley,2.6,0.8,59,3387.0,Georginio Wijnaldum,4-3-3,Chris Kavanagh,liverpool
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,1.6,0.6,69,9901.0,Georginio Wijnaldum,4-3-3,Craig Pawson,liverpool
+0,2020-09-14,20,Matchweek 1,Mon,Away,W,3,1,Brighton,1.2,1.1,48,,Jorginho,4-2-2-2,Craig Pawson,chelsea
+1,2020-09-20,16,Matchweek 2,Sun,Home,L,0,2,Liverpool,0.9,2.1,39,,Jorginho,4-3-3,Paul Tierney,chelsea
+2,2020-09-26,17,Matchweek 3,Sat,Away,D,3,3,West Brom,2.0,0.6,75,,Thiago Silva,4-2-3-1,Jonathan Moss,chelsea
+3,2020-10-03,12,Matchweek 4,Sat,Home,W,4,0,Crystal Palace,2.7,0.2,70,,César Azpilicueta,4-2-3-1,Michael Oliver,chelsea
+4,2020-10-17,15,Matchweek 5,Sat,Home,D,3,3,Southampton,1.8,1.9,53,,César Azpilicueta,4-2-3-1,Peter Bankes,chelsea
+5,2020-10-24,17,Matchweek 6,Sat,Away,D,0,0,Manchester Utd,0.2,0.6,49,,César Azpilicueta,3-4-3,Martin Atkinson,chelsea
+6,2020-10-31,15,Matchweek 7,Sat,Away,W,3,0,Burnley,0.9,0.5,63,,Thiago Silva,4-3-3,David Coote,chelsea
+7,2020-11-07,17,Matchweek 8,Sat,Home,W,4,1,Sheffield Utd,2.2,0.4,69,,Thiago Silva,4-3-3,Jonathan Moss,chelsea
+8,2020-11-21,12,Matchweek 9,Sat,Away,W,2,0,Newcastle Utd,1.5,0.3,70,,N'Golo Kanté,4-3-3,Craig Pawson,chelsea
+9,2020-11-29,16,Matchweek 10,Sun,Home,D,0,0,Tottenham,0.8,0.2,60,,Thiago Silva,4-3-3,Paul Tierney,chelsea
+10,2020-12-05,20,Matchweek 11,Sat,Home,W,3,1,Leeds United,4.1,0.8,46,2000.0,Thiago Silva,4-3-3,Kevin Friend,chelsea
+11,2020-12-12,20,Matchweek 12,Sat,Away,L,0,1,Everton,0.7,1.2,71,2000.0,Thiago Silva,4-3-3,Jonathan Moss,chelsea
+12,2020-12-15,18,Matchweek 13,Tue,Away,L,1,2,Wolves,1.0,0.5,55,,Thiago Silva,4-3-3,Stuart Attwell,chelsea
+13,2020-12-21,20,Matchweek 14,Mon,Home,W,3,0,West Ham,2.0,0.4,53,,César Azpilicueta,4-3-3,Chris Kavanagh,chelsea
+14,2020-12-26,17,Matchweek 15,Sat,Away,L,1,3,Arsenal,2.6,2.0,60,,Thiago Silva,4-3-3,Michael Oliver,chelsea
+15,2020-12-28,17,Matchweek 16,Mon,Home,D,1,1,Aston Villa,1.7,0.7,63,,César Azpilicueta,4-3-3,Stuart Attwell,chelsea
+16,2021-01-03,16,Matchweek 17,Sun,Home,L,1,3,Manchester City,0.8,2.7,54,,César Azpilicueta,4-3-3,Anthony Taylor,chelsea
+17,2021-01-16,17,Matchweek 19,Sat,Away,W,1,0,Fulham,1.6,0.7,69,,César Azpilicueta,4-3-3,Peter Bankes,chelsea
+18,2021-01-19,20,Matchweek 18,Tue,Away,L,0,2,Leicester City,0.7,1.4,64,,Thiago Silva,4-2-3-1,Craig Pawson,chelsea
+19,2021-01-27,18,Matchweek 20,Wed,Home,D,0,0,Wolves,0.7,0.5,78,,César Azpilicueta,3-4-3,Andy Madley,chelsea
+20,2021-01-31,12,Matchweek 21,Sun,Home,W,2,0,Burnley,1.2,0.2,70,,César Azpilicueta,3-4-3,Graham Scott,chelsea
+21,2021-02-04,20,Matchweek 22,Thu,Away,W,1,0,Tottenham,1.6,0.6,58,,César Azpilicueta,3-4-1-2,Andre Marriner,chelsea
+22,2021-02-07,19,Matchweek 23,Sun,Away,W,2,1,Sheffield Utd,1.6,0.6,68,,César Azpilicueta,3-4-3,Kevin Friend,chelsea
+23,2021-02-15,20,Matchweek 24,Mon,Home,W,2,0,Newcastle Utd,2.2,0.6,64,,César Azpilicueta,3-4-3,Peter Bankes,chelsea
+24,2021-02-20,12,Matchweek 25,Sat,Away,D,1,1,Southampton,1.2,0.6,70,,César Azpilicueta,3-4-3,Anthony Taylor,chelsea
+25,2021-02-28,16,Matchweek 26,Sun,Home,D,0,0,Manchester Utd,1.1,0.4,57,,César Azpilicueta,3-4-3,Stuart Attwell,chelsea
+26,2021-03-04,20,Matchweek 29,Thu,Away,W,1,0,Liverpool,1.0,0.3,46,,César Azpilicueta,3-4-3,Martin Atkinson,chelsea
+27,2021-03-08,18,Matchweek 27,Mon,Home,W,2,0,Everton,2.4,0.3,65,,César Azpilicueta,3-4-3,David Coote,chelsea
+28,2021-03-13,12,Matchweek 28,Sat,Away,D,0,0,Leeds United,1.0,0.4,62,,César Azpilicueta,4-2-3-1,Kevin Friend,chelsea
+29,2021-04-03,12,Matchweek 30,Sat,Home,L,2,5,West Brom,2.1,1.6,65,,César Azpilicueta,3-4-3,David Coote,chelsea
+30,2021-04-10,17,Matchweek 31,Sat,Away,W,4,1,Crystal Palace,3.1,0.4,64,,César Azpilicueta,3-4-3,Michael Oliver,chelsea
+31,2021-04-20,20,Matchweek 32,Tue,Home,D,0,0,Brighton,0.7,0.5,64,,Jorginho,3-4-3,Stuart Attwell,chelsea
+32,2021-04-24,17,Matchweek 33,Sat,Away,W,1,0,West Ham,2.5,0.4,55,,César Azpilicueta,3-4-3,Chris Kavanagh,chelsea
+33,2021-05-01,17,Matchweek 34,Sat,Home,W,2,0,Fulham,1.7,0.3,49,,Thiago Silva,3-5-2,Kevin Friend,chelsea
+34,2021-05-08,17,Matchweek 35,Sat,Away,W,2,1,Manchester City,0.7,1.8,52,,César Azpilicueta,3-4-3,Anthony Taylor,chelsea
+35,2021-05-12,20,Matchweek 36,Wed,Home,L,0,1,Arsenal,1.8,0.6,67,,César Azpilicueta,3-4-3,Andre Marriner,chelsea
+36,2021-05-18,20,Matchweek 37,Tue,Home,W,2,1,Leicester City,3.1,0.8,58,8000.0,César Azpilicueta,3-4-3,Mike Dean,chelsea
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,1,2,Aston Villa,3.3,1.1,71,10000.0,César Azpilicueta,3-4-3,Stuart Attwell,chelsea
+0,2020-09-13,14,Matchweek 1,Sun,Away,W,3,0,West Brom,2.8,0.4,64,,Kasper Schmeichel,4-1-4-1,Anthony Taylor,leicester city
+1,2020-09-20,19,Matchweek 2,Sun,Home,W,4,2,Burnley,1.2,1.4,67,,Kasper Schmeichel,4-1-4-1,Lee Mason,leicester city
+2,2020-09-27,16,Matchweek 3,Sun,Away,W,5,2,Manchester City,2.9,0.9,28,,Kasper Schmeichel,5-4-1,Michael Oliver,leicester city
+3,2020-10-04,12,Matchweek 4,Sun,Home,L,0,3,West Ham,0.6,2.0,69,,Kasper Schmeichel,3-4-3,Andy Madley,leicester city
+4,2020-10-18,19,Matchweek 5,Sun,Home,L,0,1,Aston Villa,0.6,0.7,50,,Kasper Schmeichel,4-1-4-1,Jonathan Moss,leicester city
+5,2020-10-25,19,Matchweek 6,Sun,Away,W,1,0,Arsenal,0.7,0.7,44,,Kasper Schmeichel,3-4-3,Craig Pawson,leicester city
+6,2020-11-02,20,Matchweek 7,Mon,Away,W,4,1,Leeds United,2.9,2.1,33,,Kasper Schmeichel,3-4-3,Andre Marriner,leicester city
+7,2020-11-08,14,Matchweek 8,Sun,Home,W,1,0,Wolves,2.0,0.8,49,,Kasper Schmeichel,3-4-3,Anthony Taylor,leicester city
+8,2020-11-22,19,Matchweek 9,Sun,Away,L,0,3,Liverpool,1.6,3.1,44,,Kasper Schmeichel,3-4-3,Chris Kavanagh,leicester city
+9,2020-11-30,17,Matchweek 10,Mon,Home,L,1,2,Fulham,1.2,2.2,68,,Kasper Schmeichel,3-4-3,Simon Hooper,leicester city
+10,2020-12-06,14,Matchweek 11,Sun,Away,W,2,1,Sheffield Utd,1.4,0.2,69,,Kasper Schmeichel,3-4-3,Stuart Attwell,leicester city
+11,2020-12-13,19,Matchweek 12,Sun,Home,W,3,0,Brighton,1.5,0.9,54,,Kasper Schmeichel,3-4-3,Martin Atkinson,leicester city
+12,2020-12-16,18,Matchweek 13,Wed,Home,L,0,2,Everton,0.8,1.4,61,,Kasper Schmeichel,4-2-3-1,Lee Mason,leicester city
+13,2020-12-20,14,Matchweek 14,Sun,Away,W,2,0,Tottenham,1.7,0.7,44,,Kasper Schmeichel,4-2-3-1,Craig Pawson,leicester city
+14,2020-12-26,12,Matchweek 15,Sat,Home,D,2,2,Manchester Utd,0.9,1.7,54,,Kasper Schmeichel,4-2-3-1,Mike Dean,leicester city
+15,2020-12-28,15,Matchweek 16,Mon,Away,D,1,1,Crystal Palace,1.9,0.5,66,,Kasper Schmeichel,4-2-3-1,Graham Scott,leicester city
+16,2021-01-03,14,Matchweek 17,Sun,Away,W,2,1,Newcastle Utd,0.6,0.5,56,,Kasper Schmeichel,4-2-3-1,Robert Jones,leicester city
+17,2021-01-16,20,Matchweek 19,Sat,Home,W,2,0,Southampton,2.2,0.6,47,,Kasper Schmeichel,4-2-3-1,Stuart Attwell,leicester city
+18,2021-01-19,20,Matchweek 18,Tue,Home,W,2,0,Chelsea,1.4,0.7,36,,Kasper Schmeichel,4-1-4-1,Craig Pawson,leicester city
+19,2021-01-27,20,Matchweek 20,Wed,Away,D,1,1,Everton,1.2,0.5,65,,Kasper Schmeichel,4-2-3-1,Mike Dean,leicester city
+20,2021-01-31,14,Matchweek 21,Sun,Home,L,1,3,Leeds United,1.8,2.1,51,,Kasper Schmeichel,4-2-3-1,Chris Kavanagh,leicester city
+21,2021-02-03,18,Matchweek 22,Wed,Away,W,2,0,Fulham,1.4,0.6,43,,Kasper Schmeichel,4-2-3-1,Robert Jones,leicester city
+22,2021-02-07,14,Matchweek 23,Sun,Away,D,0,0,Wolves,0.8,1.1,56,,Kasper Schmeichel,4-2-3-1,Martin Atkinson,leicester city
+23,2021-02-13,12,Matchweek 24,Sat,Home,W,3,1,Liverpool,1.9,1.7,38,,Kasper Schmeichel,4-2-3-1,Anthony Taylor,leicester city
+24,2021-02-21,14,Matchweek 25,Sun,Away,W,2,1,Aston Villa,1.1,1.4,49,,Kasper Schmeichel,4-2-3-1,Michael Oliver,leicester city
+25,2021-02-28,12,Matchweek 26,Sun,Home,L,1,3,Arsenal,0.4,2.3,44,,Kasper Schmeichel,4-4-2,Paul Tierney,leicester city
+26,2021-03-03,18,Matchweek 29,Wed,Away,D,1,1,Burnley,1.2,1.8,61,,Kasper Schmeichel,3-1-4-2,Andy Madley,leicester city
+27,2021-03-06,20,Matchweek 27,Sat,Away,W,2,1,Brighton,0.9,0.8,63,,Kasper Schmeichel,3-1-4-2,Michael Oliver,leicester city
+28,2021-03-14,14,Matchweek 28,Sun,Home,W,5,0,Sheffield Utd,4.0,0.1,71,,Kasper Schmeichel,3-4-1-2,Peter Bankes,leicester city
+29,2021-04-03,17,Matchweek 30,Sat,Home,L,0,2,Manchester City,0.3,1.4,44,,Kasper Schmeichel,3-5-2,Anthony Taylor,leicester city
+30,2021-04-11,14,Matchweek 31,Sun,Away,L,2,3,West Ham,0.9,0.8,63,,Kasper Schmeichel,3-5-2,Mike Dean,leicester city
+31,2021-04-22,20,Matchweek 32,Thu,Home,W,3,0,West Brom,2.1,0.5,72,,Kasper Schmeichel,3-4-1-2,Andy Madley,leicester city
+32,2021-04-26,20,Matchweek 33,Mon,Home,W,2,1,Crystal Palace,1.5,0.7,66,,Kasper Schmeichel,3-4-1-2,Graham Scott,leicester city
+33,2021-04-30,20,Matchweek 34,Fri,Away,D,1,1,Southampton,1.9,0.9,70,,Kasper Schmeichel,3-4-1-2,Robert Jones,leicester city
+34,2021-05-07,20,Matchweek 35,Fri,Home,L,2,4,Newcastle Utd,2.2,2.7,68,,Kasper Schmeichel,3-4-1-2,Darren England,leicester city
+35,2021-05-11,18,Matchweek 36,Tue,Away,W,2,1,Manchester Utd,0.9,0.2,47,,Kasper Schmeichel,4-4-2,Craig Pawson,leicester city
+36,2021-05-18,20,Matchweek 37,Tue,Away,L,1,2,Chelsea,0.8,3.1,42,8000.0,Kasper Schmeichel,3-4-3,Mike Dean,leicester city
+37,2021-05-23,16,Matchweek 38,Sun,Home,L,2,4,Tottenham,1.9,1.5,47,8000.0,Kasper Schmeichel,4-4-2,Anthony Taylor,leicester city
+0,2020-09-12,20,Matchweek 1,Sat,Home,L,0,2,Newcastle Utd,1.0,1.6,58,,Mark Noble,4-2-3-1,Stuart Attwell,west ham
+1,2020-09-19,20,Matchweek 2,Sat,Away,L,1,2,Arsenal,2.0,1.1,38,,Declan Rice,5-4-1,Michael Oliver,west ham
+2,2020-09-27,19,Matchweek 3,Sun,Home,W,4,0,Wolves,2.4,0.5,37,,Declan Rice,5-4-1,Martin Atkinson,west ham
+3,2020-10-04,12,Matchweek 4,Sun,Away,W,3,0,Leicester City,2.0,0.6,31,,Declan Rice,5-4-1,Andy Madley,west ham
+4,2020-10-18,16,Matchweek 5,Sun,Away,D,3,3,Tottenham,1.9,1.7,50,,Declan Rice,5-4-1,Paul Tierney,west ham
+5,2020-10-24,12,Matchweek 6,Sat,Home,D,1,1,Manchester City,0.3,1.0,31,,Declan Rice,5-4-1,Anthony Taylor,west ham
+6,2020-10-31,17,Matchweek 7,Sat,Away,L,1,2,Liverpool,0.3,1.7,28,,Declan Rice,5-4-1,Kevin Friend,west ham
+7,2020-11-07,20,Matchweek 8,Sat,Home,W,1,0,Fulham,1.3,1.7,53,,Declan Rice,3-4-3,Robert Jones,west ham
+8,2020-11-22,14,Matchweek 9,Sun,Away,W,1,0,Sheffield Utd,2.1,0.9,49,,Declan Rice,3-4-3,Martin Atkinson,west ham
+9,2020-11-30,20,Matchweek 10,Mon,Home,W,2,1,Aston Villa,0.4,2.5,34,,Declan Rice,3-4-3,Peter Bankes,west ham
+10,2020-12-05,17,Matchweek 11,Sat,Home,L,1,3,Manchester Utd,2.0,1.7,40,2000.0,Declan Rice,3-4-3,Andre Marriner,west ham
+11,2020-12-11,20,Matchweek 12,Fri,Away,W,2,1,Leeds United,1.3,1.6,37,,Declan Rice,4-2-3-1,Michael Oliver,west ham
+12,2020-12-16,20,Matchweek 13,Wed,Home,D,1,1,Crystal Palace,0.4,1.1,52,,Declan Rice,4-2-3-1,David Coote,west ham
+13,2020-12-21,20,Matchweek 14,Mon,Away,L,0,3,Chelsea,0.4,2.0,47,,Mark Noble,4-2-3-1,Chris Kavanagh,west ham
+14,2020-12-27,14,Matchweek 15,Sun,Home,D,2,2,Brighton,1.3,1.1,44,,Mark Noble,3-4-1-2,Simon Hooper,west ham
+15,2020-12-29,18,Matchweek 16,Tue,Away,D,0,0,Southampton,1.2,0.6,38,,Declan Rice,4-1-4-1,Andy Madley,west ham
+16,2021-01-01,17,Matchweek 17,Fri,Away,W,1,0,Everton,1.3,0.4,40,,Declan Rice,4-2-3-1,Kevin Friend,west ham
+17,2021-01-16,15,Matchweek 19,Sat,Home,W,1,0,Burnley,1.7,0.5,45,,Declan Rice,4-2-3-1,Chris Kavanagh,west ham
+18,2021-01-19,18,Matchweek 18,Tue,Home,W,2,1,West Brom,2.0,0.5,59,,Declan Rice,4-2-3-1,Graham Scott,west ham
+19,2021-01-26,18,Matchweek 20,Tue,Away,W,3,2,Crystal Palace,2.8,0.7,46,,Declan Rice,4-2-3-1,Stuart Attwell,west ham
+20,2021-01-31,16,Matchweek 21,Sun,Home,L,1,3,Liverpool,0.8,2.0,33,,Declan Rice,4-2-3-1,Jonathan Moss,west ham
+21,2021-02-03,20,Matchweek 22,Wed,Away,W,3,1,Aston Villa,1.7,0.7,44,,Declan Rice,4-2-3-1,Andy Madley,west ham
+22,2021-02-06,17,Matchweek 23,Sat,Away,D,0,0,Fulham,1.0,1.5,40,,Declan Rice,4-2-3-1,Mike Dean,west ham
+23,2021-02-15,18,Matchweek 24,Mon,Home,W,3,0,Sheffield Utd,1.9,0.7,46,,Declan Rice,3-4-3,Simon Hooper,west ham
+24,2021-02-21,12,Matchweek 25,Sun,Home,W,2,1,Tottenham,1.1,1.1,32,,Declan Rice,4-2-3-1,Craig Pawson,west ham
+25,2021-02-27,12,Matchweek 26,Sat,Away,L,1,2,Manchester City,1.5,0.5,37,,Declan Rice,3-4-3,Michael Oliver,west ham
+26,2021-03-08,20,Matchweek 27,Mon,Home,W,2,0,Leeds United,1.8,1.4,35,,Declan Rice,4-2-3-1,Mike Dean,west ham
+27,2021-03-14,19,Matchweek 28,Sun,Away,L,0,1,Manchester Utd,0.6,1.5,39,,Mark Noble,3-1-4-2,Martin Atkinson,west ham
+28,2021-03-21,15,Matchweek 29,Sun,Home,D,3,3,Arsenal,2.4,1.4,38,,Declan Rice,4-2-3-1,Jonathan Moss,west ham
+29,2021-04-05,20,Matchweek 30,Mon,Away,W,3,2,Wolves,1.3,2.1,35,,Mark Noble,4-2-3-1,Michael Oliver,west ham
+30,2021-04-11,14,Matchweek 31,Sun,Home,W,3,2,Leicester City,0.8,0.9,37,,Mark Noble,3-4-1-2,Mike Dean,west ham
+31,2021-04-17,12,Matchweek 32,Sat,Away,L,2,3,Newcastle Utd,1.9,2.2,66,,Mark Noble,3-4-1-2,Kevin Friend,west ham
+32,2021-04-24,17,Matchweek 33,Sat,Home,L,0,1,Chelsea,0.4,2.5,45,,Mark Noble,3-4-1-2,Chris Kavanagh,west ham
+33,2021-05-03,20,Matchweek 34,Mon,Away,W,2,1,Burnley,2.3,2.0,55,,Aaron Cresswell,4-2-3-1,Anthony Taylor,west ham
+34,2021-05-09,16,Matchweek 35,Sun,Home,L,0,1,Everton,1.3,1.5,68,,Aaron Cresswell,4-2-3-1,Stuart Attwell,west ham
+35,2021-05-15,20,Matchweek 36,Sat,Away,D,1,1,Brighton,1.7,0.8,49,,Declan Rice,4-2-3-1,Andre Marriner,west ham
+36,2021-05-19,20,Matchweek 37,Wed,Away,W,3,1,West Brom,3.4,1.1,48,5371.0,Declan Rice,4-2-3-1,Michael Oliver,west ham
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,3,0,Southampton,1.3,1.5,38,10000.0,Declan Rice,4-2-3-1,Martin Atkinson,west ham
+0,2020-09-13,16,Matchweek 1,Sun,Home,L,0,1,Everton,1.1,1.2,52,,Hugo Lloris,4-2-3-1,Martin Atkinson,tottenham
+1,2020-09-20,12,Matchweek 2,Sun,Away,W,5,2,Southampton,2.1,2.0,49,,Hugo Lloris,4-3-3,David Coote,tottenham
+2,2020-09-27,14,Matchweek 3,Sun,Home,D,1,1,Newcastle Utd,2.9,1.0,66,,Hugo Lloris,4-2-3-1,Peter Bankes,tottenham
+3,2020-10-04,16,Matchweek 4,Sun,Away,W,6,1,Manchester Utd,3.4,0.9,61,,Hugo Lloris,4-3-3,Anthony Taylor,tottenham
+4,2020-10-18,16,Matchweek 5,Sun,Home,D,3,3,West Ham,1.7,1.9,50,,Hugo Lloris,4-2-3-1,Paul Tierney,tottenham
+5,2020-10-26,20,Matchweek 6,Mon,Away,W,1,0,Burnley,0.6,1.0,61,,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham
+6,2020-11-01,19,Matchweek 7,Sun,Home,W,2,1,Brighton,1.7,0.3,44,,Hugo Lloris,4-2-3-1,Graham Scott,tottenham
+7,2020-11-08,12,Matchweek 8,Sun,Away,W,1,0,West Brom,1.9,0.8,58,,Harry Kane,4-2-3-1,Andy Madley,tottenham
+8,2020-11-21,17,Matchweek 9,Sat,Home,W,2,0,Manchester City,0.7,1.4,34,,Hugo Lloris,4-2-3-1,Mike Dean,tottenham
+9,2020-11-29,16,Matchweek 10,Sun,Away,D,0,0,Chelsea,0.2,0.8,40,,Hugo Lloris,4-2-3-1,Paul Tierney,tottenham
+10,2020-12-06,16,Matchweek 11,Sun,Home,W,2,0,Arsenal,0.3,0.6,31,2000.0,Hugo Lloris,4-2-3-1,Martin Atkinson,tottenham
+11,2020-12-13,14,Matchweek 12,Sun,Away,D,1,1,Crystal Palace,0.9,1.6,56,2000.0,Hugo Lloris,4-2-3-1,Kevin Friend,tottenham
+12,2020-12-16,20,Matchweek 13,Wed,Away,L,1,2,Liverpool,1.1,1.0,25,2000.0,Hugo Lloris,4-4-2,Anthony Taylor,tottenham
+13,2020-12-20,14,Matchweek 14,Sun,Home,L,0,2,Leicester City,0.7,1.7,56,,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham
+14,2020-12-27,19,Matchweek 15,Sun,Away,D,1,1,Wolves,0.4,0.9,45,,Hugo Lloris,3-4-1-2,Paul Tierney,tottenham
+15,2021-01-02,12,Matchweek 17,Sat,Home,W,3,0,Leeds United,2.6,1.1,37,,Hugo Lloris,4-2-3-1,David Coote,tottenham
+16,2021-01-13,20,Matchweek 16,Wed,Home,D,1,1,Fulham,2.4,1.1,53,,Hugo Lloris,4-2-3-1,Paul Tierney,tottenham
+17,2021-01-17,14,Matchweek 19,Sun,Away,W,3,1,Sheffield Utd,1.0,0.9,57,,Hugo Lloris,3-4-3,Andre Marriner,tottenham
+18,2021-01-28,20,Matchweek 20,Thu,Home,L,1,3,Liverpool,0.1,2.5,50,,Hugo Lloris,3-4-3,Martin Atkinson,tottenham
+19,2021-01-31,19,Matchweek 21,Sun,Away,L,0,1,Brighton,0.4,1.6,57,,Hugo Lloris,3-4-3,Peter Bankes,tottenham
+20,2021-02-04,20,Matchweek 22,Thu,Home,L,0,1,Chelsea,0.6,1.6,43,,Hugo Lloris,4-2-2-2,Andre Marriner,tottenham
+21,2021-02-07,12,Matchweek 23,Sun,Home,W,2,0,West Brom,1.5,0.6,65,,Hugo Lloris,4-2-3-1,Stuart Attwell,tottenham
+22,2021-02-13,17,Matchweek 24,Sat,Away,L,0,3,Manchester City,0.3,2.2,40,,Hugo Lloris,4-2-3-1,Paul Tierney,tottenham
+23,2021-02-21,12,Matchweek 25,Sun,Away,L,1,2,West Ham,1.1,1.1,68,,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham
+24,2021-02-28,14,Matchweek 26,Sun,Home,W,4,0,Burnley,2.1,0.7,58,,Hugo Lloris,4-2-3-1,Kevin Friend,tottenham
+25,2021-03-04,18,Matchweek 33,Thu,Away,W,1,0,Fulham,1.6,0.7,40,,Hugo Lloris,4-2-3-1,David Coote,tottenham
+26,2021-03-07,19,Matchweek 27,Sun,Home,W,4,1,Crystal Palace,2.7,0.5,63,,Hugo Lloris,4-2-3-1,Stuart Attwell,tottenham
+27,2021-03-14,16,Matchweek 28,Sun,Away,L,1,2,Arsenal,0.4,1.7,48,,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham
+28,2021-03-21,19,Matchweek 18,Sun,Away,W,2,0,Aston Villa,1.8,0.4,50,,Hugo Lloris,4-4-2,Mike Dean,tottenham
+29,2021-04-04,14,Matchweek 30,Sun,Away,D,2,2,Newcastle Utd,2.7,3.4,58,,Hugo Lloris,4-4-2,Craig Pawson,tottenham
+30,2021-04-11,16,Matchweek 31,Sun,Home,L,1,3,Manchester Utd,0.9,2.1,47,,Hugo Lloris,4-3-3,Chris Kavanagh,tottenham
+31,2021-04-16,20,Matchweek 32,Fri,Away,D,2,2,Everton,1.4,1.8,47,,Hugo Lloris,3-4-1-2,Michael Oliver,tottenham
+32,2021-04-21,18,Matchweek 29,Wed,Home,W,2,1,Southampton,1.4,0.8,62,,Hugo Lloris,4-2-3-1,David Coote,tottenham
+33,2021-05-02,19,Matchweek 34,Sun,Home,W,4,0,Sheffield Utd,2.2,0.5,66,,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham
+34,2021-05-08,12,Matchweek 35,Sat,Away,L,1,3,Leeds United,0.9,2.5,47,,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham
+35,2021-05-16,14,Matchweek 36,Sun,Home,W,2,0,Wolves,3.2,0.9,62,,Hugo Lloris,4-2-3-1,Martin Atkinson,tottenham
+36,2021-05-19,18,Matchweek 37,Wed,Home,L,1,2,Aston Villa,0.8,1.4,60,10000.0,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham
+37,2021-05-23,16,Matchweek 38,Sun,Away,W,4,2,Leicester City,1.5,1.9,53,8000.0,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham
+0,2020-09-12,12,Matchweek 1,Sat,Away,W,3,0,Fulham,1.9,0.1,54,,Pierre-Emerick Aubameyang,3-4-3,Chris Kavanagh,arsenal
+1,2020-09-19,20,Matchweek 2,Sat,Home,W,2,1,West Ham,1.1,2.0,62,,Pierre-Emerick Aubameyang,3-4-3,Michael Oliver,arsenal
+2,2020-09-28,20,Matchweek 3,Mon,Away,L,1,3,Liverpool,1.3,2.7,34,,Pierre-Emerick Aubameyang,3-4-3,Craig Pawson,arsenal
+3,2020-10-04,14,Matchweek 4,Sun,Home,W,2,1,Sheffield Utd,0.6,0.2,64,,Pierre-Emerick Aubameyang,4-3-3,Lee Mason,arsenal
+4,2020-10-17,17,Matchweek 5,Sat,Away,L,0,1,Manchester City,0.9,1.3,42,,Pierre-Emerick Aubameyang,4-3-3,Chris Kavanagh,arsenal
+5,2020-10-25,19,Matchweek 6,Sun,Home,L,0,1,Leicester City,0.7,0.7,56,,Pierre-Emerick Aubameyang,3-4-3,Craig Pawson,arsenal
+6,2020-11-01,16,Matchweek 7,Sun,Away,W,1,0,Manchester Utd,1.0,0.4,46,,Pierre-Emerick Aubameyang,3-4-3,Mike Dean,arsenal
+7,2020-11-08,19,Matchweek 8,Sun,Home,L,0,3,Aston Villa,1.5,1.8,59,,Pierre-Emerick Aubameyang,3-4-3,Martin Atkinson,arsenal
+8,2020-11-22,16,Matchweek 9,Sun,Away,D,0,0,Leeds United,0.9,1.8,34,,Pierre-Emerick Aubameyang,4-2-3-1,Anthony Taylor,arsenal
+9,2020-11-29,19,Matchweek 10,Sun,Home,L,1,2,Wolves,1.5,1.8,56,,Pierre-Emerick Aubameyang,4-2-3-1,Michael Oliver,arsenal
+10,2020-12-06,16,Matchweek 11,Sun,Away,L,0,2,Tottenham,0.6,0.3,69,2000.0,Pierre-Emerick Aubameyang,4-2-3-1,Martin Atkinson,arsenal
+11,2020-12-13,19,Matchweek 12,Sun,Home,L,0,1,Burnley,1.6,1.4,65,2000.0,Pierre-Emerick Aubameyang,4-2-3-1,Graham Scott,arsenal
+12,2020-12-16,18,Matchweek 13,Wed,Home,D,1,1,Southampton,0.6,1.2,36,,Pierre-Emerick Aubameyang,3-4-3,Paul Tierney,arsenal
+13,2020-12-19,17,Matchweek 14,Sat,Away,L,1,2,Everton,1.4,0.6,57,,Rob Holding,3-4-3,Andre Marriner,arsenal
+14,2020-12-26,17,Matchweek 15,Sat,Home,W,3,1,Chelsea,2.0,2.6,40,,Héctor Bellerín,4-2-3-1,Michael Oliver,arsenal
+15,2020-12-29,18,Matchweek 16,Tue,Away,W,1,0,Brighton,1.1,0.8,50,,Pierre-Emerick Aubameyang,4-2-3-1,Martin Atkinson,arsenal
+16,2021-01-02,20,Matchweek 17,Sat,Away,W,4,0,West Brom,3.7,1.0,61,,Pierre-Emerick Aubameyang,4-2-3-1,Martin Atkinson,arsenal
+17,2021-01-14,20,Matchweek 18,Thu,Home,D,0,0,Crystal Palace,0.4,0.8,67,,Pierre-Emerick Aubameyang,4-2-3-1,Andre Marriner,arsenal
+18,2021-01-18,20,Matchweek 19,Mon,Home,W,3,0,Newcastle Utd,2.4,0.2,66,,Pierre-Emerick Aubameyang,4-2-3-1,David Coote,arsenal
+19,2021-01-26,20,Matchweek 20,Tue,Away,W,3,1,Southampton,2.2,0.8,42,,Héctor Bellerín,4-2-3-1,Kevin Friend,arsenal
+20,2021-01-30,17,Matchweek 21,Sat,Home,D,0,0,Manchester Utd,0.9,1.6,43,,Héctor Bellerín,4-2-3-1,Michael Oliver,arsenal
+21,2021-02-02,18,Matchweek 22,Tue,Away,L,1,2,Wolves,0.8,1.5,45,,Héctor Bellerín,4-2-3-1,Craig Pawson,arsenal
+22,2021-02-06,12,Matchweek 23,Sat,Away,L,0,1,Aston Villa,0.8,1.2,65,,Héctor Bellerín,4-2-3-1,Chris Kavanagh,arsenal
+23,2021-02-14,16,Matchweek 24,Sun,Home,W,4,2,Leeds United,2.3,0.9,46,,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell,arsenal
+24,2021-02-21,16,Matchweek 25,Sun,Home,L,0,1,Manchester City,0.3,1.8,45,,Pierre-Emerick Aubameyang,4-2-3-1,Jonathan Moss,arsenal
+25,2021-02-28,12,Matchweek 26,Sun,Away,W,3,1,Leicester City,2.3,0.4,56,,Alexandre Lacazette,4-2-3-1,Paul Tierney,arsenal
+26,2021-03-06,12,Matchweek 27,Sat,Away,D,1,1,Burnley,2.5,1.1,59,,Pierre-Emerick Aubameyang,4-2-3-1,Andre Marriner,arsenal
+27,2021-03-14,16,Matchweek 28,Sun,Home,W,2,1,Tottenham,1.7,0.4,52,,Alexandre Lacazette,4-2-3-1,Michael Oliver,arsenal
+28,2021-03-21,15,Matchweek 29,Sun,Away,D,3,3,West Ham,1.4,2.4,62,,Pierre-Emerick Aubameyang,4-2-3-1,Jonathan Moss,arsenal
+29,2021-04-03,20,Matchweek 30,Sat,Home,L,0,3,Liverpool,0.1,2.4,36,,Pierre-Emerick Aubameyang,4-2-3-1,Stuart Attwell,arsenal
+30,2021-04-11,19,Matchweek 31,Sun,Away,W,3,0,Sheffield Utd,1.7,0.3,55,,Alexandre Lacazette,4-2-3-1,Peter Bankes,arsenal
+31,2021-04-18,13,Matchweek 32,Sun,Home,D,1,1,Fulham,2.7,0.9,69,,Héctor Bellerín,4-2-3-1,Craig Pawson,arsenal
+32,2021-04-23,20,Matchweek 33,Fri,Home,L,0,1,Everton,0.8,0.5,59,,Rob Holding,4-2-3-1,Jonathan Moss,arsenal
+33,2021-05-02,14,Matchweek 34,Sun,Away,W,2,0,Newcastle Utd,2.0,0.3,61,,Pierre-Emerick Aubameyang,4-2-3-1,Mike Dean,arsenal
+34,2021-05-09,19,Matchweek 35,Sun,Home,W,3,1,West Brom,0.9,1.8,65,,Rob Holding,4-2-3-1,Peter Bankes,arsenal
+35,2021-05-12,20,Matchweek 36,Wed,Away,W,1,0,Chelsea,0.6,1.8,33,,Pierre-Emerick Aubameyang,3-4-3,Andre Marriner,arsenal
+36,2021-05-19,19,Matchweek 37,Wed,Away,W,3,1,Crystal Palace,1.8,1.0,68,6500.0,Pierre-Emerick Aubameyang,4-2-3-1,Anthony Taylor,arsenal
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,2,0,Brighton,0.8,0.2,54,10000.0,Pierre-Emerick Aubameyang,4-2-3-1,Jonathan Moss,arsenal
+0,2020-09-12,17,Matchweek 1,Sat,Away,L,3,4,Liverpool,0.3,2.7,51,,Luke Ayling,4-1-4-1,Michael Oliver,leeds united
+1,2020-09-19,15,Matchweek 2,Sat,Home,W,4,3,Fulham,1.4,1.7,51,,Liam Cooper,4-1-4-1,Anthony Taylor,leeds united
+2,2020-09-27,12,Matchweek 3,Sun,Away,W,1,0,Sheffield Utd,1.2,1.4,64,,Liam Cooper,3-1-4-2,Paul Tierney,leeds united
+3,2020-10-03,17,Matchweek 4,Sat,Home,D,1,1,Manchester City,2.4,1.2,51,,Liam Cooper,4-1-4-1,Mike Dean,leeds united
+4,2020-10-19,20,Matchweek 5,Mon,Home,L,0,1,Wolves,1.0,0.4,66,,Luke Ayling,4-1-4-1,David Coote,leeds united
+5,2020-10-23,20,Matchweek 6,Fri,Away,W,3,0,Aston Villa,2.7,1.4,59,,Luke Ayling,4-4-1-1,Paul Tierney,leeds united
+6,2020-11-02,20,Matchweek 7,Mon,Home,L,1,4,Leicester City,2.1,2.9,67,,Liam Cooper,4-1-4-1,Andre Marriner,leeds united
+7,2020-11-07,15,Matchweek 8,Sat,Away,L,1,4,Crystal Palace,0.8,0.9,64,,Liam Cooper,3-3-3-1,Chris Kavanagh,leeds united
+8,2020-11-22,16,Matchweek 9,Sun,Home,D,0,0,Arsenal,1.8,0.9,66,,Liam Cooper,4-1-4-1,Anthony Taylor,leeds united
+9,2020-11-28,17,Matchweek 10,Sat,Away,W,1,0,Everton,2.9,1.2,59,,Liam Cooper,4-4-1-1,Chris Kavanagh,leeds united
+10,2020-12-05,20,Matchweek 11,Sat,Away,L,1,3,Chelsea,0.8,4.1,54,2000.0,Liam Cooper,4-4-1-1,Kevin Friend,leeds united
+11,2020-12-11,20,Matchweek 12,Fri,Home,L,1,2,West Ham,1.6,1.3,63,,Liam Cooper,4-1-4-1,Michael Oliver,leeds united
+12,2020-12-16,18,Matchweek 13,Wed,Home,W,5,2,Newcastle Utd,2.7,1.5,68,,Liam Cooper,4-1-4-1,Simon Hooper,leeds united
+13,2020-12-20,16,Matchweek 14,Sun,Away,L,2,6,Manchester Utd,1.8,3.6,59,,Liam Cooper,4-1-4-1,Anthony Taylor,leeds united
+14,2020-12-27,12,Matchweek 15,Sun,Home,W,1,0,Burnley,1.9,1.5,51,,Luke Ayling,3-3-3-1,Robert Jones,leeds united
+15,2020-12-29,18,Matchweek 16,Tue,Away,W,5,0,West Brom,1.2,0.5,75,,Luke Ayling,4-1-4-1,Lee Mason,leeds united
+16,2021-01-02,12,Matchweek 17,Sat,Away,L,0,3,Tottenham,1.1,2.6,63,,Luke Ayling,4-1-4-1,David Coote,leeds united
+17,2021-01-16,15,Matchweek 19,Sat,Home,L,0,1,Brighton,0.3,1.4,66,,Liam Cooper,4-1-4-1,Kevin Friend,leeds united
+18,2021-01-26,18,Matchweek 20,Tue,Away,W,2,1,Newcastle Utd,0.7,1.4,58,,Liam Cooper,4-1-4-1,Anthony Taylor,leeds united
+19,2021-01-31,14,Matchweek 21,Sun,Away,W,3,1,Leicester City,2.1,1.8,49,,Liam Cooper,4-1-4-1,Chris Kavanagh,leeds united
+20,2021-02-03,19,Matchweek 22,Wed,Home,L,1,2,Everton,1.3,1.6,63,,Liam Cooper,4-1-4-1,Michael Oliver,leeds united
+21,2021-02-08,20,Matchweek 23,Mon,Home,W,2,0,Crystal Palace,1.9,0.4,67,,Liam Cooper,4-1-4-1,Andre Marriner,leeds united
+22,2021-02-14,16,Matchweek 24,Sun,Away,L,2,4,Arsenal,0.9,2.3,54,,Liam Cooper,4-1-4-1,Stuart Attwell,leeds united
+23,2021-02-19,20,Matchweek 25,Fri,Away,L,0,1,Wolves,1.7,0.6,58,,Liam Cooper,4-4-1-1,David Coote,leeds united
+24,2021-02-23,18,Matchweek 18,Tue,Home,W,3,0,Southampton,1.3,0.9,46,,Liam Cooper,3-3-3-1,Andre Marriner,leeds united
+25,2021-02-27,17,Matchweek 26,Sat,Home,L,0,1,Aston Villa,0.9,0.7,69,,Liam Cooper,4-1-4-1,Peter Bankes,leeds united
+26,2021-03-08,20,Matchweek 27,Mon,Away,L,0,2,West Ham,1.4,1.8,65,,Liam Cooper,4-1-4-1,Mike Dean,leeds united
+27,2021-03-13,12,Matchweek 28,Sat,Home,D,0,0,Chelsea,0.4,1.0,38,,Luke Ayling,4-1-4-1,Kevin Friend,leeds united
+28,2021-03-19,20,Matchweek 29,Fri,Away,W,2,1,Fulham,1.3,1.6,49,,Luke Ayling,4-1-4-1,David Coote,leeds united
+29,2021-04-03,15,Matchweek 30,Sat,Home,W,2,1,Sheffield Utd,2.4,1.1,54,,Liam Cooper,4-1-4-1,Graham Scott,leeds united
+30,2021-04-10,12,Matchweek 31,Sat,Away,W,2,1,Manchester City,0.1,2.1,29,,Liam Cooper,4-1-4-1,Andre Marriner,leeds united
+31,2021-04-19,20,Matchweek 32,Mon,Home,D,1,1,Liverpool,2.3,1.4,61,,Luke Ayling,4-1-4-1,Anthony Taylor,leeds united
+32,2021-04-25,14,Matchweek 33,Sun,Home,D,0,0,Manchester Utd,0.3,1.2,44,,Luke Ayling,4-1-4-1,Craig Pawson,leeds united
+33,2021-05-01,15,Matchweek 34,Sat,Away,L,0,2,Brighton,0.6,2.3,58,,Luke Ayling,4-1-4-1,Chris Kavanagh,leeds united
+34,2021-05-08,12,Matchweek 35,Sat,Home,W,3,1,Tottenham,2.5,0.9,53,,Luke Ayling,4-1-4-1,Michael Oliver,leeds united
+35,2021-05-15,12,Matchweek 36,Sat,Away,W,4,0,Burnley,1.5,1.3,52,,Luke Ayling,3-3-3-1,Graham Scott,leeds united
+36,2021-05-18,18,Matchweek 37,Tue,Away,W,2,0,Southampton,1.7,1.6,49,8000.0,Liam Cooper,3-3-3-1,Peter Bankes,leeds united
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,3,1,West Brom,2.3,1.0,64,8000.0,Liam Cooper,3-4-3,David Coote,leeds united
+0,2020-09-13,16,Matchweek 1,Sun,Away,W,1,0,Tottenham,1.2,1.1,48,,Séamus Coleman,4-3-3,Martin Atkinson,everton
+1,2020-09-19,12,Matchweek 2,Sat,Home,W,5,2,West Brom,3.9,0.3,71,,Séamus Coleman,4-3-3,Mike Dean,everton
+2,2020-09-26,15,Matchweek 3,Sat,Away,W,2,1,Crystal Palace,1.9,0.4,58,,Séamus Coleman,4-3-3,Kevin Friend,everton
+3,2020-10-03,15,Matchweek 4,Sat,Home,W,4,2,Brighton,1.6,1.3,43,,Séamus Coleman,4-3-3,Simon Hooper,everton
+4,2020-10-17,12,Matchweek 5,Sat,Home,D,2,2,Liverpool,1.2,2.6,42,,Séamus Coleman,4-3-3,Michael Oliver,everton
+5,2020-10-25,14,Matchweek 6,Sun,Away,L,0,2,Southampton,0.4,0.7,46,,Gylfi Sigurðsson,4-3-3,Kevin Friend,everton
+6,2020-11-01,14,Matchweek 7,Sun,Away,L,1,2,Newcastle Utd,1.5,2.9,61,,Gylfi Sigurðsson,4-3-2-1,Stuart Attwell,everton
+7,2020-11-07,12,Matchweek 8,Sat,Home,L,1,3,Manchester Utd,0.4,1.5,55,,Séamus Coleman,4-3-3,Paul Tierney,everton
+8,2020-11-22,12,Matchweek 9,Sun,Away,W,3,2,Fulham,2.0,1.9,46,,Lucas Digne,3-4-3,Andy Madley,everton
+9,2020-11-28,17,Matchweek 10,Sat,Home,L,0,1,Leeds United,1.2,2.9,41,,Mason Holgate,3-4-3,Chris Kavanagh,everton
+10,2020-12-05,12,Matchweek 11,Sat,Away,D,1,1,Burnley,2.2,0.8,58,,Michael Keane,3-4-3,Anthony Taylor,everton
+11,2020-12-12,20,Matchweek 12,Sat,Home,W,1,0,Chelsea,1.2,0.7,29,2000.0,Gylfi Sigurðsson,4-3-3,Jonathan Moss,everton
+12,2020-12-16,18,Matchweek 13,Wed,Away,W,2,0,Leicester City,1.4,0.8,39,,Gylfi Sigurðsson,4-3-3,Lee Mason,everton
+13,2020-12-19,17,Matchweek 14,Sat,Home,W,2,1,Arsenal,0.6,1.4,43,,Gylfi Sigurðsson,4-2-3-1,Andre Marriner,everton
+14,2020-12-26,20,Matchweek 15,Sat,Away,W,1,0,Sheffield Utd,0.7,1.4,56,,Gylfi Sigurðsson,4-2-3-1,David Coote,everton
+15,2021-01-01,17,Matchweek 17,Fri,Home,L,0,1,West Ham,0.4,1.3,60,,Séamus Coleman,4-2-3-1,Kevin Friend,everton
+16,2021-01-12,20,Matchweek 18,Tue,Away,W,2,1,Wolves,0.6,0.7,48,,Gylfi Sigurðsson,4-4-2,Martin Atkinson,everton
+17,2021-01-27,20,Matchweek 20,Wed,Home,D,1,1,Leicester City,0.5,1.2,35,,Lucas Digne,4-4-2,Mike Dean,everton
+18,2021-01-30,12,Matchweek 21,Sat,Home,L,0,2,Newcastle Utd,0.8,1.7,60,,Séamus Coleman,4-2-3-1,Stuart Attwell,everton
+19,2021-02-03,19,Matchweek 22,Wed,Away,W,2,1,Leeds United,1.6,1.3,37,,Gylfi Sigurðsson,4-2-3-1,Michael Oliver,everton
+20,2021-02-06,20,Matchweek 23,Sat,Away,D,3,3,Manchester Utd,1.5,1.8,39,,Lucas Digne,4-3-1-2,Jonathan Moss,everton
+21,2021-02-14,19,Matchweek 24,Sun,Home,L,0,2,Fulham,0.3,2.5,50,,Séamus Coleman,4-3-1-2,Andy Madley,everton
+22,2021-02-17,20,Matchweek 16,Wed,Home,L,1,3,Manchester City,1.0,1.0,29,,Gylfi Sigurðsson,4-4-1-1,Andre Marriner,everton
+23,2021-02-20,17,Matchweek 25,Sat,Away,W,2,0,Liverpool,1.6,1.4,29,,Séamus Coleman,5-3-2,Chris Kavanagh,everton
+24,2021-03-01,20,Matchweek 26,Mon,Home,W,1,0,Southampton,1.2,0.6,47,,Gylfi Sigurðsson,4-3-1-2,Martin Atkinson,everton
+25,2021-03-04,18,Matchweek 29,Thu,Away,W,1,0,West Brom,1.0,1.0,51,,Lucas Digne,4-4-2,Darren England,everton
+26,2021-03-08,18,Matchweek 27,Mon,Away,L,0,2,Chelsea,0.3,2.4,35,,Gylfi Sigurðsson,3-4-1-2,David Coote,everton
+27,2021-03-13,17,Matchweek 28,Sat,Home,L,1,2,Burnley,1.5,0.8,65,,Lucas Digne,4-1-2-1-2◆,Jonathan Moss,everton
+28,2021-04-05,18,Matchweek 30,Mon,Home,D,1,1,Crystal Palace,2.5,0.7,48,,Séamus Coleman,3-4-1-2,Kevin Friend,everton
+29,2021-04-12,20,Matchweek 31,Mon,Away,D,0,0,Brighton,0.4,1.2,45,,Séamus Coleman,5-3-2,Darren England,everton
+30,2021-04-16,20,Matchweek 32,Fri,Home,D,2,2,Tottenham,1.8,1.4,53,,Gylfi Sigurðsson,4-4-2,Michael Oliver,everton
+31,2021-04-23,20,Matchweek 33,Fri,Away,W,1,0,Arsenal,0.5,0.8,41,,Séamus Coleman,4-2-3-1,Jonathan Moss,everton
+32,2021-05-01,20,Matchweek 34,Sat,Home,L,1,2,Aston Villa,1.0,1.6,47,,Séamus Coleman,4-2-3-1,Simon Hooper,everton
+33,2021-05-09,16,Matchweek 35,Sun,Away,W,1,0,West Ham,1.5,1.3,32,,Séamus Coleman,4-4-2,Stuart Attwell,everton
+34,2021-05-13,18,Matchweek 19,Thu,Away,D,0,0,Aston Villa,1.0,0.6,42,,Séamus Coleman,4-4-2,Martin Atkinson,everton
+35,2021-05-16,19,Matchweek 36,Sun,Home,L,0,1,Sheffield Utd,1.4,1.2,62,,Séamus Coleman,4-2-3-1,Jonathan Moss,everton
+36,2021-05-19,18,Matchweek 37,Wed,Home,W,1,0,Wolves,0.7,0.3,41,4988.0,Séamus Coleman,4-4-2,Andy Madley,everton
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,0,5,Manchester City,1.1,2.5,33,10000.0,Gylfi Sigurðsson,4-3-1-2,Michael Oliver,everton
+0,2020-09-21,18,Matchweek 2,Mon,Home,W,1,0,Sheffield Utd,1.0,0.9,71,,Jack Grealish,4-3-3,Graham Scott,aston villa
+1,2020-09-28,17,Matchweek 3,Mon,Away,W,3,0,Fulham,1.4,0.7,36,,Jack Grealish,4-3-3,Stuart Attwell,aston villa
+2,2020-10-04,19,Matchweek 4,Sun,Home,W,7,2,Liverpool,2.7,1.8,31,,Jack Grealish,4-2-3-1,Martin Atkinson,aston villa
+3,2020-10-18,19,Matchweek 5,Sun,Away,W,1,0,Leicester City,0.7,0.6,50,,Jack Grealish,4-2-3-1,Jonathan Moss,aston villa
+4,2020-10-23,20,Matchweek 6,Fri,Home,L,0,3,Leeds United,1.4,2.7,41,,Jack Grealish,4-2-3-1,Paul Tierney,aston villa
+5,2020-11-01,12,Matchweek 7,Sun,Home,L,3,4,Southampton,1.9,0.7,56,,Jack Grealish,4-2-3-1,Darren England,aston villa
+6,2020-11-08,19,Matchweek 8,Sun,Away,W,3,0,Arsenal,1.8,1.5,41,,Jack Grealish,4-2-3-1,Martin Atkinson,aston villa
+7,2020-11-21,15,Matchweek 9,Sat,Home,L,1,2,Brighton,1.5,1.4,56,,Jack Grealish,4-2-3-1,Michael Oliver,aston villa
+8,2020-11-30,20,Matchweek 10,Mon,Away,L,1,2,West Ham,2.5,0.4,66,,Jack Grealish,4-3-3,Peter Bankes,aston villa
+9,2020-12-12,12,Matchweek 12,Sat,Away,W,1,0,Wolves,1.4,1.1,50,,Jack Grealish,4-3-3,Mike Dean,aston villa
+10,2020-12-17,18,Matchweek 13,Thu,Home,D,0,0,Burnley,1.5,0.3,59,,Jack Grealish,4-2-3-1,Craig Pawson,aston villa
+11,2020-12-20,19,Matchweek 14,Sun,Away,W,3,0,West Brom,2.4,0.0,67,,Jack Grealish,4-2-3-1,Martin Atkinson,aston villa
+12,2020-12-26,15,Matchweek 15,Sat,Home,W,3,0,Crystal Palace,3.9,0.9,39,,Jack Grealish,4-2-3-1,Anthony Taylor,aston villa
+13,2020-12-28,17,Matchweek 16,Mon,Away,D,1,1,Chelsea,0.7,1.7,37,,Jack Grealish,4-2-3-1,Stuart Attwell,aston villa
+14,2021-01-01,20,Matchweek 17,Fri,Away,L,1,2,Manchester Utd,1.4,2.1,52,,Jack Grealish,4-2-3-1,Michael Oliver,aston villa
+15,2021-01-20,18,Matchweek 1,Wed,Away,L,0,2,Manchester City,0.6,3.4,31,,Jack Grealish,4-2-3-1,Jonathan Moss,aston villa
+16,2021-01-23,20,Matchweek 11,Sat,Home,W,2,0,Newcastle Utd,2.3,0.5,58,,Jack Grealish,4-2-3-1,Simon Hooper,aston villa
+17,2021-01-27,18,Matchweek 20,Wed,Away,L,2,3,Burnley,2.2,0.5,61,,Jack Grealish,4-2-3-1,Paul Tierney,aston villa
+18,2021-01-30,20,Matchweek 21,Sat,Away,W,1,0,Southampton,0.6,1.9,41,,Jack Grealish,4-2-3-1,Lee Mason,aston villa
+19,2021-02-03,20,Matchweek 22,Wed,Home,L,1,3,West Ham,0.7,1.7,56,,Jack Grealish,4-2-3-1,Andy Madley,aston villa
+20,2021-02-06,12,Matchweek 23,Sat,Home,W,1,0,Arsenal,1.2,0.8,35,,Jack Grealish,4-2-3-1,Chris Kavanagh,aston villa
+21,2021-02-13,20,Matchweek 24,Sat,Away,D,0,0,Brighton,0.1,2.2,42,,Jack Grealish,4-2-3-1,Darren England,aston villa
+22,2021-02-21,14,Matchweek 25,Sun,Home,L,1,2,Leicester City,1.4,1.1,51,,Tyrone Mings,4-2-3-1,Michael Oliver,aston villa
+23,2021-02-27,17,Matchweek 26,Sat,Away,W,1,0,Leeds United,0.7,0.9,31,,Tyrone Mings,4-3-3,Peter Bankes,aston villa
+24,2021-03-03,18,Matchweek 29,Wed,Away,L,0,1,Sheffield Utd,2.3,0.9,72,,Tyrone Mings,4-3-3,Robert Jones,aston villa
+25,2021-03-06,17,Matchweek 27,Sat,Home,D,0,0,Wolves,0.6,1.6,49,,Tyrone Mings,4-3-3,Andy Madley,aston villa
+26,2021-03-12,20,Matchweek 28,Fri,Away,D,1,1,Newcastle Utd,0.9,1.5,51,,Tyrone Mings,4-3-3,Paul Tierney,aston villa
+27,2021-03-21,19,Matchweek 18,Sun,Home,L,0,2,Tottenham,0.4,1.8,50,,Tyrone Mings,4-2-3-1,Mike Dean,aston villa
+28,2021-04-04,16,Matchweek 30,Sun,Home,W,3,1,Fulham,1.5,1.0,53,,Tyrone Mings,4-2-3-1,Andy Madley,aston villa
+29,2021-04-10,15,Matchweek 31,Sat,Away,L,1,2,Liverpool,0.5,2.3,35,,Tyrone Mings,4-3-3,Paul Tierney,aston villa
+30,2021-04-21,20,Matchweek 32,Wed,Home,L,1,2,Manchester City,0.7,1.2,28,,Tyrone Mings,4-1-4-1,Peter Bankes,aston villa
+31,2021-04-25,19,Matchweek 33,Sun,Home,D,2,2,West Brom,3.2,1.5,70,,Tyrone Mings,4-2-3-1,Stuart Attwell,aston villa
+32,2021-05-01,20,Matchweek 34,Sat,Away,W,2,1,Everton,1.6,1.0,53,,Tyrone Mings,4-2-3-1,Simon Hooper,aston villa
+33,2021-05-09,14,Matchweek 35,Sun,Home,L,1,3,Manchester Utd,0.5,1.7,41,,Tyrone Mings,4-2-3-1,Chris Kavanagh,aston villa
+34,2021-05-13,18,Matchweek 19,Thu,Home,D,0,0,Everton,0.6,1.0,58,,Tyrone Mings,4-2-3-1,Martin Atkinson,aston villa
+35,2021-05-16,12,Matchweek 36,Sun,Away,L,2,3,Crystal Palace,1.4,1.9,55,,John McGinn,4-3-3,David Coote,aston villa
+36,2021-05-19,18,Matchweek 37,Wed,Away,W,2,1,Tottenham,1.4,0.8,40,10000.0,Jack Grealish,4-2-3-1,Craig Pawson,aston villa
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,2,1,Chelsea,1.1,3.3,29,10000.0,Jack Grealish,4-2-3-1,Stuart Attwell,aston villa
+0,2020-09-12,20,Matchweek 1,Sat,Away,W,2,0,West Ham,1.6,1.0,42,,Jamaal Lascelles,4-4-2,Stuart Attwell,newcastle utd
+1,2020-09-20,14,Matchweek 2,Sun,Home,L,0,3,Brighton,0.5,1.8,47,,Jamaal Lascelles,4-4-2,Kevin Friend,newcastle utd
+2,2020-09-27,14,Matchweek 3,Sun,Away,D,1,1,Tottenham,1.0,2.9,34,,Jamaal Lascelles,5-4-1,Peter Bankes,newcastle utd
+3,2020-10-03,20,Matchweek 4,Sat,Home,W,3,1,Burnley,1.8,0.4,48,,Jonjo Shelvey,4-4-2,David Coote,newcastle utd
+4,2020-10-17,20,Matchweek 5,Sat,Home,L,1,4,Manchester Utd,0.9,2.3,37,,Jamaal Lascelles,4-1-4-1,Craig Pawson,newcastle utd
+5,2020-10-25,16,Matchweek 6,Sun,Away,D,1,1,Wolves,0.3,0.7,37,,Jamaal Lascelles,5-3-2,Lee Mason,newcastle utd
+6,2020-11-01,14,Matchweek 7,Sun,Home,W,2,1,Everton,2.9,1.5,39,,Jamaal Lascelles,5-3-2,Stuart Attwell,newcastle utd
+7,2020-11-06,20,Matchweek 8,Fri,Away,L,0,2,Southampton,0.3,0.7,39,,Jamaal Lascelles,5-3-2,Peter Bankes,newcastle utd
+8,2020-11-21,12,Matchweek 9,Sat,Home,L,0,2,Chelsea,0.3,1.5,30,,Jamaal Lascelles,5-4-1,Craig Pawson,newcastle utd
+9,2020-11-27,20,Matchweek 10,Fri,Away,W,2,0,Crystal Palace,1.3,0.6,43,,Jonjo Shelvey,4-4-2,Graham Scott,newcastle utd
+10,2020-12-12,15,Matchweek 12,Sat,Home,W,2,1,West Brom,0.8,0.6,46,,Jonjo Shelvey,4-4-2,Darren England,newcastle utd
+11,2020-12-16,18,Matchweek 13,Wed,Away,L,2,5,Leeds United,1.5,2.7,32,,Federico Fernández,4-4-2,Simon Hooper,newcastle utd
+12,2020-12-19,20,Matchweek 14,Sat,Home,D,1,1,Fulham,1.4,1.0,49,,Jonjo Shelvey,4-4-2,Graham Scott,newcastle utd
+13,2020-12-26,20,Matchweek 15,Sat,Away,L,0,2,Manchester City,0.3,3.0,26,,Federico Fernández,5-4-1,Andre Marriner,newcastle utd
+14,2020-12-30,20,Matchweek 16,Wed,Home,D,0,0,Liverpool,0.5,1.4,28,,Federico Fernández,5-4-1,Paul Tierney,newcastle utd
+15,2021-01-03,14,Matchweek 17,Sun,Home,L,1,2,Leicester City,0.5,0.6,44,,Federico Fernández,5-4-1,Robert Jones,newcastle utd
+16,2021-01-12,18,Matchweek 18,Tue,Away,L,0,1,Sheffield Utd,0.6,2.1,35,,Federico Fernández,5-4-1,Andy Madley,newcastle utd
+17,2021-01-18,20,Matchweek 19,Mon,Away,L,0,3,Arsenal,0.2,2.4,34,,Jamaal Lascelles,4-4-2,David Coote,newcastle utd
+18,2021-01-23,20,Matchweek 11,Sat,Away,L,0,2,Aston Villa,0.5,2.3,42,,Jamaal Lascelles,5-3-2,Simon Hooper,newcastle utd
+19,2021-01-26,18,Matchweek 20,Tue,Home,L,1,2,Leeds United,1.4,0.7,42,,Jamaal Lascelles,4-4-1-1,Anthony Taylor,newcastle utd
+20,2021-01-30,12,Matchweek 21,Sat,Away,W,2,0,Everton,1.7,0.8,40,,Jamaal Lascelles,4-3-1-2,Stuart Attwell,newcastle utd
+21,2021-02-02,20,Matchweek 22,Tue,Home,L,1,2,Crystal Palace,1.9,0.7,61,,Jonjo Shelvey,4-3-1-2,Darren England,newcastle utd
+22,2021-02-06,15,Matchweek 23,Sat,Home,W,3,2,Southampton,0.7,1.3,27,,Jonjo Shelvey,4-3-1-2,Craig Pawson,newcastle utd
+23,2021-02-15,20,Matchweek 24,Mon,Away,L,0,2,Chelsea,0.6,2.2,36,,Jamaal Lascelles,4-3-3,Peter Bankes,newcastle utd
+24,2021-02-21,19,Matchweek 25,Sun,Away,L,1,3,Manchester Utd,0.4,1.7,29,,Jamaal Lascelles,4-3-1-2,Paul Tierney,newcastle utd
+25,2021-02-27,20,Matchweek 26,Sat,Home,D,1,1,Wolves,1.7,1.1,48,,Jamaal Lascelles,4-3-3,Mike Dean,newcastle utd
+26,2021-03-07,12,Matchweek 27,Sun,Away,D,0,0,West Brom,0.5,2.0,47,,Jamaal Lascelles,4-3-1-2,Martin Atkinson,newcastle utd
+27,2021-03-12,20,Matchweek 28,Fri,Home,D,1,1,Aston Villa,1.5,0.9,49,,Jamaal Lascelles,4-3-3,Paul Tierney,newcastle utd
+28,2021-03-20,20,Matchweek 29,Sat,Away,L,0,3,Brighton,0.1,0.9,35,,Jamaal Lascelles,4-3-3,Anthony Taylor,newcastle utd
+29,2021-04-04,14,Matchweek 30,Sun,Home,D,2,2,Tottenham,3.4,2.7,42,,Jamaal Lascelles,5-3-2,Craig Pawson,newcastle utd
+30,2021-04-11,12,Matchweek 31,Sun,Away,W,2,1,Burnley,1.2,2.0,44,,Jonjo Shelvey,5-3-2,Anthony Taylor,newcastle utd
+31,2021-04-17,12,Matchweek 32,Sat,Home,W,3,2,West Ham,2.2,1.9,34,,Jonjo Shelvey,5-3-2,Kevin Friend,newcastle utd
+32,2021-04-24,12,Matchweek 33,Sat,Away,D,1,1,Liverpool,1.0,2.4,32,,Jonjo Shelvey,5-3-2,Andre Marriner,newcastle utd
+33,2021-05-02,14,Matchweek 34,Sun,Home,L,0,2,Arsenal,0.3,2.0,39,,Jonjo Shelvey,5-3-2,Mike Dean,newcastle utd
+34,2021-05-07,20,Matchweek 35,Fri,Away,W,4,2,Leicester City,2.7,2.2,32,,Jonjo Shelvey,5-3-2,Darren England,newcastle utd
+35,2021-05-14,20,Matchweek 36,Fri,Home,L,3,4,Manchester City,2.2,1.5,18,,Jonjo Shelvey,5-3-2,Kevin Friend,newcastle utd
+36,2021-05-19,18,Matchweek 37,Wed,Home,W,1,0,Sheffield Utd,1.6,0.9,51,10000.0,Jonjo Shelvey,5-3-2,Robert Jones,newcastle utd
+37,2021-05-23,16,Matchweek 38,Sun,Away,W,2,0,Fulham,1.3,1.0,36,2000.0,Jonjo Shelvey,5-3-2,Chris Kavanagh,newcastle utd
+0,2020-09-14,18,Matchweek 1,Mon,Away,W,2,0,Sheffield Utd,1.4,1.0,45,,Conor Coady,3-4-3,Mike Dean,wolves
+1,2020-09-21,20,Matchweek 2,Mon,Home,L,1,3,Manchester City,0.6,1.9,35,,Conor Coady,5-3-2,Andre Marriner,wolves
+2,2020-09-27,19,Matchweek 3,Sun,Away,L,0,4,West Ham,0.5,2.4,63,,Conor Coady,3-4-3,Martin Atkinson,wolves
+3,2020-10-04,14,Matchweek 4,Sun,Home,W,1,0,Fulham,1.2,0.9,48,,Conor Coady,3-5-2,Darren England,wolves
+4,2020-10-19,20,Matchweek 5,Mon,Away,W,1,0,Leeds United,0.4,1.0,34,,Conor Coady,3-5-2,David Coote,wolves
+5,2020-10-25,16,Matchweek 6,Sun,Home,D,1,1,Newcastle Utd,0.7,0.3,63,,Conor Coady,3-4-3,Lee Mason,wolves
+6,2020-10-30,20,Matchweek 7,Fri,Home,W,2,0,Crystal Palace,1.3,0.7,45,,Conor Coady,3-4-3,Martin Atkinson,wolves
+7,2020-11-08,14,Matchweek 8,Sun,Away,L,0,1,Leicester City,0.8,2.0,51,,Conor Coady,3-4-3,Anthony Taylor,wolves
+8,2020-11-23,20,Matchweek 9,Mon,Home,D,1,1,Southampton,1.5,1.0,46,,Rúben Neves,4-3-3,Andre Marriner,wolves
+9,2020-11-29,19,Matchweek 10,Sun,Away,W,2,1,Arsenal,1.8,1.5,44,,Conor Coady,4-2-3-1,Michael Oliver,wolves
+10,2020-12-06,19,Matchweek 11,Sun,Away,L,0,4,Liverpool,0.4,1.2,40,2000.0,Conor Coady,4-3-3,Craig Pawson,wolves
+11,2020-12-12,12,Matchweek 12,Sat,Home,L,0,1,Aston Villa,1.1,1.4,50,,Conor Coady,4-2-3-1,Mike Dean,wolves
+12,2020-12-15,18,Matchweek 13,Tue,Home,W,2,1,Chelsea,0.5,1.0,45,,Conor Coady,3-4-1-2,Stuart Attwell,wolves
+13,2020-12-21,17,Matchweek 14,Mon,Away,L,1,2,Burnley,1.5,1.7,63,,Conor Coady,3-4-1-2,Lee Mason,wolves
+14,2020-12-27,19,Matchweek 15,Sun,Home,D,1,1,Tottenham,0.9,0.4,55,,Conor Coady,4-2-3-1,Paul Tierney,wolves
+15,2020-12-29,20,Matchweek 16,Tue,Away,L,0,1,Manchester Utd,0.5,1.5,42,,Conor Coady,3-4-1-2,Jonathan Moss,wolves
+16,2021-01-02,17,Matchweek 17,Sat,Away,D,3,3,Brighton,1.6,2.2,46,,Conor Coady,4-2-3-1,Andy Madley,wolves
+17,2021-01-12,20,Matchweek 18,Tue,Home,L,1,2,Everton,0.7,0.6,52,,Conor Coady,4-3-3,Martin Atkinson,wolves
+18,2021-01-16,12,Matchweek 19,Sat,Home,L,2,3,West Brom,1.5,2.4,67,,Conor Coady,4-3-3,Michael Oliver,wolves
+19,2021-01-27,18,Matchweek 20,Wed,Away,D,0,0,Chelsea,0.5,0.7,22,,Conor Coady,3-4-1-2,Andy Madley,wolves
+20,2021-01-30,15,Matchweek 21,Sat,Away,L,0,1,Crystal Palace,0.4,1.4,52,,Conor Coady,3-4-3,Simon Hooper,wolves
+21,2021-02-02,18,Matchweek 22,Tue,Home,W,2,1,Arsenal,1.5,0.8,55,,Conor Coady,4-2-3-1,Craig Pawson,wolves
+22,2021-02-07,14,Matchweek 23,Sun,Home,D,0,0,Leicester City,1.1,0.8,44,,Conor Coady,3-4-3,Martin Atkinson,wolves
+23,2021-02-14,12,Matchweek 24,Sun,Away,W,2,1,Southampton,1.1,0.8,49,,Conor Coady,3-4-3,Graham Scott,wolves
+24,2021-02-19,20,Matchweek 25,Fri,Home,W,1,0,Leeds United,0.6,1.7,42,,Conor Coady,3-4-3,David Coote,wolves
+25,2021-02-27,20,Matchweek 26,Sat,Away,D,1,1,Newcastle Utd,1.1,1.7,52,,Conor Coady,3-4-3,Mike Dean,wolves
+26,2021-03-02,20,Matchweek 29,Tue,Away,L,1,4,Manchester City,0.3,3.3,28,,Conor Coady,3-4-3,Chris Kavanagh,wolves
+27,2021-03-06,17,Matchweek 27,Sat,Away,D,0,0,Aston Villa,1.6,0.6,51,,Conor Coady,3-4-3,Andy Madley,wolves
+28,2021-03-15,20,Matchweek 28,Mon,Home,L,0,1,Liverpool,1.1,0.9,53,,Conor Coady,3-4-1-2,Craig Pawson,wolves
+29,2021-04-05,20,Matchweek 30,Mon,Home,L,2,3,West Ham,2.1,1.3,65,,Conor Coady,4-2-3-1,Michael Oliver,wolves
+30,2021-04-09,20,Matchweek 31,Fri,Away,W,1,0,Fulham,0.5,0.9,50,,Conor Coady,4-2-3-1,Jonathan Moss,wolves
+31,2021-04-17,20,Matchweek 32,Sat,Home,W,1,0,Sheffield Utd,1.1,0.5,48,,Conor Coady,3-4-3,Robert Jones,wolves
+32,2021-04-25,12,Matchweek 33,Sun,Home,L,0,4,Burnley,0.4,2.0,58,,Conor Coady,3-4-1-2,Darren England,wolves
+33,2021-05-03,18,Matchweek 34,Mon,Away,D,1,1,West Brom,1.0,1.1,57,,Conor Coady,4-2-3-1,Paul Tierney,wolves
+34,2021-05-09,12,Matchweek 35,Sun,Home,W,2,1,Brighton,1.1,0.3,61,,Conor Coady,4-2-3-1,Jonathan Moss,wolves
+35,2021-05-16,14,Matchweek 36,Sun,Away,L,0,2,Tottenham,0.9,3.2,38,,Conor Coady,4-2-3-1,Martin Atkinson,wolves
+36,2021-05-19,18,Matchweek 37,Wed,Away,L,0,1,Everton,0.3,0.7,59,4988.0,Conor Coady,3-4-1-2,Andy Madley,wolves
+37,2021-05-23,16,Matchweek 38,Sun,Home,L,1,2,Manchester Utd,0.9,2.0,57,4500.0,Conor Coady,3-5-2,Mike Dean,wolves
+0,2020-09-12,15,Matchweek 1,Sat,Home,W,1,0,Southampton,1.1,0.9,31,,Scott Dann,4-4-2,Jonathan Moss,crystal palace
+1,2020-09-19,17,Matchweek 2,Sat,Away,W,3,1,Manchester Utd,1.6,1.2,25,,Wilfried Zaha,4-4-2,Martin Atkinson,crystal palace
+2,2020-09-26,15,Matchweek 3,Sat,Home,L,1,2,Everton,0.4,1.9,42,,Wilfried Zaha,4-4-2,Kevin Friend,crystal palace
+3,2020-10-03,12,Matchweek 4,Sat,Away,L,0,4,Chelsea,0.2,2.7,30,,Wilfried Zaha,4-4-2,Michael Oliver,crystal palace
+4,2020-10-18,14,Matchweek 5,Sun,Home,D,1,1,Brighton,0.8,1.7,34,,Gary Cahill,4-4-2,Stuart Attwell,crystal palace
+5,2020-10-24,15,Matchweek 6,Sat,Away,W,2,1,Fulham,2.5,1.1,36,,Luka Milivojević,4-4-2,Graham Scott,crystal palace
+6,2020-10-30,20,Matchweek 7,Fri,Away,L,0,2,Wolves,0.7,1.3,55,,Luka Milivojević,4-3-3,Martin Atkinson,crystal palace
+7,2020-11-07,15,Matchweek 8,Sat,Home,W,4,1,Leeds United,0.9,0.8,36,,Scott Dann,4-4-2,Chris Kavanagh,crystal palace
+8,2020-11-23,17,Matchweek 9,Mon,Away,L,0,1,Burnley,1.5,1.5,54,,Scott Dann,4-4-2,Kevin Friend,crystal palace
+9,2020-11-27,20,Matchweek 10,Fri,Home,L,0,2,Newcastle Utd,0.6,1.3,57,,Scott Dann,4-4-2,Graham Scott,crystal palace
+10,2020-12-06,12,Matchweek 11,Sun,Away,W,5,1,West Brom,1.6,0.7,50,,Luka Milivojević,4-4-2,Paul Tierney,crystal palace
+11,2020-12-13,14,Matchweek 12,Sun,Home,D,1,1,Tottenham,1.6,0.9,44,2000.0,Luka Milivojević,4-4-2,Kevin Friend,crystal palace
+12,2020-12-16,20,Matchweek 13,Wed,Away,D,1,1,West Ham,1.1,0.4,48,,Luka Milivojević,4-4-2,David Coote,crystal palace
+13,2020-12-19,12,Matchweek 14,Sat,Home,L,0,7,Liverpool,0.3,2.5,36,,Luka Milivojević,4-4-2,Jonathan Moss,crystal palace
+14,2020-12-26,15,Matchweek 15,Sat,Away,L,0,3,Aston Villa,0.9,3.9,61,,Luka Milivojević,4-4-2,Anthony Taylor,crystal palace
+15,2020-12-28,15,Matchweek 16,Mon,Home,D,1,1,Leicester City,0.5,1.9,34,,Luka Milivojević,4-4-2,Graham Scott,crystal palace
+16,2021-01-02,15,Matchweek 17,Sat,Home,W,2,0,Sheffield Utd,0.6,0.4,44,,Luka Milivojević,4-4-2,Stuart Attwell,crystal palace
+17,2021-01-14,20,Matchweek 18,Thu,Away,D,0,0,Arsenal,0.8,0.4,33,,Luka Milivojević,4-4-2,Andre Marriner,crystal palace
+18,2021-01-17,19,Matchweek 19,Sun,Away,L,0,4,Manchester City,0.1,0.7,29,,Luka Milivojević,4-1-4-1,Lee Mason,crystal palace
+19,2021-01-26,18,Matchweek 20,Tue,Home,L,2,3,West Ham,0.7,2.8,54,,Luka Milivojević,4-4-2,Stuart Attwell,crystal palace
+20,2021-01-30,15,Matchweek 21,Sat,Home,W,1,0,Wolves,1.4,0.4,48,,Luka Milivojević,4-2-3-1,Simon Hooper,crystal palace
+21,2021-02-02,20,Matchweek 22,Tue,Away,W,2,1,Newcastle Utd,0.7,1.9,39,,Luka Milivojević,4-4-2,Darren England,crystal palace
+22,2021-02-08,20,Matchweek 23,Mon,Away,L,0,2,Leeds United,0.4,1.9,33,,Luka Milivojević,4-4-2,Andre Marriner,crystal palace
+23,2021-02-13,15,Matchweek 24,Sat,Home,L,0,3,Burnley,0.5,1.4,54,,Luka Milivojević,4-4-2,Michael Oliver,crystal palace
+24,2021-02-22,20,Matchweek 25,Mon,Away,W,2,1,Brighton,0.2,2.4,26,,Luka Milivojević,4-3-3,Kevin Friend,crystal palace
+25,2021-02-28,12,Matchweek 26,Sun,Home,D,0,0,Fulham,0.1,1.4,40,,Luka Milivojević,4-2-3-1,Anthony Taylor,crystal palace
+26,2021-03-03,20,Matchweek 29,Wed,Home,D,0,0,Manchester Utd,0.9,0.9,37,,Luka Milivojević,4-4-2,Andre Marriner,crystal palace
+27,2021-03-07,19,Matchweek 27,Sun,Away,L,1,4,Tottenham,0.5,2.7,37,,Luka Milivojević,4-4-2,Stuart Attwell,crystal palace
+28,2021-03-13,15,Matchweek 28,Sat,Home,W,1,0,West Brom,1.2,0.8,45,,Luka Milivojević,4-4-2,Simon Hooper,crystal palace
+29,2021-04-05,18,Matchweek 30,Mon,Away,D,1,1,Everton,0.7,2.5,52,,Luka Milivojević,4-4-2,Kevin Friend,crystal palace
+30,2021-04-10,17,Matchweek 31,Sat,Home,L,1,4,Chelsea,0.4,3.1,36,,Luka Milivojević,4-4-2,Michael Oliver,crystal palace
+31,2021-04-26,20,Matchweek 33,Mon,Away,L,1,2,Leicester City,0.7,1.5,34,,Luka Milivojević,4-3-3,Graham Scott,crystal palace
+32,2021-05-01,12,Matchweek 34,Sat,Home,L,0,2,Manchester City,0.9,1.7,32,,Luka Milivojević,4-3-3,David Coote,crystal palace
+33,2021-05-08,15,Matchweek 35,Sat,Away,W,2,0,Sheffield Utd,2.0,0.7,50,,Luka Milivojević,4-3-3,Simon Hooper,crystal palace
+34,2021-05-11,20,Matchweek 32,Tue,Away,L,1,3,Southampton,1.5,1.2,38,,Luka Milivojević,4-3-3,Andy Madley,crystal palace
+35,2021-05-16,12,Matchweek 36,Sun,Home,W,3,2,Aston Villa,1.9,1.4,45,,Gary Cahill,4-3-3,David Coote,crystal palace
+36,2021-05-19,19,Matchweek 37,Wed,Home,L,1,3,Arsenal,1.0,1.8,32,6500.0,Gary Cahill,4-3-3,Anthony Taylor,crystal palace
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,0,2,Liverpool,0.6,1.6,31,9901.0,Gary Cahill,4-3-3,Craig Pawson,crystal palace
+0,2020-09-12,15,Matchweek 1,Sat,Away,L,0,1,Crystal Palace,0.9,1.1,69,,James Ward-Prowse,4-4-2,Jonathan Moss,southampton
+1,2020-09-20,12,Matchweek 2,Sun,Home,L,2,5,Tottenham,2.0,2.1,51,,James Ward-Prowse,4-4-2,David Coote,southampton
+2,2020-09-26,20,Matchweek 3,Sat,Away,W,1,0,Burnley,0.6,0.5,47,,James Ward-Prowse,4-4-2,Andre Marriner,southampton
+3,2020-10-04,12,Matchweek 4,Sun,Home,W,2,0,West Brom,1.2,0.2,62,,James Ward-Prowse,4-4-2,Chris Kavanagh,southampton
+4,2020-10-17,15,Matchweek 5,Sat,Away,D,3,3,Chelsea,1.9,1.8,47,,James Ward-Prowse,4-4-2,Peter Bankes,southampton
+5,2020-10-25,14,Matchweek 6,Sun,Home,W,2,0,Everton,0.7,0.4,54,,James Ward-Prowse,4-4-2,Kevin Friend,southampton
+6,2020-11-01,12,Matchweek 7,Sun,Away,W,4,3,Aston Villa,0.7,1.9,44,,James Ward-Prowse,4-4-2,Darren England,southampton
+7,2020-11-06,20,Matchweek 8,Fri,Home,W,2,0,Newcastle Utd,0.7,0.3,61,,James Ward-Prowse,4-4-2,Peter Bankes,southampton
+8,2020-11-23,20,Matchweek 9,Mon,Away,D,1,1,Wolves,1.0,1.5,54,,James Ward-Prowse,4-4-2,Andre Marriner,southampton
+9,2020-11-29,14,Matchweek 10,Sun,Home,L,2,3,Manchester Utd,0.5,2.1,50,,James Ward-Prowse,4-4-2,Jonathan Moss,southampton
+10,2020-12-07,20,Matchweek 11,Mon,Away,W,2,1,Brighton,1.4,1.9,52,2000.0,James Ward-Prowse,4-4-2,David Coote,southampton
+11,2020-12-13,12,Matchweek 12,Sun,Home,W,3,0,Sheffield Utd,2.0,0.3,67,2000.0,James Ward-Prowse,4-4-2,Andy Madley,southampton
+12,2020-12-16,18,Matchweek 13,Wed,Away,D,1,1,Arsenal,1.2,0.6,64,,James Ward-Prowse,4-4-2,Paul Tierney,southampton
+13,2020-12-19,15,Matchweek 14,Sat,Home,L,0,1,Manchester City,0.7,0.9,48,,James Ward-Prowse,4-4-2,Mike Dean,southampton
+14,2020-12-26,15,Matchweek 15,Sat,Away,D,0,0,Fulham,0.2,0.7,53,,James Ward-Prowse,4-4-2,Darren England,southampton
+15,2020-12-29,18,Matchweek 16,Tue,Home,D,0,0,West Ham,0.6,1.2,62,,James Ward-Prowse,4-4-2,Andy Madley,southampton
+16,2021-01-04,20,Matchweek 17,Mon,Home,W,1,0,Liverpool,0.4,1.5,34,,James Ward-Prowse,4-4-2,Andre Marriner,southampton
+17,2021-01-16,20,Matchweek 19,Sat,Away,L,0,2,Leicester City,0.6,2.2,53,,James Ward-Prowse,4-4-2,Stuart Attwell,southampton
+18,2021-01-26,20,Matchweek 20,Tue,Home,L,1,3,Arsenal,0.8,2.2,58,,James Ward-Prowse,4-4-2,Kevin Friend,southampton
+19,2021-01-30,20,Matchweek 21,Sat,Home,L,0,1,Aston Villa,1.9,0.6,59,,James Ward-Prowse,4-4-2,Lee Mason,southampton
+20,2021-02-02,20,Matchweek 22,Tue,Away,L,0,9,Manchester Utd,0.5,4.7,26,,James Ward-Prowse,4-4-2,Mike Dean,southampton
+21,2021-02-06,15,Matchweek 23,Sat,Away,L,2,3,Newcastle Utd,1.3,0.7,73,,James Ward-Prowse,4-4-2,Craig Pawson,southampton
+22,2021-02-14,12,Matchweek 24,Sun,Home,L,1,2,Wolves,0.8,1.1,51,,James Ward-Prowse,4-4-2,Graham Scott,southampton
+23,2021-02-20,12,Matchweek 25,Sat,Home,D,1,1,Chelsea,0.6,1.2,30,,James Ward-Prowse,4-4-2,Anthony Taylor,southampton
+24,2021-02-23,18,Matchweek 18,Tue,Away,L,0,3,Leeds United,0.9,1.3,54,,James Ward-Prowse,4-4-2,Andre Marriner,southampton
+25,2021-03-01,20,Matchweek 26,Mon,Away,L,0,1,Everton,0.6,1.2,53,,James Ward-Prowse,4-4-2,Martin Atkinson,southampton
+26,2021-03-06,15,Matchweek 27,Sat,Away,W,2,0,Sheffield Utd,1.9,0.7,49,,James Ward-Prowse,4-4-2,Paul Tierney,southampton
+27,2021-03-10,18,Matchweek 33,Wed,Away,L,2,5,Manchester City,1.6,2.6,42,,James Ward-Prowse,4-4-2,Jonathan Moss,southampton
+28,2021-03-14,12,Matchweek 28,Sun,Home,L,1,2,Brighton,0.6,0.8,59,,James Ward-Prowse,4-4-2,Stuart Attwell,southampton
+29,2021-04-04,12,Matchweek 30,Sun,Home,W,3,2,Burnley,2.2,1.5,53,,James Ward-Prowse,4-4-2,Andre Marriner,southampton
+30,2021-04-12,18,Matchweek 31,Mon,Away,L,0,3,West Brom,1.5,3.0,60,,James Ward-Prowse,4-4-2,Simon Hooper,southampton
+31,2021-04-21,18,Matchweek 29,Wed,Away,L,1,2,Tottenham,0.8,1.4,38,,James Ward-Prowse,4-4-2,David Coote,southampton
+32,2021-04-30,20,Matchweek 34,Fri,Home,D,1,1,Leicester City,0.9,1.9,30,,James Ward-Prowse,4-4-2,Robert Jones,southampton
+33,2021-05-08,20,Matchweek 35,Sat,Away,L,0,2,Liverpool,1.1,1.7,46,,James Ward-Prowse,4-4-2,Kevin Friend,southampton
+34,2021-05-11,20,Matchweek 32,Tue,Home,W,3,1,Crystal Palace,1.2,1.5,62,,James Ward-Prowse,4-4-2,Andy Madley,southampton
+35,2021-05-15,15,Matchweek 36,Sat,Home,W,3,1,Fulham,1.6,0.8,47,,James Ward-Prowse,4-4-2,Craig Pawson,southampton
+36,2021-05-18,18,Matchweek 37,Tue,Home,L,0,2,Leeds United,1.6,1.7,51,8000.0,James Ward-Prowse,4-4-2,Peter Bankes,southampton
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,0,3,West Ham,1.5,1.3,62,10000.0,James Ward-Prowse,4-4-2,Martin Atkinson,southampton
+0,2020-09-14,20,Matchweek 1,Mon,Home,L,1,3,Chelsea,1.1,1.2,52,,Lewis Dunk,3-5-2,Craig Pawson,brighton
+1,2020-09-20,14,Matchweek 2,Sun,Away,W,3,0,Newcastle Utd,1.8,0.5,53,,Lewis Dunk,3-4-3,Kevin Friend,brighton
+2,2020-09-26,12,Matchweek 3,Sat,Home,L,2,3,Manchester Utd,2.5,1.5,53,,Lewis Dunk,3-4-3,Chris Kavanagh,brighton
+3,2020-10-03,15,Matchweek 4,Sat,Away,L,2,4,Everton,1.3,1.6,57,,Lewis Dunk,3-4-3,Simon Hooper,brighton
+4,2020-10-18,14,Matchweek 5,Sun,Away,D,1,1,Crystal Palace,1.7,0.8,66,,Lewis Dunk,3-4-3,Stuart Attwell,brighton
+5,2020-10-26,17,Matchweek 6,Mon,Home,D,1,1,West Brom,0.5,0.4,50,,Adam Webster,3-4-3,Jonathan Moss,brighton
+6,2020-11-01,19,Matchweek 7,Sun,Away,L,1,2,Tottenham,0.3,1.7,56,,Adam Webster,3-5-1-1,Graham Scott,brighton
+7,2020-11-06,17,Matchweek 8,Fri,Home,D,0,0,Burnley,1.5,0.5,59,,Adam Webster,5-3-2,Mike Dean,brighton
+8,2020-11-21,15,Matchweek 9,Sat,Away,W,2,1,Aston Villa,1.4,1.5,44,,Lewis Dunk,3-4-1-2,Michael Oliver,brighton
+9,2020-11-28,12,Matchweek 10,Sat,Home,D,1,1,Liverpool,2.3,0.2,40,,Lewis Dunk,3-4-1-2,Stuart Attwell,brighton
+10,2020-12-07,20,Matchweek 11,Mon,Home,L,1,2,Southampton,1.9,1.4,48,2000.0,Lewis Dunk,3-4-1-2,David Coote,brighton
+11,2020-12-13,19,Matchweek 12,Sun,Away,L,0,3,Leicester City,0.9,1.5,46,,Lewis Dunk,4-2-3-1,Martin Atkinson,brighton
+12,2020-12-16,20,Matchweek 13,Wed,Away,D,0,0,Fulham,0.5,1.0,54,,Lewis Dunk,3-4-3,Robert Jones,brighton
+13,2020-12-20,12,Matchweek 14,Sun,Home,D,1,1,Sheffield Utd,2.8,0.5,73,,Lewis Dunk,3-4-3,Peter Bankes,brighton
+14,2020-12-27,14,Matchweek 15,Sun,Away,D,2,2,West Ham,1.1,1.3,56,,Lewis Dunk,3-4-3,Simon Hooper,brighton
+15,2020-12-29,18,Matchweek 16,Tue,Home,L,0,1,Arsenal,0.8,1.1,50,,Lewis Dunk,3-5-2,Martin Atkinson,brighton
+16,2021-01-02,17,Matchweek 17,Sat,Home,D,3,3,Wolves,2.2,1.6,54,,Lewis Dunk,3-4-3,Andy Madley,brighton
+17,2021-01-13,18,Matchweek 18,Wed,Away,L,0,1,Manchester City,0.2,2.0,35,,Lewis Dunk,4-1-2-1-2◆,Darren England,brighton
+18,2021-01-16,15,Matchweek 19,Sat,Away,W,1,0,Leeds United,1.4,0.3,34,,Lewis Dunk,3-4-3,Kevin Friend,brighton
+19,2021-01-27,19,Matchweek 20,Wed,Home,D,0,0,Fulham,1.8,0.5,50,,Lewis Dunk,3-5-2,Craig Pawson,brighton
+20,2021-01-31,19,Matchweek 21,Sun,Home,W,1,0,Tottenham,1.6,0.4,43,,Lewis Dunk,3-4-3,Peter Bankes,brighton
+21,2021-02-03,20,Matchweek 22,Wed,Away,W,1,0,Liverpool,1.3,1.0,37,,Lewis Dunk,3-5-2,Kevin Friend,brighton
+22,2021-02-06,15,Matchweek 23,Sat,Away,D,1,1,Burnley,0.5,1.8,45,,Lewis Dunk,3-4-1-2,Anthony Taylor,brighton
+23,2021-02-13,20,Matchweek 24,Sat,Home,D,0,0,Aston Villa,2.2,0.1,58,,Lewis Dunk,4-1-3-2,Darren England,brighton
+24,2021-02-22,20,Matchweek 25,Mon,Home,L,1,2,Crystal Palace,2.4,0.2,74,,Lewis Dunk,4-4-2,Kevin Friend,brighton
+25,2021-02-27,15,Matchweek 26,Sat,Away,L,0,1,West Brom,2.9,0.8,68,,Lewis Dunk,4-2-3-1,Lee Mason,brighton
+26,2021-03-06,20,Matchweek 27,Sat,Home,L,1,2,Leicester City,0.8,0.9,37,,Lewis Dunk,4-4-2,Michael Oliver,brighton
+27,2021-03-14,12,Matchweek 28,Sun,Away,W,2,1,Southampton,0.8,0.6,41,,Lewis Dunk,4-4-2,Stuart Attwell,brighton
+28,2021-03-20,20,Matchweek 29,Sat,Home,W,3,0,Newcastle Utd,0.9,0.1,65,,Lewis Dunk,3-4-1-2,Anthony Taylor,brighton
+29,2021-04-04,19,Matchweek 30,Sun,Away,L,1,2,Manchester Utd,1.2,1.5,43,,Lewis Dunk,3-4-1-2,Mike Dean,brighton
+30,2021-04-12,20,Matchweek 31,Mon,Home,D,0,0,Everton,1.2,0.4,55,,Lewis Dunk,3-4-3,Darren England,brighton
+31,2021-04-20,20,Matchweek 32,Tue,Away,D,0,0,Chelsea,0.5,0.7,36,,Lewis Dunk,3-1-4-2,Stuart Attwell,brighton
+32,2021-04-24,20,Matchweek 33,Sat,Away,L,0,1,Sheffield Utd,2.0,0.7,68,,Lewis Dunk,3-4-1-2,Kevin Friend,brighton
+33,2021-05-01,15,Matchweek 34,Sat,Home,W,2,0,Leeds United,2.3,0.6,42,,Lewis Dunk,3-4-1-2,Chris Kavanagh,brighton
+34,2021-05-09,12,Matchweek 35,Sun,Away,L,1,2,Wolves,0.3,1.1,39,,Lewis Dunk,4-4-1-1,Jonathan Moss,brighton
+35,2021-05-15,20,Matchweek 36,Sat,Home,D,1,1,West Ham,0.8,1.7,51,,Pascal Groß,3-4-3,Andre Marriner,brighton
+36,2021-05-18,19,Matchweek 37,Tue,Home,W,3,2,Manchester City,1.1,0.9,63,7945.0,Pascal Groß,3-5-2,Stuart Attwell,brighton
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,0,2,Arsenal,0.2,0.8,46,10000.0,Lewis Dunk,4-3-3,Jonathan Moss,brighton
+0,2020-09-20,19,Matchweek 2,Sun,Away,L,2,4,Leicester City,1.4,1.2,33,,Ashley Westwood,4-4-2,Lee Mason,burnley
+1,2020-09-26,20,Matchweek 3,Sat,Home,L,0,1,Southampton,0.5,0.6,53,,Ashley Westwood,4-4-2,Andre Marriner,burnley
+2,2020-10-03,20,Matchweek 4,Sat,Away,L,1,3,Newcastle Utd,0.4,1.8,52,,Ashley Westwood,4-4-2,David Coote,burnley
+3,2020-10-19,17,Matchweek 5,Mon,Away,D,0,0,West Brom,1.1,0.8,43,,Ashley Westwood,4-4-2,Anthony Taylor,burnley
+4,2020-10-26,20,Matchweek 6,Mon,Home,L,0,1,Tottenham,1.0,0.6,39,,Ashley Westwood,4-4-2,Michael Oliver,burnley
+5,2020-10-31,15,Matchweek 7,Sat,Home,L,0,3,Chelsea,0.5,0.9,37,,Ashley Westwood,4-4-2,David Coote,burnley
+6,2020-11-06,17,Matchweek 8,Fri,Away,D,0,0,Brighton,0.5,1.5,41,,Ben Mee,4-4-2,Mike Dean,burnley
+7,2020-11-23,17,Matchweek 9,Mon,Home,W,1,0,Crystal Palace,1.5,1.5,46,,Ben Mee,4-4-2,Kevin Friend,burnley
+8,2020-11-28,15,Matchweek 10,Sat,Away,L,0,5,Manchester City,0.5,1.7,32,,Ben Mee,4-4-1-1,Lee Mason,burnley
+9,2020-12-05,12,Matchweek 11,Sat,Home,D,1,1,Everton,0.8,2.2,42,,Ben Mee,4-4-2,Anthony Taylor,burnley
+10,2020-12-13,19,Matchweek 12,Sun,Away,W,1,0,Arsenal,1.4,1.6,35,2000.0,Ben Mee,4-4-1-1,Graham Scott,burnley
+11,2020-12-17,18,Matchweek 13,Thu,Away,D,0,0,Aston Villa,0.3,1.5,41,,Ben Mee,4-4-2,Craig Pawson,burnley
+12,2020-12-21,17,Matchweek 14,Mon,Home,W,2,1,Wolves,1.7,1.5,37,,Ben Mee,4-4-2,Lee Mason,burnley
+13,2020-12-27,12,Matchweek 15,Sun,Away,L,0,1,Leeds United,1.5,1.9,49,,Ben Mee,4-4-2,Robert Jones,burnley
+14,2020-12-29,18,Matchweek 16,Tue,Home,W,1,0,Sheffield Utd,1.0,0.7,37,,Ben Mee,4-4-2,Chris Kavanagh,burnley
+15,2021-01-12,20,Matchweek 1,Tue,Home,L,0,1,Manchester Utd,0.9,1.2,38,,Ben Mee,4-4-2,Kevin Friend,burnley
+16,2021-01-16,15,Matchweek 19,Sat,Away,L,0,1,West Ham,0.5,1.7,55,,Ben Mee,4-4-2,Chris Kavanagh,burnley
+17,2021-01-21,20,Matchweek 18,Thu,Away,W,1,0,Liverpool,1.1,1.6,28,,Ben Mee,4-4-2,Mike Dean,burnley
+18,2021-01-27,18,Matchweek 20,Wed,Home,W,3,2,Aston Villa,0.5,2.2,39,,Ben Mee,4-4-2,Paul Tierney,burnley
+19,2021-01-31,12,Matchweek 21,Sun,Away,L,0,2,Chelsea,0.2,1.2,30,,Ben Mee,4-4-2,Graham Scott,burnley
+20,2021-02-03,18,Matchweek 22,Wed,Home,L,0,2,Manchester City,0.1,2.0,26,,Ben Mee,4-4-2,Martin Atkinson,burnley
+21,2021-02-06,15,Matchweek 23,Sat,Home,D,1,1,Brighton,1.8,0.5,55,,Ben Mee,4-4-2,Anthony Taylor,burnley
+22,2021-02-13,15,Matchweek 24,Sat,Away,W,3,0,Crystal Palace,1.4,0.5,46,,Ben Mee,4-4-2,Michael Oliver,burnley
+23,2021-02-17,18,Matchweek 17,Wed,Home,D,1,1,Fulham,0.9,0.5,47,,James Tarkowski,4-4-2,Jonathan Moss,burnley
+24,2021-02-20,15,Matchweek 25,Sat,Home,D,0,0,West Brom,0.5,1.6,62,,Ben Mee,4-4-2,Mike Dean,burnley
+25,2021-02-28,14,Matchweek 26,Sun,Away,L,0,4,Tottenham,0.7,2.1,42,,Ben Mee,4-4-2,Kevin Friend,burnley
+26,2021-03-03,18,Matchweek 29,Wed,Home,D,1,1,Leicester City,1.8,1.2,39,,Ben Mee,4-4-2,Andy Madley,burnley
+27,2021-03-06,12,Matchweek 27,Sat,Home,D,1,1,Arsenal,1.1,2.5,41,,Ben Mee,4-4-2,Andre Marriner,burnley
+28,2021-03-13,17,Matchweek 28,Sat,Away,W,2,1,Everton,0.8,1.5,35,,Ben Mee,4-4-2,Jonathan Moss,burnley
+29,2021-04-04,12,Matchweek 30,Sun,Away,L,2,3,Southampton,1.5,2.2,47,,Ben Mee,4-4-2,Andre Marriner,burnley
+30,2021-04-11,12,Matchweek 31,Sun,Home,L,1,2,Newcastle Utd,2.0,1.2,56,,Ben Mee,4-4-2,Anthony Taylor,burnley
+31,2021-04-18,16,Matchweek 32,Sun,Away,L,1,3,Manchester Utd,0.9,2.5,31,,Ben Mee,4-4-1-1,Jonathan Moss,burnley
+32,2021-04-25,12,Matchweek 33,Sun,Away,W,4,0,Wolves,2.0,0.4,42,,Ben Mee,4-4-2,Darren England,burnley
+33,2021-05-03,20,Matchweek 34,Mon,Home,L,1,2,West Ham,2.0,2.3,45,,Ben Mee,4-4-2,Anthony Taylor,burnley
+34,2021-05-10,20,Matchweek 35,Mon,Away,W,2,0,Fulham,1.5,1.0,32,,Ben Mee,4-4-2,David Coote,burnley
+35,2021-05-15,12,Matchweek 36,Sat,Home,L,0,4,Leeds United,1.3,1.5,48,,Ben Mee,4-4-2,Graham Scott,burnley
+36,2021-05-19,20,Matchweek 37,Wed,Home,L,0,3,Liverpool,0.8,2.6,41,3387.0,Ben Mee,4-4-1-1,Chris Kavanagh,burnley
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,0,1,Sheffield Utd,1.1,0.5,57,5000.0,James Tarkowski,4-4-1-1,Kevin Friend,burnley
+0,2020-09-12,12,Matchweek 1,Sat,Home,L,0,3,Arsenal,0.1,1.9,46,,Tom Cairney,4-2-3-1,Chris Kavanagh,fulham
+1,2020-09-19,15,Matchweek 2,Sat,Away,L,3,4,Leeds United,1.7,1.4,49,,Aleksandar Mitrović,4-2-3-1,Anthony Taylor,fulham
+2,2020-09-28,17,Matchweek 3,Mon,Home,L,0,3,Aston Villa,0.7,1.4,64,,Tom Cairney,3-4-3,Stuart Attwell,fulham
+3,2020-10-04,14,Matchweek 4,Sun,Away,L,0,1,Wolves,0.9,1.2,52,,Tom Cairney,4-2-3-1,Darren England,fulham
+4,2020-10-18,12,Matchweek 5,Sun,Away,D,1,1,Sheffield Utd,1.5,1.7,58,,Tom Cairney,3-4-3,Andre Marriner,fulham
+5,2020-10-24,15,Matchweek 6,Sat,Home,L,1,2,Crystal Palace,1.1,2.5,64,,Tom Cairney,4-3-2-1,Graham Scott,fulham
+6,2020-11-02,17,Matchweek 7,Mon,Home,W,2,0,West Brom,1.5,0.5,47,,Tom Cairney,4-2-3-1,Simon Hooper,fulham
+7,2020-11-07,20,Matchweek 8,Sat,Away,L,0,1,West Ham,1.7,1.3,47,,Tom Cairney,4-2-3-1,Robert Jones,fulham
+8,2020-11-22,12,Matchweek 9,Sun,Home,L,2,3,Everton,1.9,2.0,54,,Tom Cairney,4-2-3-1,Andy Madley,fulham
+9,2020-11-30,17,Matchweek 10,Mon,Away,W,2,1,Leicester City,2.2,1.2,32,,Joachim Andersen,5-4-1,Simon Hooper,fulham
+10,2020-12-05,15,Matchweek 11,Sat,Away,L,0,2,Manchester City,0.3,2.9,31,,Joachim Andersen,3-4-1-2,Jonathan Moss,fulham
+11,2020-12-13,16,Matchweek 12,Sun,Home,D,1,1,Liverpool,1.5,1.8,26,2000.0,Joachim Andersen,3-4-3,Andre Marriner,fulham
+12,2020-12-16,20,Matchweek 13,Wed,Home,D,0,0,Brighton,1.0,0.5,46,,Joachim Andersen,3-4-3,Robert Jones,fulham
+13,2020-12-19,20,Matchweek 14,Sat,Away,D,1,1,Newcastle Utd,1.0,1.4,51,,Tom Cairney,3-4-3,Graham Scott,fulham
+14,2020-12-26,15,Matchweek 15,Sat,Home,D,0,0,Southampton,0.7,0.2,47,,Joachim Andersen,3-5-2,Darren England,fulham
+15,2021-01-13,20,Matchweek 16,Wed,Away,D,1,1,Tottenham,1.1,2.4,47,,Joachim Andersen,3-5-2,Paul Tierney,fulham
+16,2021-01-16,17,Matchweek 19,Sat,Home,L,0,1,Chelsea,0.7,1.6,31,,Joachim Andersen,5-4-1,Peter Bankes,fulham
+17,2021-01-20,20,Matchweek 18,Wed,Home,L,1,2,Manchester Utd,0.9,1.7,38,,Joachim Andersen,3-4-3,Martin Atkinson,fulham
+18,2021-01-27,19,Matchweek 20,Wed,Away,D,0,0,Brighton,0.5,1.8,50,,Joachim Andersen,3-4-3,Craig Pawson,fulham
+19,2021-01-30,15,Matchweek 21,Sat,Away,D,2,2,West Brom,1.3,1.0,62,,Joachim Andersen,3-4-3,Anthony Taylor,fulham
+20,2021-02-03,18,Matchweek 22,Wed,Home,L,0,2,Leicester City,0.6,1.4,57,,Joachim Andersen,3-4-3,Robert Jones,fulham
+21,2021-02-06,17,Matchweek 23,Sat,Home,D,0,0,West Ham,1.5,1.0,60,,Joachim Andersen,4-2-3-1,Mike Dean,fulham
+22,2021-02-14,19,Matchweek 24,Sun,Away,W,2,0,Everton,2.5,0.3,50,,Joachim Andersen,4-4-2,Andy Madley,fulham
+23,2021-02-17,18,Matchweek 17,Wed,Away,D,1,1,Burnley,0.5,0.9,53,,Joachim Andersen,4-4-1-1,Jonathan Moss,fulham
+24,2021-02-20,20,Matchweek 25,Sat,Home,W,1,0,Sheffield Utd,1.2,0.9,64,,Joachim Andersen,4-2-3-1,Martin Atkinson,fulham
+25,2021-02-28,12,Matchweek 26,Sun,Away,D,0,0,Crystal Palace,1.4,0.1,60,,Joachim Andersen,4-2-3-1,Anthony Taylor,fulham
+26,2021-03-04,18,Matchweek 33,Thu,Home,L,0,1,Tottenham,0.7,1.6,60,,Joachim Andersen,4-4-2,David Coote,fulham
+27,2021-03-07,14,Matchweek 27,Sun,Away,W,1,0,Liverpool,1.3,0.9,37,,Joachim Andersen,4-4-2,Kevin Friend,fulham
+28,2021-03-13,20,Matchweek 28,Sat,Home,L,0,3,Manchester City,0.3,2.2,46,,Joachim Andersen,4-3-3,Andre Marriner,fulham
+29,2021-03-19,20,Matchweek 29,Fri,Home,L,1,2,Leeds United,1.6,1.3,51,,Joachim Andersen,4-2-3-1,David Coote,fulham
+30,2021-04-04,16,Matchweek 30,Sun,Away,L,1,3,Aston Villa,1.0,1.5,47,,Joachim Andersen,4-2-3-1,Andy Madley,fulham
+31,2021-04-09,20,Matchweek 31,Fri,Home,L,0,1,Wolves,0.9,0.5,50,,Joachim Andersen,3-4-3,Jonathan Moss,fulham
+32,2021-04-18,13,Matchweek 32,Sun,Away,D,1,1,Arsenal,0.9,2.7,31,,Joachim Andersen,4-4-2,Craig Pawson,fulham
+33,2021-05-01,17,Matchweek 34,Sat,Away,L,0,2,Chelsea,0.3,1.7,51,,Joachim Andersen,4-2-3-1,Kevin Friend,fulham
+34,2021-05-10,20,Matchweek 35,Mon,Home,L,0,2,Burnley,1.0,1.5,68,,Joachim Andersen,4-2-3-1,David Coote,fulham
+35,2021-05-15,15,Matchweek 36,Sat,Away,L,1,3,Southampton,0.8,1.6,53,,Joachim Andersen,3-4-3,Craig Pawson,fulham
+36,2021-05-18,18,Matchweek 37,Tue,Away,D,1,1,Manchester Utd,0.9,0.9,43,10000.0,Tim Ream,3-4-3,Lee Mason,fulham
+37,2021-05-23,16,Matchweek 38,Sun,Home,L,0,2,Newcastle Utd,1.0,1.3,64,2000.0,Tim Ream,3-4-3,Chris Kavanagh,fulham
+0,2020-09-13,14,Matchweek 1,Sun,Home,L,0,3,Leicester City,0.4,2.8,36,,Jake Livermore,5-4-1,Anthony Taylor,west brom
+1,2020-09-19,12,Matchweek 2,Sat,Away,L,2,5,Everton,0.3,3.9,29,,Jake Livermore,5-4-1,Mike Dean,west brom
+2,2020-09-26,17,Matchweek 3,Sat,Home,D,3,3,Chelsea,0.6,2.0,25,,Jake Livermore,5-4-1,Jonathan Moss,west brom
+3,2020-10-04,12,Matchweek 4,Sun,Away,L,0,2,Southampton,0.2,1.2,38,,Jake Livermore,4-2-3-1,Chris Kavanagh,west brom
+4,2020-10-19,17,Matchweek 5,Mon,Home,D,0,0,Burnley,0.8,1.1,57,,Jake Livermore,4-1-4-1,Anthony Taylor,west brom
+5,2020-10-26,17,Matchweek 6,Mon,Away,D,1,1,Brighton,0.4,0.5,50,,Jake Livermore,4-1-4-1,Jonathan Moss,west brom
+6,2020-11-02,17,Matchweek 7,Mon,Away,L,0,2,Fulham,0.5,1.5,53,,Jake Livermore,4-1-4-1,Simon Hooper,west brom
+7,2020-11-08,12,Matchweek 8,Sun,Home,L,0,1,Tottenham,0.8,1.9,42,,Jake Livermore,5-3-2,Andy Madley,west brom
+8,2020-11-21,20,Matchweek 9,Sat,Away,L,0,1,Manchester Utd,0.6,2.4,37,,Kyle Bartley,5-4-1,David Coote,west brom
+9,2020-11-28,20,Matchweek 10,Sat,Home,W,1,0,Sheffield Utd,1.2,2.9,49,,Kyle Bartley,3-4-1-2,Mike Dean,west brom
+10,2020-12-06,12,Matchweek 11,Sun,Home,L,1,5,Crystal Palace,0.7,1.6,50,,Kyle Bartley,3-4-1-2,Paul Tierney,west brom
+11,2020-12-12,15,Matchweek 12,Sat,Away,L,1,2,Newcastle Utd,0.6,0.8,54,,Branislav Ivanović,3-5-2,Darren England,west brom
+12,2020-12-15,20,Matchweek 13,Tue,Away,D,1,1,Manchester City,0.4,2.2,23,,Jake Livermore,4-1-4-1,Peter Bankes,west brom
+13,2020-12-20,19,Matchweek 14,Sun,Home,L,0,3,Aston Villa,0.0,2.4,33,,Jake Livermore,4-1-4-1,Martin Atkinson,west brom
+14,2020-12-27,16,Matchweek 15,Sun,Away,D,1,1,Liverpool,0.6,1.5,23,2000.0,Matt Phillips,4-5-1,Kevin Friend,west brom
+15,2020-12-29,18,Matchweek 16,Tue,Home,L,0,5,Leeds United,0.5,1.2,25,,Matt Phillips,4-1-4-1,Lee Mason,west brom
+16,2021-01-02,20,Matchweek 17,Sat,Home,L,0,4,Arsenal,1.0,3.7,39,,Matt Phillips,4-4-1-1,Martin Atkinson,west brom
+17,2021-01-16,12,Matchweek 19,Sat,Away,W,3,2,Wolves,2.4,1.5,33,,Jake Livermore,4-2-3-1,Michael Oliver,west brom
+18,2021-01-19,18,Matchweek 18,Tue,Away,L,1,2,West Ham,0.5,2.0,41,,Jake Livermore,4-4-1-1,Graham Scott,west brom
+19,2021-01-26,20,Matchweek 20,Tue,Home,L,0,5,Manchester City,0.5,1.8,23,,Jake Livermore,4-4-1-1,Chris Kavanagh,west brom
+20,2021-01-30,15,Matchweek 21,Sat,Home,D,2,2,Fulham,1.0,1.3,38,,Jake Livermore,3-5-2,Anthony Taylor,west brom
+21,2021-02-02,18,Matchweek 22,Tue,Away,L,1,2,Sheffield Utd,1.6,1.3,32,,Jake Livermore,4-4-1-1,Paul Tierney,west brom
+22,2021-02-07,12,Matchweek 23,Sun,Away,L,0,2,Tottenham,0.6,1.5,35,,Kyle Bartley,4-1-4-1,Stuart Attwell,west brom
+23,2021-02-14,14,Matchweek 24,Sun,Home,D,1,1,Manchester Utd,1.0,0.5,27,,Kyle Bartley,4-1-4-1,Craig Pawson,west brom
+24,2021-02-20,15,Matchweek 25,Sat,Away,D,0,0,Burnley,1.6,0.5,38,,Kyle Bartley,4-1-4-1,Mike Dean,west brom
+25,2021-02-27,15,Matchweek 26,Sat,Home,W,1,0,Brighton,0.8,2.9,32,,Kyle Bartley,4-1-4-1,Lee Mason,west brom
+26,2021-03-04,18,Matchweek 29,Thu,Home,L,0,1,Everton,1.0,1.0,49,,Kyle Bartley,4-1-4-1,Darren England,west brom
+27,2021-03-07,12,Matchweek 27,Sun,Home,D,0,0,Newcastle Utd,2.0,0.5,53,,Kyle Bartley,4-1-4-1,Martin Atkinson,west brom
+28,2021-03-13,15,Matchweek 28,Sat,Away,L,0,1,Crystal Palace,0.8,1.2,55,,Kyle Bartley,4-1-4-1,Simon Hooper,west brom
+29,2021-04-03,12,Matchweek 30,Sat,Away,W,5,2,Chelsea,1.6,2.1,35,,Kyle Bartley,5-4-1,David Coote,west brom
+30,2021-04-12,18,Matchweek 31,Mon,Home,W,3,0,Southampton,3.0,1.5,40,,Kyle Bartley,4-4-1-1,Simon Hooper,west brom
+31,2021-04-22,20,Matchweek 32,Thu,Away,L,0,3,Leicester City,0.5,2.1,28,,Kyle Bartley,4-4-1-1,Andy Madley,west brom
+32,2021-04-25,19,Matchweek 33,Sun,Away,D,2,2,Aston Villa,1.5,3.2,30,,Kyle Bartley,4-1-4-1,Stuart Attwell,west brom
+33,2021-05-03,18,Matchweek 34,Mon,Home,D,1,1,Wolves,1.1,1.0,43,,Kyle Bartley,3-5-1-1,Paul Tierney,west brom
+34,2021-05-09,19,Matchweek 35,Sun,Away,L,1,3,Arsenal,1.8,0.9,35,,Kyle Bartley,4-4-1-1,Peter Bankes,west brom
+35,2021-05-16,16,Matchweek 36,Sun,Home,L,1,2,Liverpool,1.0,1.9,24,,Kyle Bartley,4-4-1-1,Mike Dean,west brom
+36,2021-05-19,20,Matchweek 37,Wed,Home,L,1,3,West Ham,1.1,3.4,52,5371.0,Kyle Bartley,4-4-1-1,Michael Oliver,west brom
+37,2021-05-23,16,Matchweek 38,Sun,Away,L,1,3,Leeds United,1.0,2.3,36,8000.0,Kyle Bartley,5-3-2,David Coote,west brom
+0,2020-09-14,18,Matchweek 1,Mon,Home,L,0,2,Wolves,1.0,1.4,55,,Billy Sharp,3-5-2,Mike Dean,sheffield utd
+1,2020-09-21,18,Matchweek 2,Mon,Away,L,0,1,Aston Villa,0.9,1.0,29,,John Egan,3-5-2,Graham Scott,sheffield utd
+2,2020-09-27,12,Matchweek 3,Sun,Home,L,0,1,Leeds United,1.4,1.2,36,,David McGoldrick,3-5-2,Paul Tierney,sheffield utd
+3,2020-10-04,14,Matchweek 4,Sun,Away,L,1,2,Arsenal,0.2,0.6,36,,John Egan,3-5-2,Lee Mason,sheffield utd
+4,2020-10-18,12,Matchweek 5,Sun,Home,D,1,1,Fulham,1.7,1.5,42,,John Egan,3-5-2,Andre Marriner,sheffield utd
+5,2020-10-24,20,Matchweek 6,Sat,Away,L,1,2,Liverpool,1.6,2.3,38,,John Egan,3-5-2,Mike Dean,sheffield utd
+6,2020-10-31,12,Matchweek 7,Sat,Home,L,0,1,Manchester City,0.5,1.6,35,,John Egan,5-3-2,Michael Oliver,sheffield utd
+7,2020-11-07,17,Matchweek 8,Sat,Away,L,1,4,Chelsea,0.4,2.2,31,,John Egan,3-5-2,Jonathan Moss,sheffield utd
+8,2020-11-22,14,Matchweek 9,Sun,Home,L,0,1,West Ham,0.9,2.1,51,,John Egan,3-5-2,Martin Atkinson,sheffield utd
+9,2020-11-28,20,Matchweek 10,Sat,Away,L,0,1,West Brom,2.9,1.2,51,,John Egan,3-5-2,Mike Dean,sheffield utd
+10,2020-12-06,14,Matchweek 11,Sun,Home,L,1,2,Leicester City,0.2,1.4,31,,John Egan,5-3-2,Stuart Attwell,sheffield utd
+11,2020-12-13,12,Matchweek 12,Sun,Away,L,0,3,Southampton,0.3,2.0,33,2000.0,Billy Sharp,5-3-2,Andy Madley,sheffield utd
+12,2020-12-17,20,Matchweek 13,Thu,Home,L,2,3,Manchester Utd,1.5,1.9,40,,John Egan,5-3-2,Michael Oliver,sheffield utd
+13,2020-12-20,12,Matchweek 14,Sun,Away,D,1,1,Brighton,0.5,2.8,27,,John Egan,5-3-2,Peter Bankes,sheffield utd
+14,2020-12-26,20,Matchweek 15,Sat,Home,L,0,1,Everton,1.4,0.7,44,,John Egan,3-4-3,David Coote,sheffield utd
+15,2020-12-29,18,Matchweek 16,Tue,Away,L,0,1,Burnley,0.7,1.0,63,,John Egan,3-4-3,Chris Kavanagh,sheffield utd
+16,2021-01-02,15,Matchweek 17,Sat,Away,L,0,2,Crystal Palace,0.4,0.6,56,,John Egan,3-5-2,Stuart Attwell,sheffield utd
+17,2021-01-12,18,Matchweek 18,Tue,Home,W,1,0,Newcastle Utd,2.1,0.6,65,,John Egan,3-5-2,Andy Madley,sheffield utd
+18,2021-01-17,14,Matchweek 19,Sun,Home,L,1,3,Tottenham,0.9,1.0,43,,John Egan,3-5-2,Andre Marriner,sheffield utd
+19,2021-01-27,20,Matchweek 20,Wed,Away,W,2,1,Manchester Utd,1.0,1.1,25,,Billy Sharp,3-5-2,Peter Bankes,sheffield utd
+20,2021-01-30,15,Matchweek 21,Sat,Away,L,0,1,Manchester City,0.2,1.5,25,,John Egan,5-3-2,David Coote,sheffield utd
+21,2021-02-02,18,Matchweek 22,Tue,Home,W,2,1,West Brom,1.3,1.6,68,,Billy Sharp,3-5-2,Paul Tierney,sheffield utd
+22,2021-02-07,19,Matchweek 23,Sun,Home,L,1,2,Chelsea,0.6,1.6,32,,John Egan,3-5-2,Kevin Friend,sheffield utd
+23,2021-02-15,18,Matchweek 24,Mon,Away,L,0,3,West Ham,0.7,1.9,54,,Billy Sharp,3-5-2,Simon Hooper,sheffield utd
+24,2021-02-20,20,Matchweek 25,Sat,Away,L,0,1,Fulham,0.9,1.2,36,,Billy Sharp,3-5-2,Martin Atkinson,sheffield utd
+25,2021-02-28,19,Matchweek 26,Sun,Home,L,0,2,Liverpool,0.7,2.7,40,,David McGoldrick,3-5-2,Jonathan Moss,sheffield utd
+26,2021-03-03,18,Matchweek 29,Wed,Home,W,1,0,Aston Villa,0.9,2.3,28,,David McGoldrick,3-5-2,Robert Jones,sheffield utd
+27,2021-03-06,15,Matchweek 27,Sat,Home,L,0,2,Southampton,0.7,1.9,51,,David McGoldrick,3-5-2,Paul Tierney,sheffield utd
+28,2021-03-14,14,Matchweek 28,Sun,Away,L,0,5,Leicester City,0.1,4.0,29,,Billy Sharp,3-5-2,Peter Bankes,sheffield utd
+29,2021-04-03,15,Matchweek 30,Sat,Away,L,1,2,Leeds United,1.1,2.4,46,,David McGoldrick,3-5-2,Graham Scott,sheffield utd
+30,2021-04-11,19,Matchweek 31,Sun,Home,L,0,3,Arsenal,0.3,1.7,45,,John Egan,3-5-2,Peter Bankes,sheffield utd
+31,2021-04-17,20,Matchweek 32,Sat,Away,L,0,1,Wolves,0.5,1.1,52,,John Egan,3-4-3,Robert Jones,sheffield utd
+32,2021-04-24,20,Matchweek 33,Sat,Home,W,1,0,Brighton,0.7,2.0,32,,John Egan,3-4-1-2,Kevin Friend,sheffield utd
+33,2021-05-02,19,Matchweek 34,Sun,Away,L,0,4,Tottenham,0.5,2.2,34,,John Egan,3-4-1-2,Andre Marriner,sheffield utd
+34,2021-05-08,15,Matchweek 35,Sat,Home,L,0,2,Crystal Palace,0.7,2.0,50,,John Egan,3-5-2,Simon Hooper,sheffield utd
+35,2021-05-16,19,Matchweek 36,Sun,Away,W,1,0,Everton,1.2,1.4,38,,John Egan,3-4-3,Jonathan Moss,sheffield utd
+36,2021-05-19,18,Matchweek 37,Wed,Away,L,0,1,Newcastle Utd,0.9,1.6,49,10000.0,John Egan,3-4-3,Robert Jones,sheffield utd
+37,2021-05-23,16,Matchweek 38,Sun,Home,W,1,0,Burnley,0.5,1.1,43,5000.0,John Egan,3-4-3,Kevin Friend,sheffield utd
+0,2021-08-15,16,Matchweek 1,Sun,Away,L,0,1,Tottenham,1.8,1.0,65,58262.0,Fernandinho,4-3-3,Anthony Taylor,manchester city
+1,2021-08-21,15,Matchweek 2,Sat,Home,W,5,0,Norwich City,2.6,0.1,67,51437.0,İlkay Gündoğan,4-3-3,Graham Scott,manchester city
+2,2021-08-28,12,Matchweek 3,Sat,Home,W,5,0,Arsenal,4.4,0.2,80,52276.0,İlkay Gündoğan,4-3-3,Martin Atkinson,manchester city
+3,2021-09-11,15,Matchweek 4,Sat,Away,W,1,0,Leicester City,2.8,0.6,61,32087.0,İlkay Gündoğan,4-3-3,Paul Tierney,manchester city
+4,2021-09-18,15,Matchweek 5,Sat,Home,D,0,0,Southampton,1.0,0.4,64,52698.0,Fernandinho,4-3-3,Jonathan Moss,manchester city
+5,2021-09-25,12,Matchweek 6,Sat,Away,W,1,0,Chelsea,1.7,0.2,59,40036.0,Rúben Dias,4-3-3,Michael Oliver,manchester city
+6,2021-10-03,16,Matchweek 7,Sun,Away,D,2,2,Liverpool,1.2,0.9,51,53102.0,Rúben Dias,4-3-3,Paul Tierney,manchester city
+7,2021-10-16,15,Matchweek 8,Sat,Home,W,2,0,Burnley,2.1,0.9,70,52711.0,Kevin De Bruyne,4-3-3,Martin Atkinson,manchester city
+8,2021-10-23,17,Matchweek 9,Sat,Away,W,4,1,Brighton,3.8,1.3,52,31215.0,İlkay Gündoğan,4-3-3,Kevin Friend,manchester city
+9,2021-10-30,15,Matchweek 10,Sat,Home,L,0,2,Crystal Palace,0.7,0.7,68,53014.0,Rúben Dias,4-3-3,Andre Marriner,manchester city
+10,2021-11-06,12,Matchweek 11,Sat,Away,W,2,0,Manchester Utd,1.6,0.9,67,73086.0,İlkay Gündoğan,4-3-3,Michael Oliver,manchester city
+11,2021-11-21,14,Matchweek 12,Sun,Home,W,3,0,Everton,2.5,0.2,77,52571.0,İlkay Gündoğan,4-3-3,Stuart Attwell,manchester city
+12,2021-11-28,14,Matchweek 13,Sun,Home,W,2,1,West Ham,2.1,0.2,68,53245.0,İlkay Gündoğan,4-3-3,Michael Oliver,manchester city
+13,2021-12-01,20,Matchweek 14,Wed,Away,W,2,1,Aston Villa,1.0,0.8,64,41400.0,Fernandinho,4-2-3-1,Mike Dean,manchester city
+14,2021-12-04,17,Matchweek 15,Sat,Away,W,3,1,Watford,3.1,0.8,77,20673.0,İlkay Gündoğan,4-3-3,Simon Hooper,manchester city
+15,2021-12-11,12,Matchweek 16,Sat,Home,W,1,0,Wolves,3.2,0.2,71,52613.0,İlkay Gündoğan,4-3-3,Jonathan Moss,manchester city
+16,2021-12-14,20,Matchweek 17,Tue,Home,W,7,0,Leeds United,3.1,0.3,63,52401.0,Rúben Dias,4-2-3-1,Paul Tierney,manchester city
+17,2021-12-19,14,Matchweek 18,Sun,Away,W,4,0,Newcastle Utd,2.9,0.3,71,52127.0,Rúben Dias,4-2-3-1,Martin Atkinson,manchester city
+18,2021-12-26,15,Matchweek 19,Sun,Home,W,6,3,Leicester City,3.6,2.7,72,53226.0,Fernandinho,4-3-3,Chris Kavanagh,manchester city
+19,2021-12-29,20,Matchweek 20,Wed,Away,W,1,0,Brentford,1.1,0.4,76,17009.0,Fernandinho,4-3-3,David Coote,manchester city
+20,2022-01-01,12,Matchweek 21,Sat,Away,W,2,1,Arsenal,2.0,0.8,71,59757.0,Rúben Dias,4-2-3-1,Stuart Attwell,manchester city
+21,2022-01-15,12,Matchweek 22,Sat,Home,W,1,0,Chelsea,1.0,0.3,56,53319.0,Kevin De Bruyne,4-2-3-1,Craig Pawson,manchester city
+22,2022-01-22,17,Matchweek 23,Sat,Away,D,1,1,Southampton,1.8,0.8,74,31178.0,Rúben Dias,4-3-3,Simon Hooper,manchester city
+23,2022-02-09,19,Matchweek 24,Wed,Home,W,2,0,Brentford,1.9,0.4,74,51658.0,Rúben Dias,4-3-3,Darren England,manchester city
+24,2022-02-12,17,Matchweek 25,Sat,Away,W,4,0,Norwich City,4.6,0.4,71,27010.0,Fernandinho,4-3-3,Andre Marriner,manchester city
+25,2022-02-19,17,Matchweek 26,Sat,Home,L,2,3,Tottenham,2.1,1.4,71,53201.0,İlkay Gündoğan,4-3-3,Anthony Taylor,manchester city
+26,2022-02-26,17,Matchweek 27,Sat,Away,W,1,0,Everton,1.8,0.5,67,39105.0,İlkay Gündoğan,4-3-3,Paul Tierney,manchester city
+27,2022-03-06,16,Matchweek 28,Sun,Home,W,4,1,Manchester Utd,2.7,0.5,69,53165.0,Kevin De Bruyne,4-3-3,Michael Oliver,manchester city
+28,2022-03-14,20,Matchweek 29,Mon,Away,D,0,0,Crystal Palace,2.8,0.6,73,25309.0,Kevin De Bruyne,4-3-3,Martin Atkinson,manchester city
+29,2022-04-02,15,Matchweek 31,Sat,Away,W,2,0,Burnley,1.8,0.1,76,21249.0,İlkay Gündoğan,4-3-3,Craig Pawson,manchester city
+30,2022-04-10,16,Matchweek 32,Sun,Home,D,2,2,Liverpool,1.3,1.3,55,53197.0,Kevin De Bruyne,4-2-3-1,Anthony Taylor,manchester city
+31,2022-04-20,20,Matchweek 30,Wed,Home,W,3,0,Brighton,1.3,0.2,65,52226.0,İlkay Gündoğan,4-3-3,Mike Dean,manchester city
+32,2022-04-23,15,Matchweek 34,Sat,Home,W,5,1,Watford,3.6,0.5,73,53013.0,Fernandinho,4-2-3-1,Kevin Friend,manchester city
+33,2022-04-30,17,Matchweek 35,Sat,Away,W,4,0,Leeds United,2.4,1.3,58,35771.0,İlkay Gündoğan,4-2-3-1,Paul Tierney,manchester city
+34,2022-05-08,16,Matchweek 36,Sun,Home,W,5,0,Newcastle Utd,3.1,0.8,71,53336.0,İlkay Gündoğan,4-2-3-1,Stuart Attwell,manchester city
+35,2022-05-11,20,Matchweek 33,Wed,Away,W,5,1,Wolves,2.3,0.5,66,32000.0,Fernandinho,4-2-3-1,Martin Atkinson,manchester city
+36,2022-05-15,14,Matchweek 37,Sun,Away,D,2,2,West Ham,2.4,1.1,78,59972.0,Fernandinho,4-3-3,Anthony Taylor,manchester city
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,3,2,Aston Villa,3.4,0.2,71,53395.0,Fernandinho,4-3-3,Michael Oliver,manchester city
+0,2021-08-14,17,Matchweek 1,Sat,Away,W,3,0,Norwich City,1.6,1.4,50,27023.0,James Milner,4-3-3,Andre Marriner,liverpool
+1,2021-08-21,12,Matchweek 2,Sat,Home,W,2,0,Burnley,2.7,0.9,65,52591.0,Jordan Henderson,4-3-3,Mike Dean,liverpool
+2,2021-08-28,17,Matchweek 3,Sat,Home,D,1,1,Chelsea,2.5,0.6,65,54000.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+3,2021-09-12,16,Matchweek 4,Sun,Away,W,3,0,Leeds United,4.3,1.2,56,36507.0,Virgil van Dijk,4-3-3,Craig Pawson,liverpool
+4,2021-09-18,15,Matchweek 5,Sat,Home,W,3,0,Crystal Palace,3.1,0.6,59,52000.0,Jordan Henderson,4-3-3,Andy Madley,liverpool
+5,2021-09-25,17,Matchweek 6,Sat,Away,D,3,3,Brentford,2.8,2.1,67,16876.0,Jordan Henderson,4-3-3,Stuart Attwell,liverpool
+6,2021-10-03,16,Matchweek 7,Sun,Home,D,2,2,Manchester City,0.9,1.2,49,53102.0,Jordan Henderson,4-3-3,Paul Tierney,liverpool
+7,2021-10-16,12,Matchweek 8,Sat,Away,W,5,0,Watford,3.3,0.5,75,21085.0,Jordan Henderson,4-3-3,Jonathan Moss,liverpool
+8,2021-10-24,16,Matchweek 9,Sun,Away,W,5,0,Manchester Utd,3.4,1.6,62,73088.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+9,2021-10-30,15,Matchweek 10,Sat,Home,D,2,2,Brighton,1.5,1.0,58,52598.0,Jordan Henderson,4-3-3,Mike Dean,liverpool
+10,2021-11-07,16,Matchweek 11,Sun,Away,L,2,3,West Ham,1.2,1.0,69,59909.0,Jordan Henderson,4-3-3,Craig Pawson,liverpool
+11,2021-11-20,17,Matchweek 12,Sat,Home,W,4,0,Arsenal,4.3,0.4,62,53092.0,Virgil van Dijk,4-3-3,Michael Oliver,liverpool
+12,2021-11-27,15,Matchweek 13,Sat,Home,W,4,0,Southampton,2.9,1.0,64,53040.0,Jordan Henderson,4-3-3,Andre Marriner,liverpool
+13,2021-12-01,20,Matchweek 14,Wed,Away,W,4,1,Everton,2.4,0.7,67,39641.0,Jordan Henderson,4-3-3,Paul Tierney,liverpool
+14,2021-12-04,15,Matchweek 15,Sat,Away,W,1,0,Wolves,2.7,0.1,66,30729.0,Jordan Henderson,4-3-3,Chris Kavanagh,liverpool
+15,2021-12-11,15,Matchweek 16,Sat,Home,W,1,0,Aston Villa,2.2,0.2,62,53093.0,Jordan Henderson,4-3-3,Stuart Attwell,liverpool
+16,2021-12-16,20,Matchweek 17,Thu,Home,W,3,1,Newcastle Utd,2.7,0.3,74,52951.0,Jordan Henderson,4-3-3,Mike Dean,liverpool
+17,2021-12-19,16,Matchweek 18,Sun,Away,D,2,2,Tottenham,1.1,3.0,56,45421.0,James Milner,4-3-3,Paul Tierney,liverpool
+18,2021-12-28,20,Matchweek 20,Tue,Away,L,0,1,Leicester City,2.3,0.4,63,32230.0,Jordan Henderson,4-3-3,Michael Oliver,liverpool
+19,2022-01-02,16,Matchweek 21,Sun,Away,D,2,2,Chelsea,1.3,1.2,46,40072.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+20,2022-01-16,14,Matchweek 22,Sun,Home,W,3,0,Brentford,2.7,0.7,68,52824.0,Jordan Henderson,4-3-3,Jonathan Moss,liverpool
+21,2022-01-23,14,Matchweek 23,Sun,Away,W,3,1,Crystal Palace,1.9,2.2,57,25002.0,Jordan Henderson,4-3-3,Kevin Friend,liverpool
+22,2022-02-10,19,Matchweek 24,Thu,Home,W,2,0,Leicester City,1.8,0.5,64,53050.0,Virgil van Dijk,4-3-3,Chris Kavanagh,liverpool
+23,2022-02-13,14,Matchweek 25,Sun,Away,W,1,0,Burnley,1.7,1.5,66,19563.0,Jordan Henderson,4-3-3,Martin Atkinson,liverpool
+24,2022-02-19,15,Matchweek 26,Sat,Home,W,3,1,Norwich City,3.6,0.6,69,53135.0,Jordan Henderson,4-3-3,Mike Dean,liverpool
+25,2022-02-23,19,Matchweek 19,Wed,Home,W,6,0,Leeds United,5.9,0.2,63,53018.0,Virgil van Dijk,4-3-3,Michael Oliver,liverpool
+26,2022-03-05,17,Matchweek 28,Sat,Home,W,1,0,West Ham,2.4,1.3,68,59925.0,Jordan Henderson,4-3-3,Jonathan Moss,liverpool
+27,2022-03-12,12,Matchweek 29,Sat,Away,W,2,0,Brighton,2.2,0.5,48,31474.0,Jordan Henderson,4-3-3,Mike Dean,liverpool
+28,2022-03-16,20,Matchweek 27,Wed,Away,W,2,0,Arsenal,0.8,0.5,51,59968.0,Jordan Henderson,4-3-3,Andre Marriner,liverpool
+29,2022-04-02,12,Matchweek 31,Sat,Home,W,2,0,Watford,2.2,0.6,73,53104.0,Jordan Henderson,4-3-3,Stuart Attwell,liverpool
+30,2022-04-10,16,Matchweek 32,Sun,Away,D,2,2,Manchester City,1.3,1.3,45,53197.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+31,2022-04-19,20,Matchweek 30,Tue,Home,W,4,0,Manchester Utd,2.0,0.1,71,52686.0,Jordan Henderson,4-3-3,Martin Atkinson,liverpool
+32,2022-04-24,16,Matchweek 34,Sun,Home,W,2,0,Everton,1.7,0.4,82,53213.0,Virgil van Dijk,4-3-3,Stuart Attwell,liverpool
+33,2022-04-30,12,Matchweek 35,Sat,Away,W,1,0,Newcastle Utd,2.3,0.2,64,52281.0,Jordan Henderson,4-3-3,Andre Marriner,liverpool
+34,2022-05-07,19,Matchweek 36,Sat,Home,D,1,1,Tottenham,1.3,0.9,64,53177.0,Jordan Henderson,4-3-3,Michael Oliver,liverpool
+35,2022-05-10,20,Matchweek 33,Tue,Away,W,2,1,Aston Villa,1.8,1.4,60,41919.0,Virgil van Dijk,4-3-3,Jonathan Moss,liverpool
+36,2022-05-17,19,Matchweek 37,Tue,Away,W,2,1,Southampton,1.3,0.1,70,31588.0,James Milner,4-3-3,Martin Atkinson,liverpool
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,3,1,Wolves,2.7,1.3,63,53097.0,Jordan Henderson,4-3-3,Anthony Taylor,liverpool
+0,2021-08-14,15,Matchweek 1,Sat,Home,W,3,0,Crystal Palace,0.7,0.2,62,38965.0,César Azpilicueta,3-4-3,Jonathan Moss,chelsea
+1,2021-08-22,16,Matchweek 2,Sun,Away,W,2,0,Arsenal,3.1,0.3,65,58729.0,César Azpilicueta,3-4-3,Paul Tierney,chelsea
+2,2021-08-28,17,Matchweek 3,Sat,Away,D,1,1,Liverpool,0.6,2.5,35,54000.0,César Azpilicueta,3-4-3,Anthony Taylor,chelsea
+3,2021-09-11,17,Matchweek 4,Sat,Home,W,3,0,Aston Villa,1.3,1.2,57,39969.0,Marcos Alonso,3-4-3,Stuart Attwell,chelsea
+4,2021-09-19,16,Matchweek 5,Sun,Away,W,3,0,Tottenham,2.1,0.5,53,60059.0,César Azpilicueta,3-4-3,Paul Tierney,chelsea
+5,2021-09-25,12,Matchweek 6,Sat,Home,L,0,1,Manchester City,0.2,1.7,41,40036.0,César Azpilicueta,3-5-2,Michael Oliver,chelsea
+6,2021-10-02,15,Matchweek 7,Sat,Home,W,3,1,Southampton,3.3,1.3,62,40109.0,César Azpilicueta,3-4-3,Martin Atkinson,chelsea
+7,2021-10-16,17,Matchweek 8,Sat,Away,W,1,0,Brentford,0.3,1.4,55,16940.0,César Azpilicueta,3-5-2,Anthony Taylor,chelsea
+8,2021-10-23,12,Matchweek 9,Sat,Home,W,7,0,Norwich City,3.1,0.1,62,40113.0,Jorginho,3-4-3,Andy Madley,chelsea
+9,2021-10-30,15,Matchweek 10,Sat,Away,W,3,0,Newcastle Utd,2.2,0.2,79,52208.0,Jorginho,3-4-3,Paul Tierney,chelsea
+10,2021-11-06,15,Matchweek 11,Sat,Home,D,1,1,Burnley,1.8,0.7,70,39798.0,Jorginho,3-4-1-2,Andre Marriner,chelsea
+11,2021-11-20,12,Matchweek 12,Sat,Away,W,3,0,Leicester City,2.0,0.4,61,35497.0,Jorginho,3-4-3,Paul Tierney,chelsea
+12,2021-11-28,16,Matchweek 13,Sun,Home,D,1,1,Manchester Utd,2.7,0.9,65,40041.0,Jorginho,3-4-3,Anthony Taylor,chelsea
+13,2021-12-01,19,Matchweek 14,Wed,Away,W,2,1,Watford,0.9,1.0,49,20388.0,César Azpilicueta,3-4-3,David Coote,chelsea
+14,2021-12-04,12,Matchweek 15,Sat,Away,L,2,3,West Ham,1.1,1.8,63,59942.0,Jorginho,3-4-3,Andre Marriner,chelsea
+15,2021-12-11,15,Matchweek 16,Sat,Home,W,3,2,Leeds United,2.5,1.4,57,39959.0,César Azpilicueta,3-4-3,Chris Kavanagh,chelsea
+16,2021-12-16,19,Matchweek 17,Thu,Home,D,1,1,Everton,2.9,0.6,80,13933.0,César Azpilicueta,3-4-3,Michael Oliver,chelsea
+17,2021-12-19,14,Matchweek 18,Sun,Away,D,0,0,Wolves,0.9,0.2,63,30631.0,César Azpilicueta,3-4-3,David Coote,chelsea
+18,2021-12-26,17,Matchweek 19,Sun,Away,W,3,1,Aston Villa,2.6,0.4,58,41907.0,Jorginho,3-4-3,Martin Atkinson,chelsea
+19,2021-12-29,19,Matchweek 20,Wed,Home,D,1,1,Brighton,0.7,0.9,47,40080.0,César Azpilicueta,3-4-3,Mike Dean,chelsea
+20,2022-01-02,16,Matchweek 21,Sun,Home,D,2,2,Liverpool,1.2,1.3,54,40072.0,César Azpilicueta,3-4-3,Anthony Taylor,chelsea
+21,2022-01-15,12,Matchweek 22,Sat,Away,L,0,1,Manchester City,0.3,1.0,44,53319.0,César Azpilicueta,3-4-3,Craig Pawson,chelsea
+22,2022-01-18,20,Matchweek 24,Tue,Away,D,1,1,Brighton,0.7,0.7,56,30880.0,César Azpilicueta,4-2-2-2,Kevin Friend,chelsea
+23,2022-01-23,16,Matchweek 23,Sun,Home,W,2,0,Tottenham,1.2,0.5,64,40020.0,César Azpilicueta,4-3-3,Paul Tierney,chelsea
+24,2022-02-19,15,Matchweek 26,Sat,Away,W,1,0,Crystal Palace,0.9,0.5,58,25109.0,Jorginho,4-3-3,David Coote,chelsea
+25,2022-03-05,15,Matchweek 28,Sat,Away,W,4,0,Burnley,2.3,0.7,72,19439.0,Jorginho,3-4-3,Andre Marriner,chelsea
+26,2022-03-10,19,Matchweek 30,Thu,Away,W,3,1,Norwich City,1.8,1.0,66,26684.0,César Azpilicueta,3-4-3,Martin Atkinson,chelsea
+27,2022-03-13,14,Matchweek 29,Sun,Home,W,1,0,Newcastle Utd,1.1,0.3,71,40026.0,Jorginho,4-3-3,David Coote,chelsea
+28,2022-04-02,15,Matchweek 31,Sat,Home,L,1,4,Brentford,1.3,1.8,70,39061.0,César Azpilicueta,4-3-3,Andy Madley,chelsea
+29,2022-04-09,15,Matchweek 32,Sat,Away,W,6,0,Southampton,4.2,0.5,70,31359.0,N'Golo Kanté,3-4-1-2,Kevin Friend,chelsea
+30,2022-04-20,19,Matchweek 25,Wed,Home,L,2,4,Arsenal,0.7,2.0,67,32249.0,César Azpilicueta,3-4-1-2,Jonathan Moss,chelsea
+31,2022-04-24,14,Matchweek 34,Sun,Home,W,1,0,West Ham,3.0,0.5,66,32231.0,César Azpilicueta,3-4-1-2,Michael Oliver,chelsea
+32,2022-04-28,19,Matchweek 37,Thu,Away,D,1,1,Manchester Utd,1.9,0.5,64,73564.0,César Azpilicueta,3-4-1-2,Mike Dean,chelsea
+33,2022-05-01,14,Matchweek 35,Sun,Away,L,0,1,Everton,0.8,0.8,77,39256.0,César Azpilicueta,3-4-1-2,Kevin Friend,chelsea
+34,2022-05-07,15,Matchweek 36,Sat,Home,D,2,2,Wolves,1.7,2.0,59,32190.0,César Azpilicueta,3-4-1-2,Peter Bankes,chelsea
+35,2022-05-11,19,Matchweek 33,Wed,Away,W,3,0,Leeds United,1.3,0.4,67,36549.0,Jorginho,3-4-3,Anthony Taylor,chelsea
+36,2022-05-19,20,Matchweek 27,Thu,Home,D,1,1,Leicester City,1.6,0.1,67,31478.0,Jorginho,3-4-3,Stuart Attwell,chelsea
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,2,1,Watford,2.2,0.6,71,32089.0,César Azpilicueta,3-4-3,Mike Dean,chelsea
+0,2021-08-15,16,Matchweek 1,Sun,Home,W,1,0,Manchester City,1.0,1.8,35,58262.0,Hugo Lloris,4-3-3,Anthony Taylor,tottenham
+1,2021-08-22,14,Matchweek 2,Sun,Away,W,1,0,Wolves,1.7,1.7,42,30368.0,Hugo Lloris,4-3-3,Stuart Attwell,tottenham
+2,2021-08-29,14,Matchweek 3,Sun,Home,W,1,0,Watford,1.0,0.8,57,57672.0,Hugo Lloris,4-3-3,Andre Marriner,tottenham
+3,2021-09-11,12,Matchweek 4,Sat,Away,L,0,3,Crystal Palace,0.1,2.1,38,26000.0,Hugo Lloris,4-1-2-1-2◆,Jonathan Moss,tottenham
+4,2021-09-19,16,Matchweek 5,Sun,Home,L,0,3,Chelsea,0.5,2.1,47,60059.0,Hugo Lloris,4-3-2-1,Paul Tierney,tottenham
+5,2021-09-26,16,Matchweek 6,Sun,Away,L,1,3,Arsenal,1.0,1.1,54,59919.0,Hugo Lloris,4-3-3,Craig Pawson,tottenham
+6,2021-10-03,14,Matchweek 7,Sun,Home,W,2,1,Aston Villa,1.3,1.2,56,53076.0,Hugo Lloris,4-2-3-1,Chris Kavanagh,tottenham
+7,2021-10-17,16,Matchweek 8,Sun,Away,W,3,2,Newcastle Utd,1.7,0.4,64,52214.0,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham
+8,2021-10-24,14,Matchweek 9,Sun,Away,L,0,1,West Ham,0.7,1.3,62,59924.0,Hugo Lloris,4-2-3-1,Paul Tierney,tottenham
+9,2021-10-30,17,Matchweek 10,Sat,Home,L,0,3,Manchester Utd,1.0,1.5,58,60356.0,Hugo Lloris,4-2-3-1,Stuart Attwell,tottenham
+10,2021-11-07,14,Matchweek 11,Sun,Away,D,0,0,Everton,0.7,0.6,55,39059.0,Hugo Lloris,3-4-3,Chris Kavanagh,tottenham
+11,2021-11-21,16,Matchweek 12,Sun,Home,W,2,1,Leeds United,2.1,1.4,43,58989.0,Hugo Lloris,3-4-3,Andre Marriner,tottenham
+12,2021-12-02,19,Matchweek 14,Thu,Home,W,2,0,Brentford,1.9,0.3,47,54202.0,Hugo Lloris,3-4-3,Jonathan Moss,tottenham
+13,2021-12-05,14,Matchweek 15,Sun,Home,W,3,0,Norwich City,1.6,1.2,41,57088.0,Hugo Lloris,3-4-3,Jarred Gillett,tottenham
+14,2021-12-19,16,Matchweek 18,Sun,Home,D,2,2,Liverpool,3.0,1.1,44,45421.0,Hugo Lloris,5-3-2,Paul Tierney,tottenham
+15,2021-12-26,15,Matchweek 19,Sun,Home,W,3,0,Crystal Palace,2.3,0.2,60,40539.0,Hugo Lloris,3-4-3,Jonathan Moss,tottenham
+16,2021-12-28,15,Matchweek 20,Tue,Away,D,1,1,Southampton,2.3,0.4,65,31304.0,Hugo Lloris,3-4-3,Anthony Taylor,tottenham
+17,2022-01-01,15,Matchweek 21,Sat,Away,W,1,0,Watford,2.2,0.3,74,20391.0,Hugo Lloris,3-4-3,Robert Jones,tottenham
+18,2022-01-19,19,Matchweek 17,Wed,Away,W,3,2,Leicester City,3.1,1.2,51,31986.0,Hugo Lloris,3-5-2,Jonathan Moss,tottenham
+19,2022-01-23,16,Matchweek 23,Sun,Away,L,0,2,Chelsea,0.5,1.2,36,40020.0,Hugo Lloris,4-4-2,Paul Tierney,tottenham
+20,2022-02-09,19,Matchweek 24,Wed,Home,L,2,3,Southampton,1.4,2.2,48,54012.0,Hugo Lloris,3-4-3,David Coote,tottenham
+21,2022-02-13,14,Matchweek 25,Sun,Home,L,0,2,Wolves,1.2,1.3,58,56452.0,Hugo Lloris,3-4-3,Kevin Friend,tottenham
+22,2022-02-19,17,Matchweek 26,Sat,Away,W,3,2,Manchester City,1.4,2.1,29,53201.0,Hugo Lloris,3-4-3,Anthony Taylor,tottenham
+23,2022-02-23,19,Matchweek 13,Wed,Away,L,0,1,Burnley,0.7,0.9,66,19488.0,Hugo Lloris,3-4-3,Graham Scott,tottenham
+24,2022-02-26,12,Matchweek 27,Sat,Away,W,4,0,Leeds United,1.9,1.5,50,36599.0,Hugo Lloris,3-4-3,Craig Pawson,tottenham
+25,2022-03-07,20,Matchweek 28,Mon,Home,W,5,0,Everton,2.5,0.2,55,59647.0,Hugo Lloris,3-4-3,Stuart Attwell,tottenham
+26,2022-03-12,17,Matchweek 29,Sat,Away,L,2,3,Manchester Utd,1.5,1.0,57,73458.0,Hugo Lloris,3-4-3,Jonathan Moss,tottenham
+27,2022-03-16,19,Matchweek 16,Wed,Away,W,2,0,Brighton,2.2,0.7,52,31144.0,Hugo Lloris,3-4-3,Robert Jones,tottenham
+28,2022-03-20,16,Matchweek 30,Sun,Home,W,3,1,West Ham,3.0,0.6,53,58685.0,Hugo Lloris,3-4-3,Anthony Taylor,tottenham
+29,2022-04-03,16,Matchweek 31,Sun,Home,W,5,1,Newcastle Utd,3.1,0.5,60,57553.0,Hugo Lloris,3-4-3,Martin Atkinson,tottenham
+30,2022-04-09,17,Matchweek 32,Sat,Away,W,4,0,Aston Villa,1.1,1.6,48,41949.0,Hugo Lloris,3-4-3,Graham Scott,tottenham
+31,2022-04-16,12,Matchweek 33,Sat,Home,L,0,1,Brighton,0.5,0.6,49,58685.0,Hugo Lloris,3-4-3,Craig Pawson,tottenham
+32,2022-04-23,17,Matchweek 34,Sat,Away,D,0,0,Brentford,0.6,0.9,56,17072.0,Hugo Lloris,3-4-3,Martin Atkinson,tottenham
+33,2022-05-01,14,Matchweek 35,Sun,Home,W,3,1,Leicester City,1.2,0.5,40,59482.0,Hugo Lloris,3-4-3,Jonathan Moss,tottenham
+34,2022-05-07,19,Matchweek 36,Sat,Away,D,1,1,Liverpool,0.9,1.3,36,53177.0,Hugo Lloris,3-4-3,Michael Oliver,tottenham
+35,2022-05-12,19,Matchweek 22,Thu,Home,W,3,0,Arsenal,2.7,0.5,57,62027.0,Hugo Lloris,3-4-3,Paul Tierney,tottenham
+36,2022-05-15,12,Matchweek 37,Sun,Home,W,1,0,Burnley,2.2,0.7,68,61729.0,Hugo Lloris,3-4-3,Kevin Friend,tottenham
+37,2022-05-22,16,Matchweek 38,Sun,Away,W,5,0,Norwich City,3.4,0.5,59,27022.0,Hugo Lloris,3-4-3,Chris Kavanagh,tottenham
+0,2021-08-13,20,Matchweek 1,Fri,Away,L,0,2,Brentford,1.3,1.2,64,16479.0,Granit Xhaka,4-2-3-1,Michael Oliver,arsenal
+1,2021-08-22,16,Matchweek 2,Sun,Home,L,0,2,Chelsea,0.3,3.1,35,58729.0,Granit Xhaka,4-2-3-1,Paul Tierney,arsenal
+2,2021-08-28,12,Matchweek 3,Sat,Away,L,0,5,Manchester City,0.2,4.4,20,52276.0,Pierre-Emerick Aubameyang,5-4-1,Martin Atkinson,arsenal
+3,2021-09-11,15,Matchweek 4,Sat,Home,W,1,0,Norwich City,2.7,0.7,51,58000.0,Pierre-Emerick Aubameyang,4-2-3-1,Michael Oliver,arsenal
+4,2021-09-18,15,Matchweek 5,Sat,Away,W,1,0,Burnley,1.1,1.0,54,20000.0,Pierre-Emerick Aubameyang,4-1-4-1,Anthony Taylor,arsenal
+5,2021-09-26,16,Matchweek 6,Sun,Home,W,3,1,Tottenham,1.1,1.0,46,59919.0,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson,arsenal
+6,2021-10-02,17,Matchweek 7,Sat,Away,D,0,0,Brighton,0.4,1.1,42,31266.0,Pierre-Emerick Aubameyang,4-2-3-1,Jonathan Moss,arsenal
+7,2021-10-18,20,Matchweek 8,Mon,Home,D,2,2,Crystal Palace,1.7,0.7,54,59475.0,Pierre-Emerick Aubameyang,4-1-4-1,Mike Dean,arsenal
+8,2021-10-22,20,Matchweek 9,Fri,Home,W,3,1,Aston Villa,2.7,1.4,53,59496.0,Pierre-Emerick Aubameyang,4-2-3-1,Craig Pawson,arsenal
+9,2021-10-30,12,Matchweek 10,Sat,Away,W,2,0,Leicester City,0.7,1.3,36,32209.0,Pierre-Emerick Aubameyang,4-4-1-1,Michael Oliver,arsenal
+10,2021-11-07,14,Matchweek 11,Sun,Home,W,1,0,Watford,1.6,0.5,60,59833.0,Pierre-Emerick Aubameyang,4-4-1-1,Kevin Friend,arsenal
+11,2021-11-20,17,Matchweek 12,Sat,Away,L,0,4,Liverpool,0.4,4.3,38,53092.0,Pierre-Emerick Aubameyang,4-4-1-1,Michael Oliver,arsenal
+12,2021-11-27,12,Matchweek 13,Sat,Home,W,2,0,Newcastle Utd,2.5,0.3,66,59886.0,Pierre-Emerick Aubameyang,4-4-1-1,Stuart Attwell,arsenal
+13,2021-12-02,20,Matchweek 14,Thu,Away,L,2,3,Manchester Utd,1.4,1.9,56,73123.0,Pierre-Emerick Aubameyang,4-4-1-1,Martin Atkinson,arsenal
+14,2021-12-06,20,Matchweek 15,Mon,Away,L,1,2,Everton,1.0,0.9,63,38906.0,Alexandre Lacazette,4-2-3-1,Mike Dean,arsenal
+15,2021-12-11,15,Matchweek 16,Sat,Home,W,3,0,Southampton,1.8,0.6,61,59653.0,Alexandre Lacazette,4-4-1-1,Jarred Gillett,arsenal
+16,2021-12-15,20,Matchweek 17,Wed,Home,W,2,0,West Ham,2.8,0.4,55,59777.0,Alexandre Lacazette,4-4-1-1,Anthony Taylor,arsenal
+17,2021-12-18,17,Matchweek 18,Sat,Away,W,4,1,Leeds United,3.5,1.6,49,36166.0,Alexandre Lacazette,4-2-3-1,Andre Marriner,arsenal
+18,2021-12-26,15,Matchweek 19,Sun,Away,W,5,0,Norwich City,2.5,0.1,64,26940.0,Alexandre Lacazette,4-2-3-1,Graham Scott,arsenal
+19,2022-01-01,12,Matchweek 21,Sat,Home,L,1,2,Manchester City,0.8,2.0,29,59757.0,Alexandre Lacazette,4-2-3-1,Stuart Attwell,arsenal
+20,2022-01-23,14,Matchweek 23,Sun,Home,D,0,0,Burnley,1.2,0.4,75,59255.0,Alexandre Lacazette,4-1-4-1,David Coote,arsenal
+21,2022-02-10,19,Matchweek 24,Thu,Away,W,1,0,Wolves,1.8,0.8,42,31523.0,Alexandre Lacazette,4-2-3-1,Michael Oliver,arsenal
+22,2022-02-19,15,Matchweek 26,Sat,Home,W,2,1,Brentford,1.7,0.6,66,59249.0,Alexandre Lacazette,4-2-3-1,Jonathan Moss,arsenal
+23,2022-02-24,19,Matchweek 20,Thu,Home,W,2,1,Wolves,3.1,1.0,56,59888.0,Alexandre Lacazette,4-2-3-1,Martin Atkinson,arsenal
+24,2022-03-06,14,Matchweek 28,Sun,Away,W,3,2,Watford,1.0,1.0,56,21142.0,Alexandre Lacazette,4-2-3-1,Craig Pawson,arsenal
+25,2022-03-13,16,Matchweek 29,Sun,Home,W,2,0,Leicester City,2.4,0.4,46,60111.0,Alexandre Lacazette,4-2-3-1,Anthony Taylor,arsenal
+26,2022-03-16,20,Matchweek 27,Wed,Home,L,0,2,Liverpool,0.5,0.8,49,59968.0,Alexandre Lacazette,4-2-3-1,Andre Marriner,arsenal
+27,2022-03-19,12,Matchweek 30,Sat,Away,W,1,0,Aston Villa,1.3,0.5,53,41956.0,Alexandre Lacazette,4-2-3-1,Andy Madley,arsenal
+28,2022-04-04,20,Matchweek 31,Mon,Away,L,0,3,Crystal Palace,0.8,1.5,68,25149.0,Alexandre Lacazette,4-2-3-1,Paul Tierney,arsenal
+29,2022-04-09,15,Matchweek 32,Sat,Home,L,1,2,Brighton,1.9,0.6,64,60112.0,Alexandre Lacazette,4-2-3-1,David Coote,arsenal
+30,2022-04-16,15,Matchweek 33,Sat,Away,L,0,1,Southampton,1.7,0.8,75,31465.0,Martin Ødegaard,4-2-3-1,Peter Bankes,arsenal
+31,2022-04-20,19,Matchweek 25,Wed,Away,W,4,2,Chelsea,2.0,0.7,33,32249.0,Martin Ødegaard,4-2-3-1,Jonathan Moss,arsenal
+32,2022-04-23,12,Matchweek 34,Sat,Home,W,3,1,Manchester Utd,2.3,1.8,54,60223.0,Martin Ødegaard,4-2-3-1,Craig Pawson,arsenal
+33,2022-05-01,16,Matchweek 35,Sun,Away,W,2,1,West Ham,0.9,0.5,43,59959.0,Martin Ødegaard,4-2-3-1,Mike Dean,arsenal
+34,2022-05-08,14,Matchweek 36,Sun,Home,W,2,1,Leeds United,2.0,0.3,64,60108.0,Martin Ødegaard,4-2-3-1,Chris Kavanagh,arsenal
+35,2022-05-12,19,Matchweek 22,Thu,Away,L,0,3,Tottenham,0.5,2.7,43,62027.0,Martin Ødegaard,4-3-3,Paul Tierney,arsenal
+36,2022-05-16,20,Matchweek 37,Mon,Away,L,0,2,Newcastle Utd,0.6,1.6,49,52274.0,Martin Ødegaard,4-2-3-1,Darren England,arsenal
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,5,1,Everton,4.2,1.1,73,60201.0,Martin Ødegaard,4-2-3-1,Andre Marriner,arsenal
+0,2021-08-14,12,Matchweek 1,Sat,Home,W,5,1,Leeds United,1.5,0.5,49,72732.0,Harry Maguire,4-2-3-1,Paul Tierney,manchester utd
+1,2021-08-22,14,Matchweek 2,Sun,Away,D,1,1,Southampton,1.8,0.7,63,32000.0,Harry Maguire,4-2-3-1,Craig Pawson,manchester utd
+2,2021-08-29,16,Matchweek 3,Sun,Away,W,1,0,Wolves,0.6,2.1,56,30621.0,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+3,2021-09-11,15,Matchweek 4,Sat,Home,W,4,1,Newcastle Utd,2.5,0.4,63,72732.0,Harry Maguire,4-2-3-1,Anthony Taylor,manchester utd
+4,2021-09-19,14,Matchweek 5,Sun,Away,W,2,1,West Ham,2.0,1.6,60,60000.0,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+5,2021-09-25,12,Matchweek 6,Sat,Home,L,0,1,Aston Villa,2.2,1.0,59,72922.0,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+6,2021-10-02,12,Matchweek 7,Sat,Home,D,1,1,Everton,1.0,1.3,72,73128.0,Bruno Fernandes,4-2-3-1,Michael Oliver,manchester utd
+7,2021-10-16,15,Matchweek 8,Sat,Away,L,2,4,Leicester City,1.2,2.4,51,32219.0,Harry Maguire,4-2-3-1,Craig Pawson,manchester utd
+8,2021-10-24,16,Matchweek 9,Sun,Home,L,0,5,Liverpool,1.6,3.4,38,73088.0,Harry Maguire,4-2-3-1,Anthony Taylor,manchester utd
+9,2021-10-30,17,Matchweek 10,Sat,Away,W,3,0,Tottenham,1.5,1.0,42,60356.0,Harry Maguire,3-5-2,Stuart Attwell,manchester utd
+10,2021-11-06,12,Matchweek 11,Sat,Home,L,0,2,Manchester City,0.9,1.6,33,73086.0,Harry Maguire,3-5-2,Michael Oliver,manchester utd
+11,2021-11-20,15,Matchweek 12,Sat,Away,L,1,4,Watford,1.4,2.7,61,21087.0,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+12,2021-11-28,16,Matchweek 13,Sun,Away,D,1,1,Chelsea,0.9,2.7,35,40041.0,Bruno Fernandes,4-3-1-2,Anthony Taylor,manchester utd
+13,2021-12-02,20,Matchweek 14,Thu,Home,W,3,2,Arsenal,1.9,1.4,44,73123.0,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+14,2021-12-05,14,Matchweek 15,Sun,Home,W,1,0,Crystal Palace,0.9,0.5,61,73172.0,Harry Maguire,4-2-2-2,Craig Pawson,manchester utd
+15,2021-12-11,17,Matchweek 16,Sat,Away,W,1,0,Norwich City,2.0,1.2,52,27606.0,Harry Maguire,4-2-2-2,Darren England,manchester utd
+16,2021-12-27,20,Matchweek 19,Mon,Away,D,1,1,Newcastle Utd,1.6,1.3,68,52178.0,Harry Maguire,4-2-2-2,Craig Pawson,manchester utd
+17,2021-12-30,20,Matchweek 20,Thu,Home,W,3,1,Burnley,2.4,1.1,57,73121.0,Harry Maguire,4-2-2-2,Jonathan Moss,manchester utd
+18,2022-01-03,17,Matchweek 21,Mon,Home,L,0,1,Wolves,0.8,0.7,51,73045.0,Cristiano Ronaldo,4-2-2-2,Mike Dean,manchester utd
+19,2022-01-15,17,Matchweek 22,Sat,Away,D,2,2,Aston Villa,1.0,1.9,46,41968.0,Bruno Fernandes,4-3-3,David Coote,manchester utd
+20,2022-01-19,20,Matchweek 17,Wed,Away,W,3,1,Brentford,2.3,2.3,56,17094.0,Bruno Fernandes,4-2-3-1,Andre Marriner,manchester utd
+21,2022-01-22,15,Matchweek 23,Sat,Home,W,1,0,West Ham,1.9,0.3,57,73130.0,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+22,2022-02-08,20,Matchweek 24,Tue,Away,D,1,1,Burnley,1.8,0.4,63,21233.0,Harry Maguire,4-2-3-1,Mike Dean,manchester utd
+23,2022-02-12,12,Matchweek 25,Sat,Home,D,1,1,Southampton,2.1,0.8,53,73084.0,Harry Maguire,4-2-3-1,Stuart Attwell,manchester utd
+24,2022-02-15,20,Matchweek 18,Tue,Home,W,2,0,Brighton,1.7,0.7,50,73012.0,Harry Maguire,4-2-3-1,Peter Bankes,manchester utd
+25,2022-02-20,14,Matchweek 26,Sun,Away,W,4,2,Leeds United,2.2,1.8,46,36715.0,Harry Maguire,4-2-3-1,Paul Tierney,manchester utd
+26,2022-02-26,15,Matchweek 27,Sat,Home,D,0,0,Watford,2.8,0.6,67,73152.0,Bruno Fernandes,4-2-3-1,Kevin Friend,manchester utd
+27,2022-03-06,16,Matchweek 28,Sun,Away,L,1,4,Manchester City,0.5,2.7,31,53165.0,Harry Maguire,4-2-3-1,Michael Oliver,manchester utd
+28,2022-03-12,17,Matchweek 29,Sat,Home,W,3,2,Tottenham,1.0,1.5,43,73458.0,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+29,2022-04-02,17,Matchweek 31,Sat,Home,D,1,1,Leicester City,0.9,0.8,54,73444.0,Harry Maguire,4-2-3-1,Andre Marriner,manchester utd
+30,2022-04-09,12,Matchweek 32,Sat,Away,L,0,1,Everton,0.8,0.4,67,39080.0,Harry Maguire,4-2-3-1,Jonathan Moss,manchester utd
+31,2022-04-16,15,Matchweek 33,Sat,Home,W,3,2,Norwich City,1.9,1.5,61,73381.0,Harry Maguire,4-3-3,Andy Madley,manchester utd
+32,2022-04-19,20,Matchweek 30,Tue,Away,L,0,4,Liverpool,0.1,2.0,29,52686.0,Harry Maguire,3-4-3,Martin Atkinson,manchester utd
+33,2022-04-23,12,Matchweek 34,Sat,Away,L,1,3,Arsenal,1.8,2.3,46,60223.0,Bruno Fernandes,4-2-3-1,Craig Pawson,manchester utd
+34,2022-04-28,19,Matchweek 37,Thu,Home,D,1,1,Chelsea,0.5,1.9,36,73564.0,Bruno Fernandes,4-2-3-1,Mike Dean,manchester utd
+35,2022-05-02,20,Matchweek 35,Mon,Home,W,3,0,Brentford,2.0,0.6,63,73482.0,Bruno Fernandes,4-2-3-1,Chris Kavanagh,manchester utd
+36,2022-05-07,17,Matchweek 36,Sat,Away,L,0,4,Brighton,0.9,2.3,58,31637.0,Bruno Fernandes,4-2-3-1,Andy Madley,manchester utd
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,0,1,Crystal Palace,0.7,0.6,61,25434.0,Harry Maguire,4-2-3-1,Martin Atkinson,manchester utd
+0,2021-08-15,14,Matchweek 1,Sun,Away,W,4,2,Newcastle Utd,2.7,1.8,54,50673.0,Declan Rice,4-2-3-1,Martin Atkinson,west ham
+1,2021-08-23,20,Matchweek 2,Mon,Home,W,4,1,Leicester City,2.3,0.6,52,59901.0,Declan Rice,4-2-3-1,Michael Oliver,west ham
+2,2021-08-28,15,Matchweek 3,Sat,Home,D,2,2,Crystal Palace,1.3,1.1,47,59751.0,Declan Rice,4-2-3-1,Stuart Attwell,west ham
+3,2021-09-11,15,Matchweek 4,Sat,Away,D,0,0,Southampton,0.7,0.7,58,30000.0,Declan Rice,4-2-3-1,David Coote,west ham
+4,2021-09-19,14,Matchweek 5,Sun,Home,L,1,2,Manchester Utd,1.6,2.0,40,60000.0,Declan Rice,4-4-2,Martin Atkinson,west ham
+5,2021-09-25,15,Matchweek 6,Sat,Away,W,2,1,Leeds United,1.6,1.2,47,36417.0,Declan Rice,4-2-3-1,Kevin Friend,west ham
+6,2021-10-03,14,Matchweek 7,Sun,Home,L,1,2,Brentford,1.5,1.2,59,49940.0,Declan Rice,4-2-3-1,Peter Bankes,west ham
+7,2021-10-17,14,Matchweek 8,Sun,Away,W,1,0,Everton,1.2,0.9,61,39132.0,Declan Rice,4-2-3-1,Stuart Attwell,west ham
+8,2021-10-24,14,Matchweek 9,Sun,Home,W,1,0,Tottenham,1.3,0.7,38,59924.0,Declan Rice,4-2-3-1,Paul Tierney,west ham
+9,2021-10-31,16,Matchweek 10,Sun,Away,W,4,1,Aston Villa,2.3,0.7,57,41874.0,Declan Rice,4-2-3-1,Chris Kavanagh,west ham
+10,2021-11-07,16,Matchweek 11,Sun,Home,W,3,2,Liverpool,1.0,1.2,31,59909.0,Declan Rice,4-2-3-1,Craig Pawson,west ham
+11,2021-11-20,15,Matchweek 12,Sat,Away,L,0,1,Wolves,0.4,1.4,48,30667.0,Declan Rice,4-2-3-1,Mike Dean,west ham
+12,2021-11-28,14,Matchweek 13,Sun,Away,L,1,2,Manchester City,0.2,2.1,32,53245.0,Declan Rice,4-2-3-1,Michael Oliver,west ham
+13,2021-12-01,19,Matchweek 14,Wed,Home,D,1,1,Brighton,1.3,1.3,35,59626.0,Declan Rice,4-2-3-1,Chris Kavanagh,west ham
+14,2021-12-04,12,Matchweek 15,Sat,Home,W,3,2,Chelsea,1.8,1.1,37,59942.0,Declan Rice,3-4-3,Andre Marriner,west ham
+15,2021-12-12,14,Matchweek 16,Sun,Away,D,0,0,Burnley,0.8,0.8,60,18065.0,Declan Rice,4-2-3-1,Graham Scott,west ham
+16,2021-12-15,20,Matchweek 17,Wed,Away,L,0,2,Arsenal,0.4,2.8,45,59777.0,Declan Rice,4-2-3-1,Anthony Taylor,west ham
+17,2021-12-26,15,Matchweek 19,Sun,Home,L,2,3,Southampton,1.6,1.2,56,41027.0,Declan Rice,4-2-3-1,Kevin Friend,west ham
+18,2021-12-28,15,Matchweek 20,Tue,Away,W,4,1,Watford,3.6,1.6,57,20073.0,Mark Noble,4-2-3-1,Darren England,west ham
+19,2022-01-01,17,Matchweek 21,Sat,Away,W,3,2,Crystal Palace,2.2,2.4,38,24351.0,Declan Rice,4-2-3-1,Darren England,west ham
+20,2022-01-12,19,Matchweek 18,Wed,Home,W,2,0,Norwich City,2.5,0.3,62,59775.0,Declan Rice,4-2-3-1,Simon Hooper,west ham
+21,2022-01-16,14,Matchweek 22,Sun,Home,L,2,3,Leeds United,2.4,2.2,48,59951.0,Declan Rice,4-2-3-1,Mike Dean,west ham
+22,2022-01-22,15,Matchweek 23,Sat,Away,L,0,1,Manchester Utd,0.3,1.9,43,73130.0,Declan Rice,4-2-3-1,Jonathan Moss,west ham
+23,2022-02-08,19,Matchweek 24,Tue,Home,W,1,0,Watford,0.8,0.3,64,59581.0,Declan Rice,4-2-3-1,Martin Atkinson,west ham
+24,2022-02-13,16,Matchweek 25,Sun,Away,D,2,2,Leicester City,1.1,1.4,45,32061.0,Declan Rice,4-2-3-1,Michael Oliver,west ham
+25,2022-02-19,12,Matchweek 26,Sat,Home,D,1,1,Newcastle Utd,0.6,0.8,47,59949.0,Declan Rice,4-2-3-1,Chris Kavanagh,west ham
+26,2022-02-27,14,Matchweek 27,Sun,Home,W,1,0,Wolves,1.8,0.7,39,59946.0,Declan Rice,3-4-3,Anthony Taylor,west ham
+27,2022-03-05,17,Matchweek 28,Sat,Away,L,0,1,Liverpool,1.3,2.4,32,59925.0,Aaron Cresswell,4-4-2,Jonathan Moss,west ham
+28,2022-03-13,14,Matchweek 29,Sun,Home,W,2,1,Aston Villa,1.2,1.1,47,59957.0,Declan Rice,4-2-3-1,Jarred Gillett,west ham
+29,2022-03-20,16,Matchweek 30,Sun,Away,L,1,3,Tottenham,0.6,3.0,47,58685.0,Declan Rice,3-4-3,Anthony Taylor,west ham
+30,2022-04-03,14,Matchweek 31,Sun,Home,W,2,1,Everton,1.2,0.7,55,59953.0,Declan Rice,4-2-3-1,Michael Oliver,west ham
+31,2022-04-10,14,Matchweek 32,Sun,Away,L,0,2,Brentford,0.3,1.4,53,17032.0,Declan Rice,4-2-3-1,Martin Atkinson,west ham
+32,2022-04-17,14,Matchweek 33,Sun,Home,D,1,1,Burnley,2.2,1.8,61,59958.0,Declan Rice,4-2-3-1,Paul Tierney,west ham
+33,2022-04-24,14,Matchweek 34,Sun,Away,L,0,1,Chelsea,0.5,3.0,34,32231.0,Mark Noble,3-4-3,Michael Oliver,west ham
+34,2022-05-01,16,Matchweek 35,Sun,Home,L,1,2,Arsenal,0.5,0.9,57,59959.0,Mark Noble,4-2-3-1,Mike Dean,west ham
+35,2022-05-08,14,Matchweek 36,Sun,Away,W,4,0,Norwich City,3.0,0.8,63,26428.0,Declan Rice,4-2-3-1,Robert Jones,west ham
+36,2022-05-15,14,Matchweek 37,Sun,Home,D,2,2,Manchester City,1.1,2.4,22,59972.0,Declan Rice,4-2-3-1,Anthony Taylor,west ham
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,1,3,Brighton,0.2,1.6,50,31604.0,Declan Rice,4-2-3-1,Kevin Friend,west ham
+0,2021-08-14,15,Matchweek 1,Sat,Home,W,1,0,Wolves,0.5,1.3,56,31983.0,Kasper Schmeichel,4-2-3-1,Craig Pawson,leicester city
+1,2021-08-23,20,Matchweek 2,Mon,Away,L,1,4,West Ham,0.6,2.3,48,59901.0,Kasper Schmeichel,4-2-3-1,Michael Oliver,leicester city
+2,2021-08-28,15,Matchweek 3,Sat,Away,W,2,1,Norwich City,1.5,1.5,55,26765.0,Kasper Schmeichel,4-4-2,Robert Jones,leicester city
+3,2021-09-11,15,Matchweek 4,Sat,Home,L,0,1,Manchester City,0.6,2.8,39,32087.0,Kasper Schmeichel,4-2-3-1,Paul Tierney,leicester city
+4,2021-09-19,14,Matchweek 5,Sun,Away,L,1,2,Brighton,1.6,1.7,63,31078.0,Kasper Schmeichel,4-3-3,Stuart Attwell,leicester city
+5,2021-09-25,15,Matchweek 6,Sat,Home,D,2,2,Burnley,2.4,0.5,66,31650.0,Kasper Schmeichel,4-3-3,Chris Kavanagh,leicester city
+6,2021-10-03,14,Matchweek 7,Sun,Away,D,2,2,Crystal Palace,1.2,1.5,40,25000.0,Kasper Schmeichel,4-4-2,Anthony Taylor,leicester city
+7,2021-10-16,15,Matchweek 8,Sat,Home,W,4,2,Manchester Utd,2.4,1.2,49,32219.0,Kasper Schmeichel,3-4-1-2,Craig Pawson,leicester city
+8,2021-10-24,14,Matchweek 9,Sun,Away,W,2,1,Brentford,1.5,1.0,46,16814.0,Kasper Schmeichel,3-4-1-2,Simon Hooper,leicester city
+9,2021-10-30,12,Matchweek 10,Sat,Home,L,0,2,Arsenal,1.3,0.7,64,32209.0,Kasper Schmeichel,3-4-1-2,Michael Oliver,leicester city
+10,2021-11-07,14,Matchweek 11,Sun,Away,D,1,1,Leeds United,0.7,1.3,44,36478.0,Kasper Schmeichel,4-3-3,Darren England,leicester city
+11,2021-11-20,12,Matchweek 12,Sat,Home,L,0,3,Chelsea,0.4,2.0,39,35497.0,Kasper Schmeichel,3-4-3,Paul Tierney,leicester city
+12,2021-11-28,14,Matchweek 13,Sun,Home,W,4,2,Watford,2.1,2.8,56,32020.0,Kasper Schmeichel,4-2-3-1,Andy Madley,leicester city
+13,2021-12-01,19,Matchweek 14,Wed,Away,D,2,2,Southampton,1.5,1.5,55,26951.0,Kasper Schmeichel,4-2-3-1,Robert Jones,leicester city
+14,2021-12-05,16,Matchweek 15,Sun,Away,L,1,2,Aston Villa,1.1,2.1,59,41572.0,Kasper Schmeichel,4-2-3-1,Michael Oliver,leicester city
+15,2021-12-12,14,Matchweek 16,Sun,Home,W,4,0,Newcastle Utd,2.6,1.0,47,31959.0,Kasper Schmeichel,4-2-3-1,Peter Bankes,leicester city
+16,2021-12-26,15,Matchweek 19,Sun,Away,L,3,6,Manchester City,2.7,3.6,28,53226.0,Kasper Schmeichel,4-4-1-1,Chris Kavanagh,leicester city
+17,2021-12-28,20,Matchweek 20,Tue,Home,W,1,0,Liverpool,0.4,2.3,37,32230.0,Kasper Schmeichel,4-3-1-2,Michael Oliver,leicester city
+18,2022-01-19,19,Matchweek 17,Wed,Home,L,2,3,Tottenham,1.2,3.1,49,31986.0,Kasper Schmeichel,3-5-2,Jonathan Moss,leicester city
+19,2022-01-23,14,Matchweek 23,Sun,Home,D,1,1,Brighton,1.4,1.1,44,31231.0,Kasper Schmeichel,4-2-3-1,Martin Atkinson,leicester city
+20,2022-02-10,19,Matchweek 24,Thu,Away,L,0,2,Liverpool,0.5,1.8,36,53050.0,Kasper Schmeichel,4-2-3-1,Chris Kavanagh,leicester city
+21,2022-02-13,16,Matchweek 25,Sun,Home,D,2,2,West Ham,1.4,1.1,55,32061.0,Kasper Schmeichel,4-3-3,Michael Oliver,leicester city
+22,2022-02-20,16,Matchweek 26,Sun,Away,L,1,2,Wolves,1.7,0.5,63,31587.0,Kasper Schmeichel,4-3-3,Craig Pawson,leicester city
+23,2022-03-01,19,Matchweek 22,Tue,Away,W,2,0,Burnley,1.5,0.9,55,17825.0,Kasper Schmeichel,4-3-3,Chris Kavanagh,leicester city
+24,2022-03-05,12,Matchweek 28,Sat,Home,W,1,0,Leeds United,0.4,1.7,51,32236.0,Kasper Schmeichel,4-3-3,David Coote,leicester city
+25,2022-03-13,16,Matchweek 29,Sun,Away,L,0,2,Arsenal,0.4,2.4,54,60111.0,Kasper Schmeichel,4-2-3-1,Anthony Taylor,leicester city
+26,2022-03-20,14,Matchweek 30,Sun,Home,W,2,1,Brentford,1.0,1.3,52,31830.0,Kasper Schmeichel,4-2-3-1,Darren England,leicester city
+27,2022-04-02,17,Matchweek 31,Sat,Away,D,1,1,Manchester Utd,0.8,0.9,46,73444.0,Kasper Schmeichel,4-2-3-1,Andre Marriner,leicester city
+28,2022-04-10,14,Matchweek 32,Sun,Home,W,2,1,Crystal Palace,1.0,1.4,51,31896.0,Kasper Schmeichel,4-2-3-1,Robert Jones,leicester city
+29,2022-04-17,14,Matchweek 33,Sun,Away,L,1,2,Newcastle Utd,0.6,1.8,68,52104.0,Kasper Schmeichel,4-1-4-1,Jarred Gillett,leicester city
+30,2022-04-20,19,Matchweek 18,Wed,Away,D,1,1,Everton,0.9,1.8,63,39153.0,Kasper Schmeichel,4-2-3-1,David Coote,leicester city
+31,2022-04-23,15,Matchweek 34,Sat,Home,D,0,0,Aston Villa,0.3,0.9,64,32185.0,Kasper Schmeichel,4-1-4-1,Andy Madley,leicester city
+32,2022-05-01,14,Matchweek 35,Sun,Away,L,1,3,Tottenham,0.5,1.2,60,59482.0,Kasper Schmeichel,3-5-2,Jonathan Moss,leicester city
+33,2022-05-08,14,Matchweek 36,Sun,Home,L,1,2,Everton,1.5,1.1,66,32001.0,Kasper Schmeichel,3-1-4-2,Craig Pawson,leicester city
+34,2022-05-11,19,Matchweek 21,Wed,Home,W,3,0,Norwich City,2.0,1.1,65,38092.0,Kasper Schmeichel,4-2-3-1,Simon Hooper,leicester city
+35,2022-05-15,14,Matchweek 37,Sun,Away,W,5,1,Watford,2.5,1.4,59,20257.0,Jonny Evans,4-1-4-1,Jarred Gillett,leicester city
+36,2022-05-19,20,Matchweek 27,Thu,Away,D,1,1,Chelsea,0.1,1.6,33,31478.0,Kasper Schmeichel,3-1-4-2,Stuart Attwell,leicester city
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,4,1,Southampton,3.4,1.1,51,32003.0,Kasper Schmeichel,4-2-3-1,Jonathan Moss,leicester city
+0,2021-08-14,15,Matchweek 1,Sat,Away,W,2,1,Burnley,1.0,1.5,63,16910.0,Lewis Dunk,4-1-4-1,David Coote,brighton
+1,2021-08-21,17,Matchweek 2,Sat,Home,W,2,0,Watford,1.3,0.5,56,29485.0,Lewis Dunk,4-4-1-1,Anthony Taylor,brighton
+2,2021-08-28,15,Matchweek 3,Sat,Home,L,0,2,Everton,0.7,1.4,65,30548.0,Lewis Dunk,3-4-3,Jonathan Moss,brighton
+3,2021-09-11,15,Matchweek 4,Sat,Away,W,1,0,Brentford,0.3,0.4,59,16518.0,Lewis Dunk,3-4-1-2,Graham Scott,brighton
+4,2021-09-19,14,Matchweek 5,Sun,Home,W,2,1,Leicester City,1.7,1.6,37,31078.0,Lewis Dunk,4-4-2,Stuart Attwell,brighton
+5,2021-09-27,20,Matchweek 6,Mon,Away,D,1,1,Crystal Palace,0.8,1.4,53,22975.0,Lewis Dunk,3-4-3,Andre Marriner,brighton
+6,2021-10-02,17,Matchweek 7,Sat,Home,D,0,0,Arsenal,1.1,0.4,58,31266.0,Lewis Dunk,3-5-2,Jonathan Moss,brighton
+7,2021-10-16,15,Matchweek 8,Sat,Away,D,0,0,Norwich City,0.8,1.2,64,26777.0,Lewis Dunk,3-5-2,Peter Bankes,brighton
+8,2021-10-23,17,Matchweek 9,Sat,Home,L,1,4,Manchester City,1.3,3.8,48,31215.0,Lewis Dunk,3-5-2,Kevin Friend,brighton
+9,2021-10-30,15,Matchweek 10,Sat,Away,D,2,2,Liverpool,1.0,1.5,42,52598.0,Lewis Dunk,4-2-3-1,Mike Dean,brighton
+10,2021-11-06,17,Matchweek 11,Sat,Home,D,1,1,Newcastle Utd,1.5,0.3,65,31267.0,Lewis Dunk,4-2-3-1,David Coote,brighton
+11,2021-11-20,15,Matchweek 12,Sat,Away,L,0,2,Aston Villa,0.4,0.7,62,41925.0,Lewis Dunk,3-5-2,Anthony Taylor,brighton
+12,2021-11-27,17,Matchweek 13,Sat,Home,D,0,0,Leeds United,2.1,0.6,57,31166.0,Lewis Dunk,4-2-3-1,Craig Pawson,brighton
+13,2021-12-01,19,Matchweek 14,Wed,Away,D,1,1,West Ham,1.3,1.3,65,59626.0,Lewis Dunk,4-2-3-1,Chris Kavanagh,brighton
+14,2021-12-04,15,Matchweek 15,Sat,Away,D,1,1,Southampton,1.6,1.6,56,28706.0,Shane Duffy,3-5-2,Anthony Taylor,brighton
+15,2021-12-15,19,Matchweek 17,Wed,Home,L,0,1,Wolves,1.2,1.0,59,30362.0,Dan Burn,4-3-3,Tony Harrington,brighton
+16,2021-12-26,20,Matchweek 19,Sun,Home,W,2,0,Brentford,0.8,0.7,50,30141.0,Adam Lallana,4-1-2-1-2◆,Darren England,brighton
+17,2021-12-29,19,Matchweek 20,Wed,Away,D,1,1,Chelsea,0.9,0.7,53,40080.0,Adam Lallana,3-4-3,Mike Dean,brighton
+18,2022-01-02,14,Matchweek 21,Sun,Away,W,3,2,Everton,1.7,1.6,50,38203.0,Adam Lallana,4-4-2,John Brooks,brighton
+19,2022-01-14,20,Matchweek 22,Fri,Home,D,1,1,Crystal Palace,2.0,0.2,63,30675.0,Adam Lallana,4-1-2-1-2◆,Robert Jones,brighton
+20,2022-01-18,20,Matchweek 24,Tue,Home,D,1,1,Chelsea,0.7,0.7,44,30880.0,Adam Webster,4-1-4-1,Kevin Friend,brighton
+21,2022-01-23,14,Matchweek 23,Sun,Away,D,1,1,Leicester City,1.1,1.4,56,31231.0,Adam Webster,4-1-2-1-2◆,Martin Atkinson,brighton
+22,2022-02-12,15,Matchweek 25,Sat,Away,W,2,0,Watford,1.6,0.5,64,20795.0,Lewis Dunk,3-1-4-2,Jonathan Moss,brighton
+23,2022-02-15,20,Matchweek 18,Tue,Away,L,0,2,Manchester Utd,0.7,1.7,50,73012.0,Lewis Dunk,4-1-2-1-2◆,Peter Bankes,brighton
+24,2022-02-19,15,Matchweek 26,Sat,Home,L,0,3,Burnley,0.6,0.7,68,30361.0,Adam Lallana,4-4-2,Kevin Friend,brighton
+25,2022-02-26,15,Matchweek 27,Sat,Home,L,0,2,Aston Villa,0.7,1.0,66,31475.0,Lewis Dunk,3-5-2,John Brooks,brighton
+26,2022-03-05,15,Matchweek 28,Sat,Away,L,1,2,Newcastle Utd,1.5,1.7,68,52214.0,Lewis Dunk,4-1-2-1-2◆,Martin Atkinson,brighton
+27,2022-03-12,12,Matchweek 29,Sat,Home,L,0,2,Liverpool,0.5,2.2,52,31474.0,Lewis Dunk,4-2-3-1,Mike Dean,brighton
+28,2022-03-16,19,Matchweek 16,Wed,Home,L,0,2,Tottenham,0.7,2.2,48,31144.0,Lewis Dunk,4-2-3-1,Robert Jones,brighton
+29,2022-04-02,15,Matchweek 31,Sat,Home,D,0,0,Norwich City,2.8,0.4,63,31245.0,Lewis Dunk,3-4-1-2,Simon Hooper,brighton
+30,2022-04-09,15,Matchweek 32,Sat,Away,W,2,1,Arsenal,0.6,1.9,36,60112.0,Lewis Dunk,3-5-2,David Coote,brighton
+31,2022-04-16,12,Matchweek 33,Sat,Away,W,1,0,Tottenham,0.6,0.5,51,58685.0,Lewis Dunk,3-5-2,Craig Pawson,brighton
+32,2022-04-20,20,Matchweek 30,Wed,Away,L,0,3,Manchester City,0.2,1.3,35,52226.0,Lewis Dunk,3-5-2,Mike Dean,brighton
+33,2022-04-24,14,Matchweek 34,Sun,Home,D,2,2,Southampton,1.7,0.9,48,31335.0,Lewis Dunk,4-3-1-2,Robert Jones,brighton
+34,2022-04-30,15,Matchweek 35,Sat,Away,W,3,0,Wolves,2.6,0.7,51,31243.0,Lewis Dunk,3-4-3,Simon Hooper,brighton
+35,2022-05-07,17,Matchweek 36,Sat,Home,W,4,0,Manchester Utd,2.3,0.9,42,31637.0,Lewis Dunk,3-4-3,Andy Madley,brighton
+36,2022-05-15,14,Matchweek 37,Sun,Away,D,1,1,Leeds United,2.2,1.6,50,36638.0,Lewis Dunk,3-4-3,Mike Dean,brighton
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,3,1,West Ham,1.6,0.2,50,31604.0,Lewis Dunk,4-3-2-1,Kevin Friend,brighton
+0,2021-08-14,15,Matchweek 1,Sat,Away,L,0,1,Leicester City,1.3,0.5,44,31983.0,Conor Coady,3-4-3,Craig Pawson,wolves
+1,2021-08-22,14,Matchweek 2,Sun,Home,L,0,1,Tottenham,1.7,1.7,58,30368.0,Conor Coady,3-4-3,Stuart Attwell,wolves
+2,2021-08-29,16,Matchweek 3,Sun,Home,L,0,1,Manchester Utd,2.1,0.6,44,30621.0,Conor Coady,3-4-3,Mike Dean,wolves
+3,2021-09-11,15,Matchweek 4,Sat,Away,W,2,0,Watford,2.2,0.2,55,20019.0,Conor Coady,3-4-3,Peter Bankes,wolves
+4,2021-09-18,12,Matchweek 5,Sat,Home,L,0,2,Brentford,0.6,2.5,62,30000.0,Conor Coady,3-4-3,Darren England,wolves
+5,2021-09-26,14,Matchweek 6,Sun,Away,W,1,0,Southampton,1.0,1.0,43,28002.0,Conor Coady,3-4-3,Andy Madley,wolves
+6,2021-10-02,15,Matchweek 7,Sat,Home,W,2,1,Newcastle Utd,1.0,0.6,52,30483.0,Conor Coady,3-4-3,Graham Scott,wolves
+7,2021-10-16,15,Matchweek 8,Sat,Away,W,3,2,Aston Villa,2.0,1.0,52,41951.0,Conor Coady,3-4-3,Michael Oliver,wolves
+8,2021-10-23,15,Matchweek 9,Sat,Away,D,1,1,Leeds United,0.9,1.6,38,36475.0,Conor Coady,3-4-3,Robert Jones,wolves
+9,2021-11-01,20,Matchweek 10,Mon,Home,W,2,1,Everton,1.7,1.5,61,30617.0,Conor Coady,3-4-3,Martin Atkinson,wolves
+10,2021-11-06,15,Matchweek 11,Sat,Away,L,0,2,Crystal Palace,0.3,1.9,40,24390.0,Conor Coady,3-4-3,Graham Scott,wolves
+11,2021-11-20,15,Matchweek 12,Sat,Home,W,1,0,West Ham,1.4,0.4,52,30667.0,Conor Coady,3-4-3,Mike Dean,wolves
+12,2021-11-27,15,Matchweek 13,Sat,Away,D,0,0,Norwich City,0.3,1.6,57,26911.0,Conor Coady,3-4-3,Simon Hooper,wolves
+13,2021-12-01,19,Matchweek 14,Wed,Home,D,0,0,Burnley,0.7,0.2,65,30328.0,Conor Coady,3-4-3,John Brooks,wolves
+14,2021-12-04,15,Matchweek 15,Sat,Home,L,0,1,Liverpool,0.1,2.7,34,30729.0,Conor Coady,3-4-3,Chris Kavanagh,wolves
+15,2021-12-11,12,Matchweek 16,Sat,Away,L,0,1,Manchester City,0.2,3.2,29,52613.0,Conor Coady,3-5-2,Jonathan Moss,wolves
+16,2021-12-15,19,Matchweek 17,Wed,Away,W,1,0,Brighton,1.0,1.2,41,30362.0,Conor Coady,3-4-3,Tony Harrington,wolves
+17,2021-12-19,14,Matchweek 18,Sun,Home,D,0,0,Chelsea,0.2,0.9,37,30631.0,Conor Coady,3-5-2,David Coote,wolves
+18,2022-01-03,17,Matchweek 21,Mon,Away,W,1,0,Manchester Utd,0.7,0.8,49,73045.0,Conor Coady,3-4-3,Mike Dean,wolves
+19,2022-01-15,15,Matchweek 22,Sat,Home,W,3,1,Southampton,2.5,0.8,43,30057.0,Conor Coady,3-4-3,Michael Salisbury,wolves
+20,2022-01-22,15,Matchweek 23,Sat,Away,W,2,1,Brentford,0.2,1.1,50,16982.0,Conor Coady,3-5-2,Peter Bankes,wolves
+21,2022-02-10,19,Matchweek 24,Thu,Home,L,0,1,Arsenal,0.8,1.8,58,31523.0,Conor Coady,3-4-3,Michael Oliver,wolves
+22,2022-02-13,14,Matchweek 25,Sun,Away,W,2,0,Tottenham,1.3,1.2,42,56452.0,Conor Coady,3-5-2,Kevin Friend,wolves
+23,2022-02-20,16,Matchweek 26,Sun,Home,W,2,1,Leicester City,0.5,1.7,37,31587.0,Conor Coady,3-5-2,Craig Pawson,wolves
+24,2022-02-24,19,Matchweek 20,Thu,Away,L,1,2,Arsenal,1.0,3.1,44,59888.0,Conor Coady,3-4-3,Martin Atkinson,wolves
+25,2022-02-27,14,Matchweek 27,Sun,Away,L,0,1,West Ham,0.7,1.8,61,59946.0,Conor Coady,3-4-3,Anthony Taylor,wolves
+26,2022-03-05,15,Matchweek 28,Sat,Home,L,0,2,Crystal Palace,0.7,2.7,63,31395.0,Conor Coady,3-4-3,Andy Madley,wolves
+27,2022-03-10,19,Matchweek 19,Thu,Home,W,4,0,Watford,0.7,0.6,66,29658.0,Conor Coady,3-4-3,Darren England,wolves
+28,2022-03-13,14,Matchweek 29,Sun,Away,W,1,0,Everton,0.8,0.4,61,39112.0,Conor Coady,3-5-2,Michael Oliver,wolves
+29,2022-03-18,20,Matchweek 30,Fri,Home,L,2,3,Leeds United,1.2,2.0,48,31842.0,Conor Coady,3-4-3,Kevin Friend,wolves
+30,2022-04-02,15,Matchweek 31,Sat,Home,W,2,1,Aston Villa,1.3,2.1,49,31012.0,Conor Coady,3-4-3,Darren England,wolves
+31,2022-04-08,20,Matchweek 32,Fri,Away,L,0,1,Newcastle Utd,0.4,1.5,58,52164.0,Conor Coady,3-4-3,Peter Bankes,wolves
+32,2022-04-24,14,Matchweek 34,Sun,Away,L,0,1,Burnley,0.6,1.4,64,19246.0,Conor Coady,3-4-3,Anthony Taylor,wolves
+33,2022-04-30,15,Matchweek 35,Sat,Home,L,0,3,Brighton,0.7,2.6,49,31243.0,Conor Coady,3-5-2,Simon Hooper,wolves
+34,2022-05-07,15,Matchweek 36,Sat,Away,D,2,2,Chelsea,2.0,1.7,41,32190.0,Conor Coady,3-5-2,Peter Bankes,wolves
+35,2022-05-11,20,Matchweek 33,Wed,Home,L,1,5,Manchester City,0.5,2.3,34,32000.0,Conor Coady,3-5-2,Martin Atkinson,wolves
+36,2022-05-15,14,Matchweek 37,Sun,Home,D,1,1,Norwich City,0.9,1.1,64,31219.0,Conor Coady,3-4-3,Tony Harrington,wolves
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,1,3,Liverpool,1.3,2.7,37,53097.0,Conor Coady,3-5-2,Anthony Taylor,wolves
+0,2021-08-15,14,Matchweek 1,Sun,Home,L,2,4,West Ham,1.8,2.7,46,50673.0,Federico Fernández,5-3-2,Martin Atkinson,newcastle utd
+1,2021-08-21,15,Matchweek 2,Sat,Away,L,0,2,Aston Villa,0.7,1.2,53,41964.0,Jamaal Lascelles,5-3-2,David Coote,newcastle utd
+2,2021-08-28,15,Matchweek 3,Sat,Home,D,2,2,Southampton,1.0,3.6,37,44017.0,Jamaal Lascelles,3-5-2,Paul Tierney,newcastle utd
+3,2021-09-11,15,Matchweek 4,Sat,Away,L,1,4,Manchester Utd,0.4,2.5,37,72732.0,Jamaal Lascelles,5-4-1,Anthony Taylor,newcastle utd
+4,2021-09-17,20,Matchweek 5,Fri,Home,D,1,1,Leeds United,1.3,1.5,35,50407.0,Jamaal Lascelles,5-4-1,Mike Dean,newcastle utd
+5,2021-09-25,15,Matchweek 6,Sat,Away,D,1,1,Watford,1.9,0.9,47,20650.0,Federico Fernández,4-1-4-1,Jarred Gillett,newcastle utd
+6,2021-10-02,15,Matchweek 7,Sat,Away,L,1,2,Wolves,0.6,1.0,48,30483.0,Federico Fernández,4-1-4-1,Graham Scott,newcastle utd
+7,2021-10-17,16,Matchweek 8,Sun,Home,L,2,3,Tottenham,0.4,1.7,36,52214.0,Jamaal Lascelles,4-1-4-1,Andre Marriner,newcastle utd
+8,2021-10-23,15,Matchweek 9,Sat,Away,D,1,1,Crystal Palace,0.3,1.9,26,24609.0,Jamaal Lascelles,5-3-2,Darren England,newcastle utd
+9,2021-10-30,15,Matchweek 10,Sat,Home,L,0,3,Chelsea,0.2,2.2,21,52208.0,Jamaal Lascelles,5-3-2,Paul Tierney,newcastle utd
+10,2021-11-06,17,Matchweek 11,Sat,Away,D,1,1,Brighton,0.3,1.5,35,31267.0,Jamaal Lascelles,5-4-1,David Coote,newcastle utd
+11,2021-11-20,15,Matchweek 12,Sat,Home,D,3,3,Brentford,1.5,0.9,53,52131.0,Jamaal Lascelles,3-4-3,Robert Jones,newcastle utd
+12,2021-11-27,12,Matchweek 13,Sat,Away,L,0,2,Arsenal,0.3,2.5,34,59886.0,Jamaal Lascelles,4-4-2,Stuart Attwell,newcastle utd
+13,2021-11-30,19,Matchweek 14,Tue,Home,D,1,1,Norwich City,1.1,1.2,32,50757.0,Callum Wilson,4-4-2,Andy Madley,newcastle utd
+14,2021-12-04,15,Matchweek 15,Sat,Home,W,1,0,Burnley,1.0,0.6,48,51948.0,Jamaal Lascelles,4-4-2,Paul Tierney,newcastle utd
+15,2021-12-12,14,Matchweek 16,Sun,Away,L,0,4,Leicester City,1.0,2.6,53,31959.0,Jamaal Lascelles,4-4-2,Peter Bankes,newcastle utd
+16,2021-12-16,20,Matchweek 17,Thu,Away,L,1,3,Liverpool,0.3,2.7,26,52951.0,Jamaal Lascelles,4-5-1,Mike Dean,newcastle utd
+17,2021-12-19,14,Matchweek 18,Sun,Home,L,0,4,Manchester City,0.3,2.9,29,52127.0,Jamaal Lascelles,4-5-1,Martin Atkinson,newcastle utd
+18,2021-12-27,20,Matchweek 19,Mon,Home,D,1,1,Manchester Utd,1.3,1.6,32,52178.0,Jamaal Lascelles,4-5-1,Craig Pawson,newcastle utd
+19,2022-01-15,15,Matchweek 22,Sat,Home,D,1,1,Watford,1.2,1.4,52,52223.0,Jamaal Lascelles,4-3-3,Paul Tierney,newcastle utd
+20,2022-01-22,15,Matchweek 23,Sat,Away,W,1,0,Leeds United,0.9,0.7,38,36405.0,Jamaal Lascelles,4-3-3,Chris Kavanagh,newcastle utd
+21,2022-02-08,19,Matchweek 24,Tue,Home,W,3,1,Everton,1.9,0.7,40,52186.0,Jamaal Lascelles,4-3-3,Anthony Taylor,newcastle utd
+22,2022-02-13,14,Matchweek 25,Sun,Home,W,1,0,Aston Villa,0.5,0.6,38,52207.0,Kieran Trippier,4-3-3,Craig Pawson,newcastle utd
+23,2022-02-19,12,Matchweek 26,Sat,Away,D,1,1,West Ham,0.8,0.6,53,59949.0,Jonjo Shelvey,4-3-3,Chris Kavanagh,newcastle utd
+24,2022-02-26,15,Matchweek 27,Sat,Away,W,2,0,Brentford,2.7,0.4,63,17039.0,Jonjo Shelvey,4-3-3,Mike Dean,newcastle utd
+25,2022-03-05,15,Matchweek 28,Sat,Home,W,2,1,Brighton,1.7,1.5,32,52214.0,Jonjo Shelvey,4-3-3,Martin Atkinson,newcastle utd
+26,2022-03-10,19,Matchweek 21,Thu,Away,W,2,1,Southampton,0.6,1.1,33,30056.0,Jonjo Shelvey,4-3-3,Kevin Friend,newcastle utd
+27,2022-03-13,14,Matchweek 29,Sun,Away,L,0,1,Chelsea,0.3,1.1,29,40026.0,Jamaal Lascelles,5-4-1,David Coote,newcastle utd
+28,2022-03-17,19,Matchweek 20,Thu,Away,L,0,1,Everton,0.9,0.7,61,39068.0,Fabian Schär,4-3-3,Craig Pawson,newcastle utd
+29,2022-04-03,16,Matchweek 31,Sun,Away,L,1,5,Tottenham,0.5,3.1,40,57553.0,Jonjo Shelvey,4-3-3,Martin Atkinson,newcastle utd
+30,2022-04-08,20,Matchweek 32,Fri,Home,W,1,0,Wolves,1.5,0.4,42,52164.0,Jonjo Shelvey,4-3-3,Peter Bankes,newcastle utd
+31,2022-04-17,14,Matchweek 33,Sun,Home,W,2,1,Leicester City,1.8,0.6,32,52104.0,Jonjo Shelvey,4-3-3,Jarred Gillett,newcastle utd
+32,2022-04-20,19,Matchweek 30,Wed,Home,W,1,0,Crystal Palace,0.9,0.5,37,51938.0,Jonjo Shelvey,4-3-3,Tony Harrington,newcastle utd
+33,2022-04-23,15,Matchweek 34,Sat,Away,W,3,0,Norwich City,1.9,0.6,54,26910.0,Jamaal Lascelles,4-3-3,Chris Kavanagh,newcastle utd
+34,2022-04-30,12,Matchweek 35,Sat,Home,L,0,1,Liverpool,0.2,2.3,36,52281.0,Jonjo Shelvey,4-3-3,Andre Marriner,newcastle utd
+35,2022-05-08,16,Matchweek 36,Sun,Away,L,0,5,Manchester City,0.8,3.1,29,53336.0,Jamaal Lascelles,4-3-3,Stuart Attwell,newcastle utd
+36,2022-05-16,20,Matchweek 37,Mon,Home,W,2,0,Arsenal,1.6,0.6,51,52274.0,Callum Wilson,4-3-3,Darren England,newcastle utd
+37,2022-05-22,16,Matchweek 38,Sun,Away,W,2,1,Burnley,1.8,1.6,48,21361.0,Jamaal Lascelles,4-3-3,Craig Pawson,newcastle utd
+0,2021-08-14,15,Matchweek 1,Sat,Away,L,0,3,Chelsea,0.2,0.7,38,38965.0,James McArthur,4-4-2,Jonathan Moss,crystal palace
+1,2021-08-21,15,Matchweek 2,Sat,Home,D,0,0,Brentford,0.5,0.9,53,23091.0,James McArthur,4-3-3,Martin Atkinson,crystal palace
+2,2021-08-28,15,Matchweek 3,Sat,Away,D,2,2,West Ham,1.1,1.3,53,59751.0,James McArthur,4-3-3,Stuart Attwell,crystal palace
+3,2021-09-11,12,Matchweek 4,Sat,Home,W,3,0,Tottenham,2.1,0.1,62,26000.0,James McArthur,4-3-3,Jonathan Moss,crystal palace
+4,2021-09-18,15,Matchweek 5,Sat,Away,L,0,3,Liverpool,0.6,3.1,41,52000.0,James McArthur,4-3-3,Andy Madley,crystal palace
+5,2021-09-27,20,Matchweek 6,Mon,Home,D,1,1,Brighton,1.4,0.8,47,22975.0,Luka Milivojević,4-3-3,Andre Marriner,crystal palace
+6,2021-10-03,14,Matchweek 7,Sun,Home,D,2,2,Leicester City,1.5,1.2,60,25000.0,Luka Milivojević,4-3-3,Anthony Taylor,crystal palace
+7,2021-10-18,20,Matchweek 8,Mon,Away,D,2,2,Arsenal,0.7,1.7,46,59475.0,Luka Milivojević,4-2-3-1,Mike Dean,crystal palace
+8,2021-10-23,15,Matchweek 9,Sat,Home,D,1,1,Newcastle Utd,1.9,0.3,74,24609.0,Luka Milivojević,4-3-3,Darren England,crystal palace
+9,2021-10-30,15,Matchweek 10,Sat,Away,W,2,0,Manchester City,0.7,0.7,32,53014.0,James McArthur,4-3-3,Andre Marriner,crystal palace
+10,2021-11-06,15,Matchweek 11,Sat,Home,W,2,0,Wolves,1.9,0.3,60,24390.0,James McArthur,4-3-3,Graham Scott,crystal palace
+11,2021-11-20,15,Matchweek 12,Sat,Away,D,3,3,Burnley,1.9,1.5,60,18028.0,Luka Milivojević,4-3-3,Simon Hooper,crystal palace
+12,2021-11-27,15,Matchweek 13,Sat,Home,L,1,2,Aston Villa,1.0,0.5,64,25203.0,Luka Milivojević,4-2-3-1,Michael Salisbury,crystal palace
+13,2021-11-30,20,Matchweek 14,Tue,Away,L,0,1,Leeds United,1.1,1.4,39,35558.0,Joel Ward,4-3-3,Kevin Friend,crystal palace
+14,2021-12-05,14,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,0.5,0.9,39,73172.0,Wilfried Zaha,4-3-3,Craig Pawson,crystal palace
+15,2021-12-12,16,Matchweek 16,Sun,Home,W,3,1,Everton,1.8,1.0,61,24066.0,Joel Ward,4-3-3,Andy Madley,crystal palace
+16,2021-12-15,19,Matchweek 17,Wed,Home,D,2,2,Southampton,1.2,0.6,59,22861.0,Joel Ward,4-3-3,Simon Hooper,crystal palace
+17,2021-12-26,15,Matchweek 19,Sun,Away,L,0,3,Tottenham,0.2,2.3,40,40539.0,Joel Ward,4-3-3,Jonathan Moss,crystal palace
+18,2021-12-28,15,Matchweek 20,Tue,Home,W,3,0,Norwich City,1.9,0.9,51,24433.0,Joel Ward,4-3-3,Paul Tierney,crystal palace
+19,2022-01-01,17,Matchweek 21,Sat,Home,L,2,3,West Ham,2.4,2.2,62,24351.0,Luka Milivojević,4-3-3,Darren England,crystal palace
+20,2022-01-14,20,Matchweek 22,Fri,Away,D,1,1,Brighton,0.2,2.0,37,30675.0,Joel Ward,4-3-3,Robert Jones,crystal palace
+21,2022-01-23,14,Matchweek 23,Sun,Home,L,1,3,Liverpool,2.2,1.9,43,25002.0,Joel Ward,4-3-3,Kevin Friend,crystal palace
+22,2022-02-09,19,Matchweek 24,Wed,Away,D,1,1,Norwich City,1.3,0.4,70,26652.0,Joel Ward,4-3-3,Paul Tierney,crystal palace
+23,2022-02-12,15,Matchweek 25,Sat,Away,D,0,0,Brentford,0.3,1.6,58,16958.0,Joel Ward,4-3-3,Simon Hooper,crystal palace
+24,2022-02-19,15,Matchweek 26,Sat,Home,L,0,1,Chelsea,0.5,0.9,42,25109.0,James McArthur,4-2-3-1,David Coote,crystal palace
+25,2022-02-23,19,Matchweek 18,Wed,Away,W,4,1,Watford,1.1,1.4,54,20012.0,Marc Guéhi,4-3-3,Andre Marriner,crystal palace
+26,2022-02-26,15,Matchweek 27,Sat,Home,D,1,1,Burnley,1.0,0.2,59,24203.0,Luka Milivojević,4-3-3,Jonathan Moss,crystal palace
+27,2022-03-05,15,Matchweek 28,Sat,Away,W,2,0,Wolves,2.7,0.7,37,31395.0,Marc Guéhi,4-2-3-1,Andy Madley,crystal palace
+28,2022-03-14,20,Matchweek 29,Mon,Home,D,0,0,Manchester City,0.6,2.8,27,25309.0,Marc Guéhi,4-3-3,Martin Atkinson,crystal palace
+29,2022-04-04,20,Matchweek 31,Mon,Home,W,3,0,Arsenal,1.5,0.8,32,25149.0,Marc Guéhi,4-2-3-1,Paul Tierney,crystal palace
+30,2022-04-10,14,Matchweek 32,Sun,Away,L,1,2,Leicester City,1.4,1.0,49,31896.0,Marc Guéhi,4-2-3-1,Robert Jones,crystal palace
+31,2022-04-20,19,Matchweek 30,Wed,Away,L,0,1,Newcastle Utd,0.5,0.9,63,51938.0,Marc Guéhi,4-2-3-1,Tony Harrington,crystal palace
+32,2022-04-25,20,Matchweek 34,Mon,Home,D,0,0,Leeds United,1.9,0.5,53,25357.0,James McArthur,4-3-3,Darren England,crystal palace
+33,2022-04-30,15,Matchweek 35,Sat,Away,W,2,1,Southampton,1.1,0.6,62,31359.0,James McArthur,4-3-3,Jarred Gillett,crystal palace
+34,2022-05-07,15,Matchweek 36,Sat,Home,W,1,0,Watford,2.2,0.4,67,24622.0,Joel Ward,4-3-3,Graham Scott,crystal palace
+35,2022-05-15,14,Matchweek 37,Sun,Away,D,1,1,Aston Villa,1.4,1.0,51,41136.0,Luka Milivojević,5-3-2,Chris Kavanagh,crystal palace
+36,2022-05-19,19,Matchweek 33,Thu,Away,L,2,3,Everton,1.1,0.8,57,38448.0,Marc Guéhi,4-3-3,Anthony Taylor,crystal palace
+37,2022-05-22,16,Matchweek 38,Sun,Home,W,1,0,Manchester Utd,0.6,0.7,39,25434.0,Joel Ward,4-3-3,Martin Atkinson,crystal palace
+0,2021-08-13,20,Matchweek 1,Fri,Home,W,2,0,Arsenal,1.2,1.3,36,16479.0,Pontus Jansson,3-5-2,Michael Oliver,brentford
+1,2021-08-21,15,Matchweek 2,Sat,Away,D,0,0,Crystal Palace,0.9,0.5,47,23091.0,Pontus Jansson,3-5-2,Martin Atkinson,brentford
+2,2021-08-28,15,Matchweek 3,Sat,Away,D,1,1,Aston Villa,0.9,0.7,54,42045.0,Pontus Jansson,3-4-1-2,Peter Bankes,brentford
+3,2021-09-11,15,Matchweek 4,Sat,Home,L,0,1,Brighton,0.4,0.3,41,16518.0,Pontus Jansson,3-5-2,Graham Scott,brentford
+4,2021-09-18,12,Matchweek 5,Sat,Away,W,2,0,Wolves,2.5,0.6,38,30000.0,Pontus Jansson,3-5-2,Darren England,brentford
+5,2021-09-25,17,Matchweek 6,Sat,Home,D,3,3,Liverpool,2.1,2.8,33,16876.0,Pontus Jansson,3-5-2,Stuart Attwell,brentford
+6,2021-10-03,14,Matchweek 7,Sun,Away,W,2,1,West Ham,1.2,1.5,41,49940.0,Pontus Jansson,3-5-2,Peter Bankes,brentford
+7,2021-10-16,17,Matchweek 8,Sat,Home,L,0,1,Chelsea,1.4,0.3,45,16940.0,Pontus Jansson,3-5-2,Anthony Taylor,brentford
+8,2021-10-24,14,Matchweek 9,Sun,Home,L,1,2,Leicester City,1.0,1.5,54,16814.0,Pontus Jansson,3-5-2,Simon Hooper,brentford
+9,2021-10-30,15,Matchweek 10,Sat,Away,L,1,3,Burnley,0.8,2.3,59,18821.0,Pontus Jansson,3-5-2,Jonathan Moss,brentford
+10,2021-11-06,15,Matchweek 11,Sat,Home,L,1,2,Norwich City,2.5,1.2,64,16837.0,Pontus Jansson,3-5-2,Jarred Gillett,brentford
+11,2021-11-20,15,Matchweek 12,Sat,Away,D,3,3,Newcastle Utd,0.9,1.5,47,52131.0,Pontus Jansson,3-5-2,Robert Jones,brentford
+12,2021-11-28,14,Matchweek 13,Sun,Home,W,1,0,Everton,1.2,1.0,40,16957.0,Pontus Jansson,3-5-2,Darren England,brentford
+13,2021-12-02,19,Matchweek 14,Thu,Away,L,0,2,Tottenham,0.3,1.9,53,54202.0,Pontus Jansson,3-5-2,Jonathan Moss,brentford
+14,2021-12-05,14,Matchweek 15,Sun,Away,D,2,2,Leeds United,1.0,1.2,37,35639.0,Pontus Jansson,3-5-2,David Coote,brentford
+15,2021-12-10,20,Matchweek 16,Fri,Home,W,2,1,Watford,1.6,0.5,63,16861.0,Pontus Jansson,3-5-2,Michael Oliver,brentford
+16,2021-12-26,20,Matchweek 19,Sun,Away,L,0,2,Brighton,0.7,0.8,50,30141.0,Pontus Jansson,3-5-2,Darren England,brentford
+17,2021-12-29,20,Matchweek 20,Wed,Home,L,0,1,Manchester City,0.4,1.1,24,17009.0,Pontus Jansson,3-5-2,David Coote,brentford
+18,2022-01-02,14,Matchweek 21,Sun,Home,W,2,1,Aston Villa,0.6,0.8,45,16876.0,Pontus Jansson,3-5-2,Craig Pawson,brentford
+19,2022-01-11,19,Matchweek 18,Tue,Away,L,1,4,Southampton,0.5,1.4,52,27383.0,Pontus Jansson,3-5-2,Stuart Attwell,brentford
+20,2022-01-16,14,Matchweek 22,Sun,Away,L,0,3,Liverpool,0.7,2.7,32,52824.0,Pontus Jansson,3-5-2,Jonathan Moss,brentford
+21,2022-01-19,20,Matchweek 17,Wed,Home,L,1,3,Manchester Utd,2.3,2.3,44,17094.0,Pontus Jansson,3-5-2,Andre Marriner,brentford
+22,2022-01-22,15,Matchweek 23,Sat,Home,L,1,2,Wolves,1.1,0.2,50,16982.0,Pontus Jansson,3-5-2,Peter Bankes,brentford
+23,2022-02-09,19,Matchweek 24,Wed,Away,L,0,2,Manchester City,0.4,1.9,26,51658.0,Pontus Jansson,3-5-2,Darren England,brentford
+24,2022-02-12,15,Matchweek 25,Sat,Home,D,0,0,Crystal Palace,1.6,0.3,42,16958.0,Pontus Jansson,3-5-2,Simon Hooper,brentford
+25,2022-02-19,15,Matchweek 26,Sat,Away,L,1,2,Arsenal,0.6,1.7,34,59249.0,Pontus Jansson,3-5-2,Jonathan Moss,brentford
+26,2022-02-26,15,Matchweek 27,Sat,Home,L,0,2,Newcastle Utd,0.4,2.7,37,17039.0,Pontus Jansson,4-3-3,Mike Dean,brentford
+27,2022-03-05,15,Matchweek 28,Sat,Away,W,3,1,Norwich City,2.0,1.0,40,26887.0,Pontus Jansson,4-5-1,Anthony Taylor,brentford
+28,2022-03-12,15,Matchweek 29,Sat,Home,W,2,0,Burnley,1.9,0.7,55,17088.0,Pontus Jansson,4-5-1,Paul Tierney,brentford
+29,2022-03-20,14,Matchweek 30,Sun,Away,L,1,2,Leicester City,1.3,1.0,48,31830.0,Pontus Jansson,4-5-1,Darren England,brentford
+30,2022-04-02,15,Matchweek 31,Sat,Away,W,4,1,Chelsea,1.8,1.3,30,39061.0,Pontus Jansson,5-3-2,Andy Madley,brentford
+31,2022-04-10,14,Matchweek 32,Sun,Home,W,2,0,West Ham,1.4,0.3,47,17032.0,Christian Nørgaard,4-3-3,Martin Atkinson,brentford
+32,2022-04-16,15,Matchweek 33,Sat,Away,W,2,1,Watford,1.9,1.7,50,21045.0,Pontus Jansson,4-3-3,Simon Hooper,brentford
+33,2022-04-23,17,Matchweek 34,Sat,Home,D,0,0,Tottenham,0.9,0.6,44,17072.0,Pontus Jansson,5-3-2,Martin Atkinson,brentford
+34,2022-05-02,20,Matchweek 35,Mon,Away,L,0,3,Manchester Utd,0.6,2.0,37,73482.0,Pontus Jansson,5-3-2,Chris Kavanagh,brentford
+35,2022-05-07,15,Matchweek 36,Sat,Home,W,3,0,Southampton,2.6,1.4,41,17051.0,Pontus Jansson,4-3-3,Michael Salisbury,brentford
+36,2022-05-15,16,Matchweek 37,Sun,Away,W,3,2,Everton,1.4,2.1,72,38819.0,Pontus Jansson,4-3-3,Michael Oliver,brentford
+37,2022-05-22,16,Matchweek 38,Sun,Home,L,1,2,Leeds United,0.8,1.3,49,16957.0,Pontus Jansson,4-3-3,Paul Tierney,brentford
+0,2021-08-14,15,Matchweek 1,Sat,Away,L,2,3,Watford,1.2,1.2,62,20051.0,Tyrone Mings,4-2-3-1,Mike Dean,aston villa
+1,2021-08-21,15,Matchweek 2,Sat,Home,W,2,0,Newcastle Utd,1.2,0.7,47,41964.0,Tyrone Mings,4-3-3,David Coote,aston villa
+2,2021-08-28,15,Matchweek 3,Sat,Home,D,1,1,Brentford,0.7,0.9,46,42045.0,Ezri Konsa,4-1-4-1,Peter Bankes,aston villa
+3,2021-09-11,17,Matchweek 4,Sat,Away,L,0,3,Chelsea,1.2,1.3,43,39969.0,Tyrone Mings,5-3-2,Stuart Attwell,aston villa
+4,2021-09-18,17,Matchweek 5,Sat,Home,W,3,0,Everton,0.8,0.7,55,41888.0,Tyrone Mings,5-3-2,Craig Pawson,aston villa
+5,2021-09-25,12,Matchweek 6,Sat,Away,W,1,0,Manchester Utd,1.0,2.2,41,72922.0,Tyrone Mings,3-5-2,Mike Dean,aston villa
+6,2021-10-03,14,Matchweek 7,Sun,Away,L,1,2,Tottenham,1.2,1.3,44,53076.0,Tyrone Mings,3-5-2,Chris Kavanagh,aston villa
+7,2021-10-16,15,Matchweek 8,Sat,Home,L,2,3,Wolves,1.0,2.0,48,41951.0,Tyrone Mings,3-4-1-2,Michael Oliver,aston villa
+8,2021-10-22,20,Matchweek 9,Fri,Away,L,1,3,Arsenal,1.4,2.7,47,59496.0,Tyrone Mings,3-4-1-2,Craig Pawson,aston villa
+9,2021-10-31,16,Matchweek 10,Sun,Home,L,1,4,West Ham,0.7,2.3,43,41874.0,John McGinn,4-3-3,Chris Kavanagh,aston villa
+10,2021-11-05,20,Matchweek 11,Fri,Away,L,0,1,Southampton,0.6,0.6,44,30178.0,Tyrone Mings,4-2-3-1,Andy Madley,aston villa
+11,2021-11-20,15,Matchweek 12,Sat,Home,W,2,0,Brighton,0.7,0.4,38,41925.0,Tyrone Mings,4-3-3,Anthony Taylor,aston villa
+12,2021-11-27,15,Matchweek 13,Sat,Away,W,2,1,Crystal Palace,0.5,1.0,36,25203.0,Tyrone Mings,4-3-3,Michael Salisbury,aston villa
+13,2021-12-01,20,Matchweek 14,Wed,Home,L,1,2,Manchester City,0.8,1.0,36,41400.0,Tyrone Mings,4-3-3,Mike Dean,aston villa
+14,2021-12-05,16,Matchweek 15,Sun,Home,W,2,1,Leicester City,2.1,1.1,41,41572.0,Tyrone Mings,4-3-3,Michael Oliver,aston villa
+15,2021-12-11,15,Matchweek 16,Sat,Away,L,0,1,Liverpool,0.2,2.2,38,53093.0,Tyrone Mings,4-3-3,Stuart Attwell,aston villa
+16,2021-12-14,19,Matchweek 17,Tue,Away,W,2,0,Norwich City,2.0,0.5,50,26836.0,Tyrone Mings,4-3-3,David Coote,aston villa
+17,2021-12-26,17,Matchweek 19,Sun,Home,L,1,3,Chelsea,0.4,2.6,42,41907.0,Tyrone Mings,4-3-1-2,Martin Atkinson,aston villa
+18,2022-01-02,14,Matchweek 21,Sun,Away,L,1,2,Brentford,0.8,0.6,55,16876.0,John McGinn,4-3-3,Craig Pawson,aston villa
+19,2022-01-15,17,Matchweek 22,Sat,Home,D,2,2,Manchester Utd,1.9,1.0,54,41968.0,Tyrone Mings,4-3-3,David Coote,aston villa
+20,2022-01-22,12,Matchweek 23,Sat,Away,W,1,0,Everton,0.8,1.6,50,38203.0,Tyrone Mings,4-3-3,Craig Pawson,aston villa
+21,2022-02-09,20,Matchweek 24,Wed,Home,D,3,3,Leeds United,1.6,1.8,40,41927.0,Tyrone Mings,4-3-3,Jarred Gillett,aston villa
+22,2022-02-13,14,Matchweek 25,Sun,Away,L,0,1,Newcastle Utd,0.6,0.5,62,52207.0,Tyrone Mings,4-3-3,Craig Pawson,aston villa
+23,2022-02-19,15,Matchweek 26,Sat,Home,L,0,1,Watford,1.3,1.2,59,41936.0,Tyrone Mings,4-3-3,Robert Jones,aston villa
+24,2022-02-26,15,Matchweek 27,Sat,Away,W,2,0,Brighton,1.0,0.7,34,31475.0,Tyrone Mings,4-1-2-1-2◆,John Brooks,aston villa
+25,2022-03-05,15,Matchweek 28,Sat,Home,W,4,0,Southampton,2.5,1.1,38,41855.0,Tyrone Mings,4-3-1-2,Peter Bankes,aston villa
+26,2022-03-10,19,Matchweek 20,Thu,Away,W,3,0,Leeds United,1.5,0.2,49,36400.0,Tyrone Mings,4-3-1-2,Simon Hooper,aston villa
+27,2022-03-13,14,Matchweek 29,Sun,Away,L,1,2,West Ham,1.1,1.2,53,59957.0,Tyrone Mings,4-1-2-1-2◆,Jarred Gillett,aston villa
+28,2022-03-19,12,Matchweek 30,Sat,Home,L,0,1,Arsenal,0.5,1.3,47,41956.0,Tyrone Mings,4-3-2-1,Andy Madley,aston villa
+29,2022-04-02,15,Matchweek 31,Sat,Away,L,1,2,Wolves,2.1,1.3,51,31012.0,Tyrone Mings,4-3-1-2,Darren England,aston villa
+30,2022-04-09,17,Matchweek 32,Sat,Home,L,0,4,Tottenham,1.6,1.1,52,41949.0,Tyrone Mings,4-3-1-2,Graham Scott,aston villa
+31,2022-04-23,15,Matchweek 34,Sat,Away,D,0,0,Leicester City,0.9,0.3,36,32185.0,Tyrone Mings,4-3-2-1,Andy Madley,aston villa
+32,2022-04-30,15,Matchweek 35,Sat,Home,W,2,0,Norwich City,1.8,0.5,45,40290.0,Tyrone Mings,4-1-4-1,John Brooks,aston villa
+33,2022-05-07,15,Matchweek 36,Sat,Away,W,3,1,Burnley,2.1,1.9,51,20891.0,Tyrone Mings,4-1-2-1-2◆,David Coote,aston villa
+34,2022-05-10,20,Matchweek 33,Tue,Home,L,1,2,Liverpool,1.4,1.8,40,41919.0,Tyrone Mings,4-3-1-2,Jonathan Moss,aston villa
+35,2022-05-15,14,Matchweek 37,Sun,Home,D,1,1,Crystal Palace,1.0,1.4,49,41136.0,Tyrone Mings,4-3-1-2,Chris Kavanagh,aston villa
+36,2022-05-19,20,Matchweek 18,Thu,Home,D,1,1,Burnley,1.5,1.6,71,40468.0,Tyrone Mings,4-3-2-1,Paul Tierney,aston villa
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,2,3,Manchester City,0.2,3.4,29,53395.0,Tyrone Mings,4-3-2-1,Michael Oliver,aston villa
+0,2021-08-14,15,Matchweek 1,Sat,Away,L,1,3,Everton,0.8,2.4,52,38487.0,James Ward-Prowse,4-4-2,Andy Madley,southampton
+1,2021-08-22,14,Matchweek 2,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,37,32000.0,James Ward-Prowse,4-4-2,Craig Pawson,southampton
+2,2021-08-28,15,Matchweek 3,Sat,Away,D,2,2,Newcastle Utd,3.6,1.0,63,44017.0,James Ward-Prowse,4-4-2,Paul Tierney,southampton
+3,2021-09-11,15,Matchweek 4,Sat,Home,D,0,0,West Ham,0.7,0.7,42,30000.0,James Ward-Prowse,4-1-4-1,David Coote,southampton
+4,2021-09-18,15,Matchweek 5,Sat,Away,D,0,0,Manchester City,0.4,1.0,36,52698.0,James Ward-Prowse,4-4-2,Jonathan Moss,southampton
+5,2021-09-26,14,Matchweek 6,Sun,Home,L,0,1,Wolves,1.0,1.0,57,28002.0,James Ward-Prowse,4-4-2,Andy Madley,southampton
+6,2021-10-02,15,Matchweek 7,Sat,Away,L,1,3,Chelsea,1.3,3.3,38,40109.0,James Ward-Prowse,4-4-2,Martin Atkinson,southampton
+7,2021-10-16,15,Matchweek 8,Sat,Home,W,1,0,Leeds United,1.9,0.2,46,30506.0,Oriol Romeu,4-4-2,David Coote,southampton
+8,2021-10-23,15,Matchweek 9,Sat,Home,D,2,2,Burnley,1.6,0.7,61,29145.0,Oriol Romeu,4-4-2,Chris Kavanagh,southampton
+9,2021-10-30,15,Matchweek 10,Sat,Away,W,1,0,Watford,1.8,1.0,60,20869.0,James Ward-Prowse,4-4-2,Peter Bankes,southampton
+10,2021-11-05,20,Matchweek 11,Fri,Home,W,1,0,Aston Villa,0.6,0.6,56,30178.0,James Ward-Prowse,4-4-2,Andy Madley,southampton
+11,2021-11-20,15,Matchweek 12,Sat,Away,L,1,2,Norwich City,1.0,0.5,62,26885.0,James Ward-Prowse,4-4-2,Martin Atkinson,southampton
+12,2021-11-27,15,Matchweek 13,Sat,Away,L,0,4,Liverpool,1.0,2.9,36,53040.0,James Ward-Prowse,3-4-3,Andre Marriner,southampton
+13,2021-12-01,19,Matchweek 14,Wed,Home,D,2,2,Leicester City,1.5,1.5,45,26951.0,James Ward-Prowse,4-4-2,Robert Jones,southampton
+14,2021-12-04,15,Matchweek 15,Sat,Home,D,1,1,Brighton,1.6,1.6,44,28706.0,James Ward-Prowse,4-4-2,Anthony Taylor,southampton
+15,2021-12-11,15,Matchweek 16,Sat,Away,L,0,3,Arsenal,0.6,1.8,39,59653.0,James Ward-Prowse,4-4-2,Jarred Gillett,southampton
+16,2021-12-15,19,Matchweek 17,Wed,Away,D,2,2,Crystal Palace,0.6,1.2,41,22861.0,James Ward-Prowse,4-4-2,Simon Hooper,southampton
+17,2021-12-26,15,Matchweek 19,Sun,Away,W,3,2,West Ham,1.2,1.6,44,41027.0,James Ward-Prowse,4-1-4-1,Kevin Friend,southampton
+18,2021-12-28,15,Matchweek 20,Tue,Home,D,1,1,Tottenham,0.4,2.3,35,31304.0,James Ward-Prowse,5-3-2,Anthony Taylor,southampton
+19,2022-01-11,19,Matchweek 18,Tue,Home,W,4,1,Brentford,1.4,0.5,48,27383.0,James Ward-Prowse,3-5-2,Stuart Attwell,southampton
+20,2022-01-15,15,Matchweek 22,Sat,Away,L,1,3,Wolves,0.8,2.5,57,30057.0,James Ward-Prowse,3-5-2,Michael Salisbury,southampton
+21,2022-01-22,17,Matchweek 23,Sat,Home,D,1,1,Manchester City,0.8,1.8,26,31178.0,James Ward-Prowse,4-4-2,Simon Hooper,southampton
+22,2022-02-09,19,Matchweek 24,Wed,Away,W,3,2,Tottenham,2.2,1.4,52,54012.0,James Ward-Prowse,4-4-2,David Coote,southampton
+23,2022-02-12,12,Matchweek 25,Sat,Away,D,1,1,Manchester Utd,0.8,2.1,47,73084.0,James Ward-Prowse,4-4-2,Stuart Attwell,southampton
+24,2022-02-19,15,Matchweek 26,Sat,Home,W,2,0,Everton,2.5,0.3,55,31312.0,James Ward-Prowse,4-4-2,Andy Madley,southampton
+25,2022-02-25,20,Matchweek 27,Fri,Home,W,2,0,Norwich City,2.6,0.6,58,31182.0,James Ward-Prowse,4-4-2,Simon Hooper,southampton
+26,2022-03-05,15,Matchweek 28,Sat,Away,L,0,4,Aston Villa,1.1,2.5,62,41855.0,James Ward-Prowse,4-4-2,Peter Bankes,southampton
+27,2022-03-10,19,Matchweek 21,Thu,Home,L,1,2,Newcastle Utd,1.1,0.6,67,30056.0,James Ward-Prowse,4-4-2,Kevin Friend,southampton
+28,2022-03-13,14,Matchweek 29,Sun,Home,L,1,2,Watford,1.4,1.7,63,28863.0,James Ward-Prowse,4-4-2,Graham Scott,southampton
+29,2022-04-02,15,Matchweek 31,Sat,Away,D,1,1,Leeds United,1.4,1.2,44,36580.0,James Ward-Prowse,4-3-1-2,Anthony Taylor,southampton
+30,2022-04-09,15,Matchweek 32,Sat,Home,L,0,6,Chelsea,0.5,4.2,30,31359.0,James Ward-Prowse,4-4-2,Kevin Friend,southampton
+31,2022-04-16,15,Matchweek 33,Sat,Home,W,1,0,Arsenal,0.8,1.7,25,31465.0,James Ward-Prowse,3-4-3,Peter Bankes,southampton
+32,2022-04-21,19,Matchweek 30,Thu,Away,L,0,2,Burnley,0.9,1.5,56,17384.0,James Ward-Prowse,3-1-4-2,Stuart Attwell,southampton
+33,2022-04-24,14,Matchweek 34,Sun,Away,D,2,2,Brighton,0.9,1.7,52,31335.0,James Ward-Prowse,4-4-2,Robert Jones,southampton
+34,2022-04-30,15,Matchweek 35,Sat,Home,L,1,2,Crystal Palace,0.6,1.1,38,31359.0,James Ward-Prowse,4-4-2,Jarred Gillett,southampton
+35,2022-05-07,15,Matchweek 36,Sat,Away,L,0,3,Brentford,1.4,2.6,59,17051.0,James Ward-Prowse,4-4-2,Michael Salisbury,southampton
+36,2022-05-17,19,Matchweek 37,Tue,Home,L,1,2,Liverpool,0.1,1.3,30,31588.0,James Ward-Prowse,5-4-1,Martin Atkinson,southampton
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,1,4,Leicester City,1.1,3.4,49,32003.0,James Ward-Prowse,4-4-2,Jonathan Moss,southampton
+0,2021-08-14,15,Matchweek 1,Sat,Home,W,3,1,Southampton,2.4,0.8,48,38487.0,Séamus Coleman,4-2-3-1,Andy Madley,everton
+1,2021-08-21,15,Matchweek 2,Sat,Away,D,2,2,Leeds United,1.8,1.2,31,36293.0,Séamus Coleman,4-4-1-1,Darren England,everton
+2,2021-08-28,15,Matchweek 3,Sat,Away,W,2,0,Brighton,1.4,0.7,35,30548.0,Séamus Coleman,4-4-1-1,Jonathan Moss,everton
+3,2021-09-13,20,Matchweek 4,Mon,Home,W,3,1,Burnley,1.4,1.0,52,30000.0,Séamus Coleman,3-4-3,Martin Atkinson,everton
+4,2021-09-18,17,Matchweek 5,Sat,Away,L,0,3,Aston Villa,0.7,0.8,45,41888.0,Lucas Digne,4-4-1-1,Craig Pawson,everton
+5,2021-09-25,15,Matchweek 6,Sat,Home,W,2,0,Norwich City,1.9,0.5,47,38821.0,Lucas Digne,4-4-1-1,David Coote,everton
+6,2021-10-02,12,Matchweek 7,Sat,Away,D,1,1,Manchester Utd,1.3,1.0,28,73128.0,Lucas Digne,4-4-1-1,Michael Oliver,everton
+7,2021-10-17,14,Matchweek 8,Sun,Home,L,0,1,West Ham,0.9,1.2,39,39132.0,Séamus Coleman,4-4-1-1,Stuart Attwell,everton
+8,2021-10-23,15,Matchweek 9,Sat,Home,L,2,5,Watford,1.5,3.7,49,38834.0,Séamus Coleman,4-4-1-1,Graham Scott,everton
+9,2021-11-01,20,Matchweek 10,Mon,Away,L,1,2,Wolves,1.5,1.7,39,30617.0,Séamus Coleman,4-4-2,Martin Atkinson,everton
+10,2021-11-07,14,Matchweek 11,Sun,Home,D,0,0,Tottenham,0.6,0.7,45,39059.0,Séamus Coleman,4-4-1-1,Chris Kavanagh,everton
+11,2021-11-21,14,Matchweek 12,Sun,Away,L,0,3,Manchester City,0.2,2.5,23,52571.0,Séamus Coleman,4-4-1-1,Stuart Attwell,everton
+12,2021-11-28,14,Matchweek 13,Sun,Away,L,0,1,Brentford,1.0,1.2,60,16957.0,Séamus Coleman,4-4-1-1,Darren England,everton
+13,2021-12-01,20,Matchweek 14,Wed,Home,L,1,4,Liverpool,0.7,2.4,33,39641.0,Séamus Coleman,4-4-2,Paul Tierney,everton
+14,2021-12-06,20,Matchweek 15,Mon,Home,W,2,1,Arsenal,0.9,1.0,37,38906.0,Séamus Coleman,4-4-1-1,Mike Dean,everton
+15,2021-12-12,16,Matchweek 16,Sun,Away,L,1,3,Crystal Palace,1.0,1.8,39,24066.0,Séamus Coleman,4-1-4-1,Andy Madley,everton
+16,2021-12-16,19,Matchweek 17,Thu,Away,D,1,1,Chelsea,0.6,2.9,20,13933.0,Michael Keane,5-4-1,Michael Oliver,everton
+17,2022-01-02,14,Matchweek 21,Sun,Home,L,2,3,Brighton,1.6,1.7,50,38203.0,Séamus Coleman,5-4-1,John Brooks,everton
+18,2022-01-15,15,Matchweek 22,Sat,Away,L,1,2,Norwich City,0.6,1.0,59,26629.0,Séamus Coleman,4-4-2,Andy Madley,everton
+19,2022-01-22,12,Matchweek 23,Sat,Home,L,0,1,Aston Villa,1.6,0.8,50,38203.0,Yerry Mina,4-4-2,Craig Pawson,everton
+20,2022-02-08,19,Matchweek 24,Tue,Away,L,1,3,Newcastle Utd,0.7,1.9,60,52186.0,Séamus Coleman,3-4-3,Anthony Taylor,everton
+21,2022-02-12,15,Matchweek 25,Sat,Home,W,3,0,Leeds United,2.7,0.3,42,39150.0,Séamus Coleman,4-4-2,Graham Scott,everton
+22,2022-02-19,15,Matchweek 26,Sat,Away,L,0,2,Southampton,0.3,2.5,45,31312.0,Séamus Coleman,4-4-2,Andy Madley,everton
+23,2022-02-26,17,Matchweek 27,Sat,Home,L,0,1,Manchester City,0.5,1.8,33,39105.0,Séamus Coleman,4-3-3,Paul Tierney,everton
+24,2022-03-07,20,Matchweek 28,Mon,Away,L,0,5,Tottenham,0.2,2.5,45,59647.0,Séamus Coleman,4-2-3-1,Stuart Attwell,everton
+25,2022-03-13,14,Matchweek 29,Sun,Home,L,0,1,Wolves,0.4,0.8,39,39112.0,Séamus Coleman,3-4-3,Michael Oliver,everton
+26,2022-03-17,19,Matchweek 20,Thu,Home,W,1,0,Newcastle Utd,0.7,0.9,39,39068.0,Séamus Coleman,4-2-3-1,Craig Pawson,everton
+27,2022-04-03,14,Matchweek 31,Sun,Away,L,1,2,West Ham,0.7,1.2,45,59953.0,Michael Keane,4-3-3,Michael Oliver,everton
+28,2022-04-06,19,Matchweek 19,Wed,Away,L,2,3,Burnley,2.4,2.0,48,19830.0,Jordan Pickford,4-3-3,Mike Dean,everton
+29,2022-04-09,12,Matchweek 32,Sat,Home,W,1,0,Manchester Utd,0.4,0.8,33,39080.0,Séamus Coleman,4-3-3,Jonathan Moss,everton
+30,2022-04-20,19,Matchweek 18,Wed,Home,D,1,1,Leicester City,1.8,0.9,37,39153.0,Séamus Coleman,4-3-3,David Coote,everton
+31,2022-04-24,16,Matchweek 34,Sun,Away,L,0,2,Liverpool,0.4,1.7,18,53213.0,Séamus Coleman,4-3-3,Stuart Attwell,everton
+32,2022-05-01,14,Matchweek 35,Sun,Home,W,1,0,Chelsea,0.8,0.8,23,39256.0,Séamus Coleman,5-4-1,Kevin Friend,everton
+33,2022-05-08,14,Matchweek 36,Sun,Away,W,2,1,Leicester City,1.1,1.5,34,32001.0,Séamus Coleman,5-4-1,Craig Pawson,everton
+34,2022-05-11,19,Matchweek 30,Wed,Away,D,0,0,Watford,0.7,0.3,52,20653.0,Séamus Coleman,5-4-1,Mike Dean,everton
+35,2022-05-15,16,Matchweek 37,Sun,Home,L,2,3,Brentford,2.1,1.4,28,38819.0,Séamus Coleman,3-4-3,Michael Oliver,everton
+36,2022-05-19,19,Matchweek 33,Thu,Home,W,3,2,Crystal Palace,0.8,1.1,43,38448.0,Séamus Coleman,3-4-3,Anthony Taylor,everton
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,1,5,Arsenal,1.1,4.2,27,60201.0,Asmir Begović,5-4-1,Andre Marriner,everton
+0,2021-08-14,12,Matchweek 1,Sat,Away,L,1,5,Manchester Utd,0.5,1.5,51,72732.0,Liam Cooper,4-1-4-1,Paul Tierney,leeds united
+1,2021-08-21,15,Matchweek 2,Sat,Home,D,2,2,Everton,1.2,1.8,69,36293.0,Liam Cooper,3-3-3-1,Darren England,leeds united
+2,2021-08-29,14,Matchweek 3,Sun,Away,D,1,1,Burnley,1.2,1.0,64,20000.0,Liam Cooper,3-3-3-1,Michael Oliver,leeds united
+3,2021-09-12,16,Matchweek 4,Sun,Home,L,0,3,Liverpool,1.2,4.3,44,36507.0,Liam Cooper,4-1-4-1,Craig Pawson,leeds united
+4,2021-09-17,20,Matchweek 5,Fri,Away,D,1,1,Newcastle Utd,1.5,1.3,65,50407.0,Liam Cooper,4-1-4-1,Mike Dean,leeds united
+5,2021-09-25,15,Matchweek 6,Sat,Home,L,1,2,West Ham,1.2,1.6,53,36417.0,Liam Cooper,4-1-4-1,Kevin Friend,leeds united
+6,2021-10-02,15,Matchweek 7,Sat,Home,W,1,0,Watford,1.3,0.2,66,36261.0,Liam Cooper,4-1-4-1,Simon Hooper,leeds united
+7,2021-10-16,15,Matchweek 8,Sat,Away,L,0,1,Southampton,0.2,1.9,54,30506.0,Liam Cooper,3-3-3-1,David Coote,leeds united
+8,2021-10-23,15,Matchweek 9,Sat,Home,D,1,1,Wolves,1.6,0.9,62,36475.0,Liam Cooper,4-4-1-1,Robert Jones,leeds united
+9,2021-10-31,14,Matchweek 10,Sun,Away,W,2,1,Norwich City,0.7,0.8,52,26913.0,Liam Cooper,3-3-3-1,Anthony Taylor,leeds united
+10,2021-11-07,14,Matchweek 11,Sun,Home,D,1,1,Leicester City,1.3,0.7,56,36478.0,Liam Cooper,4-2-3-1,Darren England,leeds united
+11,2021-11-21,16,Matchweek 12,Sun,Away,L,1,2,Tottenham,1.4,2.1,57,58989.0,Liam Cooper,3-3-3-1,Andre Marriner,leeds united
+12,2021-11-27,17,Matchweek 13,Sat,Away,D,0,0,Brighton,0.6,2.1,43,31166.0,Liam Cooper,4-2-3-1,Craig Pawson,leeds united
+13,2021-11-30,20,Matchweek 14,Tue,Home,W,1,0,Crystal Palace,1.4,1.1,61,35558.0,Liam Cooper,4-1-4-1,Kevin Friend,leeds united
+14,2021-12-05,14,Matchweek 15,Sun,Home,D,2,2,Brentford,1.2,1.0,63,35639.0,Liam Cooper,3-4-3,David Coote,leeds united
+15,2021-12-11,15,Matchweek 16,Sat,Away,L,2,3,Chelsea,1.4,2.5,43,39959.0,Luke Ayling,4-3-1-2,Chris Kavanagh,leeds united
+16,2021-12-14,20,Matchweek 17,Tue,Away,L,0,7,Manchester City,0.3,3.1,37,52401.0,Luke Ayling,4-2-3-1,Paul Tierney,leeds united
+17,2021-12-18,17,Matchweek 18,Sat,Home,L,1,4,Arsenal,1.6,3.5,51,36166.0,Luke Ayling,4-2-3-1,Andre Marriner,leeds united
+18,2022-01-02,14,Matchweek 21,Sun,Home,W,3,1,Burnley,1.9,1.0,55,36083.0,Luke Ayling,3-4-3,Paul Tierney,leeds united
+19,2022-01-16,14,Matchweek 22,Sun,Away,W,3,2,West Ham,2.2,2.4,52,59951.0,Luke Ayling,4-1-4-1,Mike Dean,leeds united
+20,2022-01-22,15,Matchweek 23,Sat,Home,L,0,1,Newcastle Utd,0.7,0.9,62,36405.0,Luke Ayling,4-2-3-1,Chris Kavanagh,leeds united
+21,2022-02-09,20,Matchweek 24,Wed,Away,D,3,3,Aston Villa,1.8,1.6,60,41927.0,Luke Ayling,4-2-3-1,Jarred Gillett,leeds united
+22,2022-02-12,15,Matchweek 25,Sat,Away,L,0,3,Everton,0.3,2.7,58,39150.0,Luke Ayling,3-3-3-1,Graham Scott,leeds united
+23,2022-02-20,14,Matchweek 26,Sun,Home,L,2,4,Manchester Utd,1.8,2.2,54,36715.0,Luke Ayling,4-2-3-1,Paul Tierney,leeds united
+24,2022-02-23,19,Matchweek 19,Wed,Away,L,0,6,Liverpool,0.2,5.9,37,53018.0,Luke Ayling,4-1-4-1,Michael Oliver,leeds united
+25,2022-02-26,12,Matchweek 27,Sat,Home,L,0,4,Tottenham,1.5,1.9,50,36599.0,Luke Ayling,4-1-4-1,Craig Pawson,leeds united
+26,2022-03-05,12,Matchweek 28,Sat,Away,L,0,1,Leicester City,1.7,0.4,49,32236.0,Luke Ayling,4-2-3-1,David Coote,leeds united
+27,2022-03-10,19,Matchweek 20,Thu,Home,L,0,3,Aston Villa,0.2,1.5,51,36400.0,Luke Ayling,4-2-3-1,Simon Hooper,leeds united
+28,2022-03-13,14,Matchweek 29,Sun,Home,W,2,1,Norwich City,2.5,1.5,52,36321.0,Luke Ayling,4-2-3-1,Stuart Attwell,leeds united
+29,2022-03-18,20,Matchweek 30,Fri,Away,W,3,2,Wolves,2.0,1.2,52,31842.0,Luke Ayling,4-2-3-1,Kevin Friend,leeds united
+30,2022-04-02,15,Matchweek 31,Sat,Home,D,1,1,Southampton,1.2,1.4,56,36580.0,Liam Cooper,4-2-3-1,Anthony Taylor,leeds united
+31,2022-04-09,15,Matchweek 32,Sat,Away,W,3,0,Watford,0.7,1.1,51,20957.0,Liam Cooper,4-2-3-1,Andre Marriner,leeds united
+32,2022-04-25,20,Matchweek 34,Mon,Away,D,0,0,Crystal Palace,0.5,1.9,47,25357.0,Liam Cooper,4-2-3-1,Darren England,leeds united
+33,2022-04-30,17,Matchweek 35,Sat,Home,L,0,4,Manchester City,1.3,2.4,42,35771.0,Luke Ayling,5-4-1,Paul Tierney,leeds united
+34,2022-05-08,14,Matchweek 36,Sun,Away,L,1,2,Arsenal,0.3,2.0,36,60108.0,Luke Ayling,4-2-3-1,Chris Kavanagh,leeds united
+35,2022-05-11,19,Matchweek 33,Wed,Home,L,0,3,Chelsea,0.4,1.3,33,36549.0,Liam Cooper,5-4-1,Anthony Taylor,leeds united
+36,2022-05-15,14,Matchweek 37,Sun,Home,D,1,1,Brighton,1.6,2.2,50,36638.0,Liam Cooper,4-2-3-1,Mike Dean,leeds united
+37,2022-05-22,16,Matchweek 38,Sun,Away,W,2,1,Brentford,1.3,0.8,51,16957.0,Liam Cooper,4-4-1-1,Paul Tierney,leeds united
+0,2021-08-14,15,Matchweek 1,Sat,Home,L,1,2,Brighton,1.5,1.0,37,16910.0,Ben Mee,4-4-2,David Coote,burnley
+1,2021-08-21,12,Matchweek 2,Sat,Away,L,0,2,Liverpool,0.9,2.7,35,52591.0,Ben Mee,4-4-2,Mike Dean,burnley
+2,2021-08-29,14,Matchweek 3,Sun,Home,D,1,1,Leeds United,1.0,1.2,36,20000.0,Ben Mee,4-4-2,Michael Oliver,burnley
+3,2021-09-13,20,Matchweek 4,Mon,Away,L,1,3,Everton,1.0,1.4,48,30000.0,Ben Mee,4-4-2,Martin Atkinson,burnley
+4,2021-09-18,15,Matchweek 5,Sat,Home,L,0,1,Arsenal,1.0,1.1,46,20000.0,Ben Mee,4-4-2,Anthony Taylor,burnley
+5,2021-09-25,15,Matchweek 6,Sat,Away,D,2,2,Leicester City,0.5,2.4,34,31650.0,Ben Mee,4-4-2,Chris Kavanagh,burnley
+6,2021-10-02,15,Matchweek 7,Sat,Home,D,0,0,Norwich City,1.2,0.6,56,17427.0,James Tarkowski,4-4-2,Kevin Friend,burnley
+7,2021-10-16,15,Matchweek 8,Sat,Away,L,0,2,Manchester City,0.9,2.1,30,52711.0,James Tarkowski,4-4-2,Martin Atkinson,burnley
+8,2021-10-23,15,Matchweek 9,Sat,Away,D,2,2,Southampton,0.7,1.6,39,29145.0,James Tarkowski,4-4-2,Chris Kavanagh,burnley
+9,2021-10-30,15,Matchweek 10,Sat,Home,W,3,1,Brentford,2.3,0.8,41,18821.0,Ben Mee,4-4-2,Jonathan Moss,burnley
+10,2021-11-06,15,Matchweek 11,Sat,Away,D,1,1,Chelsea,0.7,1.8,30,39798.0,Ben Mee,4-4-2,Andre Marriner,burnley
+11,2021-11-20,15,Matchweek 12,Sat,Home,D,3,3,Crystal Palace,1.5,1.9,40,18028.0,Ben Mee,4-4-2,Simon Hooper,burnley
+12,2021-12-01,19,Matchweek 14,Wed,Away,D,0,0,Wolves,0.2,0.7,35,30328.0,Ben Mee,4-4-2,John Brooks,burnley
+13,2021-12-04,15,Matchweek 15,Sat,Away,L,0,1,Newcastle Utd,0.6,1.0,52,51948.0,James Tarkowski,4-4-2,Paul Tierney,burnley
+14,2021-12-12,14,Matchweek 16,Sun,Home,D,0,0,West Ham,0.8,0.8,40,18065.0,Ben Mee,4-4-2,Graham Scott,burnley
+15,2021-12-30,20,Matchweek 20,Thu,Away,L,1,3,Manchester Utd,1.1,2.4,43,73121.0,Ben Mee,4-4-2,Jonathan Moss,burnley
+16,2022-01-02,14,Matchweek 21,Sun,Away,L,1,3,Leeds United,1.0,1.9,45,36083.0,Ben Mee,4-4-2,Paul Tierney,burnley
+17,2022-01-23,14,Matchweek 23,Sun,Away,D,0,0,Arsenal,0.4,1.2,25,59255.0,Ben Mee,4-4-2,David Coote,burnley
+18,2022-02-05,18,Matchweek 17,Sat,Home,D,0,0,Watford,0.6,0.8,53,19527.0,Ben Mee,4-4-2,Craig Pawson,burnley
+19,2022-02-08,20,Matchweek 24,Tue,Home,D,1,1,Manchester Utd,0.4,1.8,37,21233.0,Ben Mee,4-4-2,Mike Dean,burnley
+20,2022-02-13,14,Matchweek 25,Sun,Home,L,0,1,Liverpool,1.5,1.7,34,19563.0,Ben Mee,4-4-2,Martin Atkinson,burnley
+21,2022-02-19,15,Matchweek 26,Sat,Away,W,3,0,Brighton,0.7,0.6,32,30361.0,Ben Mee,4-4-2,Kevin Friend,burnley
+22,2022-02-23,19,Matchweek 13,Wed,Home,W,1,0,Tottenham,0.9,0.7,34,19488.0,Ben Mee,4-4-2,Graham Scott,burnley
+23,2022-02-26,15,Matchweek 27,Sat,Away,D,1,1,Crystal Palace,0.2,1.0,41,24203.0,Ben Mee,4-4-2,Jonathan Moss,burnley
+24,2022-03-01,19,Matchweek 22,Tue,Home,L,0,2,Leicester City,0.9,1.5,45,17825.0,Ben Mee,4-4-2,Chris Kavanagh,burnley
+25,2022-03-05,15,Matchweek 28,Sat,Home,L,0,4,Chelsea,0.7,2.3,28,19439.0,James Tarkowski,4-4-2,Andre Marriner,burnley
+26,2022-03-12,15,Matchweek 29,Sat,Away,L,0,2,Brentford,0.7,1.9,45,17088.0,James Tarkowski,4-4-2,Paul Tierney,burnley
+27,2022-04-02,15,Matchweek 31,Sat,Home,L,0,2,Manchester City,0.1,1.8,24,21249.0,James Tarkowski,4-5-1,Craig Pawson,burnley
+28,2022-04-06,19,Matchweek 19,Wed,Home,W,3,2,Everton,2.0,2.4,52,19830.0,James Tarkowski,4-4-2,Mike Dean,burnley
+29,2022-04-10,14,Matchweek 32,Sun,Away,L,0,2,Norwich City,1.7,1.7,55,26361.0,James Tarkowski,4-4-2,Michael Oliver,burnley
+30,2022-04-17,14,Matchweek 33,Sun,Away,D,1,1,West Ham,1.8,2.2,39,59958.0,James Tarkowski,4-4-2,Paul Tierney,burnley
+31,2022-04-21,19,Matchweek 30,Thu,Home,W,2,0,Southampton,1.5,0.9,44,17384.0,James Tarkowski,4-4-2,Stuart Attwell,burnley
+32,2022-04-24,14,Matchweek 34,Sun,Home,W,1,0,Wolves,1.4,0.6,36,19246.0,James Tarkowski,4-4-2,Anthony Taylor,burnley
+33,2022-04-30,15,Matchweek 35,Sat,Away,W,2,1,Watford,1.6,1.0,53,20738.0,James Tarkowski,4-4-2,Craig Pawson,burnley
+34,2022-05-07,15,Matchweek 36,Sat,Home,L,1,3,Aston Villa,1.9,2.1,49,20891.0,James Tarkowski,4-4-2,David Coote,burnley
+35,2022-05-15,12,Matchweek 37,Sun,Away,L,0,1,Tottenham,0.7,2.2,32,61729.0,Jack Cork,5-3-2,Kevin Friend,burnley
+36,2022-05-19,20,Matchweek 18,Thu,Away,D,1,1,Aston Villa,1.6,1.5,29,40468.0,James Tarkowski,5-3-2,Paul Tierney,burnley
+37,2022-05-22,16,Matchweek 38,Sun,Home,L,1,2,Newcastle Utd,1.6,1.8,52,21361.0,James Tarkowski,4-4-2,Craig Pawson,burnley
+0,2021-08-14,15,Matchweek 1,Sat,Home,W,3,2,Aston Villa,1.2,1.2,38,20051.0,Tom Cleverley,4-1-4-1,Mike Dean,watford
+1,2021-08-21,17,Matchweek 2,Sat,Away,L,0,2,Brighton,0.5,1.3,44,29485.0,Tom Cleverley,4-1-4-1,Anthony Taylor,watford
+2,2021-08-29,14,Matchweek 3,Sun,Away,L,0,1,Tottenham,0.8,1.0,43,57672.0,Craig Cathcart,4-1-4-1,Andre Marriner,watford
+3,2021-09-11,15,Matchweek 4,Sat,Home,L,0,2,Wolves,0.2,2.2,45,20019.0,William Troost-Ekong,4-1-4-1,Peter Bankes,watford
+4,2021-09-18,15,Matchweek 5,Sat,Away,W,3,1,Norwich City,2.4,1.0,51,26649.0,Tom Cleverley,4-2-3-1,Robert Jones,watford
+5,2021-09-25,15,Matchweek 6,Sat,Home,D,1,1,Newcastle Utd,0.9,1.9,53,20650.0,Tom Cleverley,4-2-3-1,Jarred Gillett,watford
+6,2021-10-02,15,Matchweek 7,Sat,Away,L,0,1,Leeds United,0.2,1.3,34,36261.0,Ben Foster,4-2-3-1,Simon Hooper,watford
+7,2021-10-16,12,Matchweek 8,Sat,Home,L,0,5,Liverpool,0.5,3.3,25,21085.0,Moussa Sissoko,5-4-1,Jonathan Moss,watford
+8,2021-10-23,15,Matchweek 9,Sat,Away,W,5,2,Everton,3.7,1.5,51,38834.0,Moussa Sissoko,4-1-4-1,Graham Scott,watford
+9,2021-10-30,15,Matchweek 10,Sat,Home,L,0,1,Southampton,1.0,1.8,40,20869.0,Moussa Sissoko,4-4-1-1,Peter Bankes,watford
+10,2021-11-07,14,Matchweek 11,Sun,Away,L,0,1,Arsenal,0.5,1.6,40,59833.0,Moussa Sissoko,4-1-4-1,Kevin Friend,watford
+11,2021-11-20,15,Matchweek 12,Sat,Home,W,4,1,Manchester Utd,2.7,1.4,39,21087.0,Moussa Sissoko,4-1-4-1,Jonathan Moss,watford
+12,2021-11-28,14,Matchweek 13,Sun,Away,L,2,4,Leicester City,2.8,2.1,44,32020.0,Moussa Sissoko,4-1-4-1,Andy Madley,watford
+13,2021-12-01,19,Matchweek 14,Wed,Home,L,1,2,Chelsea,1.0,0.9,51,20388.0,Moussa Sissoko,4-1-4-1,David Coote,watford
+14,2021-12-04,17,Matchweek 15,Sat,Home,L,1,3,Manchester City,0.8,3.1,23,20673.0,Moussa Sissoko,4-1-4-1,Simon Hooper,watford
+15,2021-12-10,20,Matchweek 16,Fri,Away,L,1,2,Brentford,0.5,1.6,37,16861.0,Moussa Sissoko,4-2-3-1,Michael Oliver,watford
+16,2021-12-28,15,Matchweek 20,Tue,Home,L,1,4,West Ham,1.6,3.6,43,20073.0,Moussa Sissoko,4-1-4-1,Darren England,watford
+17,2022-01-01,15,Matchweek 21,Sat,Home,L,0,1,Tottenham,0.3,2.2,26,20391.0,Moussa Sissoko,4-4-2,Robert Jones,watford
+18,2022-01-15,15,Matchweek 22,Sat,Away,D,1,1,Newcastle Utd,1.4,1.2,48,52223.0,Moussa Sissoko,4-3-3,Paul Tierney,watford
+19,2022-01-21,20,Matchweek 23,Fri,Home,L,0,3,Norwich City,1.2,1.1,67,20782.0,Moussa Sissoko,4-3-3,Mike Dean,watford
+20,2022-02-05,18,Matchweek 17,Sat,Away,D,0,0,Burnley,0.8,0.6,47,19527.0,Moussa Sissoko,4-4-2,Craig Pawson,watford
+21,2022-02-08,19,Matchweek 24,Tue,Away,L,0,1,West Ham,0.3,0.8,36,59581.0,Moussa Sissoko,4-4-2,Martin Atkinson,watford
+22,2022-02-12,15,Matchweek 25,Sat,Home,L,0,2,Brighton,0.5,1.6,36,20795.0,Moussa Sissoko,4-4-2,Jonathan Moss,watford
+23,2022-02-19,15,Matchweek 26,Sat,Away,W,1,0,Aston Villa,1.2,1.3,41,41936.0,Moussa Sissoko,4-3-3,Robert Jones,watford
+24,2022-02-23,19,Matchweek 18,Wed,Home,L,1,4,Crystal Palace,1.4,1.1,46,20012.0,Moussa Sissoko,4-3-3,Andre Marriner,watford
+25,2022-02-26,15,Matchweek 27,Sat,Away,D,0,0,Manchester Utd,0.6,2.8,33,73152.0,Moussa Sissoko,4-3-3,Kevin Friend,watford
+26,2022-03-06,14,Matchweek 28,Sun,Home,L,2,3,Arsenal,1.0,1.0,44,21142.0,Moussa Sissoko,4-3-3,Craig Pawson,watford
+27,2022-03-10,19,Matchweek 19,Thu,Away,L,0,4,Wolves,0.6,0.7,34,29658.0,Moussa Sissoko,4-3-3,Darren England,watford
+28,2022-03-13,14,Matchweek 29,Sun,Away,W,2,1,Southampton,1.7,1.4,37,28863.0,Moussa Sissoko,4-3-3,Graham Scott,watford
+29,2022-04-02,12,Matchweek 31,Sat,Away,L,0,2,Liverpool,0.6,2.2,27,53104.0,Moussa Sissoko,4-1-4-1,Stuart Attwell,watford
+30,2022-04-09,15,Matchweek 32,Sat,Home,L,0,3,Leeds United,1.1,0.7,49,20957.0,Moussa Sissoko,4-3-3,Andre Marriner,watford
+31,2022-04-16,15,Matchweek 33,Sat,Home,L,1,2,Brentford,1.7,1.9,50,21045.0,Moussa Sissoko,4-3-3,Simon Hooper,watford
+32,2022-04-23,15,Matchweek 34,Sat,Away,L,1,5,Manchester City,0.5,3.6,27,53013.0,Moussa Sissoko,4-3-3,Kevin Friend,watford
+33,2022-04-30,15,Matchweek 35,Sat,Home,L,1,2,Burnley,1.0,1.6,47,20738.0,Moussa Sissoko,4-3-3,Craig Pawson,watford
+34,2022-05-07,15,Matchweek 36,Sat,Away,L,0,1,Crystal Palace,0.4,2.2,33,24622.0,Moussa Sissoko,4-3-3,Graham Scott,watford
+35,2022-05-11,19,Matchweek 30,Wed,Home,D,0,0,Everton,0.3,0.7,48,20653.0,Moussa Sissoko,4-3-3,Mike Dean,watford
+36,2022-05-15,14,Matchweek 37,Sun,Home,L,1,5,Leicester City,1.4,2.5,41,20257.0,Moussa Sissoko,4-3-3,Jarred Gillett,watford
+37,2022-05-22,16,Matchweek 38,Sun,Away,L,1,2,Chelsea,0.6,2.2,29,32089.0,Moussa Sissoko,4-3-3,Mike Dean,watford
+0,2021-08-14,17,Matchweek 1,Sat,Home,L,0,3,Liverpool,1.4,1.6,50,27023.0,Grant Hanley,4-3-3,Andre Marriner,norwich city
+1,2021-08-21,15,Matchweek 2,Sat,Away,L,0,5,Manchester City,0.1,2.6,33,51437.0,Grant Hanley,4-3-3,Graham Scott,norwich city
+2,2021-08-28,15,Matchweek 3,Sat,Home,L,1,2,Leicester City,1.5,1.5,45,26765.0,Grant Hanley,4-3-3,Robert Jones,norwich city
+3,2021-09-11,15,Matchweek 4,Sat,Away,L,0,1,Arsenal,0.7,2.7,49,58000.0,Grant Hanley,4-3-3,Michael Oliver,norwich city
+4,2021-09-18,15,Matchweek 5,Sat,Home,L,1,3,Watford,1.0,2.4,49,26649.0,Grant Hanley,4-3-3,Robert Jones,norwich city
+5,2021-09-25,15,Matchweek 6,Sat,Away,L,0,2,Everton,0.5,1.9,53,38821.0,Grant Hanley,5-3-2,David Coote,norwich city
+6,2021-10-02,15,Matchweek 7,Sat,Away,D,0,0,Burnley,0.6,1.2,44,17427.0,Grant Hanley,5-3-2,Kevin Friend,norwich city
+7,2021-10-16,15,Matchweek 8,Sat,Home,D,0,0,Brighton,1.2,0.8,36,26777.0,Grant Hanley,5-3-2,Peter Bankes,norwich city
+8,2021-10-23,12,Matchweek 9,Sat,Away,L,0,7,Chelsea,0.1,3.1,38,40113.0,Grant Hanley,3-5-2,Andy Madley,norwich city
+9,2021-10-31,14,Matchweek 10,Sun,Home,L,1,2,Leeds United,0.8,0.7,48,26913.0,Grant Hanley,4-4-2,Anthony Taylor,norwich city
+10,2021-11-06,15,Matchweek 11,Sat,Away,W,2,1,Brentford,1.2,2.5,36,16837.0,Ben Gibson,4-2-3-1,Jarred Gillett,norwich city
+11,2021-11-20,15,Matchweek 12,Sat,Home,W,2,1,Southampton,0.5,1.0,38,26885.0,Grant Hanley,4-3-3,Martin Atkinson,norwich city
+12,2021-11-27,15,Matchweek 13,Sat,Home,D,0,0,Wolves,1.6,0.3,43,26911.0,Grant Hanley,4-1-4-1,Simon Hooper,norwich city
+13,2021-11-30,19,Matchweek 14,Tue,Away,D,1,1,Newcastle Utd,1.2,1.1,68,50757.0,Grant Hanley,4-1-4-1,Andy Madley,norwich city
+14,2021-12-05,14,Matchweek 15,Sun,Away,L,0,3,Tottenham,1.2,1.6,59,57088.0,Grant Hanley,5-3-2,Jarred Gillett,norwich city
+15,2021-12-11,17,Matchweek 16,Sat,Home,L,0,1,Manchester Utd,1.2,2.0,48,27606.0,Grant Hanley,4-3-3,Darren England,norwich city
+16,2021-12-14,19,Matchweek 17,Tue,Home,L,0,2,Aston Villa,0.5,2.0,50,26836.0,Ben Gibson,4-3-3,David Coote,norwich city
+17,2021-12-26,15,Matchweek 19,Sun,Home,L,0,5,Arsenal,0.1,2.5,36,26940.0,Ben Gibson,4-2-3-1,Graham Scott,norwich city
+18,2021-12-28,15,Matchweek 20,Tue,Away,L,0,3,Crystal Palace,0.9,1.9,49,24433.0,Ben Gibson,4-2-3-1,Paul Tierney,norwich city
+19,2022-01-12,19,Matchweek 18,Wed,Away,L,0,2,West Ham,0.3,2.5,38,59775.0,Grant Hanley,4-2-3-1,Simon Hooper,norwich city
+20,2022-01-15,15,Matchweek 22,Sat,Home,W,2,1,Everton,1.0,0.6,41,26629.0,Grant Hanley,4-4-2,Andy Madley,norwich city
+21,2022-01-21,20,Matchweek 23,Fri,Away,W,3,0,Watford,1.1,1.2,33,20782.0,Grant Hanley,4-4-2,Mike Dean,norwich city
+22,2022-02-09,19,Matchweek 24,Wed,Home,D,1,1,Crystal Palace,0.4,1.3,30,26652.0,Grant Hanley,4-4-2,Paul Tierney,norwich city
+23,2022-02-12,17,Matchweek 25,Sat,Home,L,0,4,Manchester City,0.4,4.6,29,27010.0,Grant Hanley,4-3-3,Andre Marriner,norwich city
+24,2022-02-19,15,Matchweek 26,Sat,Away,L,1,3,Liverpool,0.6,3.6,31,53135.0,Grant Hanley,4-3-3,Mike Dean,norwich city
+25,2022-02-25,20,Matchweek 27,Fri,Away,L,0,2,Southampton,0.6,2.6,42,31182.0,Grant Hanley,4-1-4-1,Simon Hooper,norwich city
+26,2022-03-05,15,Matchweek 28,Sat,Home,L,1,3,Brentford,1.0,2.0,60,26887.0,Grant Hanley,4-2-3-1,Anthony Taylor,norwich city
+27,2022-03-10,19,Matchweek 30,Thu,Home,L,1,3,Chelsea,1.0,1.8,34,26684.0,Grant Hanley,5-3-2,Martin Atkinson,norwich city
+28,2022-03-13,14,Matchweek 29,Sun,Away,L,1,2,Leeds United,1.5,2.5,48,36321.0,Ben Gibson,4-3-3,Stuart Attwell,norwich city
+29,2022-04-02,15,Matchweek 31,Sat,Away,D,0,0,Brighton,0.4,2.8,37,31245.0,Grant Hanley,4-1-2-1-2◆,Simon Hooper,norwich city
+30,2022-04-10,14,Matchweek 32,Sun,Home,W,2,0,Burnley,1.7,1.7,45,26361.0,Grant Hanley,4-2-3-1,Michael Oliver,norwich city
+31,2022-04-16,15,Matchweek 33,Sat,Away,L,2,3,Manchester Utd,1.5,1.9,39,73381.0,Grant Hanley,4-2-3-1,Andy Madley,norwich city
+32,2022-04-23,15,Matchweek 34,Sat,Home,L,0,3,Newcastle Utd,0.6,1.9,46,26910.0,Grant Hanley,4-2-3-1,Chris Kavanagh,norwich city
+33,2022-04-30,15,Matchweek 35,Sat,Away,L,0,2,Aston Villa,0.5,1.8,55,40290.0,Grant Hanley,4-2-3-1,John Brooks,norwich city
+34,2022-05-08,14,Matchweek 36,Sun,Home,L,0,4,West Ham,0.8,3.0,37,26428.0,Grant Hanley,4-2-3-1,Robert Jones,norwich city
+35,2022-05-11,19,Matchweek 21,Wed,Away,L,0,3,Leicester City,1.1,2.0,35,38092.0,Grant Hanley,4-1-4-1,Simon Hooper,norwich city
+36,2022-05-15,14,Matchweek 37,Sun,Away,D,1,1,Wolves,1.1,0.9,36,31219.0,Grant Hanley,3-4-3,Tony Harrington,norwich city
+37,2022-05-22,16,Matchweek 38,Sun,Home,L,0,5,Tottenham,0.5,3.4,41,27022.0,Grant Hanley,5-4-1,Chris Kavanagh,norwich city

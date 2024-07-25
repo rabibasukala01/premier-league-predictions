@@ -1,0 +1,1521 @@
+,Date,Time,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,team,xG,xGA
+0,2016-08-15,20,Matchweek 1,Mon,Home,W,2,1,West Ham,62,41521,John Terry,4-1-4-1,Anthony Taylor,chelsea,,
+1,2016-08-20,15,Matchweek 2,Sat,Away,W,2,1,Watford,62,20772,John Terry,4-1-4-1,Jonathan Moss,chelsea,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,W,3,0,Burnley,60,41607,John Terry,4-1-4-1,Mark Clattenburg,chelsea,,
+3,2016-09-11,16,Matchweek 4,Sun,Away,D,2,2,Swansea City,55,20865,John Terry,4-1-4-1,Andre Marriner,chelsea,,
+4,2016-09-16,20,Matchweek 5,Fri,Home,L,1,2,Liverpool,53,41514,Branislav Ivanović,4-2-3-1,Martin Atkinson,chelsea,,
+5,2016-09-24,17,Matchweek 6,Sat,Away,L,0,3,Arsenal,51,60028,Branislav Ivanović,4-1-4-1,Michael Oliver,chelsea,,
+6,2016-10-01,15,Matchweek 7,Sat,Away,W,2,0,Hull City,59,21257,Gary Cahill,3-4-3,Anthony Taylor,chelsea,,
+7,2016-10-15,12,Matchweek 8,Sat,Home,W,3,0,Leicester City,55,41547,Gary Cahill,3-4-3,Andre Marriner,chelsea,,
+8,2016-10-23,16,Matchweek 9,Sun,Home,W,4,0,Manchester Utd,44,41424,Gary Cahill,3-4-3,Martin Atkinson,chelsea,,
+9,2016-10-30,16,Matchweek 10,Sun,Away,W,2,0,Southampton,45,31827,Gary Cahill,3-4-3,Mike Jones,chelsea,,
+10,2016-11-05,17,Matchweek 11,Sat,Home,W,5,0,Everton,60,41429,Gary Cahill,3-4-3,Robert Madley,chelsea,,
+11,2016-11-20,16,Matchweek 12,Sun,Away,W,1,0,Middlesbrough,58,32704,Gary Cahill,3-4-3,Jonathan Moss,chelsea,,
+12,2016-11-26,17,Matchweek 13,Sat,Home,W,2,1,Tottenham,46,41513,Gary Cahill,3-4-3,Michael Oliver,chelsea,,
+13,2016-12-03,12,Matchweek 14,Sat,Away,W,3,1,Manchester City,39,54457,Gary Cahill,3-4-3,Anthony Taylor,chelsea,,
+14,2016-12-11,12,Matchweek 15,Sun,Home,W,1,0,West Brom,67,41622,Gary Cahill,3-4-3,Mike Dean,chelsea,,
+15,2016-12-14,19,Matchweek 16,Wed,Away,W,1,0,Sunderland,66,41008,Gary Cahill,3-4-3,Niel Swarbrick,chelsea,,
+16,2016-12-17,12,Matchweek 17,Sat,Away,W,1,0,Crystal Palace,47,25259,Gary Cahill,3-4-3,Jonathan Moss,chelsea,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,W,3,0,Bournemouth,44,41384,Gary Cahill,3-4-3,Mike Jones,chelsea,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,W,4,2,Stoke City,60,41601,Gary Cahill,3-4-3,Robert Madley,chelsea,,
+19,2017-01-04,20,Matchweek 20,Wed,Away,L,0,2,Tottenham,55,31491,Gary Cahill,3-4-3,Martin Atkinson,chelsea,,
+20,2017-01-14,17,Matchweek 21,Sat,Away,W,3,0,Leicester City,65,32066,Gary Cahill,3-4-3,Andre Marriner,chelsea,,
+21,2017-01-22,16,Matchweek 22,Sun,Home,W,2,0,Hull City,53,41605,Gary Cahill,3-4-3,Niel Swarbrick,chelsea,,
+22,2017-01-31,20,Matchweek 23,Tue,Away,D,1,1,Liverpool,38,53157,Gary Cahill,3-4-3,Mark Clattenburg,chelsea,,
+23,2017-02-04,12,Matchweek 24,Sat,Home,W,3,1,Arsenal,42,41490,Gary Cahill,3-4-3,Martin Atkinson,chelsea,,
+24,2017-02-12,13,Matchweek 25,Sun,Away,D,1,1,Burnley,71,21744,Gary Cahill,3-4-3,Kevin Friend,chelsea,,
+25,2017-02-25,15,Matchweek 26,Sat,Home,W,3,1,Swansea City,66,41612,Gary Cahill,3-4-3,Niel Swarbrick,chelsea,,
+26,2017-03-06,20,Matchweek 27,Mon,Away,W,2,1,West Ham,48,56984,Gary Cahill,3-4-3,Andre Marriner,chelsea,,
+27,2017-03-18,15,Matchweek 29,Sat,Away,W,2,1,Stoke City,64,27724,Gary Cahill,3-4-3,Anthony Taylor,chelsea,,
+28,2017-04-01,15,Matchweek 30,Sat,Home,L,1,2,Crystal Palace,73,41489,Gary Cahill,3-5-1-1,Craig Pawson,chelsea,,
+29,2017-04-05,20,Matchweek 31,Wed,Home,W,2,1,Manchester City,40,41528,Gary Cahill,3-4-3,Mike Dean,chelsea,,
+30,2017-04-08,17,Matchweek 32,Sat,Away,W,3,1,Bournemouth,49,11283,Gary Cahill,3-4-3,Andre Marriner,chelsea,,
+31,2017-04-16,16,Matchweek 33,Sun,Away,L,0,2,Manchester Utd,54,75272,Gary Cahill,3-4-3,Robert Madley,chelsea,,
+32,2017-04-25,19,Matchweek 34,Tue,Home,W,4,2,Southampton,48,41168,Gary Cahill,3-4-3,Lee Mason,chelsea,,
+33,2017-04-30,14,Matchweek 35,Sun,Away,W,3,0,Everton,50,39595,Gary Cahill,3-4-3,Jonathan Moss,chelsea,,
+34,2017-05-08,20,Matchweek 36,Mon,Home,W,3,0,Middlesbrough,57,41500,Gary Cahill,3-4-3,Craig Pawson,chelsea,,
+35,2017-05-12,20,Matchweek 37,Fri,Away,W,1,0,West Brom,68,25367,Gary Cahill,3-4-3,Michael Oliver,chelsea,,
+36,2017-05-15,20,Matchweek 28,Mon,Home,W,4,3,Watford,47,41473,John Terry,3-4-3,Lee Mason,chelsea,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,W,5,1,Sunderland,72,41618,John Terry,3-4-3,Niel Swarbrick,chelsea,,
+0,2016-08-13,15,Matchweek 1,Sat,Away,D,1,1,Everton,58,39494,Hugo Lloris,4-2-3-1,Martin Atkinson,tottenham,,
+1,2016-08-20,15,Matchweek 2,Sat,Home,W,1,0,Crystal Palace,57,31447,Harry Kane,4-2-3-1,Michael Oliver,tottenham,,
+2,2016-08-27,12,Matchweek 3,Sat,Home,D,1,1,Liverpool,49,31211,Harry Kane,4-2-3-1,Robert Madley,tottenham,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,W,4,0,Stoke City,60,27385,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham,,
+4,2016-09-18,16,Matchweek 5,Sun,Home,W,1,0,Sunderland,74,31251,Hugo Lloris,4-2-3-1,Mike Dean,tottenham,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,W,2,1,Middlesbrough,58,32703,Hugo Lloris,4-3-3,Graham Scott,tottenham,,
+6,2016-10-02,14,Matchweek 7,Sun,Home,W,2,0,Manchester City,42,31793,Hugo Lloris,4-1-4-1,Andre Marriner,tottenham,,
+7,2016-10-15,15,Matchweek 8,Sat,Away,D,1,1,West Brom,72,24263,Hugo Lloris,4-1-4-1,Kevin Friend,tottenham,,
+8,2016-10-22,12,Matchweek 9,Sat,Away,D,0,0,Bournemouth,62,11201,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham,,
+9,2016-10-29,15,Matchweek 10,Sat,Home,D,1,1,Leicester City,64,31868,Hugo Lloris,4-2-3-1,Robert Madley,tottenham,,
+10,2016-11-06,12,Matchweek 11,Sun,Away,D,1,1,Arsenal,54,60039,Hugo Lloris,3-4-3,Mark Clattenburg,tottenham,,
+11,2016-11-19,17,Matchweek 12,Sat,Home,W,3,2,West Ham,67,31212,Hugo Lloris,4-3-1-2,Mike Dean,tottenham,,
+12,2016-11-26,17,Matchweek 13,Sat,Away,L,1,2,Chelsea,54,41513,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham,,
+13,2016-12-03,15,Matchweek 14,Sat,Home,W,5,0,Swansea City,60,31663,Harry Kane,4-2-3-1,Jonathan Moss,tottenham,,
+14,2016-12-11,14,Matchweek 15,Sun,Away,L,0,1,Manchester Utd,60,75271,Hugo Lloris,4-2-3-1,Robert Madley,tottenham,,
+15,2016-12-14,20,Matchweek 16,Wed,Home,W,3,0,Hull City,63,31347,Hugo Lloris,3-4-3◆,Andre Marriner,tottenham,,
+16,2016-12-18,16,Matchweek 17,Sun,Home,W,2,1,Burnley,60,31467,Hugo Lloris,4-3-2-1,Kevin Friend,tottenham,,
+17,2016-12-28,19,Matchweek 18,Wed,Away,W,4,1,Southampton,66,31853,Hugo Lloris,4-2-3-1,Mike Dean,tottenham,,
+18,2017-01-01,13,Matchweek 19,Sun,Away,W,4,1,Watford,66,20882,Hugo Lloris,3-1-4-2,Michael Oliver,tottenham,,
+19,2017-01-04,20,Matchweek 20,Wed,Home,W,2,0,Chelsea,46,31491,Hugo Lloris,3-4-3,Martin Atkinson,tottenham,,
+20,2017-01-14,12,Matchweek 21,Sat,Home,W,4,0,West Brom,73,31613,Hugo Lloris,3-4-3,Anthony Taylor,tottenham,,
+21,2017-01-21,17,Matchweek 22,Sat,Away,D,2,2,Manchester City,45,54402,Hugo Lloris,3-4-3,Andre Marriner,tottenham,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,D,0,0,Sunderland,72,40058,Harry Kane,4-2-3-1,Lee Mason,tottenham,,
+23,2017-02-04,17,Matchweek 24,Sat,Home,W,1,0,Middlesbrough,65,31949,Hugo Lloris,4-2-3-1,Mark Clattenburg,tottenham,,
+24,2017-02-11,17,Matchweek 25,Sat,Away,L,0,2,Liverpool,49,53159,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham,,
+25,2017-02-26,13,Matchweek 26,Sun,Home,W,4,0,Stoke City,64,31864,Hugo Lloris,3-4-3,Jonathan Moss,tottenham,,
+26,2017-03-05,13,Matchweek 27,Sun,Home,W,3,2,Everton,51,31962,Hugo Lloris,3-4-3,Michael Oliver,tottenham,,
+27,2017-03-19,14,Matchweek 29,Sun,Home,W,2,1,Southampton,51,31697,Hugo Lloris,3-4-3,Andre Marriner,tottenham,,
+28,2017-04-01,15,Matchweek 30,Sat,Away,W,2,0,Burnley,62,21684,Hugo Lloris,3-4-3,Stuart Attwell,tottenham,,
+29,2017-04-05,19,Matchweek 31,Wed,Away,W,3,1,Swansea City,72,20855,Jan Vertonghen,4-2-3-1,Jonathan Moss,tottenham,,
+30,2017-04-08,12,Matchweek 32,Sat,Home,W,4,0,Watford,58,31706,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham,,
+31,2017-04-15,12,Matchweek 33,Sat,Home,W,4,0,Bournemouth,69,31943,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham,,
+32,2017-04-26,20,Matchweek 28,Wed,Away,W,1,0,Crystal Palace,69,25596,Hugo Lloris,3-4-3,Jonathan Moss,tottenham,,
+33,2017-04-30,16,Matchweek 35,Sun,Home,W,2,0,Arsenal,51,31811,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham,,
+34,2017-05-05,20,Matchweek 36,Fri,Away,L,0,1,West Ham,68,56992,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham,,
+35,2017-05-14,16,Matchweek 37,Sun,Home,W,2,1,Manchester Utd,60,31848,Hugo Lloris,4-2-3-1,Jonathan Moss,tottenham,,
+36,2017-05-18,19,Matchweek 34,Thu,Away,W,6,1,Leicester City,63,31351,Hugo Lloris,3-4-3,Michael Oliver,tottenham,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,W,7,1,Hull City,65,23804,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham,,
+0,2016-08-13,17,Matchweek 1,Sat,Home,W,2,1,Sunderland,77,54362,David Silva,4-2-3-1,Robert Madley,manchester city,,
+1,2016-08-20,12,Matchweek 2,Sat,Away,W,4,1,Stoke City,58,27455,Pablo Zabaleta,4-3-3,Mike Dean,manchester city,,
+2,2016-08-28,16,Matchweek 3,Sun,Home,W,3,1,West Ham,67,54008,Pablo Zabaleta,4-3-3,Andre Marriner,manchester city,,
+3,2016-09-10,12,Matchweek 4,Sat,Away,W,2,1,Manchester Utd,60,75272,David Silva,4-3-3,Mark Clattenburg,manchester city,,
+4,2016-09-17,15,Matchweek 5,Sat,Home,W,4,0,Bournemouth,64,54335,Fernandinho,4-2-3-1,Jonathan Moss,manchester city,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,W,3,1,Swansea City,58,20786,David Silva,4-1-4-1,Niel Swarbrick,manchester city,,
+6,2016-10-02,14,Matchweek 7,Sun,Away,L,0,2,Tottenham,58,31793,Pablo Zabaleta,4-2-3-1,Andre Marriner,manchester city,,
+7,2016-10-15,15,Matchweek 8,Sat,Home,D,1,1,Everton,73,54512,David Silva,3-4-3,Michael Oliver,manchester city,,
+8,2016-10-23,13,Matchweek 9,Sun,Home,D,1,1,Southampton,65,53731,Vincent Kompany,3-4-3,Mark Clattenburg,manchester city,,
+9,2016-10-29,15,Matchweek 10,Sat,Away,W,4,0,West Brom,70,22470,David Silva,4-2-3-1,Lee Mason,manchester city,,
+10,2016-11-05,15,Matchweek 11,Sat,Home,D,1,1,Middlesbrough,71,54294,Pablo Zabaleta,4-1-4-1,Kevin Friend,manchester city,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,W,2,1,Crystal Palace,62,25529,Vincent Kompany,4-2-3-1,Robert Madley,manchester city,,
+12,2016-11-26,12,Matchweek 13,Sat,Away,W,2,1,Burnley,67,21794,Fernandinho,4-2-3-1,Andre Marriner,manchester city,,
+13,2016-12-03,12,Matchweek 14,Sat,Home,L,1,3,Chelsea,61,54457,David Silva,3-4-3,Anthony Taylor,manchester city,,
+14,2016-12-10,17,Matchweek 15,Sat,Away,L,2,4,Leicester City,78,31966,Pablo Zabaleta,3-4-3◆,Michael Oliver,manchester city,,
+15,2016-12-14,20,Matchweek 16,Wed,Home,W,2,0,Watford,63,51527,Pablo Zabaleta,4-2-3-1,Kevin Friend,manchester city,,
+16,2016-12-18,16,Matchweek 17,Sun,Home,W,2,1,Arsenal,61,54409,Pablo Zabaleta,4-1-4-1,Martin Atkinson,manchester city,,
+17,2016-12-26,17,Matchweek 18,Mon,Away,W,3,0,Hull City,67,23134,David Silva,4-2-3-1,Robert Madley,manchester city,,
+18,2016-12-31,17,Matchweek 19,Sat,Away,L,0,1,Liverpool,57,53120,Pablo Zabaleta,4-2-3-1,Craig Pawson,manchester city,,
+19,2017-01-02,15,Matchweek 20,Mon,Home,W,2,1,Burnley,55,54463,Fernandinho,4-2-3-1,Lee Mason,manchester city,,
+20,2017-01-15,13,Matchweek 21,Sun,Away,L,0,4,Everton,71,39588,Pablo Zabaleta,4-1-2-1-2◆,Mark Clattenburg,manchester city,,
+21,2017-01-21,17,Matchweek 22,Sat,Home,D,2,2,Tottenham,55,54402,Pablo Zabaleta,4-1-4-1,Andre Marriner,manchester city,,
+22,2017-02-01,19,Matchweek 23,Wed,Away,W,4,0,West Ham,70,56980,David Silva,4-1-4-1,Kevin Friend,manchester city,,
+23,2017-02-05,13,Matchweek 24,Sun,Home,W,2,1,Swansea City,69,54065,David Silva,4-3-3,Mike Dean,manchester city,,
+24,2017-02-13,20,Matchweek 25,Mon,Away,W,2,0,Bournemouth,62,11129,David Silva,4-3-3,Niel Swarbrick,manchester city,,
+25,2017-03-05,16,Matchweek 27,Sun,Away,W,2,0,Sunderland,71,41107,David Silva,4-3-3,Martin Atkinson,manchester city,,
+26,2017-03-08,20,Matchweek 28,Wed,Home,D,0,0,Stoke City,65,52625,Sergio Agüero,4-1-4-1,Niel Swarbrick,manchester city,,
+27,2017-03-19,16,Matchweek 29,Sun,Home,D,1,1,Liverpool,60,54449,David Silva,4-1-4-1,Michael Oliver,manchester city,,
+28,2017-04-02,16,Matchweek 30,Sun,Away,D,2,2,Arsenal,56,60001,David Silva,4-2-3-1,Andre Marriner,manchester city,,
+29,2017-04-05,20,Matchweek 31,Wed,Away,L,1,2,Chelsea,61,41528,Vincent Kompany,4-2-3-1,Mike Dean,manchester city,,
+30,2017-04-08,15,Matchweek 32,Sat,Home,W,3,1,Hull City,68,54393,David Silva,4-2-3-1,Jonathan Moss,manchester city,,
+31,2017-04-15,17,Matchweek 33,Sat,Away,W,3,0,Southampton,59,31850,Vincent Kompany,4-2-3-1,Niel Swarbrick,manchester city,,
+32,2017-04-27,20,Matchweek 26,Thu,Home,D,0,0,Manchester Utd,69,54176,Vincent Kompany,4-2-3-1,Martin Atkinson,manchester city,,
+33,2017-04-30,14,Matchweek 35,Sun,Away,D,2,2,Middlesbrough,68,29763,Vincent Kompany,3-4-1-2,Kevin Friend,manchester city,,
+34,2017-05-06,12,Matchweek 36,Sat,Home,W,5,0,Crystal Palace,69,54119,Vincent Kompany,4-1-4-1,Michael Oliver,manchester city,,
+35,2017-05-13,12,Matchweek 37,Sat,Home,W,2,1,Leicester City,66,54407,Vincent Kompany,4-1-4-1,Robert Madley,manchester city,,
+36,2017-05-16,20,Matchweek 34,Tue,Home,W,3,1,West Brom,71,53624,Vincent Kompany,4-1-4-1,Craig Pawson,manchester city,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,W,5,0,Watford,67,20829,Vincent Kompany,4-2-3-1,Jonathan Moss,manchester city,,
+0,2016-08-14,16,Matchweek 1,Sun,Away,W,4,3,Arsenal,49,60033,Jordan Henderson,4-3-3,Michael Oliver,liverpool,,
+1,2016-08-20,15,Matchweek 2,Sat,Away,L,0,2,Burnley,80,21313,Jordan Henderson,4-3-3,Lee Mason,liverpool,,
+2,2016-08-27,12,Matchweek 3,Sat,Away,D,1,1,Tottenham,51,31211,Jordan Henderson,4-3-3,Robert Madley,liverpool,,
+3,2016-09-10,17,Matchweek 4,Sat,Home,W,4,1,Leicester City,62,51232,Jordan Henderson,4-3-3,Craig Pawson,liverpool,,
+4,2016-09-16,20,Matchweek 5,Fri,Away,W,2,1,Chelsea,47,41514,Jordan Henderson,4-3-3,Martin Atkinson,liverpool,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,W,5,1,Hull City,74,53109,Jordan Henderson,4-3-3,Andre Marriner,liverpool,,
+6,2016-10-01,12,Matchweek 7,Sat,Away,W,2,1,Swansea City,59,20862,Jordan Henderson,4-3-3,Michael Oliver,liverpool,,
+7,2016-10-17,20,Matchweek 8,Mon,Home,D,0,0,Manchester Utd,65,52769,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,,
+8,2016-10-22,17,Matchweek 9,Sat,Home,W,2,1,West Brom,68,53218,Jordan Henderson,4-3-3,Niel Swarbrick,liverpool,,
+9,2016-10-29,17,Matchweek 10,Sat,Away,W,4,2,Crystal Palace,55,25628,Jordan Henderson,4-3-3,Andre Marriner,liverpool,,
+10,2016-11-06,14,Matchweek 11,Sun,Home,W,6,1,Watford,60,53163,Jordan Henderson,4-3-3,Michael Oliver,liverpool,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,D,0,0,Southampton,65,31848,Jordan Henderson,4-3-3,Mark Clattenburg,liverpool,,
+12,2016-11-26,15,Matchweek 13,Sat,Home,W,2,0,Sunderland,77,53114,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,,
+13,2016-12-04,13,Matchweek 14,Sun,Away,L,3,4,Bournemouth,60,11183,Jordan Henderson,4-3-3,Robert Madley,liverpool,,
+14,2016-12-11,16,Matchweek 15,Sun,Home,D,2,2,West Ham,68,53068,Jordan Henderson,4-3-3,Mark Clattenburg,liverpool,,
+15,2016-12-14,19,Matchweek 16,Wed,Away,W,3,0,Middlesbrough,63,32704,Jordan Henderson,4-3-3,Jonathan Moss,liverpool,,
+16,2016-12-19,20,Matchweek 17,Mon,Away,W,1,0,Everton,68,39590,Jordan Henderson,4-3-3,Mike Dean,liverpool,,
+17,2016-12-27,17,Matchweek 18,Tue,Home,W,4,1,Stoke City,64,53094,Jordan Henderson,4-3-3,Michael Oliver,liverpool,,
+18,2016-12-31,17,Matchweek 19,Sat,Home,W,1,0,Manchester City,43,53120,Jordan Henderson,4-3-3,Craig Pawson,liverpool,,
+19,2017-01-02,15,Matchweek 20,Mon,Away,D,2,2,Sunderland,71,46494,James Milner,4-3-3,Anthony Taylor,liverpool,,
+20,2017-01-15,16,Matchweek 21,Sun,Away,D,1,1,Manchester Utd,44,75276,Jordan Henderson,4-3-3,Michael Oliver,liverpool,,
+21,2017-01-21,12,Matchweek 22,Sat,Home,L,2,3,Swansea City,74,53169,Jordan Henderson,4-3-3,Kevin Friend,liverpool,,
+22,2017-01-31,20,Matchweek 23,Tue,Home,D,1,1,Chelsea,62,53157,Jordan Henderson,4-3-3,Mark Clattenburg,liverpool,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,L,0,2,Hull City,72,24822,Jordan Henderson,4-3-3,Lee Mason,liverpool,,
+24,2017-02-11,17,Matchweek 25,Sat,Home,W,2,0,Tottenham,51,53159,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,,
+25,2017-02-27,20,Matchweek 26,Mon,Away,L,1,3,Leicester City,69,32034,James Milner,4-3-3,Michael Oliver,liverpool,,
+26,2017-03-04,17,Matchweek 27,Sat,Home,W,3,1,Arsenal,52,53146,James Milner,4-3-3,Robert Madley,liverpool,,
+27,2017-03-12,16,Matchweek 28,Sun,Home,W,2,1,Burnley,65,53145,James Milner,4-3-3,Craig Pawson,liverpool,,
+28,2017-03-19,16,Matchweek 29,Sun,Away,D,1,1,Manchester City,41,54449,James Milner,4-3-3,Michael Oliver,liverpool,,
+29,2017-04-01,12,Matchweek 30,Sat,Home,W,3,1,Everton,51,52920,James Milner,4-3-3,Anthony Taylor,liverpool,,
+30,2017-04-05,20,Matchweek 31,Wed,Home,D,2,2,Bournemouth,67,53292,James Milner,4-3-3,Lee Mason,liverpool,,
+31,2017-04-08,15,Matchweek 32,Sat,Away,W,2,1,Stoke City,56,27568,James Milner,3-5-1-1,Mike Dean,liverpool,,
+32,2017-04-16,13,Matchweek 33,Sun,Away,W,1,0,West Brom,64,25669,James Milner,4-3-3,Jonathan Moss,liverpool,,
+33,2017-04-23,16,Matchweek 34,Sun,Home,L,1,2,Crystal Palace,72,53086,James Milner,4-3-3,Andre Marriner,liverpool,,
+34,2017-05-01,20,Matchweek 35,Mon,Away,W,1,0,Watford,60,20959,James Milner,4-3-3,Craig Pawson,liverpool,,
+35,2017-05-07,13,Matchweek 36,Sun,Home,D,0,0,Southampton,65,53159,James Milner,4-3-3,Robert Madley,liverpool,,
+36,2017-05-14,14,Matchweek 37,Sun,Away,W,4,0,West Ham,67,56985,James Milner,4-1-2-1-2◆,Niel Swarbrick,liverpool,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,W,3,0,Middlesbrough,74,53191,James Milner,4-1-2-1-2◆,Martin Atkinson,liverpool,,
+0,2016-08-14,16,Matchweek 1,Sun,Home,L,3,4,Liverpool,51,60033,Petr Čech,4-2-3-1,Michael Oliver,arsenal,,
+1,2016-08-20,17,Matchweek 2,Sat,Away,D,0,0,Leicester City,61,32008,Laurent Koscielny,4-2-3-1,Mark Clattenburg,arsenal,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,W,3,1,Watford,55,20545,Laurent Koscielny,4-2-3-1,Kevin Friend,arsenal,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,W,2,1,Southampton,57,59962,Laurent Koscielny,4-2-3-1,Robert Madley,arsenal,,
+4,2016-09-17,15,Matchweek 5,Sat,Away,W,4,1,Hull City,61,22536,Laurent Koscielny,4-2-3-1,Roger East,arsenal,,
+5,2016-09-24,17,Matchweek 6,Sat,Home,W,3,0,Chelsea,50,60028,Laurent Koscielny,4-2-3-1,Michael Oliver,arsenal,,
+6,2016-10-02,16,Matchweek 7,Sun,Away,W,1,0,Burnley,67,20982,Laurent Koscielny,4-2-3-1,Craig Pawson,arsenal,,
+7,2016-10-15,15,Matchweek 8,Sat,Home,W,3,2,Swansea City,49,60007,Laurent Koscielny,4-2-3-1,Jonathan Moss,arsenal,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,D,0,0,Middlesbrough,75,59982,Laurent Koscielny,4-2-3-1,Mike Dean,arsenal,,
+9,2016-10-29,12,Matchweek 10,Sat,Away,W,4,1,Sunderland,66,44322,Laurent Koscielny,4-2-3-1,Martin Atkinson,arsenal,,
+10,2016-11-06,12,Matchweek 11,Sun,Home,D,1,1,Tottenham,46,60039,Laurent Koscielny,4-2-3-1,Mark Clattenburg,arsenal,,
+11,2016-11-19,12,Matchweek 12,Sat,Away,D,1,1,Manchester Utd,55,75264,Laurent Koscielny,4-2-3-1,Andre Marriner,arsenal,,
+12,2016-11-27,14,Matchweek 13,Sun,Home,W,3,1,Bournemouth,52,59978,Laurent Koscielny,4-2-3-1,Mike Jones,arsenal,,
+13,2016-12-03,17,Matchweek 14,Sat,Away,W,5,1,West Ham,50,56980,Laurent Koscielny,4-2-3-1,Craig Pawson,arsenal,,
+14,2016-12-10,15,Matchweek 15,Sat,Home,W,3,1,Stoke City,64,59964,Laurent Koscielny,4-2-3-1,Lee Mason,arsenal,,
+15,2016-12-13,19,Matchweek 16,Tue,Away,L,1,2,Everton,59,39510,Laurent Koscielny,4-2-3-1,Mark Clattenburg,arsenal,,
+16,2016-12-18,16,Matchweek 17,Sun,Away,L,1,2,Manchester City,39,54409,Laurent Koscielny,4-2-3-1,Martin Atkinson,arsenal,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,W,1,0,West Brom,76,59925,Laurent Koscielny,4-2-3-1,Niel Swarbrick,arsenal,,
+18,2017-01-01,16,Matchweek 19,Sun,Home,W,2,0,Crystal Palace,64,59975,Laurent Koscielny,4-2-3-1,Andre Marriner,arsenal,,
+19,2017-01-03,19,Matchweek 20,Tue,Away,D,3,3,Bournemouth,60,11202,Laurent Koscielny,4-2-3-1,Michael Oliver,arsenal,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,W,4,0,Swansea City,57,20875,Laurent Koscielny,4-2-3-1,Mike Jones,arsenal,,
+21,2017-01-22,14,Matchweek 22,Sun,Home,W,2,1,Burnley,70,59955,Laurent Koscielny,4-2-3-1,Jonathan Moss,arsenal,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,L,1,2,Watford,74,60035,Laurent Koscielny,4-2-3-1,Andre Marriner,arsenal,,
+23,2017-02-04,12,Matchweek 24,Sat,Away,L,1,3,Chelsea,59,41490,Laurent Koscielny,4-2-3-1,Martin Atkinson,arsenal,,
+24,2017-02-11,12,Matchweek 25,Sat,Home,W,2,0,Hull City,49,59962,Laurent Koscielny,4-2-3-1,Mark Clattenburg,arsenal,,
+25,2017-03-04,17,Matchweek 27,Sat,Away,L,1,3,Liverpool,48,53146,Laurent Koscielny,4-2-3-1,Robert Madley,arsenal,,
+26,2017-03-18,12,Matchweek 29,Sat,Away,L,1,3,West Brom,77,24065,Laurent Koscielny,4-2-3-1,Niel Swarbrick,arsenal,,
+27,2017-04-02,16,Matchweek 30,Sun,Home,D,2,2,Manchester City,44,60001,Laurent Koscielny,4-2-3-1,Andre Marriner,arsenal,,
+28,2017-04-05,19,Matchweek 31,Wed,Home,W,3,0,West Ham,66,59961,Theo Walcott,4-2-3-1,Martin Atkinson,arsenal,,
+29,2017-04-10,20,Matchweek 32,Mon,Away,L,0,3,Crystal Palace,72,25648,Theo Walcott,4-2-3-1,Michael Oliver,arsenal,,
+30,2017-04-17,20,Matchweek 33,Mon,Away,W,2,1,Middlesbrough,65,31298,Laurent Koscielny,3-4-3,Anthony Taylor,arsenal,,
+31,2017-04-26,19,Matchweek 28,Wed,Home,W,1,0,Leicester City,69,59829,Laurent Koscielny,3-4-3,Mike Jones,arsenal,,
+32,2017-04-30,16,Matchweek 35,Sun,Away,L,0,2,Tottenham,49,31811,Laurent Koscielny,3-4-3,Michael Oliver,arsenal,,
+33,2017-05-07,16,Matchweek 36,Sun,Home,W,2,0,Manchester Utd,50,60055,Laurent Koscielny,3-4-3,Andre Marriner,arsenal,,
+34,2017-05-10,19,Matchweek 26,Wed,Away,W,2,0,Southampton,53,31474,Petr Čech,3-4-3,Jonathan Moss,arsenal,,
+35,2017-05-13,17,Matchweek 37,Sat,Away,W,4,1,Stoke City,67,27535,Laurent Koscielny,3-4-3,Mike Dean,arsenal,,
+36,2017-05-16,19,Matchweek 34,Tue,Home,W,2,0,Sunderland,63,59510,Petr Čech,3-4-3,Roger East,arsenal,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,W,3,1,Everton,50,59976,Laurent Koscielny,3-4-3,Michael Oliver,arsenal,,
+0,2016-08-14,13,Matchweek 1,Sun,Away,W,3,1,Bournemouth,53,11355,Wayne Rooney,4-2-3-1,Andre Marriner,manchester utd,,
+1,2016-08-19,20,Matchweek 2,Fri,Home,W,2,0,Southampton,43,75326,Wayne Rooney,4-2-3-1,Anthony Taylor,manchester utd,,
+2,2016-08-27,17,Matchweek 3,Sat,Away,W,1,0,Hull City,62,24560,Wayne Rooney,4-2-3-1,Jonathan Moss,manchester utd,,
+3,2016-09-10,12,Matchweek 4,Sat,Home,L,1,2,Manchester City,40,75272,Wayne Rooney,4-2-3-1,Mark Clattenburg,manchester utd,,
+4,2016-09-18,12,Matchweek 5,Sun,Away,L,1,3,Watford,60,21118,Wayne Rooney,4-2-3-1,Michael Oliver,manchester utd,,
+5,2016-09-24,12,Matchweek 6,Sat,Home,W,4,1,Leicester City,67,75256,Chris Smalling,4-2-3-1,Mike Dean,manchester utd,,
+6,2016-10-02,12,Matchweek 7,Sun,Home,D,1,1,Stoke City,67,75251,Chris Smalling,4-2-3-1,Robert Madley,manchester utd,,
+7,2016-10-17,20,Matchweek 8,Mon,Away,D,0,0,Liverpool,35,52769,Chris Smalling,4-2-3-1,Anthony Taylor,manchester utd,,
+8,2016-10-23,16,Matchweek 9,Sun,Away,L,0,4,Chelsea,56,41424,Chris Smalling,4-2-3-1,Martin Atkinson,manchester utd,,
+9,2016-10-29,15,Matchweek 10,Sat,Home,D,0,0,Burnley,72,75325,Juan Mata,4-2-3-1,Mark Clattenburg,manchester utd,,
+10,2016-11-06,15,Matchweek 11,Sun,Away,W,3,1,Swansea City,63,20938,Wayne Rooney,4-1-4-1,Niel Swarbrick,manchester utd,,
+11,2016-11-19,12,Matchweek 12,Sat,Home,D,1,1,Arsenal,46,75264,Michael Carrick,4-3-3,Andre Marriner,manchester utd,,
+12,2016-11-27,16,Matchweek 13,Sun,Home,D,1,1,West Ham,68,75313,Juan Mata,4-2-3-1,Jonathan Moss,manchester utd,,
+13,2016-12-04,16,Matchweek 14,Sun,Away,D,1,1,Everton,55,39550,Michael Carrick,4-3-3,Michael Oliver,manchester utd,,
+14,2016-12-11,14,Matchweek 15,Sun,Home,W,1,0,Tottenham,40,75271,Michael Carrick,4-3-3,Robert Madley,manchester utd,,
+15,2016-12-14,20,Matchweek 16,Wed,Away,W,2,1,Crystal Palace,61,25547,Wayne Rooney,4-3-3,Craig Pawson,manchester utd,,
+16,2016-12-17,17,Matchweek 17,Sat,Away,W,2,0,West Brom,58,26308,Wayne Rooney,4-3-3,Anthony Taylor,manchester utd,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,W,3,1,Sunderland,62,75325,Michael Carrick,4-3-3,Martin Atkinson,manchester utd,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,W,2,1,Middlesbrough,66,75314,Chris Smalling,4-3-3,Lee Mason,manchester utd,,
+19,2017-01-02,17,Matchweek 20,Mon,Away,W,2,0,West Ham,64,56996,Michael Carrick,4-3-3,Mike Dean,manchester utd,,
+20,2017-01-15,16,Matchweek 21,Sun,Home,D,1,1,Liverpool,56,75276,Michael Carrick,4-3-3,Michael Oliver,manchester utd,,
+21,2017-01-21,15,Matchweek 22,Sat,Away,D,1,1,Stoke City,65,27423,Chris Smalling,4-3-3,Mark Clattenburg,manchester utd,,
+22,2017-02-01,20,Matchweek 23,Wed,Home,D,0,0,Hull City,67,75297,Michael Carrick,4-3-3,Mike Jones,manchester utd,,
+23,2017-02-05,16,Matchweek 24,Sun,Away,W,3,0,Leicester City,68,32072,Chris Smalling,4-4-2,Anthony Taylor,manchester utd,,
+24,2017-02-11,15,Matchweek 25,Sat,Home,W,2,0,Watford,58,75301,Chris Smalling,4-2-3-1,Robert Madley,manchester utd,,
+25,2017-03-04,12,Matchweek 27,Sat,Home,D,1,1,Bournemouth,68,75245,Wayne Rooney,4-2-3-1,Kevin Friend,manchester utd,,
+26,2017-03-19,12,Matchweek 29,Sun,Away,W,3,1,Middlesbrough,36,32689,Michael Carrick,4-2-3-1,Jonathan Moss,manchester utd,,
+27,2017-04-01,15,Matchweek 30,Sat,Home,D,0,0,West Brom,75,75397,Michael Carrick,4-2-3-1,Mike Dean,manchester utd,,
+28,2017-04-04,20,Matchweek 31,Tue,Home,D,1,1,Everton,62,75272,Michael Carrick,4-3-3,Niel Swarbrick,manchester utd,,
+29,2017-04-09,13,Matchweek 32,Sun,Away,W,3,0,Sunderland,71,43779,Marouane Fellaini,4-3-3,Craig Pawson,manchester utd,,
+30,2017-04-16,16,Matchweek 33,Sun,Home,W,2,0,Chelsea,46,75272,Ashley Young,3-5-2,Robert Madley,manchester utd,,
+31,2017-04-23,14,Matchweek 34,Sun,Away,W,2,0,Burnley,54,21870,Wayne Rooney,4-3-3,Anthony Taylor,manchester utd,,
+32,2017-04-27,20,Matchweek 26,Thu,Away,D,0,0,Manchester City,31,54176,Michael Carrick,4-3-3,Martin Atkinson,manchester utd,,
+33,2017-04-30,12,Matchweek 35,Sun,Home,D,1,1,Swansea City,56,75271,Wayne Rooney,4-2-3-1,Niel Swarbrick,manchester utd,,
+34,2017-05-07,16,Matchweek 36,Sun,Away,L,0,2,Arsenal,50,60055,Wayne Rooney,4-3-3,Andre Marriner,manchester utd,,
+35,2017-05-14,16,Matchweek 37,Sun,Away,L,1,2,Tottenham,40,31848,Wayne Rooney,4-2-3-1,Jonathan Moss,manchester utd,,
+36,2017-05-17,19,Matchweek 28,Wed,Away,D,0,0,Southampton,47,31425,Wayne Rooney,4-2-3-1,Mike Dean,manchester utd,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,59,75254,Wayne Rooney,4-3-3,Anthony Taylor,manchester utd,,
+0,2016-08-13,15,Matchweek 1,Sat,Home,D,1,1,Tottenham,43,39494,Phil Jagielka,3-4-3,Martin Atkinson,everton,,
+1,2016-08-20,15,Matchweek 2,Sat,Away,W,2,1,West Brom,66,23654,Phil Jagielka,3-4-3,Niel Swarbrick,everton,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,W,1,0,Stoke City,55,39581,Phil Jagielka,4-2-3-1,Michael Oliver,everton,,
+3,2016-09-12,20,Matchweek 4,Mon,Away,W,3,0,Sunderland,67,42406,Phil Jagielka,4-2-3-1,Mike Jones,everton,,
+4,2016-09-17,17,Matchweek 5,Sat,Home,W,3,1,Middlesbrough,52,39074,Phil Jagielka,4-2-3-1,Lee Mason,everton,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,L,0,1,Bournemouth,47,11291,Phil Jagielka,4-2-3-1,Robert Madley,everton,,
+6,2016-09-30,20,Matchweek 7,Fri,Home,D,1,1,Crystal Palace,57,38758,Phil Jagielka,4-3-1-2,Jonathan Moss,everton,,
+7,2016-10-15,15,Matchweek 8,Sat,Away,D,1,1,Manchester City,27,54512,Phil Jagielka,4-3-3,Michael Oliver,everton,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,L,1,2,Burnley,65,21416,Phil Jagielka,4-3-3,Mike Jones,everton,,
+9,2016-10-30,13,Matchweek 10,Sun,Home,W,2,0,West Ham,49,39574,Gareth Barry,4-2-3-1,Anthony Taylor,everton,,
+10,2016-11-05,17,Matchweek 11,Sat,Away,L,0,5,Chelsea,40,41429,Phil Jagielka,5-3-2,Robert Madley,everton,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,D,1,1,Swansea City,63,38773,Phil Jagielka,4-2-3-1,Martin Atkinson,everton,,
+12,2016-11-27,16,Matchweek 13,Sun,Away,L,0,1,Southampton,47,31132,Phil Jagielka,4-2-3-1,Craig Pawson,everton,,
+13,2016-12-04,16,Matchweek 14,Sun,Home,D,1,1,Manchester Utd,46,39550,Gareth Barry,4-4-2,Michael Oliver,everton,,
+14,2016-12-10,12,Matchweek 15,Sat,Away,L,2,3,Watford,53,20769,Gareth Barry,4-2-3-1,Anthony Taylor,everton,,
+15,2016-12-13,19,Matchweek 16,Tue,Home,W,2,1,Arsenal,42,39510,Phil Jagielka,4-3-3,Mark Clattenburg,everton,,
+16,2016-12-19,20,Matchweek 17,Mon,Home,L,0,1,Liverpool,32,39590,Leighton Baines,4-2-3-1,Mike Dean,everton,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,W,2,0,Leicester City,58,31985,Gareth Barry,3-4-3,Stuart Attwell,everton,,
+18,2016-12-30,20,Matchweek 19,Fri,Away,D,2,2,Hull City,57,20111,Phil Jagielka,4-2-3-1,Jonathan Moss,everton,,
+19,2017-01-02,15,Matchweek 20,Mon,Home,W,3,0,Southampton,54,38891,Leighton Baines,4-2-3-1,Kevin Friend,everton,,
+20,2017-01-15,13,Matchweek 21,Sun,Home,W,4,0,Manchester City,29,39588,Gareth Barry,3-5-2,Mark Clattenburg,everton,,
+21,2017-01-21,15,Matchweek 22,Sat,Away,W,1,0,Crystal Palace,56,25594,Gareth Barry,3-5-2,Anthony Taylor,everton,,
+22,2017-02-01,20,Matchweek 23,Wed,Away,D,1,1,Stoke City,53,27612,Leighton Baines,3-5-2,Craig Pawson,everton,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,W,6,3,Bournemouth,46,39026,Gareth Barry,4-3-3,Mike Jones,everton,,
+24,2017-02-11,15,Matchweek 25,Sat,Away,D,0,0,Middlesbrough,54,31496,Leighton Baines,4-3-3,Mike Dean,everton,,
+25,2017-02-25,15,Matchweek 26,Sat,Home,W,2,0,Sunderland,63,39595,Leighton Baines,4-3-3,Stuart Attwell,everton,,
+26,2017-03-05,13,Matchweek 27,Sun,Away,L,2,3,Tottenham,49,31962,Gareth Barry,4-3-2-1,Michael Oliver,everton,,
+27,2017-03-11,15,Matchweek 28,Sat,Home,W,3,0,West Brom,63,39592,Phil Jagielka,4-2-3-1,Graham Scott,everton,,
+28,2017-03-18,15,Matchweek 29,Sat,Home,W,4,0,Hull City,51,39248,Phil Jagielka,4-2-3-1,Paul Tierney,everton,,
+29,2017-04-01,12,Matchweek 30,Sat,Away,L,1,3,Liverpool,49,52920,Phil Jagielka,3-4-3,Anthony Taylor,everton,,
+30,2017-04-04,20,Matchweek 31,Tue,Away,D,1,1,Manchester Utd,39,75272,Phil Jagielka,4-2-3-1,Niel Swarbrick,everton,,
+31,2017-04-09,16,Matchweek 32,Sun,Home,W,4,2,Leicester City,60,39573,Phil Jagielka,4-3-3,Robert Madley,everton,,
+32,2017-04-15,15,Matchweek 33,Sat,Home,W,3,1,Burnley,63,39328,Phil Jagielka,4-3-3,Mark Clattenburg,everton,,
+33,2017-04-22,15,Matchweek 34,Sat,Away,D,0,0,West Ham,59,56971,Phil Jagielka,4-3-3,Roger East,everton,,
+34,2017-04-30,14,Matchweek 35,Sun,Home,L,0,3,Chelsea,50,39595,Phil Jagielka,4-2-3-1,Jonathan Moss,everton,,
+35,2017-05-06,17,Matchweek 36,Sat,Away,L,0,1,Swansea City,62,20827,Phil Jagielka,4-3-3,Martin Atkinson,everton,,
+36,2017-05-12,19,Matchweek 37,Fri,Home,W,1,0,Watford,63,38550,Phil Jagielka,4-3-3,Kevin Friend,everton,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,L,1,3,Arsenal,50,59976,Phil Jagielka,4-3-3,Michael Oliver,everton,,
+0,2016-08-13,15,Matchweek 1,Sat,Home,D,1,1,Watford,64,31488,Steven Davis,4-1-2-1-2◆,Roger East,southampton,,
+1,2016-08-19,20,Matchweek 2,Fri,Away,L,0,2,Manchester Utd,57,75326,Steven Davis,4-1-2-1-2◆,Anthony Taylor,southampton,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,D,1,1,Sunderland,64,30152,José Fonte,4-1-2-1-2◆,Lee Mason,southampton,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,L,1,2,Arsenal,43,59962,José Fonte,4-3-3,Robert Madley,southampton,,
+4,2016-09-18,14,Matchweek 5,Sun,Home,W,1,0,Swansea City,53,29087,José Fonte,4-1-2-1-2◆,Mike Jones,southampton,,
+5,2016-09-25,16,Matchweek 6,Sun,Away,W,3,0,West Ham,55,56864,José Fonte,4-1-2-1-2◆,Jonathan Moss,southampton,,
+6,2016-10-02,14,Matchweek 7,Sun,Away,D,0,0,Leicester City,62,31563,José Fonte,4-1-2-1-2◆,Martin Atkinson,southampton,,
+7,2016-10-16,16,Matchweek 8,Sun,Home,W,3,1,Burnley,65,29040,José Fonte,4-1-2-1-2◆,Mike Dean,southampton,,
+8,2016-10-23,13,Matchweek 9,Sun,Away,D,1,1,Manchester City,35,53731,José Fonte,4-3-1-2,Mark Clattenburg,southampton,,
+9,2016-10-30,16,Matchweek 10,Sun,Home,L,0,2,Chelsea,55,31827,José Fonte,4-1-2-1-2◆,Mike Jones,southampton,,
+10,2016-11-06,14,Matchweek 11,Sun,Away,L,1,2,Hull City,66,17768,José Fonte,4-3-3,Graham Scott,southampton,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,D,0,0,Liverpool,36,31848,José Fonte,4-3-3,Mark Clattenburg,southampton,,
+12,2016-11-27,16,Matchweek 13,Sun,Home,W,1,0,Everton,53,31132,José Fonte,4-3-3,Craig Pawson,southampton,,
+13,2016-12-03,15,Matchweek 14,Sat,Away,L,0,3,Crystal Palace,58,25393,José Fonte,4-3-3,Niel Swarbrick,southampton,,
+14,2016-12-11,14,Matchweek 15,Sun,Home,W,1,0,Middlesbrough,55,28976,José Fonte,4-3-3,Stuart Attwell,southampton,,
+15,2016-12-14,20,Matchweek 16,Wed,Away,D,0,0,Stoke City,71,27002,José Fonte,4-2-3-1,Anthony Taylor,southampton,,
+16,2016-12-18,13,Matchweek 17,Sun,Away,W,3,1,Bournemouth,53,11113,Virgil van Dijk,4-3-3,Mark Clattenburg,southampton,,
+17,2016-12-28,19,Matchweek 18,Wed,Home,L,1,4,Tottenham,34,31853,José Fonte,4-3-3,Mike Dean,southampton,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,L,1,2,West Brom,68,30975,Virgil van Dijk,4-3-3,Mike Jones,southampton,,
+19,2017-01-02,15,Matchweek 20,Mon,Away,L,0,3,Everton,46,38891,José Fonte,4-3-3,Kevin Friend,southampton,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,L,0,1,Burnley,59,20254,Virgil van Dijk,4-3-3,Paul Tierney,southampton,,
+21,2017-01-22,12,Matchweek 22,Sun,Home,W,3,0,Leicester City,60,30548,Virgil van Dijk,4-3-3,Michael Oliver,southampton,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,L,1,2,Swansea City,57,20359,Steven Davis,4-3-3,Roger East,southampton,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,L,1,3,West Ham,55,31891,Steven Davis,4-3-3,Graham Scott,southampton,,
+24,2017-02-11,15,Matchweek 25,Sat,Away,W,4,0,Sunderland,54,39931,Steven Davis,4-2-3-1,Paul Tierney,southampton,,
+25,2017-03-04,15,Matchweek 27,Sat,Away,W,4,3,Watford,63,20670,Steven Davis,4-2-3-1,Jonathan Moss,southampton,,
+26,2017-03-19,14,Matchweek 29,Sun,Away,L,1,2,Tottenham,49,31697,Steven Davis,4-2-3-1,Andre Marriner,southampton,,
+27,2017-04-01,17,Matchweek 30,Sat,Home,D,0,0,Bournemouth,61,31847,Steven Davis,4-2-3-1,Jonathan Moss,southampton,,
+28,2017-04-05,19,Matchweek 31,Wed,Home,W,3,1,Crystal Palace,61,29968,Steven Davis,4-2-3-1,Roger East,southampton,,
+29,2017-04-08,15,Matchweek 32,Sat,Away,W,1,0,West Brom,58,24697,Maya Yoshida,4-2-3-1,Chris Kavanagh,southampton,,
+30,2017-04-15,17,Matchweek 33,Sat,Home,L,0,3,Manchester City,41,31850,Steven Davis,4-2-3-1,Niel Swarbrick,southampton,,
+31,2017-04-25,19,Matchweek 34,Tue,Away,L,2,4,Chelsea,52,41168,Steven Davis,4-1-4-1,Lee Mason,southampton,,
+32,2017-04-29,15,Matchweek 35,Sat,Home,D,0,0,Hull City,52,31120,Steven Davis,4-2-3-1,Mike Dean,southampton,,
+33,2017-05-07,13,Matchweek 36,Sun,Away,D,0,0,Liverpool,35,53159,Steven Davis,4-5-1,Robert Madley,southampton,,
+34,2017-05-10,19,Matchweek 26,Wed,Home,L,0,2,Arsenal,47,31474,Steven Davis,4-2-3-1,Jonathan Moss,southampton,,
+35,2017-05-13,15,Matchweek 37,Sat,Away,W,2,1,Middlesbrough,58,28203,Maya Yoshida,4-3-3,Anthony Taylor,southampton,,
+36,2017-05-17,19,Matchweek 28,Wed,Home,D,0,0,Manchester Utd,53,31425,Steven Davis,4-3-3,Mike Dean,southampton,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,L,0,1,Stoke City,61,31286,Steven Davis,4-2-3-1,Lee Probert,southampton,,
+0,2016-08-14,13,Matchweek 1,Sun,Home,L,1,3,Manchester Utd,47,11355,Simon Francis,4-3-3,Andre Marriner,bournemouth,,
+1,2016-08-21,16,Matchweek 2,Sun,Away,L,0,1,West Ham,53,56977,Simon Francis,4-4-1-1,Craig Pawson,bournemouth,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,D,1,1,Crystal Palace,41,23503,Simon Francis,4-3-3,Mike Dean,bournemouth,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,W,1,0,West Brom,64,11184,Simon Francis,4-4-1-1,Kevin Friend,bournemouth,,
+4,2016-09-17,15,Matchweek 5,Sat,Away,L,0,4,Manchester City,36,54335,Simon Francis,4-5-1,Jonathan Moss,bournemouth,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,W,1,0,Everton,53,11291,Simon Francis,4-2-3-1,Robert Madley,bournemouth,,
+6,2016-10-01,15,Matchweek 7,Sat,Away,D,2,2,Watford,52,20575,Simon Francis,4-2-3-1,Mike Dean,bournemouth,,
+7,2016-10-15,15,Matchweek 8,Sat,Home,W,6,1,Hull City,50,11029,Simon Francis,4-2-3-1,Lee Mason,bournemouth,,
+8,2016-10-22,12,Matchweek 9,Sat,Home,D,0,0,Tottenham,38,11201,Simon Francis,4-2-3-1,Craig Pawson,bournemouth,,
+9,2016-10-29,15,Matchweek 10,Sat,Away,L,0,2,Middlesbrough,60,29600,Simon Francis,4-2-3-1,Stuart Attwell,bournemouth,,
+10,2016-11-05,15,Matchweek 11,Sat,Home,L,1,2,Sunderland,70,11084,Simon Francis,4-2-3-1,Mike Dean,bournemouth,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,W,1,0,Stoke City,49,27815,Simon Francis,4-2-3-1,Roger East,bournemouth,,
+12,2016-11-27,14,Matchweek 13,Sun,Away,L,1,3,Arsenal,49,59978,Simon Francis,4-2-3-1,Mike Jones,bournemouth,,
+13,2016-12-04,13,Matchweek 14,Sun,Home,W,4,3,Liverpool,40,11183,Simon Francis,4-2-3-1,Robert Madley,bournemouth,,
+14,2016-12-10,15,Matchweek 15,Sat,Away,L,2,3,Burnley,69,19680,Simon Francis,4-4-2,Martin Atkinson,bournemouth,,
+15,2016-12-13,19,Matchweek 16,Tue,Home,W,1,0,Leicester City,63,11068,Simon Francis,4-2-3-1,Paul Tierney,bournemouth,,
+16,2016-12-18,13,Matchweek 17,Sun,Home,L,1,3,Southampton,47,11113,Simon Francis,4-2-3-1,Mark Clattenburg,bournemouth,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,L,0,3,Chelsea,56,41384,Simon Francis,3-5-1-1,Mike Jones,bournemouth,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,W,3,0,Swansea City,55,20316,Simon Francis,4-2-3-1,Kevin Friend,bournemouth,,
+19,2017-01-03,19,Matchweek 20,Tue,Home,D,3,3,Arsenal,40,11202,Simon Francis,4-2-3-1,Michael Oliver,bournemouth,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,L,1,3,Hull City,61,17963,Andrew Surman,4-2-3-1,Martin Atkinson,bournemouth,,
+21,2017-01-21,15,Matchweek 22,Sat,Home,D,2,2,Watford,63,11123,Andrew Surman,4-2-3-1,Lee Mason,bournemouth,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,L,0,2,Crystal Palace,65,11286,Simon Francis,4-2-3-1,Jonathan Moss,bournemouth,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,L,3,6,Everton,54,39026,Simon Francis,3-5-1-1,Mike Jones,bournemouth,,
+24,2017-02-13,20,Matchweek 25,Mon,Home,L,0,2,Manchester City,38,11129,Simon Francis,4-1-4-1,Niel Swarbrick,bournemouth,,
+25,2017-02-25,15,Matchweek 26,Sat,Away,L,1,2,West Brom,68,24162,Andrew Surman,4-2-3-1,Mark Clattenburg,bournemouth,,
+26,2017-03-04,12,Matchweek 27,Sat,Away,D,1,1,Manchester Utd,32,75245,Andrew Surman,4-2-3-1,Kevin Friend,bournemouth,,
+27,2017-03-11,15,Matchweek 28,Sat,Home,W,3,2,West Ham,52,11369,Simon Francis,4-2-3-1,Robert Madley,bournemouth,,
+28,2017-03-18,17,Matchweek 29,Sat,Home,W,2,0,Swansea City,48,11240,Simon Francis,4-4-2,Mike Dean,bournemouth,,
+29,2017-04-01,17,Matchweek 30,Sat,Away,D,0,0,Southampton,39,31847,Simon Francis,4-4-2,Jonathan Moss,bournemouth,,
+30,2017-04-05,20,Matchweek 31,Wed,Away,D,2,2,Liverpool,33,53292,Simon Francis,4-4-1-1,Lee Mason,bournemouth,,
+31,2017-04-08,17,Matchweek 32,Sat,Home,L,1,3,Chelsea,51,11283,Simon Francis,4-4-2,Andre Marriner,bournemouth,,
+32,2017-04-15,12,Matchweek 33,Sat,Away,L,0,4,Tottenham,31,31943,Simon Francis,4-4-1-1,Michael Oliver,bournemouth,,
+33,2017-04-22,15,Matchweek 34,Sat,Home,W,4,0,Middlesbrough,68,10890,Simon Francis,4-4-1-1,Graham Scott,bournemouth,,
+34,2017-04-29,15,Matchweek 35,Sat,Away,W,1,0,Sunderland,59,38394,Simon Francis,4-4-1-1,Stuart Attwell,bournemouth,,
+35,2017-05-06,15,Matchweek 36,Sat,Home,D,2,2,Stoke City,58,11046,Simon Francis,4-2-3-1,Paul Tierney,bournemouth,,
+36,2017-05-13,15,Matchweek 37,Sat,Home,W,2,1,Burnley,55,11388,Simon Francis,4-4-1-1,Lee Probert,bournemouth,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,D,1,1,Leicester City,51,32000,Simon Francis,4-4-1-1,Lee Mason,bournemouth,,
+0,2016-08-13,15,Matchweek 1,Sat,Away,W,1,0,Crystal Palace,38,24490,Darren Fletcher,4-4-2,Craig Pawson,west brom,,
+1,2016-08-20,15,Matchweek 2,Sat,Home,L,1,2,Everton,34,23654,Darren Fletcher,4-4-2,Niel Swarbrick,west brom,,
+2,2016-08-28,13,Matchweek 3,Sun,Home,D,0,0,Middlesbrough,41,23690,Darren Fletcher,4-2-3-1,Anthony Taylor,west brom,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,L,0,1,Bournemouth,37,11184,Darren Fletcher,4-2-3-1,Kevin Friend,west brom,,
+4,2016-09-17,15,Matchweek 5,Sat,Home,W,4,2,West Ham,30,22209,Darren Fletcher,4-2-3-1,Mark Clattenburg,west brom,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,D,1,1,Stoke City,44,27645,Darren Fletcher,4-1-4-1,Martin Atkinson,west brom,,
+6,2016-10-01,15,Matchweek 7,Sat,Away,D,1,1,Sunderland,44,40043,Darren Fletcher,4-4-1-1,Stuart Attwell,west brom,,
+7,2016-10-15,15,Matchweek 8,Sat,Home,D,1,1,Tottenham,29,24263,Darren Fletcher,4-2-3-1,Kevin Friend,west brom,,
+8,2016-10-22,17,Matchweek 9,Sat,Away,L,1,2,Liverpool,33,53218,Darren Fletcher,4-1-4-1,Niel Swarbrick,west brom,,
+9,2016-10-29,15,Matchweek 10,Sat,Home,L,0,4,Manchester City,30,22470,Darren Fletcher,4-1-4-1,Lee Mason,west brom,,
+10,2016-11-06,16,Matchweek 11,Sun,Away,W,2,1,Leicester City,41,31879,Darren Fletcher,4-2-3-1,Craig Pawson,west brom,,
+11,2016-11-21,20,Matchweek 12,Mon,Home,W,4,0,Burnley,46,23016,Darren Fletcher,4-2-3-1,Mike Jones,west brom,,
+12,2016-11-26,15,Matchweek 13,Sat,Away,D,1,1,Hull City,47,18086,Darren Fletcher,4-2-3-1,Paul Tierney,west brom,,
+13,2016-12-03,15,Matchweek 14,Sat,Home,W,3,1,Watford,40,22244,Darren Fletcher,4-2-3-1,Graham Scott,west brom,,
+14,2016-12-11,12,Matchweek 15,Sun,Away,L,0,1,Chelsea,33,41622,Darren Fletcher,4-2-3-1,Mike Dean,west brom,,
+15,2016-12-14,20,Matchweek 16,Wed,Home,W,3,1,Swansea City,40,21467,Darren Fletcher,4-2-3-1,Michael Oliver,west brom,,
+16,2016-12-17,17,Matchweek 17,Sat,Home,L,0,2,Manchester Utd,42,26308,Darren Fletcher,4-2-3-1,Anthony Taylor,west brom,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,L,0,1,Arsenal,24,59925,Darren Fletcher,4-2-3-1,Niel Swarbrick,west brom,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,W,2,1,Southampton,32,30975,Darren Fletcher,4-2-3-1,Mike Jones,west brom,,
+19,2017-01-02,15,Matchweek 20,Mon,Home,W,3,1,Hull City,41,23402,Darren Fletcher,4-2-3-1,Mark Clattenburg,west brom,,
+20,2017-01-14,12,Matchweek 21,Sat,Away,L,0,4,Tottenham,27,31613,Darren Fletcher,4-2-3-1,Anthony Taylor,west brom,,
+21,2017-01-21,15,Matchweek 22,Sat,Home,W,2,0,Sunderland,44,24380,Darren Fletcher,4-2-3-1,Craig Pawson,west brom,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,D,1,1,Middlesbrough,38,27316,Darren Fletcher,4-2-3-1,Stuart Attwell,west brom,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,W,1,0,Stoke City,38,23921,Darren Fletcher,4-2-3-1,Kevin Friend,west brom,,
+24,2017-02-11,15,Matchweek 25,Sat,Away,D,2,2,West Ham,35,56983,Darren Fletcher,4-2-3-1,Michael Oliver,west brom,,
+25,2017-02-25,15,Matchweek 26,Sat,Home,W,2,1,Bournemouth,32,24162,Darren Fletcher,4-1-4-1,Mark Clattenburg,west brom,,
+26,2017-03-04,15,Matchweek 27,Sat,Home,L,0,2,Crystal Palace,52,24051,Darren Fletcher,4-1-4-1,Mike Jones,west brom,,
+27,2017-03-11,15,Matchweek 28,Sat,Away,L,0,3,Everton,37,39592,Darren Fletcher,4-3-3,Graham Scott,west brom,,
+28,2017-03-18,12,Matchweek 29,Sat,Home,W,3,1,Arsenal,23,24065,Darren Fletcher,4-5-1,Niel Swarbrick,west brom,,
+29,2017-04-01,15,Matchweek 30,Sat,Away,D,0,0,Manchester Utd,25,75397,Darren Fletcher,4-5-1,Mike Dean,west brom,,
+30,2017-04-04,19,Matchweek 31,Tue,Away,L,0,2,Watford,45,20090,Darren Fletcher,4-3-3,Paul Tierney,west brom,,
+31,2017-04-08,15,Matchweek 32,Sat,Home,L,0,1,Southampton,42,24697,Darren Fletcher,4-2-3-1,Chris Kavanagh,west brom,,
+32,2017-04-16,13,Matchweek 33,Sun,Home,L,0,1,Liverpool,36,25669,Darren Fletcher,4-3-3,Jonathan Moss,west brom,,
+33,2017-04-29,15,Matchweek 35,Sat,Home,L,0,1,Leicester City,55,24611,Jonny Evans,4-2-3-1,Mark Clattenburg,west brom,,
+34,2017-05-06,15,Matchweek 36,Sat,Away,D,2,2,Burnley,45,20825,Darren Fletcher,4-1-4-1,Mike Jones,west brom,,
+35,2017-05-12,20,Matchweek 37,Fri,Home,L,0,1,Chelsea,32,25367,Darren Fletcher,4-1-4-1,Michael Oliver,west brom,,
+36,2017-05-16,20,Matchweek 34,Tue,Away,L,1,3,Manchester City,29,53624,Darren Fletcher,4-1-4-1,Craig Pawson,west brom,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,L,1,2,Swansea City,35,20889,Darren Fletcher,3-5-1-1,Mike Dean,west brom,,
+0,2016-08-15,20,Matchweek 1,Mon,Away,L,1,2,Chelsea,38,41521,Mark Noble,4-3-3,Anthony Taylor,west ham,,
+1,2016-08-21,16,Matchweek 2,Sun,Home,W,1,0,Bournemouth,47,56977,Mark Noble,4-2-3-1,Craig Pawson,west ham,,
+2,2016-08-28,16,Matchweek 3,Sun,Away,L,1,3,Manchester City,33,54008,Mark Noble,3-5-2,Andre Marriner,west ham,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,L,2,4,Watford,58,56974,Mark Noble,4-2-3-1,Martin Atkinson,west ham,,
+4,2016-09-17,15,Matchweek 5,Sat,Away,L,2,4,West Brom,70,22209,Mark Noble,4-2-3-1,Mark Clattenburg,west ham,,
+5,2016-09-25,16,Matchweek 6,Sun,Home,L,0,3,Southampton,45,56864,Mark Noble,4-2-3-1,Jonathan Moss,west ham,,
+6,2016-10-01,15,Matchweek 7,Sat,Home,D,1,1,Middlesbrough,40,56945,Mark Noble,4-3-3,Niel Swarbrick,west ham,,
+7,2016-10-15,17,Matchweek 8,Sat,Away,W,1,0,Crystal Palace,45,25643,Mark Noble,3-4-3,Martin Atkinson,west ham,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,W,1,0,Sunderland,64,56985,Mark Noble,3-4-3,Robert Madley,west ham,,
+9,2016-10-30,13,Matchweek 10,Sun,Away,L,0,2,Everton,51,39574,Mark Noble,3-4-3,Anthony Taylor,west ham,,
+10,2016-11-05,15,Matchweek 11,Sat,Home,D,1,1,Stoke City,58,56970,Mark Noble,3-4-3,Andre Marriner,west ham,,
+11,2016-11-19,17,Matchweek 12,Sat,Away,L,2,3,Tottenham,33,31212,Winston Reid,3-4-3,Mike Dean,west ham,,
+12,2016-11-27,16,Matchweek 13,Sun,Away,D,1,1,Manchester Utd,32,75313,Mark Noble,3-4-3,Jonathan Moss,west ham,,
+13,2016-12-03,17,Matchweek 14,Sat,Home,L,1,5,Arsenal,51,56980,Mark Noble,3-4-3,Craig Pawson,west ham,,
+14,2016-12-11,16,Matchweek 15,Sun,Away,D,2,2,Liverpool,32,53068,Mark Noble,4-1-4-1,Mark Clattenburg,west ham,,
+15,2016-12-14,19,Matchweek 16,Wed,Home,W,1,0,Burnley,58,56990,Mark Noble,3-4-3,Robert Madley,west ham,,
+16,2016-12-17,15,Matchweek 17,Sat,Home,W,1,0,Hull City,56,56952,Mark Noble,3-4-3,Lee Mason,west ham,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,W,4,1,Swansea City,44,20757,Mark Noble,4-2-3-1,Andre Marriner,west ham,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,L,0,1,Leicester City,60,32060,Mark Noble,4-2-3-1,Anthony Taylor,west ham,,
+19,2017-01-02,17,Matchweek 20,Mon,Home,L,0,2,Manchester Utd,36,56996,Winston Reid,4-3-3,Mike Dean,west ham,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,W,3,0,Crystal Palace,44,56984,Mark Noble,3-4-3,Niel Swarbrick,west ham,,
+21,2017-01-21,15,Matchweek 22,Sat,Away,W,3,1,Middlesbrough,39,30848,Mark Noble,4-4-2,Martin Atkinson,west ham,,
+22,2017-02-01,19,Matchweek 23,Wed,Home,L,0,4,Manchester City,30,56980,Mark Noble,4-2-3-1,Kevin Friend,west ham,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,W,3,1,Southampton,45,31891,Mark Noble,4-4-2,Graham Scott,west ham,,
+24,2017-02-11,15,Matchweek 25,Sat,Home,D,2,2,West Brom,65,56983,Mark Noble,4-2-3-1,Michael Oliver,west ham,,
+25,2017-02-25,17,Matchweek 26,Sat,Away,D,1,1,Watford,64,20702,Mark Noble,4-2-3-1,Craig Pawson,west ham,,
+26,2017-03-06,20,Matchweek 27,Mon,Home,L,1,2,Chelsea,52,56984,Mark Noble,4-3-3,Andre Marriner,west ham,,
+27,2017-03-11,15,Matchweek 28,Sat,Away,L,2,3,Bournemouth,48,11369,Mark Noble,4-4-1-1,Robert Madley,west ham,,
+28,2017-03-18,15,Matchweek 29,Sat,Home,L,2,3,Leicester City,59,56979,Winston Reid,4-2-3-1,Roger East,west ham,,
+29,2017-04-01,15,Matchweek 30,Sat,Away,L,1,2,Hull City,55,20820,Andy Carroll,4-2-3-1,Mike Jones,west ham,,
+30,2017-04-05,19,Matchweek 31,Wed,Away,L,0,3,Arsenal,34,59961,Mark Noble,4-1-4-1,Martin Atkinson,west ham,,
+31,2017-04-08,15,Matchweek 32,Sat,Home,W,1,0,Swansea City,46,56973,Mark Noble,4-4-1-1,Kevin Friend,west ham,,
+32,2017-04-15,15,Matchweek 33,Sat,Away,D,2,2,Sunderland,53,40168,Andy Carroll,4-2-3-1,Andre Marriner,west ham,,
+33,2017-04-22,15,Matchweek 34,Sat,Home,D,0,0,Everton,41,56971,Winston Reid,3-4-1-2,Roger East,west ham,,
+34,2017-04-29,15,Matchweek 35,Sat,Away,D,0,0,Stoke City,43,27628,Winston Reid,3-4-1-2,Lee Probert,west ham,,
+35,2017-05-05,20,Matchweek 36,Fri,Home,W,1,0,Tottenham,32,56992,Mark Noble,3-4-3,Anthony Taylor,west ham,,
+36,2017-05-14,14,Matchweek 37,Sun,Home,L,0,4,Liverpool,33,56985,Winston Reid,3-4-3,Niel Swarbrick,west ham,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,W,2,1,Burnley,56,21634,James Collins,3-4-3,Robert Madley,west ham,,
+0,2016-08-13,12,Matchweek 1,Sat,Away,L,1,2,Hull City,50,21037,Wes Morgan,4-4-2,Mike Dean,leicester city,,
+1,2016-08-20,17,Matchweek 2,Sat,Home,D,0,0,Arsenal,40,32008,Wes Morgan,4-4-2,Mark Clattenburg,leicester city,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,W,2,1,Swansea City,52,31727,Wes Morgan,4-4-2,Roger East,leicester city,,
+3,2016-09-10,17,Matchweek 4,Sat,Away,L,1,4,Liverpool,38,51232,Wes Morgan,4-4-2,Craig Pawson,leicester city,,
+4,2016-09-17,15,Matchweek 5,Sat,Home,W,3,0,Burnley,59,31916,Wes Morgan,4-4-2,Anthony Taylor,leicester city,,
+5,2016-09-24,12,Matchweek 6,Sat,Away,L,1,4,Manchester Utd,33,75256,Wes Morgan,4-4-2,Mike Dean,leicester city,,
+6,2016-10-02,14,Matchweek 7,Sun,Home,D,0,0,Southampton,38,31563,Kasper Schmeichel,4-4-2,Martin Atkinson,leicester city,,
+7,2016-10-15,12,Matchweek 8,Sat,Away,L,0,3,Chelsea,45,41547,Wes Morgan,4-4-2,Andre Marriner,leicester city,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,W,3,1,Crystal Palace,45,31969,Wes Morgan,4-4-2,Michael Oliver,leicester city,,
+9,2016-10-29,15,Matchweek 10,Sat,Away,D,1,1,Tottenham,36,31868,Wes Morgan,4-4-2,Robert Madley,leicester city,,
+10,2016-11-06,16,Matchweek 11,Sun,Home,L,1,2,West Brom,59,31879,Wes Morgan,4-4-2,Craig Pawson,leicester city,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,L,1,2,Watford,54,20640,Wes Morgan,4-4-2,Niel Swarbrick,leicester city,,
+12,2016-11-26,15,Matchweek 13,Sat,Home,D,2,2,Middlesbrough,41,32058,Wes Morgan,4-4-2,Lee Mason,leicester city,,
+13,2016-12-03,15,Matchweek 14,Sat,Away,L,1,2,Sunderland,47,39725,Wes Morgan,4-4-2,Andre Marriner,leicester city,,
+14,2016-12-10,17,Matchweek 15,Sat,Home,W,4,2,Manchester City,22,31966,Wes Morgan,4-4-2,Michael Oliver,leicester city,,
+15,2016-12-13,19,Matchweek 16,Tue,Away,L,0,1,Bournemouth,37,11068,Wes Morgan,4-4-2,Paul Tierney,leicester city,,
+16,2016-12-17,15,Matchweek 17,Sat,Away,D,2,2,Stoke City,35,27663,Wes Morgan,4-4-2,Craig Pawson,leicester city,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,L,0,2,Everton,42,31985,Wes Morgan,4-4-2,Stuart Attwell,leicester city,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,W,1,0,West Ham,40,32060,Wes Morgan,4-2-3-1,Anthony Taylor,leicester city,,
+19,2017-01-02,12,Matchweek 20,Mon,Away,D,0,0,Middlesbrough,37,32437,Wes Morgan,4-1-2-1-2◆,Robert Madley,leicester city,,
+20,2017-01-14,17,Matchweek 21,Sat,Home,L,0,3,Chelsea,35,32066,Wes Morgan,3-5-2,Andre Marriner,leicester city,,
+21,2017-01-22,12,Matchweek 22,Sun,Away,L,0,3,Southampton,40,30548,Wes Morgan,4-1-2-1-2◆,Michael Oliver,leicester city,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,L,0,1,Burnley,41,19202,Wes Morgan,4-4-2,Mike Dean,leicester city,,
+23,2017-02-05,16,Matchweek 24,Sun,Home,L,0,3,Manchester Utd,32,32072,Wes Morgan,4-2-3-1,Anthony Taylor,leicester city,,
+24,2017-02-12,16,Matchweek 25,Sun,Away,L,0,2,Swansea City,51,20391,Wes Morgan,4-4-2,Jonathan Moss,leicester city,,
+25,2017-02-27,20,Matchweek 26,Mon,Home,W,3,1,Liverpool,31,32034,Wes Morgan,4-4-1-1,Michael Oliver,leicester city,,
+26,2017-03-04,15,Matchweek 27,Sat,Home,W,3,1,Hull City,50,31971,Wes Morgan,4-2-3-1,Mike Dean,leicester city,,
+27,2017-03-18,15,Matchweek 29,Sat,Away,W,3,2,West Ham,41,56979,Kasper Schmeichel,4-4-2,Roger East,leicester city,,
+28,2017-04-01,15,Matchweek 30,Sat,Home,W,2,0,Stoke City,48,31958,Kasper Schmeichel,4-4-1-1,Lee Mason,leicester city,,
+29,2017-04-04,19,Matchweek 31,Tue,Home,W,2,0,Sunderland,54,31757,Kasper Schmeichel,4-4-2,Graham Scott,leicester city,,
+30,2017-04-09,16,Matchweek 32,Sun,Away,L,2,4,Everton,40,39573,Kasper Schmeichel,4-4-2,Robert Madley,leicester city,,
+31,2017-04-15,15,Matchweek 33,Sat,Away,D,2,2,Crystal Palace,42,25504,Kasper Schmeichel,4-4-2,Mike Dean,leicester city,,
+32,2017-04-26,19,Matchweek 28,Wed,Away,L,0,1,Arsenal,31,59829,Kasper Schmeichel,4-4-2,Mike Jones,leicester city,,
+33,2017-04-29,15,Matchweek 35,Sat,Away,W,1,0,West Brom,45,24611,Kasper Schmeichel,4-4-2,Mark Clattenburg,leicester city,,
+34,2017-05-06,15,Matchweek 36,Sat,Home,W,3,0,Watford,42,31628,Kasper Schmeichel,4-4-2,Roger East,leicester city,,
+35,2017-05-13,12,Matchweek 37,Sat,Away,L,1,2,Manchester City,34,54407,Kasper Schmeichel,4-4-2,Robert Madley,leicester city,,
+36,2017-05-18,19,Matchweek 34,Thu,Home,L,1,6,Tottenham,37,31351,Kasper Schmeichel,4-4-2,Michael Oliver,leicester city,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,D,1,1,Bournemouth,49,32000,Kasper Schmeichel,4-4-2,Lee Mason,leicester city,,
+0,2016-08-13,15,Matchweek 1,Sat,Away,D,1,1,Middlesbrough,54,32110,Ryan Shawcross,4-2-3-1,Kevin Friend,stoke city,,
+1,2016-08-20,12,Matchweek 2,Sat,Home,L,1,4,Manchester City,43,27455,Ryan Shawcross,4-3-3,Mike Dean,stoke city,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,L,0,1,Everton,45,39581,Ryan Shawcross,4-3-3,Michael Oliver,stoke city,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,L,0,4,Tottenham,40,27385,Ryan Shawcross,4-2-3-1,Anthony Taylor,stoke city,,
+4,2016-09-18,14,Matchweek 5,Sun,Away,L,1,4,Crystal Palace,44,23781,Ryan Shawcross,4-2-3-1,Craig Pawson,stoke city,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,D,1,1,West Brom,56,27645,Ryan Shawcross,4-3-3,Martin Atkinson,stoke city,,
+6,2016-10-02,12,Matchweek 7,Sun,Away,D,1,1,Manchester Utd,33,75251,Ryan Shawcross,4-2-3-1,Robert Madley,stoke city,,
+7,2016-10-15,15,Matchweek 8,Sat,Home,W,2,0,Sunderland,57,27701,Ryan Shawcross,4-2-3-1,Mike Jones,stoke city,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,W,2,0,Hull City,51,18522,Ryan Shawcross,4-2-3-1,Kevin Friend,stoke city,,
+9,2016-10-31,20,Matchweek 10,Mon,Home,W,3,1,Swansea City,46,26602,Ryan Shawcross,4-2-3-1,Michael Oliver,stoke city,,
+10,2016-11-05,15,Matchweek 11,Sat,Away,D,1,1,West Ham,42,56970,Ryan Shawcross,4-2-3-1,Andre Marriner,stoke city,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,L,0,1,Bournemouth,51,27815,Ryan Shawcross,4-2-3-1,Roger East,stoke city,,
+12,2016-11-27,12,Matchweek 13,Sun,Away,W,1,0,Watford,50,20058,Jonathan Walters,4-2-3-1,Robert Madley,stoke city,,
+13,2016-12-03,15,Matchweek 14,Sat,Home,W,2,0,Burnley,56,27306,Jonathan Walters,4-2-3-1,Mark Clattenburg,stoke city,,
+14,2016-12-10,15,Matchweek 15,Sat,Away,L,1,3,Arsenal,36,59964,Charlie Adam,3-4-3,Lee Mason,stoke city,,
+15,2016-12-14,20,Matchweek 16,Wed,Home,D,0,0,Southampton,29,27002,Ryan Shawcross,4-2-3-1,Anthony Taylor,stoke city,,
+16,2016-12-17,15,Matchweek 17,Sat,Home,D,2,2,Leicester City,65,27663,Ryan Shawcross,4-2-3-1,Craig Pawson,stoke city,,
+17,2016-12-27,17,Matchweek 18,Tue,Away,L,1,4,Liverpool,36,53094,Ryan Shawcross,3-5-2,Michael Oliver,stoke city,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,L,2,4,Chelsea,40,41601,Ryan Shawcross,3-4-3,Robert Madley,stoke city,,
+19,2017-01-03,20,Matchweek 20,Tue,Home,W,2,0,Watford,54,27010,Ryan Shawcross,3-4-3,Niel Swarbrick,stoke city,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,W,3,1,Sunderland,49,42722,Ryan Shawcross,4-2-3-1,Mike Dean,stoke city,,
+21,2017-01-21,15,Matchweek 22,Sat,Home,D,1,1,Manchester Utd,35,27423,Ryan Shawcross,4-2-3-1,Mark Clattenburg,stoke city,,
+22,2017-02-01,20,Matchweek 23,Wed,Home,D,1,1,Everton,47,27612,Ryan Shawcross,4-2-3-1,Craig Pawson,stoke city,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,L,0,1,West Brom,62,23921,Ryan Shawcross,4-2-3-1,Kevin Friend,stoke city,,
+24,2017-02-11,15,Matchweek 25,Sat,Home,W,1,0,Crystal Palace,58,27007,Ryan Shawcross,4-2-3-1,Martin Atkinson,stoke city,,
+25,2017-02-26,13,Matchweek 26,Sun,Away,L,0,4,Tottenham,36,31864,Ryan Shawcross,4-2-3-1,Jonathan Moss,stoke city,,
+26,2017-03-04,15,Matchweek 27,Sat,Home,W,2,0,Middlesbrough,55,27644,Ryan Shawcross,4-2-3-1,Craig Pawson,stoke city,,
+27,2017-03-08,20,Matchweek 28,Wed,Away,D,0,0,Manchester City,35,52625,Ryan Shawcross,4-4-2,Niel Swarbrick,stoke city,,
+28,2017-03-18,15,Matchweek 29,Sat,Home,L,1,2,Chelsea,36,27724,Ryan Shawcross,4-4-2,Anthony Taylor,stoke city,,
+29,2017-04-01,15,Matchweek 30,Sat,Away,L,0,2,Leicester City,52,31958,Ryan Shawcross,4-4-2,Lee Mason,stoke city,,
+30,2017-04-04,19,Matchweek 31,Tue,Away,L,0,1,Burnley,52,19881,Ryan Shawcross,3-4-3,Kevin Friend,stoke city,,
+31,2017-04-08,15,Matchweek 32,Sat,Home,L,1,2,Liverpool,44,27568,Ryan Shawcross,4-4-2,Mike Dean,stoke city,,
+32,2017-04-15,15,Matchweek 33,Sat,Home,W,3,1,Hull City,45,27505,Ryan Shawcross,3-4-3,Stuart Attwell,stoke city,,
+33,2017-04-22,15,Matchweek 34,Sat,Away,L,0,2,Swansea City,55,20566,Ryan Shawcross,4-4-2,Michael Oliver,stoke city,,
+34,2017-04-29,15,Matchweek 35,Sat,Home,D,0,0,West Ham,57,27628,Ryan Shawcross,4-2-3-1,Lee Probert,stoke city,,
+35,2017-05-06,15,Matchweek 36,Sat,Away,D,2,2,Bournemouth,42,11046,Ryan Shawcross,4-2-3-1,Paul Tierney,stoke city,,
+36,2017-05-13,17,Matchweek 37,Sat,Home,L,1,4,Arsenal,33,27535,Ryan Shawcross,4-2-3-1,Mike Dean,stoke city,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,W,1,0,Southampton,39,31286,Ryan Shawcross,3-4-3,Lee Probert,stoke city,,
+0,2016-08-13,15,Matchweek 1,Sat,Home,L,0,1,West Brom,62,24490,Scott Dann,4-2-3-1,Craig Pawson,crystal palace,,
+1,2016-08-20,15,Matchweek 2,Sat,Away,L,0,1,Tottenham,43,31447,Scott Dann,4-2-3-1,Michael Oliver,crystal palace,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,D,1,1,Bournemouth,59,23503,Scott Dann,4-4-1-1,Mike Dean,crystal palace,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,W,2,1,Middlesbrough,42,30551,Scott Dann,4-2-3-1,Niel Swarbrick,crystal palace,,
+4,2016-09-18,14,Matchweek 5,Sun,Home,W,4,1,Stoke City,57,23781,Scott Dann,4-2-3-1,Craig Pawson,crystal palace,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,W,3,2,Sunderland,55,38941,Damien Delaney,4-2-3-1,Anthony Taylor,crystal palace,,
+6,2016-09-30,20,Matchweek 7,Fri,Away,D,1,1,Everton,43,38758,Damien Delaney,4-2-3-1,Jonathan Moss,crystal palace,,
+7,2016-10-15,17,Matchweek 8,Sat,Home,L,0,1,West Ham,55,25643,Damien Delaney,4-2-3-1,Martin Atkinson,crystal palace,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,L,1,3,Leicester City,55,31969,Damien Delaney,4-2-3-1,Michael Oliver,crystal palace,,
+9,2016-10-29,17,Matchweek 10,Sat,Home,L,2,4,Liverpool,45,25628,Scott Dann,4-2-3-1,Andre Marriner,crystal palace,,
+10,2016-11-05,15,Matchweek 11,Sat,Away,L,2,3,Burnley,62,19196,Scott Dann,4-2-3-1,Anthony Taylor,crystal palace,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,L,1,2,Manchester City,38,25529,Scott Dann,4-2-3-1,Robert Madley,crystal palace,,
+12,2016-11-26,15,Matchweek 13,Sat,Away,L,4,5,Swansea City,44,20276,Scott Dann,4-4-2,Kevin Friend,crystal palace,,
+13,2016-12-03,15,Matchweek 14,Sat,Home,W,3,0,Southampton,42,25393,Scott Dann,4-2-3-1,Niel Swarbrick,crystal palace,,
+14,2016-12-10,15,Matchweek 15,Sat,Away,D,3,3,Hull City,43,17403,Scott Dann,4-2-3-1,Mike Jones,crystal palace,,
+15,2016-12-14,20,Matchweek 16,Wed,Home,L,1,2,Manchester Utd,39,25547,Scott Dann,4-4-2,Craig Pawson,crystal palace,,
+16,2016-12-17,12,Matchweek 17,Sat,Home,L,0,1,Chelsea,54,25259,Scott Dann,4-2-3-1,Jonathan Moss,crystal palace,,
+17,2016-12-26,12,Matchweek 18,Mon,Away,D,1,1,Watford,44,20304,Scott Dann,4-2-3-1,Mark Clattenburg,crystal palace,,
+18,2017-01-01,16,Matchweek 19,Sun,Away,L,0,2,Arsenal,36,59975,Scott Dann,4-2-3-1,Andre Marriner,crystal palace,,
+19,2017-01-03,20,Matchweek 20,Tue,Home,L,1,2,Swansea City,47,24913,Damien Delaney,4-2-3-1,Paul Tierney,crystal palace,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,L,0,3,West Ham,56,56984,Scott Dann,4-2-3-1,Niel Swarbrick,crystal palace,,
+21,2017-01-21,15,Matchweek 22,Sat,Home,L,0,1,Everton,44,25594,Scott Dann,3-4-1-2,Anthony Taylor,crystal palace,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,W,2,0,Bournemouth,35,11286,Scott Dann,3-4-3,Jonathan Moss,crystal palace,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,L,0,4,Sunderland,65,25310,Scott Dann,3-4-3,Andre Marriner,crystal palace,,
+24,2017-02-11,15,Matchweek 25,Sat,Away,L,0,1,Stoke City,43,27007,Damien Delaney,4-2-3-1,Martin Atkinson,crystal palace,,
+25,2017-02-25,15,Matchweek 26,Sat,Home,W,1,0,Middlesbrough,46,25416,Jason Puncheon,4-1-4-1,Robert Madley,crystal palace,,
+26,2017-03-04,15,Matchweek 27,Sat,Away,W,2,0,West Brom,49,24051,Jason Puncheon,4-2-3-1,Mike Jones,crystal palace,,
+27,2017-03-18,15,Matchweek 29,Sat,Home,W,1,0,Watford,44,25109,Jason Puncheon,4-2-3-1,Martin Atkinson,crystal palace,,
+28,2017-04-01,15,Matchweek 30,Sat,Away,W,2,1,Chelsea,27,41489,Jason Puncheon,4-2-3-1,Craig Pawson,crystal palace,,
+29,2017-04-05,19,Matchweek 31,Wed,Away,L,1,3,Southampton,39,29968,Jason Puncheon,4-2-3-1,Roger East,crystal palace,,
+30,2017-04-10,20,Matchweek 32,Mon,Home,W,3,0,Arsenal,28,25648,Jason Puncheon,4-2-3-1,Michael Oliver,crystal palace,,
+31,2017-04-15,15,Matchweek 33,Sat,Home,D,2,2,Leicester City,58,25504,Jason Puncheon,4-2-3-1,Mike Dean,crystal palace,,
+32,2017-04-23,16,Matchweek 34,Sun,Away,W,2,1,Liverpool,28,53086,Jason Puncheon,4-1-4-1,Andre Marriner,crystal palace,,
+33,2017-04-26,20,Matchweek 28,Wed,Home,L,0,1,Tottenham,32,25596,Jason Puncheon,4-1-4-1,Jonathan Moss,crystal palace,,
+34,2017-04-29,17,Matchweek 35,Sat,Home,L,0,2,Burnley,64,25013,Jason Puncheon,4-3-3,Robert Madley,crystal palace,,
+35,2017-05-06,12,Matchweek 36,Sat,Away,L,0,5,Manchester City,31,54119,Jason Puncheon,4-3-3,Michael Oliver,crystal palace,,
+36,2017-05-14,12,Matchweek 37,Sun,Home,W,4,0,Hull City,30,25176,Jason Puncheon,4-2-3-1,Martin Atkinson,crystal palace,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,L,0,2,Manchester Utd,41,75254,Jason Puncheon,4-3-3,Anthony Taylor,crystal palace,,
+0,2016-08-13,15,Matchweek 1,Sat,Away,W,1,0,Burnley,53,19126,Leon Britton,4-3-3,Jonathan Moss,swansea city,,
+1,2016-08-20,15,Matchweek 2,Sat,Home,L,0,2,Hull City,57,20024,Jack Cork,4-2-3-1,Stuart Attwell,swansea city,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,L,1,2,Leicester City,48,31727,Jack Cork,4-2-3-1,Roger East,swansea city,,
+3,2016-09-11,16,Matchweek 4,Sun,Home,D,2,2,Chelsea,45,20865,Jack Cork,3-5-1-1,Andre Marriner,swansea city,,
+4,2016-09-18,14,Matchweek 5,Sun,Away,L,0,1,Southampton,47,29087,Jack Cork,4-3-3,Mike Jones,swansea city,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,L,1,3,Manchester City,42,20786,Leon Britton,4-2-3-1,Niel Swarbrick,swansea city,,
+6,2016-10-01,12,Matchweek 7,Sat,Home,L,1,2,Liverpool,41,20862,Leon Britton,4-3-3,Michael Oliver,swansea city,,
+7,2016-10-15,15,Matchweek 8,Sat,Away,L,2,3,Arsenal,51,60007,Leon Britton,4-4-1-1,Jonathan Moss,swansea city,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,D,0,0,Watford,54,20694,Leon Britton,4-2-3-1,Paul Tierney,swansea city,,
+9,2016-10-31,20,Matchweek 10,Mon,Away,L,1,3,Stoke City,54,26602,Gylfi Sigurðsson,4-2-3-1,Michael Oliver,swansea city,,
+10,2016-11-06,15,Matchweek 11,Sun,Home,L,1,3,Manchester Utd,37,20938,Leon Britton,4-4-2,Niel Swarbrick,swansea city,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,D,1,1,Everton,37,38773,Jack Cork,4-3-3,Martin Atkinson,swansea city,,
+12,2016-11-26,15,Matchweek 13,Sat,Home,W,5,4,Crystal Palace,57,20276,Jack Cork,4-3-3,Kevin Friend,swansea city,,
+13,2016-12-03,15,Matchweek 14,Sat,Away,L,0,5,Tottenham,40,31663,Jack Cork,4-3-3,Jonathan Moss,swansea city,,
+14,2016-12-10,15,Matchweek 15,Sat,Home,W,3,0,Sunderland,62,20453,Leon Britton,4-2-3-1,Craig Pawson,swansea city,,
+15,2016-12-14,20,Matchweek 16,Wed,Away,L,1,3,West Brom,61,21467,Leon Britton,4-2-3-1,Michael Oliver,swansea city,,
+16,2016-12-17,15,Matchweek 17,Sat,Away,L,0,3,Middlesbrough,57,28302,Leon Britton,4-2-3-1,Niel Swarbrick,swansea city,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,L,1,4,West Ham,56,20757,Leon Britton,4-3-3,Andre Marriner,swansea city,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,L,0,3,Bournemouth,45,20316,Leon Britton,4-2-3-1,Kevin Friend,swansea city,,
+19,2017-01-03,20,Matchweek 20,Tue,Away,W,2,1,Crystal Palace,53,24913,Jack Cork,4-3-3,Paul Tierney,swansea city,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,L,0,4,Arsenal,43,20875,Jack Cork,4-2-3-1,Mike Jones,swansea city,,
+21,2017-01-21,12,Matchweek 22,Sat,Away,W,3,2,Liverpool,26,53169,Jack Cork,4-3-3,Kevin Friend,swansea city,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,W,2,1,Southampton,43,20359,Jack Cork,4-3-3,Roger East,swansea city,,
+23,2017-02-05,13,Matchweek 24,Sun,Away,L,1,2,Manchester City,31,54065,Jack Cork,4-3-3,Mike Dean,swansea city,,
+24,2017-02-12,16,Matchweek 25,Sun,Home,W,2,0,Leicester City,49,20391,Jack Cork,4-3-3,Jonathan Moss,swansea city,,
+25,2017-02-25,15,Matchweek 26,Sat,Away,L,1,3,Chelsea,34,41612,Jack Cork,4-3-3,Niel Swarbrick,swansea city,,
+26,2017-03-04,15,Matchweek 27,Sat,Home,W,3,2,Burnley,71,20679,Jack Cork,4-3-3,Anthony Taylor,swansea city,,
+27,2017-03-11,15,Matchweek 28,Sat,Away,L,1,2,Hull City,50,19195,Jack Cork,4-3-3,Andre Marriner,swansea city,,
+28,2017-03-18,17,Matchweek 29,Sat,Away,L,0,2,Bournemouth,52,11240,Jack Cork,4-1-4-1,Mike Dean,swansea city,,
+29,2017-04-02,13,Matchweek 30,Sun,Home,D,0,0,Middlesbrough,55,20354,Jack Cork,4-3-3,Robert Madley,swansea city,,
+30,2017-04-05,19,Matchweek 31,Wed,Home,L,1,3,Tottenham,28,20855,Jack Cork,4-3-3,Jonathan Moss,swansea city,,
+31,2017-04-08,15,Matchweek 32,Sat,Away,L,0,1,West Ham,54,56973,Jack Cork,4-3-3,Kevin Friend,swansea city,,
+32,2017-04-15,15,Matchweek 33,Sat,Away,L,0,1,Watford,47,20272,Gylfi Sigurðsson,4-3-3,Lee Mason,swansea city,,
+33,2017-04-22,15,Matchweek 34,Sat,Home,W,2,0,Stoke City,46,20566,Leon Britton,4-3-3,Michael Oliver,swansea city,,
+34,2017-04-30,12,Matchweek 35,Sun,Away,D,1,1,Manchester Utd,45,75271,Leon Britton,4-3-1-2,Niel Swarbrick,swansea city,,
+35,2017-05-06,17,Matchweek 36,Sat,Home,W,1,0,Everton,38,20827,Leon Britton,4-3-1-2,Martin Atkinson,swansea city,,
+36,2017-05-13,15,Matchweek 37,Sat,Away,W,2,0,Sunderland,47,38781,Leon Britton,4-3-1-2,Andre Marriner,swansea city,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,W,2,1,West Brom,66,20889,Leon Britton,4-3-3,Mike Dean,swansea city,,
+0,2016-08-13,15,Matchweek 1,Sat,Home,L,0,1,Swansea City,48,19126,Tom Heaton,4-4-2,Jonathan Moss,burnley,,
+1,2016-08-20,15,Matchweek 2,Sat,Home,W,2,0,Liverpool,20,21313,Tom Heaton,4-4-2,Lee Mason,burnley,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,L,0,3,Chelsea,40,41607,Tom Heaton,4-4-2,Mark Clattenburg,burnley,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,D,1,1,Hull City,39,18803,Tom Heaton,4-4-2,Paul Tierney,burnley,,
+4,2016-09-17,15,Matchweek 5,Sat,Away,L,0,3,Leicester City,41,31916,Tom Heaton,4-5-1,Anthony Taylor,burnley,,
+5,2016-09-26,20,Matchweek 6,Mon,Home,W,2,0,Watford,44,18519,Tom Heaton,4-5-1,Mike Jones,burnley,,
+6,2016-10-02,16,Matchweek 7,Sun,Home,L,0,1,Arsenal,33,20982,Tom Heaton,4-5-1,Craig Pawson,burnley,,
+7,2016-10-16,16,Matchweek 8,Sun,Away,L,1,3,Southampton,35,29040,Tom Heaton,4-5-1,Mike Dean,burnley,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,W,2,1,Everton,35,21416,Tom Heaton,4-4-1-1,Mike Jones,burnley,,
+9,2016-10-29,15,Matchweek 10,Sat,Away,D,0,0,Manchester Utd,28,75325,Tom Heaton,4-4-2,Mark Clattenburg,burnley,,
+10,2016-11-05,15,Matchweek 11,Sat,Home,W,3,2,Crystal Palace,38,19196,Tom Heaton,4-4-1-1,Anthony Taylor,burnley,,
+11,2016-11-21,20,Matchweek 12,Mon,Away,L,0,4,West Brom,55,23016,Tom Heaton,4-4-1-1,Mike Jones,burnley,,
+12,2016-11-26,12,Matchweek 13,Sat,Home,L,1,2,Manchester City,33,21794,Ben Mee,4-4-1-1,Andre Marriner,burnley,,
+13,2016-12-03,15,Matchweek 14,Sat,Away,L,0,2,Stoke City,44,27306,Ben Mee,4-4-2,Mark Clattenburg,burnley,,
+14,2016-12-10,15,Matchweek 15,Sat,Home,W,3,2,Bournemouth,31,19680,Tom Heaton,4-2-3-1,Martin Atkinson,burnley,,
+15,2016-12-14,19,Matchweek 16,Wed,Away,L,0,1,West Ham,42,56990,Tom Heaton,4-4-2,Robert Madley,burnley,,
+16,2016-12-18,16,Matchweek 17,Sun,Away,L,1,2,Tottenham,40,31467,Tom Heaton,4-4-2,Kevin Friend,burnley,,
+17,2016-12-26,15,Matchweek 18,Mon,Home,W,1,0,Middlesbrough,46,21562,Tom Heaton,4-4-2,Craig Pawson,burnley,,
+18,2016-12-31,15,Matchweek 19,Sat,Home,W,4,1,Sunderland,46,21124,Tom Heaton,4-4-2,Graham Scott,burnley,,
+19,2017-01-02,15,Matchweek 20,Mon,Away,L,1,2,Manchester City,45,54463,Tom Heaton,4-4-2,Lee Mason,burnley,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,W,1,0,Southampton,41,20254,Tom Heaton,4-4-2,Paul Tierney,burnley,,
+21,2017-01-22,14,Matchweek 22,Sun,Away,L,1,2,Arsenal,30,59955,Tom Heaton,4-4-2,Jonathan Moss,burnley,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,W,1,0,Leicester City,59,19202,Tom Heaton,4-4-2,Mike Dean,burnley,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,L,1,2,Watford,40,20178,Tom Heaton,4-4-2,Michael Oliver,burnley,,
+24,2017-02-12,13,Matchweek 25,Sun,Home,D,1,1,Chelsea,29,21744,Tom Heaton,4-4-2,Kevin Friend,burnley,,
+25,2017-02-25,15,Matchweek 26,Sat,Away,D,1,1,Hull City,34,20156,Tom Heaton,4-4-2,Martin Atkinson,burnley,,
+26,2017-03-04,15,Matchweek 27,Sat,Away,L,2,3,Swansea City,29,20679,Ben Mee,4-4-2,Anthony Taylor,burnley,,
+27,2017-03-12,16,Matchweek 28,Sun,Away,L,1,2,Liverpool,36,53145,Tom Heaton,4-4-2,Craig Pawson,burnley,,
+28,2017-03-18,15,Matchweek 29,Sat,Away,D,0,0,Sunderland,56,41518,Tom Heaton,4-4-2,Robert Madley,burnley,,
+29,2017-04-01,15,Matchweek 30,Sat,Home,L,0,2,Tottenham,38,21684,Tom Heaton,4-4-2,Stuart Attwell,burnley,,
+30,2017-04-04,19,Matchweek 31,Tue,Home,W,1,0,Stoke City,48,19881,Tom Heaton,4-4-2,Kevin Friend,burnley,,
+31,2017-04-08,15,Matchweek 32,Sat,Away,D,0,0,Middlesbrough,44,29547,Tom Heaton,4-4-2,Martin Atkinson,burnley,,
+32,2017-04-15,15,Matchweek 33,Sat,Away,L,1,3,Everton,37,39328,Tom Heaton,4-4-2,Mark Clattenburg,burnley,,
+33,2017-04-23,14,Matchweek 34,Sun,Home,L,0,2,Manchester Utd,46,21870,Tom Heaton,4-4-2,Anthony Taylor,burnley,,
+34,2017-04-29,17,Matchweek 35,Sat,Away,W,2,0,Crystal Palace,36,25013,Tom Heaton,4-4-2,Robert Madley,burnley,,
+35,2017-05-06,15,Matchweek 36,Sat,Home,D,2,2,West Brom,55,20825,Tom Heaton,4-4-2,Mike Jones,burnley,,
+36,2017-05-13,15,Matchweek 37,Sat,Away,L,1,2,Bournemouth,45,11388,Tom Heaton,4-4-2,Lee Probert,burnley,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,L,1,2,West Ham,44,21634,Kevin Long,4-4-2,Robert Madley,burnley,,
+0,2016-08-13,15,Matchweek 1,Sat,Away,D,1,1,Southampton,36,31488,Troy Deeney,3-5-2,Roger East,watford,,
+1,2016-08-20,15,Matchweek 2,Sat,Home,L,1,2,Chelsea,38,20772,Troy Deeney,3-1-4-2,Jonathan Moss,watford,,
+2,2016-08-27,15,Matchweek 3,Sat,Home,L,1,3,Arsenal,45,20545,Troy Deeney,3-5-2,Kevin Friend,watford,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,W,4,2,West Ham,42,56974,Troy Deeney,5-3-2,Martin Atkinson,watford,,
+4,2016-09-18,12,Matchweek 5,Sun,Home,W,3,1,Manchester Utd,40,21118,Troy Deeney,3-4-1-2,Michael Oliver,watford,,
+5,2016-09-26,20,Matchweek 6,Mon,Away,L,0,2,Burnley,57,18519,Troy Deeney,5-3-2,Mike Jones,watford,,
+6,2016-10-01,15,Matchweek 7,Sat,Home,D,2,2,Bournemouth,48,20575,Troy Deeney,4-3-3,Mike Dean,watford,,
+7,2016-10-16,13,Matchweek 8,Sun,Away,W,1,0,Middlesbrough,36,28131,Troy Deeney,5-4-1,Roger East,watford,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,D,0,0,Swansea City,46,20694,Troy Deeney,5-3-2,Paul Tierney,watford,,
+9,2016-10-29,15,Matchweek 10,Sat,Home,W,1,0,Hull City,54,20022,Troy Deeney,3-5-2,Jonathan Moss,watford,,
+10,2016-11-06,14,Matchweek 11,Sun,Away,L,1,6,Liverpool,40,53163,Troy Deeney,4-4-2,Michael Oliver,watford,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,W,2,1,Leicester City,46,20640,Troy Deeney,3-4-3,Niel Swarbrick,watford,,
+12,2016-11-27,12,Matchweek 13,Sun,Home,L,0,1,Stoke City,50,20058,Troy Deeney,3-4-3,Robert Madley,watford,,
+13,2016-12-03,15,Matchweek 14,Sat,Away,L,1,3,West Brom,60,22244,Troy Deeney,4-4-2,Graham Scott,watford,,
+14,2016-12-10,12,Matchweek 15,Sat,Home,W,3,2,Everton,47,20769,Troy Deeney,4-3-3,Anthony Taylor,watford,,
+15,2016-12-14,20,Matchweek 16,Wed,Away,L,0,2,Manchester City,37,51527,Heurelho Gomes,4-4-2,Kevin Friend,watford,,
+16,2016-12-17,15,Matchweek 17,Sat,Away,L,0,1,Sunderland,57,40267,Troy Deeney,4-4-2,Robert Madley,watford,,
+17,2016-12-26,12,Matchweek 18,Mon,Home,D,1,1,Crystal Palace,56,20304,Heurelho Gomes,3-4-3,Mark Clattenburg,watford,,
+18,2017-01-01,13,Matchweek 19,Sun,Home,L,1,4,Tottenham,34,20882,Troy Deeney,3-4-3,Michael Oliver,watford,,
+19,2017-01-03,20,Matchweek 20,Tue,Away,L,0,2,Stoke City,46,27010,Troy Deeney,3-5-1-1,Niel Swarbrick,watford,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,D,0,0,Middlesbrough,47,20659,Troy Deeney,3-4-1-2,Jonathan Moss,watford,,
+21,2017-01-21,15,Matchweek 22,Sat,Away,D,2,2,Bournemouth,37,11123,Troy Deeney,3-4-1-2,Lee Mason,watford,,
+22,2017-01-31,19,Matchweek 23,Tue,Away,W,2,1,Arsenal,26,60035,Troy Deeney,4-5-1,Andre Marriner,watford,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,W,2,1,Burnley,60,20178,Troy Deeney,4-3-3,Michael Oliver,watford,,
+24,2017-02-11,15,Matchweek 25,Sat,Away,L,0,2,Manchester Utd,42,75301,Troy Deeney,3-4-3,Robert Madley,watford,,
+25,2017-02-25,17,Matchweek 26,Sat,Home,D,1,1,West Ham,36,20702,Troy Deeney,4-3-3,Craig Pawson,watford,,
+26,2017-03-04,15,Matchweek 27,Sat,Home,L,3,4,Southampton,37,20670,Troy Deeney,4-4-2,Jonathan Moss,watford,,
+27,2017-03-18,15,Matchweek 29,Sat,Away,L,0,1,Crystal Palace,57,25109,Troy Deeney,4-5-1,Martin Atkinson,watford,,
+28,2017-04-01,15,Matchweek 30,Sat,Home,W,1,0,Sunderland,57,20805,Heurelho Gomes,4-5-1,Lee Probert,watford,,
+29,2017-04-04,19,Matchweek 31,Tue,Home,W,2,0,West Brom,55,20090,Troy Deeney,4-5-1,Paul Tierney,watford,,
+30,2017-04-08,12,Matchweek 32,Sat,Away,L,0,4,Tottenham,42,31706,Heurelho Gomes,4-5-1,Anthony Taylor,watford,,
+31,2017-04-15,15,Matchweek 33,Sat,Home,W,1,0,Swansea City,53,20272,Troy Deeney,4-3-3,Lee Mason,watford,,
+32,2017-04-22,15,Matchweek 34,Sat,Away,L,0,2,Hull City,66,20432,Troy Deeney,4-2-3-1,Robert Madley,watford,,
+33,2017-05-01,20,Matchweek 35,Mon,Home,L,0,1,Liverpool,40,20959,Troy Deeney,3-5-2,Craig Pawson,watford,,
+34,2017-05-06,15,Matchweek 36,Sat,Away,L,0,3,Leicester City,58,31628,Heurelho Gomes,3-5-2,Roger East,watford,,
+35,2017-05-12,19,Matchweek 37,Fri,Away,L,0,1,Everton,37,38550,Troy Deeney,3-5-2,Kevin Friend,watford,,
+36,2017-05-15,20,Matchweek 28,Mon,Away,L,3,4,Chelsea,53,41473,Heurelho Gomes,3-5-1-1,Lee Mason,watford,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,L,0,5,Manchester City,33,20829,Heurelho Gomes,4-2-3-1,Jonathan Moss,watford,,
+0,2016-08-13,12,Matchweek 1,Sat,Home,W,2,1,Leicester City,50,21037,Curtis Davies,4-3-3,Mike Dean,hull city,,
+1,2016-08-20,15,Matchweek 2,Sat,Away,W,2,0,Swansea City,43,20024,Curtis Davies,4-3-3,Stuart Attwell,hull city,,
+2,2016-08-27,17,Matchweek 3,Sat,Home,L,0,1,Manchester Utd,38,24560,David Meyler,4-3-3,Jonathan Moss,hull city,,
+3,2016-09-10,15,Matchweek 4,Sat,Away,D,1,1,Burnley,61,18803,Curtis Davies,4-1-4-1,Paul Tierney,hull city,,
+4,2016-09-17,15,Matchweek 5,Sat,Home,L,1,4,Arsenal,39,22536,Curtis Davies,4-3-3,Roger East,hull city,,
+5,2016-09-24,15,Matchweek 6,Sat,Away,L,1,5,Liverpool,26,53109,Curtis Davies,4-5-1,Andre Marriner,hull city,,
+6,2016-10-01,15,Matchweek 7,Sat,Home,L,0,2,Chelsea,41,21257,Curtis Davies,4-5-1,Anthony Taylor,hull city,,
+7,2016-10-15,15,Matchweek 8,Sat,Away,L,1,6,Bournemouth,51,11029,Curtis Davies,4-3-2-1,Lee Mason,hull city,,
+8,2016-10-22,15,Matchweek 9,Sat,Home,L,0,2,Stoke City,49,18522,Michael Dawson,4-1-4-1,Kevin Friend,hull city,,
+9,2016-10-29,15,Matchweek 10,Sat,Away,L,0,1,Watford,46,20022,Michael Dawson,3-5-2,Jonathan Moss,hull city,,
+10,2016-11-06,14,Matchweek 11,Sun,Home,W,2,1,Southampton,34,17768,Michael Dawson,3-5-2,Graham Scott,hull city,,
+11,2016-11-19,15,Matchweek 12,Sat,Away,L,0,3,Sunderland,59,41271,Michael Dawson,4-4-1-1,Lee Mason,hull city,,
+12,2016-11-26,15,Matchweek 13,Sat,Home,D,1,1,West Brom,53,18086,Michael Dawson,4-4-1-1,Paul Tierney,hull city,,
+13,2016-12-05,20,Matchweek 14,Mon,Away,L,0,1,Middlesbrough,39,27395,Michael Dawson,4-4-1-1,Mike Dean,hull city,,
+14,2016-12-10,15,Matchweek 15,Sat,Home,D,3,3,Crystal Palace,57,17403,Michael Dawson,3-5-1-1,Mike Jones,hull city,,
+15,2016-12-14,20,Matchweek 16,Wed,Away,L,0,3,Tottenham,37,31347,Michael Dawson,3-5-1-1,Andre Marriner,hull city,,
+16,2016-12-17,15,Matchweek 17,Sat,Away,L,0,1,West Ham,44,56952,Michael Dawson,3-5-1-1,Lee Mason,hull city,,
+17,2016-12-26,17,Matchweek 18,Mon,Home,L,0,3,Manchester City,33,23134,Michael Dawson,3-5-1-1,Robert Madley,hull city,,
+18,2016-12-30,20,Matchweek 19,Fri,Home,D,2,2,Everton,43,20111,Michael Dawson,3-5-2,Jonathan Moss,hull city,,
+19,2017-01-02,15,Matchweek 20,Mon,Away,L,1,3,West Brom,59,23402,Michael Dawson,3-4-1-2,Mark Clattenburg,hull city,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,W,3,1,Bournemouth,39,17963,Michael Dawson,3-5-2,Martin Atkinson,hull city,,
+21,2017-01-22,16,Matchweek 22,Sun,Away,L,0,2,Chelsea,47,41605,Michael Dawson,3-4-3,Niel Swarbrick,hull city,,
+22,2017-02-01,20,Matchweek 23,Wed,Away,D,0,0,Manchester Utd,33,75297,Michael Dawson,4-1-4-1,Mike Jones,hull city,,
+23,2017-02-04,15,Matchweek 24,Sat,Home,W,2,0,Liverpool,28,24822,Tom Huddlestone,4-2-3-1,Lee Mason,hull city,,
+24,2017-02-11,12,Matchweek 25,Sat,Away,L,0,2,Arsenal,51,59962,Tom Huddlestone,4-1-4-1,Mark Clattenburg,hull city,,
+25,2017-02-25,15,Matchweek 26,Sat,Home,D,1,1,Burnley,66,20156,Tom Huddlestone,4-2-3-1,Martin Atkinson,hull city,,
+26,2017-03-04,15,Matchweek 27,Sat,Away,L,1,3,Leicester City,51,31971,Tom Huddlestone,4-1-4-1,Mike Dean,hull city,,
+27,2017-03-11,15,Matchweek 28,Sat,Home,W,2,1,Swansea City,50,19195,Tom Huddlestone,4-1-4-1,Andre Marriner,hull city,,
+28,2017-03-18,15,Matchweek 29,Sat,Away,L,0,4,Everton,49,39248,Tom Huddlestone,5-4-1,Paul Tierney,hull city,,
+29,2017-04-01,15,Matchweek 30,Sat,Home,W,2,1,West Ham,46,20820,Curtis Davies,3-4-1-2,Mike Jones,hull city,,
+30,2017-04-05,19,Matchweek 31,Wed,Home,W,4,2,Middlesbrough,48,20380,Harry Maguire,4-4-2,Michael Oliver,hull city,,
+31,2017-04-08,15,Matchweek 32,Sat,Away,L,1,3,Manchester City,33,54393,Michael Dawson,4-4-1-1,Jonathan Moss,hull city,,
+32,2017-04-15,15,Matchweek 33,Sat,Away,L,1,3,Stoke City,55,27505,Michael Dawson,4-4-1-1,Stuart Attwell,hull city,,
+33,2017-04-22,15,Matchweek 34,Sat,Home,W,2,0,Watford,34,20432,Harry Maguire,4-2-3-1,Robert Madley,hull city,,
+34,2017-04-29,15,Matchweek 35,Sat,Away,D,0,0,Southampton,48,31120,Harry Maguire,4-2-3-1,Mike Dean,hull city,,
+35,2017-05-06,15,Matchweek 36,Sat,Home,L,0,2,Sunderland,60,22480,Harry Maguire,4-4-2,Niel Swarbrick,hull city,,
+36,2017-05-14,12,Matchweek 37,Sun,Away,L,0,4,Crystal Palace,70,25176,Michael Dawson,4-4-1-1,Martin Atkinson,hull city,,
+37,2017-05-21,15,Matchweek 38,Sun,Home,L,1,7,Tottenham,35,23804,Michael Dawson,3-4-3,Andre Marriner,hull city,,
+0,2016-08-13,15,Matchweek 1,Sat,Home,D,1,1,Stoke City,46,32110,George Friend,4-2-3-1,Kevin Friend,middlesbrough,,
+1,2016-08-21,13,Matchweek 2,Sun,Away,W,2,1,Sunderland,53,43515,George Friend,4-2-3-1,Martin Atkinson,middlesbrough,,
+2,2016-08-28,13,Matchweek 3,Sun,Away,D,0,0,West Brom,59,23690,Ben Gibson,4-2-3-1,Anthony Taylor,middlesbrough,,
+3,2016-09-10,15,Matchweek 4,Sat,Home,L,1,2,Crystal Palace,58,30551,George Friend,4-2-3-1,Niel Swarbrick,middlesbrough,,
+4,2016-09-17,17,Matchweek 5,Sat,Away,L,1,3,Everton,48,39074,George Friend,4-2-3-1,Lee Mason,middlesbrough,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,L,1,2,Tottenham,42,32703,George Friend,4-2-3-1,Graham Scott,middlesbrough,,
+6,2016-10-01,15,Matchweek 7,Sat,Away,D,1,1,West Ham,60,56945,George Friend,4-4-1-1,Niel Swarbrick,middlesbrough,,
+7,2016-10-16,13,Matchweek 8,Sun,Home,L,0,1,Watford,64,28131,George Friend,4-2-3-1,Roger East,middlesbrough,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,D,0,0,Arsenal,25,59982,George Friend,4-5-1,Mike Dean,middlesbrough,,
+9,2016-10-29,15,Matchweek 10,Sat,Home,W,2,0,Bournemouth,40,29600,George Friend,4-2-3-1,Stuart Attwell,middlesbrough,,
+10,2016-11-05,15,Matchweek 11,Sat,Away,D,1,1,Manchester City,29,54294,George Friend,4-5-1,Kevin Friend,middlesbrough,,
+11,2016-11-20,16,Matchweek 12,Sun,Home,L,0,1,Chelsea,42,32704,Ben Gibson,4-5-1,Jonathan Moss,middlesbrough,,
+12,2016-11-26,15,Matchweek 13,Sat,Away,D,2,2,Leicester City,59,32058,Ben Gibson,4-5-1,Lee Mason,middlesbrough,,
+13,2016-12-05,20,Matchweek 14,Mon,Home,W,1,0,Hull City,61,27395,Ben Gibson,4-3-3,Mike Dean,middlesbrough,,
+14,2016-12-11,14,Matchweek 15,Sun,Away,L,0,1,Southampton,45,28976,Ben Gibson,4-3-3,Stuart Attwell,middlesbrough,,
+15,2016-12-14,19,Matchweek 16,Wed,Home,L,0,3,Liverpool,37,32704,Ben Gibson,4-3-3,Jonathan Moss,middlesbrough,,
+16,2016-12-17,15,Matchweek 17,Sat,Home,W,3,0,Swansea City,43,28302,Ben Gibson,4-3-3,Niel Swarbrick,middlesbrough,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,L,0,1,Burnley,54,21562,Ben Gibson,4-3-3,Craig Pawson,middlesbrough,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,L,1,2,Manchester Utd,35,75314,Grant Leadbitter,4-1-4-1,Lee Mason,middlesbrough,,
+19,2017-01-02,12,Matchweek 20,Mon,Home,D,0,0,Leicester City,63,32437,Ben Gibson,4-3-3,Robert Madley,middlesbrough,,
+20,2017-01-14,15,Matchweek 21,Sat,Away,D,0,0,Watford,53,20659,Grant Leadbitter,3-1-4-2,Jonathan Moss,middlesbrough,,
+21,2017-01-21,15,Matchweek 22,Sat,Home,L,1,3,West Ham,62,30848,George Friend,4-3-3,Martin Atkinson,middlesbrough,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,D,1,1,West Brom,62,27316,Ben Gibson,4-3-3,Stuart Attwell,middlesbrough,,
+23,2017-02-04,17,Matchweek 24,Sat,Away,L,0,1,Tottenham,35,31949,Ben Gibson,4-3-3,Mark Clattenburg,middlesbrough,,
+24,2017-02-11,15,Matchweek 25,Sat,Home,D,0,0,Everton,46,31496,Ben Gibson,4-3-3,Mike Dean,middlesbrough,,
+25,2017-02-25,15,Matchweek 26,Sat,Away,L,0,1,Crystal Palace,54,25416,Ben Gibson,5-3-2,Robert Madley,middlesbrough,,
+26,2017-03-04,15,Matchweek 27,Sat,Away,L,0,2,Stoke City,45,27644,Grant Leadbitter,4-3-3,Craig Pawson,middlesbrough,,
+27,2017-03-19,12,Matchweek 29,Sun,Home,L,1,3,Manchester Utd,64,32689,Grant Leadbitter,4-3-3,Jonathan Moss,middlesbrough,,
+28,2017-04-02,13,Matchweek 30,Sun,Away,D,0,0,Swansea City,45,20354,Ben Gibson,4-2-3-1,Robert Madley,middlesbrough,,
+29,2017-04-05,19,Matchweek 31,Wed,Away,L,2,4,Hull City,52,20380,Ben Gibson,4-4-2,Michael Oliver,middlesbrough,,
+30,2017-04-08,15,Matchweek 32,Sat,Home,D,0,0,Burnley,56,29547,Grant Leadbitter,3-5-2,Martin Atkinson,middlesbrough,,
+31,2017-04-17,20,Matchweek 33,Mon,Home,L,1,2,Arsenal,35,31298,Grant Leadbitter,4-3-3,Anthony Taylor,middlesbrough,,
+32,2017-04-22,15,Matchweek 34,Sat,Away,L,0,4,Bournemouth,32,10890,Ben Gibson,5-4-1,Graham Scott,middlesbrough,,
+33,2017-04-26,19,Matchweek 28,Wed,Home,W,1,0,Sunderland,49,30742,Ben Gibson,4-3-3,Mike Dean,middlesbrough,,
+34,2017-04-30,14,Matchweek 35,Sun,Home,D,2,2,Manchester City,32,29763,Ben Gibson,4-3-3,Kevin Friend,middlesbrough,,
+35,2017-05-08,20,Matchweek 36,Mon,Away,L,0,3,Chelsea,43,41500,Ben Gibson,4-3-3,Craig Pawson,middlesbrough,,
+36,2017-05-13,15,Matchweek 37,Sat,Home,L,1,2,Southampton,42,28203,Ben Gibson,4-3-3,Anthony Taylor,middlesbrough,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,L,0,3,Liverpool,26,53191,Grant Leadbitter,4-3-3,Martin Atkinson,middlesbrough,,
+0,2016-08-13,17,Matchweek 1,Sat,Away,L,1,2,Manchester City,23,54362,John O'Shea,4-2-3-1,Robert Madley,sunderland,,
+1,2016-08-21,13,Matchweek 2,Sun,Home,L,1,2,Middlesbrough,47,43515,John O'Shea,4-2-3-1,Martin Atkinson,sunderland,,
+2,2016-08-27,15,Matchweek 3,Sat,Away,D,1,1,Southampton,36,30152,Jermain Defoe,4-1-2-1-2◆,Lee Mason,sunderland,,
+3,2016-09-12,20,Matchweek 4,Mon,Home,L,0,3,Everton,33,42406,Jermain Defoe,4-4-1-1,Mike Jones,sunderland,,
+4,2016-09-18,16,Matchweek 5,Sun,Away,L,0,1,Tottenham,26,31251,Lee Cattermole,4-3-3,Mike Dean,sunderland,,
+5,2016-09-24,15,Matchweek 6,Sat,Home,L,2,3,Crystal Palace,45,38941,Lee Cattermole,4-3-3,Anthony Taylor,sunderland,,
+6,2016-10-01,15,Matchweek 7,Sat,Home,D,1,1,West Brom,56,40043,John O'Shea,4-1-4-1,Stuart Attwell,sunderland,,
+7,2016-10-15,15,Matchweek 8,Sat,Away,L,0,2,Stoke City,43,27701,John O'Shea,4-5-1,Mike Jones,sunderland,,
+8,2016-10-22,15,Matchweek 9,Sat,Away,L,0,1,West Ham,36,56985,John O'Shea,4-5-1,Robert Madley,sunderland,,
+9,2016-10-29,12,Matchweek 10,Sat,Home,L,1,4,Arsenal,34,44322,John O'Shea,4-5-1,Martin Atkinson,sunderland,,
+10,2016-11-05,15,Matchweek 11,Sat,Away,W,2,1,Bournemouth,30,11084,Jermain Defoe,4-5-1,Mike Dean,sunderland,,
+11,2016-11-19,15,Matchweek 12,Sat,Home,W,3,0,Hull City,41,41271,Jermain Defoe,4-3-3,Lee Mason,sunderland,,
+12,2016-11-26,15,Matchweek 13,Sat,Away,L,0,2,Liverpool,23,53114,John O'Shea,4-3-3,Anthony Taylor,sunderland,,
+13,2016-12-03,15,Matchweek 14,Sat,Home,W,2,1,Leicester City,54,39725,Jermain Defoe,4-3-3,Andre Marriner,sunderland,,
+14,2016-12-10,15,Matchweek 15,Sat,Away,L,0,3,Swansea City,38,20453,Jermain Defoe,4-4-2,Craig Pawson,sunderland,,
+15,2016-12-14,19,Matchweek 16,Wed,Home,L,0,1,Chelsea,34,41008,John O'Shea,3-4-3,Niel Swarbrick,sunderland,,
+16,2016-12-17,15,Matchweek 17,Sat,Home,W,1,0,Watford,43,40267,Jermain Defoe,4-2-3-1,Robert Madley,sunderland,,
+17,2016-12-26,15,Matchweek 18,Mon,Away,L,1,3,Manchester Utd,38,75325,Jermain Defoe,4-3-3,Martin Atkinson,sunderland,,
+18,2016-12-31,15,Matchweek 19,Sat,Away,L,1,4,Burnley,54,21124,John O'Shea,4-2-3-1,Graham Scott,sunderland,,
+19,2017-01-02,15,Matchweek 20,Mon,Home,D,2,2,Liverpool,29,46494,John O'Shea,4-4-1-1,Anthony Taylor,sunderland,,
+20,2017-01-14,15,Matchweek 21,Sat,Home,L,1,3,Stoke City,51,42722,John O'Shea,4-2-3-1,Mike Dean,sunderland,,
+21,2017-01-21,15,Matchweek 22,Sat,Away,L,0,2,West Brom,56,24380,John O'Shea,3-4-3,Craig Pawson,sunderland,,
+22,2017-01-31,19,Matchweek 23,Tue,Home,D,0,0,Tottenham,28,40058,John O'Shea,3-5-2,Lee Mason,sunderland,,
+23,2017-02-04,15,Matchweek 24,Sat,Away,W,4,0,Crystal Palace,35,25310,John O'Shea,3-5-1-1,Andre Marriner,sunderland,,
+24,2017-02-11,15,Matchweek 25,Sat,Home,L,0,4,Southampton,46,39931,John O'Shea,3-5-1-1,Paul Tierney,sunderland,,
+25,2017-02-25,15,Matchweek 26,Sat,Away,L,0,2,Everton,37,39595,John O'Shea,4-5-1,Stuart Attwell,sunderland,,
+26,2017-03-05,16,Matchweek 27,Sun,Home,L,0,2,Manchester City,29,41107,John O'Shea,4-5-1,Martin Atkinson,sunderland,,
+27,2017-03-18,15,Matchweek 29,Sat,Home,D,0,0,Burnley,44,41518,John O'Shea,4-3-3,Robert Madley,sunderland,,
+28,2017-04-01,15,Matchweek 30,Sat,Away,L,0,1,Watford,44,20805,John O'Shea,4-2-3-1,Lee Probert,sunderland,,
+29,2017-04-04,19,Matchweek 31,Tue,Away,L,0,2,Leicester City,46,31757,Lee Cattermole,4-1-3-2,Graham Scott,sunderland,,
+30,2017-04-09,13,Matchweek 32,Sun,Home,L,0,3,Manchester Utd,30,43779,Lee Cattermole,4-1-3-2,Craig Pawson,sunderland,,
+31,2017-04-15,15,Matchweek 33,Sat,Home,D,2,2,West Ham,47,40168,John O'Shea,4-3-3,Andre Marriner,sunderland,,
+32,2017-04-26,19,Matchweek 28,Wed,Away,L,0,1,Middlesbrough,51,30742,John O'Shea,4-3-3,Mike Dean,sunderland,,
+33,2017-04-29,15,Matchweek 35,Sat,Home,L,0,1,Bournemouth,41,38394,John O'Shea,4-1-3-2,Stuart Attwell,sunderland,,
+34,2017-05-06,15,Matchweek 36,Sat,Away,W,2,0,Hull City,41,22480,John O'Shea,4-3-3,Niel Swarbrick,sunderland,,
+35,2017-05-13,15,Matchweek 37,Sat,Home,L,0,2,Swansea City,53,38781,John O'Shea,4-3-3,Andre Marriner,sunderland,,
+36,2017-05-16,19,Matchweek 34,Tue,Away,L,0,2,Arsenal,37,59510,John O'Shea,3-5-2,Roger East,sunderland,,
+37,2017-05-21,15,Matchweek 38,Sun,Away,L,1,5,Chelsea,28,41618,John O'Shea,3-5-1-1,Niel Swarbrick,sunderland,,
+0,2017-08-12,17,Matchweek 1,Sat,Away,W,2,0,Brighton,77,30415,Vincent Kompany,3-1-4-2,Michael Oliver,manchester city,1.9,0.3
+1,2017-08-21,20,Matchweek 2,Mon,Home,D,1,1,Everton,64,49108,Vincent Kompany,3-1-4-2,Robert Madley,manchester city,1.1,0.6
+2,2017-08-26,12,Matchweek 3,Sat,Away,W,2,1,Bournemouth,70,10419,Vincent Kompany,4-3-3,Mike Dean,manchester city,1.4,0.5
+3,2017-09-09,12,Matchweek 4,Sat,Home,W,5,0,Liverpool,66,54172,David Silva,3-1-4-2,Jonathan Moss,manchester city,2.4,0.7
+4,2017-09-16,15,Matchweek 5,Sat,Away,W,6,0,Watford,67,20305,David Silva,4-3-3,Anthony Taylor,manchester city,3.3,0.5
+5,2017-09-23,15,Matchweek 6,Sat,Home,W,5,0,Crystal Palace,71,53526,David Silva,4-3-3,Niel Swarbrick,manchester city,4.5,0.6
+6,2017-09-30,17,Matchweek 7,Sat,Away,W,1,0,Chelsea,61,41530,David Silva,4-3-3,Martin Atkinson,manchester city,0.9,0.5
+7,2017-10-14,15,Matchweek 8,Sat,Home,W,7,2,Stoke City,79,54128,David Silva,4-3-3,Craig Pawson,manchester city,3.8,0.5
+8,2017-10-21,15,Matchweek 9,Sat,Home,W,3,0,Burnley,77,54118,David Silva,4-3-3,Roger East,manchester city,3.1,0.2
+9,2017-10-28,15,Matchweek 10,Sat,Away,W,3,2,West Brom,77,24003,David Silva,4-3-3,Mike Jones,manchester city,2.3,1.5
+10,2017-11-05,14,Matchweek 11,Sun,Home,W,3,1,Arsenal,57,54286,David Silva,4-3-3,Michael Oliver,manchester city,1.8,0.3
+11,2017-11-18,15,Matchweek 12,Sat,Away,W,2,0,Leicester City,73,31908,Vincent Kompany,4-3-3,Graham Scott,manchester city,1.9,0.2
+12,2017-11-26,16,Matchweek 13,Sun,Away,W,2,1,Huddersfield,78,24121,Vincent Kompany,4-3-3,Craig Pawson,manchester city,2.6,0.6
+13,2017-11-29,20,Matchweek 14,Wed,Home,W,2,1,Southampton,74,53407,Vincent Kompany,4-3-3,Paul Tierney,manchester city,1.4,1.3
+14,2017-12-03,16,Matchweek 15,Sun,Home,W,2,1,West Ham,76,54203,David Silva,4-3-3,Mike Dean,manchester city,2.3,0.6
+15,2017-12-10,16,Matchweek 16,Sun,Away,W,2,1,Manchester Utd,64,74847,Vincent Kompany,4-3-3,Michael Oliver,manchester city,1.7,1.4
+16,2017-12-13,19,Matchweek 17,Wed,Away,W,4,0,Swansea City,78,20870,David Silva,4-3-3,Anthony Taylor,manchester city,2.7,0.6
+17,2017-12-16,17,Matchweek 18,Sat,Home,W,4,1,Tottenham,52,54214,Fernandinho,4-3-3,Craig Pawson,manchester city,3.4,0.2
+18,2017-12-23,15,Matchweek 19,Sat,Home,W,4,0,Bournemouth,78,54270,Vincent Kompany,4-3-3,Mike Jones,manchester city,1.5,0.4
+19,2017-12-27,19,Matchweek 20,Wed,Away,W,1,0,Newcastle Utd,77,52311,Vincent Kompany,4-3-3,Andre Marriner,manchester city,1.8,0.2
+20,2017-12-31,12,Matchweek 21,Sun,Away,D,0,0,Crystal Palace,74,25804,Fernandinho,4-3-3,Jonathan Moss,manchester city,1.3,1.3
+21,2018-01-02,20,Matchweek 22,Tue,Home,W,3,1,Watford,76,53556,David Silva,4-3-3,Lee Mason,manchester city,2.1,1.0
+22,2018-01-14,16,Matchweek 23,Sun,Away,L,3,4,Liverpool,64,53285,Fernandinho,4-3-3,Andre Marriner,manchester city,0.8,0.8
+23,2018-01-20,17,Matchweek 24,Sat,Home,W,3,1,Newcastle Utd,80,54452,David Silva,4-3-3,Paul Tierney,manchester city,2.1,1.0
+24,2018-01-31,20,Matchweek 25,Wed,Home,W,3,0,West Brom,73,53241,David Silva,4-3-3,Robert Madley,manchester city,2.3,0.2
+25,2018-02-03,12,Matchweek 26,Sat,Away,D,1,1,Burnley,70,21658,Vincent Kompany,4-3-3,Martin Atkinson,manchester city,1.8,0.9
+26,2018-02-10,17,Matchweek 27,Sat,Home,W,5,1,Leicester City,70,54416,Fernandinho,4-3-3,Mike Jones,manchester city,2.5,0.1
+27,2018-03-01,19,Matchweek 28,Thu,Away,W,3,0,Arsenal,54,58420,Vincent Kompany,4-3-3,Andre Marriner,manchester city,1.5,1.3
+28,2018-03-04,16,Matchweek 29,Sun,Home,W,1,0,Chelsea,71,54328,David Silva,4-3-3,Michael Oliver,manchester city,0.9,0.1
+29,2018-03-12,20,Matchweek 30,Mon,Away,W,2,0,Stoke City,76,29138,Vincent Kompany,4-3-3,Jonathan Moss,manchester city,1.6,0.4
+30,2018-03-31,17,Matchweek 32,Sat,Away,W,3,1,Everton,81,39221,Vincent Kompany,3-5-2,Paul Tierney,manchester city,1.5,0.9
+31,2018-04-07,17,Matchweek 33,Sat,Home,L,2,3,Manchester Utd,64,54259,Vincent Kompany,4-3-3,Martin Atkinson,manchester city,2.6,1.1
+32,2018-04-14,19,Matchweek 34,Sat,Away,W,3,1,Tottenham,52,80811,Vincent Kompany,4-3-3,Jonathan Moss,manchester city,2.9,0.4
+33,2018-04-22,16,Matchweek 35,Sun,Home,W,5,0,Swansea City,82,54387,Vincent Kompany,4-3-3,Craig Pawson,manchester city,3.2,0.3
+34,2018-04-29,14,Matchweek 36,Sun,Away,W,4,1,West Ham,74,56904,Fernandinho,4-3-3,Niel Swarbrick,manchester city,2.4,0.2
+35,2018-05-06,13,Matchweek 37,Sun,Home,D,0,0,Huddersfield,78,54350,David Silva,4-3-3,Mike Dean,manchester city,0.8,0.2
+36,2018-05-09,20,Matchweek 31,Wed,Home,W,3,1,Brighton,73,54013,Yaya Touré,4-3-3,Paul Tierney,manchester city,1.6,1.2
+37,2018-05-13,15,Matchweek 38,Sun,Away,W,1,0,Southampton,69,31882,Fernandinho,4-3-3,Andre Marriner,manchester city,0.8,0.5
+0,2017-08-13,16,Matchweek 1,Sun,Home,W,4,0,West Ham,55,74928,Antonio Valencia,4-2-3-1,Martin Atkinson,manchester utd,2.1,0.5
+1,2017-08-19,12,Matchweek 2,Sat,Away,W,4,0,Swansea City,58,20862,Antonio Valencia,4-2-3-1,Jonathan Moss,manchester utd,3.0,0.4
+2,2017-08-26,17,Matchweek 3,Sat,Home,W,2,0,Leicester City,69,75021,Antonio Valencia,4-2-3-1,Michael Oliver,manchester utd,2.8,0.9
+3,2017-09-09,17,Matchweek 4,Sat,Away,D,2,2,Stoke City,63,29320,Antonio Valencia,4-3-3,Niel Swarbrick,manchester utd,2.1,1.2
+4,2017-09-17,16,Matchweek 5,Sun,Home,W,4,0,Everton,49,75042,Antonio Valencia,4-2-3-1,Andre Marriner,manchester utd,2.9,1.1
+5,2017-09-23,15,Matchweek 6,Sat,Away,W,1,0,Southampton,40,31930,Antonio Valencia,4-2-3-1,Craig Pawson,manchester utd,1.2,1.0
+6,2017-09-30,15,Matchweek 7,Sat,Home,W,4,0,Crystal Palace,59,75118,David de Gea,4-2-3-1,Mike Dean,manchester utd,2.8,0.4
+7,2017-10-14,12,Matchweek 8,Sat,Away,D,0,0,Liverpool,38,52912,Antonio Valencia,4-2-3-1,Martin Atkinson,manchester utd,0.2,1.5
+8,2017-10-21,15,Matchweek 9,Sat,Away,L,1,2,Huddersfield,77,24426,Antonio Valencia,4-2-3-1,Lee Mason,manchester utd,0.8,1.2
+9,2017-10-28,12,Matchweek 10,Sat,Home,W,1,0,Tottenham,45,75034,Antonio Valencia,3-4-1-2,Jonathan Moss,manchester utd,0.8,1.2
+10,2017-11-05,16,Matchweek 11,Sun,Away,L,0,1,Chelsea,46,41615,Antonio Valencia,3-4-1-2,Anthony Taylor,manchester utd,0.7,1.6
+11,2017-11-18,17,Matchweek 12,Sat,Home,W,4,1,Newcastle Utd,65,75035,Antonio Valencia,4-2-3-1,Craig Pawson,manchester utd,3.1,1.1
+12,2017-11-25,15,Matchweek 13,Sat,Home,W,1,0,Brighton,58,75018,Antonio Valencia,4-2-3-1,Niel Swarbrick,manchester utd,1.2,0.5
+13,2017-11-28,20,Matchweek 14,Tue,Away,W,4,2,Watford,41,20552,Antonio Valencia,3-4-3,Jonathan Moss,manchester utd,1.2,1.4
+14,2017-12-02,17,Matchweek 15,Sat,Away,W,3,1,Arsenal,25,59547,Antonio Valencia,3-4-1-2,Andre Marriner,manchester utd,1.8,4.7
+15,2017-12-10,16,Matchweek 16,Sun,Home,L,1,2,Manchester City,36,74847,Antonio Valencia,4-2-3-1,Michael Oliver,manchester utd,1.4,1.7
+16,2017-12-13,20,Matchweek 17,Wed,Home,W,1,0,Bournemouth,57,74798,Antonio Valencia,4-2-3-1,Graham Scott,manchester utd,1.1,0.8
+17,2017-12-17,14,Matchweek 18,Sun,Away,W,2,1,West Brom,56,24782,Antonio Valencia,4-2-3-1,Anthony Taylor,manchester utd,0.7,1.1
+18,2017-12-23,19,Matchweek 19,Sat,Away,D,2,2,Leicester City,51,32202,Paul Pogba,4-2-3-1,Jonathan Moss,manchester utd,1.9,1.4
+19,2017-12-26,15,Matchweek 20,Tue,Home,D,2,2,Burnley,71,75046,Paul Pogba,4-2-3-1,Martin Atkinson,manchester utd,2.0,0.5
+20,2017-12-30,17,Matchweek 21,Sat,Home,D,0,0,Southampton,54,75051,Paul Pogba,4-2-3-1,Craig Pawson,manchester utd,1.7,0.6
+21,2018-01-01,17,Matchweek 22,Mon,Away,W,2,0,Everton,60,39188,Paul Pogba,4-3-3,Andre Marriner,manchester utd,1.4,1.2
+22,2018-01-15,20,Matchweek 23,Mon,Home,W,3,0,Stoke City,60,74726,Antonio Valencia,4-2-3-1,Anthony Taylor,manchester utd,1.5,1.3
+23,2018-01-20,15,Matchweek 24,Sat,Away,W,1,0,Burnley,52,21841,Antonio Valencia,4-3-3,Mike Dean,manchester utd,0.8,1.0
+24,2018-01-31,20,Matchweek 25,Wed,Away,L,0,2,Tottenham,48,81978,Antonio Valencia,4-2-3-1,Andre Marriner,manchester utd,1.0,1.5
+25,2018-02-03,15,Matchweek 26,Sat,Home,W,2,0,Huddersfield,74,74742,Antonio Valencia,4-2-3-1,Stuart Attwell,manchester utd,1.6,0.2
+26,2018-02-11,14,Matchweek 27,Sun,Away,L,0,1,Newcastle Utd,64,52309,Antonio Valencia,4-2-3-1,Craig Pawson,manchester utd,1.9,0.5
+27,2018-02-25,14,Matchweek 28,Sun,Home,W,2,1,Chelsea,44,75060,Antonio Valencia,4-1-2-1-2◆,Martin Atkinson,manchester utd,1.2,1.7
+28,2018-03-05,20,Matchweek 29,Mon,Away,W,3,2,Crystal Palace,69,25840,Antonio Valencia,4-3-3,Niel Swarbrick,manchester utd,1.2,0.6
+29,2018-03-10,12,Matchweek 30,Sat,Home,W,2,1,Liverpool,33,74855,Antonio Valencia,4-2-3-1,Craig Pawson,manchester utd,0.7,0.7
+30,2018-03-31,15,Matchweek 32,Sat,Home,W,2,0,Swansea City,66,75038,Antonio Valencia,4-2-3-1,Robert Madley,manchester utd,2.2,0.2
+31,2018-04-07,17,Matchweek 33,Sat,Away,W,3,2,Manchester City,36,54259,Antonio Valencia,4-3-3,Martin Atkinson,manchester utd,1.1,2.6
+32,2018-04-15,16,Matchweek 34,Sun,Home,L,0,1,West Brom,70,75095,Antonio Valencia,4-3-3,Paul Tierney,manchester utd,0.7,0.7
+33,2018-04-18,19,Matchweek 35,Wed,Away,W,2,0,Bournemouth,55,10952,David de Gea,4-3-3,Graham Scott,manchester utd,1.3,1.2
+34,2018-04-29,16,Matchweek 36,Sun,Home,W,2,1,Arsenal,59,75035,Antonio Valencia,4-3-3,Kevin Friend,manchester utd,1.7,0.5
+35,2018-05-04,20,Matchweek 37,Fri,Away,L,0,1,Brighton,68,30611,Ashley Young,4-3-3,Craig Pawson,manchester utd,0.8,1.0
+36,2018-05-10,19,Matchweek 31,Thu,Away,D,0,0,West Ham,56,56902,Antonio Valencia,5-3-2,Jonathan Moss,manchester utd,0.8,0.6
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,1,0,Watford,52,75049,Michael Carrick,4-3-3,Lee Mason,manchester utd,0.4,0.6
+0,2017-08-13,13,Matchweek 1,Sun,Away,W,2,0,Newcastle Utd,72,52077,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham,2.5,0.8
+1,2017-08-20,16,Matchweek 2,Sun,Home,L,1,2,Chelsea,68,73587,Hugo Lloris,4-3-2-1,Anthony Taylor,tottenham,0.7,0.7
+2,2017-08-27,16,Matchweek 3,Sun,Home,D,1,1,Burnley,66,67862,Hugo Lloris,4-2-3-1,Lee Mason,tottenham,2.3,0.9
+3,2017-09-09,15,Matchweek 4,Sat,Away,W,3,0,Everton,49,38835,Hugo Lloris,3-5-1-1,Graham Scott,tottenham,1.8,0.9
+4,2017-09-16,17,Matchweek 5,Sat,Home,D,0,0,Swansea City,75,65366,Hugo Lloris,3-5-1-1,Mike Dean,tottenham,1.1,0.2
+5,2017-09-23,12,Matchweek 6,Sat,Away,W,3,2,West Ham,51,56988,Hugo Lloris,3-5-1-1,Michael Oliver,tottenham,1.2,0.6
+6,2017-09-30,12,Matchweek 7,Sat,Away,W,4,0,Huddersfield,59,24169,Hugo Lloris,3-4-3,Niel Swarbrick,tottenham,1.5,0.2
+7,2017-10-14,15,Matchweek 8,Sat,Home,W,1,0,Bournemouth,72,73502,Hugo Lloris,4-2-3-1,Robert Madley,tottenham,1.8,0.2
+8,2017-10-22,16,Matchweek 9,Sun,Home,W,4,1,Liverpool,37,80827,Hugo Lloris,3-5-2,Andre Marriner,tottenham,2.0,0.6
+9,2017-10-28,12,Matchweek 10,Sat,Away,L,0,1,Manchester Utd,55,75034,Hugo Lloris,3-5-1-1,Jonathan Moss,tottenham,1.2,0.8
+10,2017-11-05,12,Matchweek 11,Sun,Home,W,1,0,Crystal Palace,68,65270,Harry Kane,3-5-1-1,Kevin Friend,tottenham,0.9,0.8
+11,2017-11-18,12,Matchweek 12,Sat,Away,L,0,2,Arsenal,57,59530,Hugo Lloris,3-5-2,Mike Dean,tottenham,0.7,2.1
+12,2017-11-25,15,Matchweek 13,Sat,Home,D,1,1,West Brom,72,65905,Hugo Lloris,3-5-2,Mike Jones,tottenham,1.8,0.7
+13,2017-11-28,19,Matchweek 14,Tue,Away,L,1,2,Leicester City,62,31950,Hugo Lloris,3-5-2,Anthony Taylor,tottenham,2.4,0.6
+14,2017-12-02,15,Matchweek 15,Sat,Away,D,1,1,Watford,50,20278,Hugo Lloris,4-2-3-1,Martin Atkinson,tottenham,0.8,0.4
+15,2017-12-09,15,Matchweek 16,Sat,Home,W,5,1,Stoke City,71,62202,Hugo Lloris,4-2-3-1,Roger East,tottenham,3.6,0.5
+16,2017-12-13,20,Matchweek 17,Wed,Home,W,2,0,Brighton,74,46438,Hugo Lloris,4-2-3-1,Robert Madley,tottenham,1.5,0.4
+17,2017-12-16,17,Matchweek 18,Sat,Away,L,1,4,Manchester City,48,54214,Hugo Lloris,4-1-2-1-2◆,Craig Pawson,tottenham,0.2,3.4
+18,2017-12-23,17,Matchweek 19,Sat,Away,W,3,0,Burnley,59,21650,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham,3.1,0.2
+19,2017-12-26,12,Matchweek 20,Tue,Home,W,5,2,Southampton,57,55412,Hugo Lloris,4-2-3-1,Graham Scott,tottenham,3.0,0.8
+20,2018-01-02,19,Matchweek 22,Tue,Away,W,2,0,Swansea City,67,20615,Hugo Lloris,4-2-3-1,Robert Madley,tottenham,1.3,0.4
+21,2018-01-04,20,Matchweek 21,Thu,Home,D,1,1,West Ham,70,50034,Hugo Lloris,4-2-3-1,Mike Dean,tottenham,1.8,0.5
+22,2018-01-13,17,Matchweek 23,Sat,Home,W,4,0,Everton,61,76251,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham,3.8,0.3
+23,2018-01-21,16,Matchweek 24,Sun,Away,D,1,1,Southampton,59,31361,Harry Kane,4-2-3-1,Kevin Friend,tottenham,1.2,0.8
+24,2018-01-31,20,Matchweek 25,Wed,Home,W,2,0,Manchester Utd,52,81978,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham,1.5,1.0
+25,2018-02-04,16,Matchweek 26,Sun,Away,D,2,2,Liverpool,66,53213,Hugo Lloris,4-1-2-1-2◆,Jonathan Moss,tottenham,2.6,1.2
+26,2018-02-10,12,Matchweek 27,Sat,Home,W,1,0,Arsenal,50,83222,Hugo Lloris,4-2-3-1,Anthony Taylor,tottenham,2.6,0.6
+27,2018-02-25,12,Matchweek 28,Sun,Away,W,1,0,Crystal Palace,75,25287,Hugo Lloris,4-2-3-1,Kevin Friend,tottenham,1.7,0.2
+28,2018-03-03,15,Matchweek 29,Sat,Home,W,2,0,Huddersfield,74,68311,Hugo Lloris,4-2-3-1,Kevin Friend,tottenham,1.6,0.1
+29,2018-03-11,16,Matchweek 30,Sun,Away,W,4,1,Bournemouth,63,10623,Hugo Lloris,4-2-3-1,Mike Dean,tottenham,2.4,1.2
+30,2018-04-01,16,Matchweek 32,Sun,Away,W,3,1,Chelsea,51,41364,Hugo Lloris,4-2-3-1,Andre Marriner,tottenham,1.4,1.0
+31,2018-04-07,15,Matchweek 33,Sat,Away,W,2,1,Stoke City,65,29515,Hugo Lloris,4-2-3-1,Graham Scott,tottenham,1.7,1.4
+32,2018-04-14,19,Matchweek 34,Sat,Home,L,1,3,Manchester City,48,80811,Hugo Lloris,4-2-3-1,Jonathan Moss,tottenham,0.4,2.9
+33,2018-04-17,19,Matchweek 35,Tue,Away,D,1,1,Brighton,63,30440,Hugo Lloris,4-2-3-1,Kevin Friend,tottenham,1.3,1.1
+34,2018-04-30,20,Matchweek 36,Mon,Home,W,2,0,Watford,61,52675,Hugo Lloris,4-2-3-1,Michael Oliver,tottenham,1.4,1.3
+35,2018-05-05,15,Matchweek 37,Sat,Away,L,0,1,West Brom,74,23685,Hugo Lloris,3-4-3,Mike Jones,tottenham,1.2,1.6
+36,2018-05-09,20,Matchweek 31,Wed,Home,W,1,0,Newcastle Utd,63,54923,Hugo Lloris,4-2-3-1,Niel Swarbrick,tottenham,0.8,1.0
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,5,4,Leicester City,64,77841,Hugo Lloris,4-2-3-1,Craig Pawson,tottenham,1.8,1.4
+0,2017-08-12,12,Matchweek 1,Sat,Away,D,3,3,Watford,54,20407,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,2.6,2.1
+1,2017-08-19,15,Matchweek 2,Sat,Home,W,1,0,Crystal Palace,71,53138,Jordan Henderson,4-3-3,Kevin Friend,liverpool,2.5,0.7
+2,2017-08-27,16,Matchweek 3,Sun,Home,W,4,0,Arsenal,48,53206,Jordan Henderson,4-3-3,Craig Pawson,liverpool,3.1,0.6
+3,2017-09-09,12,Matchweek 4,Sat,Away,L,0,5,Manchester City,34,54172,Jordan Henderson,4-3-3,Jonathan Moss,liverpool,0.7,2.4
+4,2017-09-16,15,Matchweek 5,Sat,Home,D,1,1,Burnley,71,53231,James Milner,4-3-3,Roger East,liverpool,2.2,0.2
+5,2017-09-23,17,Matchweek 6,Sat,Away,W,3,2,Leicester City,55,32004,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,1.7,2.8
+6,2017-10-01,16,Matchweek 7,Sun,Away,D,1,1,Newcastle Utd,67,52303,Jordan Henderson,4-3-3,Craig Pawson,liverpool,1.3,0.3
+7,2017-10-14,12,Matchweek 8,Sat,Home,D,0,0,Manchester Utd,62,52912,Jordan Henderson,4-3-3,Martin Atkinson,liverpool,1.5,0.2
+8,2017-10-22,16,Matchweek 9,Sun,Away,L,1,4,Tottenham,63,80827,Jordan Henderson,4-3-3,Andre Marriner,liverpool,0.6,2.0
+9,2017-10-28,15,Matchweek 10,Sat,Home,W,3,0,Huddersfield,72,53268,Jordan Henderson,4-3-3,Kevin Friend,liverpool,2.1,0.1
+10,2017-11-04,17,Matchweek 11,Sat,Away,W,4,1,West Ham,52,56961,Simon Mignolet,4-2-2-2,Niel Swarbrick,liverpool,2.7,1.2
+11,2017-11-18,15,Matchweek 12,Sat,Home,W,3,0,Southampton,61,53256,Jordan Henderson,4-3-3,Mike Jones,liverpool,2.0,0.4
+12,2017-11-25,17,Matchweek 13,Sat,Home,D,1,1,Chelsea,53,53225,Jordan Henderson,4-3-3,Michael Oliver,liverpool,1.2,0.8
+13,2017-11-29,20,Matchweek 14,Wed,Away,W,3,0,Stoke City,59,29423,Simon Mignolet,4-2-3-1,Martin Atkinson,liverpool,2.9,0.9
+14,2017-12-02,15,Matchweek 15,Sat,Away,W,5,1,Brighton,57,30634,Jordan Henderson,3-5-1-1,Graham Scott,liverpool,1.8,1.7
+15,2017-12-10,14,Matchweek 16,Sun,Home,D,1,1,Everton,79,53082,Jordan Henderson,4-3-3,Craig Pawson,liverpool,1.6,0.9
+16,2017-12-13,20,Matchweek 17,Wed,Home,D,0,0,West Brom,70,53243,Philippe Coutinho,4-4-2,Paul Tierney,liverpool,2.1,0.4
+17,2017-12-17,16,Matchweek 18,Sun,Away,W,4,0,Bournemouth,56,10780,Jordan Henderson,4-3-3,Andre Marriner,liverpool,2.5,0.6
+18,2017-12-22,19,Matchweek 19,Fri,Away,D,3,3,Arsenal,46,59409,Jordan Henderson,4-2-3-1,Martin Atkinson,liverpool,2.0,1.2
+19,2017-12-26,17,Matchweek 20,Tue,Home,W,5,0,Swansea City,55,52850,Philippe Coutinho,4-3-3,Kevin Friend,liverpool,3.1,0.4
+20,2017-12-30,15,Matchweek 21,Sat,Home,W,2,1,Leicester City,61,53226,James Milner,4-3-3,Niel Swarbrick,liverpool,2.9,0.7
+21,2018-01-01,15,Matchweek 22,Mon,Away,W,2,1,Burnley,58,21756,Simon Mignolet,4-2-3-1,Roger East,liverpool,1.7,1.3
+22,2018-01-14,16,Matchweek 23,Sun,Home,W,4,3,Manchester City,36,53285,Dejan Lovren,4-3-3,Andre Marriner,liverpool,0.8,0.8
+23,2018-01-22,20,Matchweek 24,Mon,Away,L,0,1,Swansea City,71,20886,Emre Can,4-2-3-1,Niel Swarbrick,liverpool,2.5,0.2
+24,2018-01-30,20,Matchweek 25,Tue,Away,W,3,0,Huddersfield,74,24121,Jordan Henderson,4-3-3,Kevin Friend,liverpool,1.8,0.3
+25,2018-02-04,16,Matchweek 26,Sun,Home,D,2,2,Tottenham,34,53213,Jordan Henderson,4-3-3,Jonathan Moss,liverpool,1.2,2.6
+26,2018-02-11,16,Matchweek 27,Sun,Away,W,2,0,Southampton,48,31915,Emre Can,4-3-3,Martin Atkinson,liverpool,1.9,0.9
+27,2018-02-24,15,Matchweek 28,Sat,Home,W,4,1,West Ham,67,53256,James Milner,4-3-3,Stuart Attwell,liverpool,4.0,0.4
+28,2018-03-03,17,Matchweek 29,Sat,Home,W,2,0,Newcastle Utd,70,53287,Jordan Henderson,4-3-3,Graham Scott,liverpool,1.5,0.3
+29,2018-03-10,12,Matchweek 30,Sat,Away,L,1,2,Manchester Utd,67,74855,James Milner,4-3-3,Craig Pawson,liverpool,0.7,0.7
+30,2018-03-17,17,Matchweek 31,Sat,Home,W,5,0,Watford,58,53287,Jordan Henderson,4-3-3,Anthony Taylor,liverpool,2.3,0.4
+31,2018-03-31,12,Matchweek 32,Sat,Away,W,2,1,Crystal Palace,67,25807,Jordan Henderson,4-3-3,Niel Swarbrick,liverpool,1.8,1.9
+32,2018-04-07,12,Matchweek 33,Sat,Away,D,0,0,Everton,61,39220,Jordan Henderson,4-3-3,Michael Oliver,liverpool,0.9,0.6
+33,2018-04-14,17,Matchweek 34,Sat,Home,W,3,0,Bournemouth,61,52959,Jordan Henderson,4-3-3,Chris Kavanagh,liverpool,2.0,0.3
+34,2018-04-21,12,Matchweek 35,Sat,Away,D,2,2,West Brom,61,24520,Jordan Henderson,4-3-3,Stuart Attwell,liverpool,1.3,1.3
+35,2018-04-28,12,Matchweek 36,Sat,Home,D,0,0,Stoke City,71,53255,Jordan Henderson,4-3-3,Andre Marriner,liverpool,1.9,0.6
+36,2018-05-06,16,Matchweek 37,Sun,Away,L,0,1,Chelsea,68,41314,James Milner,4-3-3,Anthony Taylor,liverpool,0.5,0.6
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,4,0,Brighton,72,50752,Jordan Henderson,4-2-3-1,Kevin Friend,liverpool,2.8,0.1
+0,2017-08-12,15,Matchweek 1,Sat,Home,L,2,3,Burnley,62,41616,Gary Cahill,3-4-3,Craig Pawson,chelsea,1.5,0.6
+1,2017-08-20,16,Matchweek 2,Sun,Away,W,2,1,Tottenham,32,73587,César Azpilicueta,3-5-1-1,Anthony Taylor,chelsea,0.7,0.7
+2,2017-08-27,13,Matchweek 3,Sun,Home,W,2,0,Everton,57,41382,César Azpilicueta,3-4-3,Jonathan Moss,chelsea,1.0,0.4
+3,2017-09-09,15,Matchweek 4,Sat,Away,W,2,1,Leicester City,59,30923,César Azpilicueta,3-4-3,Lee Mason,chelsea,0.8,1.4
+4,2017-09-17,13,Matchweek 5,Sun,Home,D,0,0,Arsenal,51,41478,Gary Cahill,3-4-3,Michael Oliver,chelsea,0.8,1.4
+5,2017-09-23,15,Matchweek 6,Sat,Away,W,4,0,Stoke City,55,29661,César Azpilicueta,3-4-3,Mike Dean,chelsea,1.4,0.8
+6,2017-09-30,17,Matchweek 7,Sat,Home,L,0,1,Manchester City,39,41530,Gary Cahill,3-5-1-1,Martin Atkinson,chelsea,0.5,0.9
+7,2017-10-14,15,Matchweek 8,Sat,Away,L,1,2,Crystal Palace,57,25480,Gary Cahill,3-4-3,Andre Marriner,chelsea,0.8,1.7
+8,2017-10-21,12,Matchweek 9,Sat,Home,W,4,2,Watford,52,41467,Gary Cahill,3-4-3,Jonathan Moss,chelsea,1.9,1.9
+9,2017-10-28,17,Matchweek 10,Sat,Away,W,1,0,Bournemouth,58,10998,César Azpilicueta,3-4-3,Craig Pawson,chelsea,1.6,0.5
+10,2017-11-05,16,Matchweek 11,Sun,Home,W,1,0,Manchester Utd,54,41615,Gary Cahill,3-1-4-2,Anthony Taylor,chelsea,1.6,0.7
+11,2017-11-18,15,Matchweek 12,Sat,Away,W,4,0,West Brom,61,23592,Gary Cahill,3-5-1-1,Jonathan Moss,chelsea,1.6,0.8
+12,2017-11-25,17,Matchweek 13,Sat,Away,D,1,1,Liverpool,47,53225,Gary Cahill,3-5-1-1,Michael Oliver,chelsea,0.8,1.2
+13,2017-11-29,19,Matchweek 14,Wed,Home,W,1,0,Swansea City,61,41365,Gary Cahill,3-4-3,Niel Swarbrick,chelsea,1.5,0.1
+14,2017-12-02,12,Matchweek 15,Sat,Home,W,3,1,Newcastle Utd,65,41538,César Azpilicueta,3-5-1-1,Kevin Friend,chelsea,3.2,0.6
+15,2017-12-09,12,Matchweek 16,Sat,Away,L,0,1,West Ham,69,56953,Gary Cahill,3-5-1-1,Anthony Taylor,chelsea,1.2,0.3
+16,2017-12-12,20,Matchweek 17,Tue,Away,W,3,1,Huddersfield,64,24169,César Azpilicueta,3-4-3,Andre Marriner,chelsea,1.5,0.7
+17,2017-12-16,15,Matchweek 18,Sat,Home,W,1,0,Southampton,54,41562,Gary Cahill,3-4-3,Roger East,chelsea,1.4,0.5
+18,2017-12-23,12,Matchweek 19,Sat,Away,D,0,0,Everton,68,39191,César Azpilicueta,3-4-3,Robert Madley,chelsea,1.8,0.3
+19,2017-12-26,15,Matchweek 20,Tue,Home,W,2,0,Brighton,67,41568,Gary Cahill,3-5-1-1,Mike Dean,chelsea,2.1,0.5
+20,2017-12-30,15,Matchweek 21,Sat,Home,W,5,0,Stoke City,59,41433,Gary Cahill,3-4-3,Kevin Friend,chelsea,2.6,0.2
+21,2018-01-03,19,Matchweek 22,Wed,Away,D,2,2,Arsenal,42,59379,Gary Cahill,3-5-1-1,Anthony Taylor,chelsea,3.0,1.2
+22,2018-01-13,15,Matchweek 23,Sat,Home,D,0,0,Leicester City,56,41552,Gary Cahill,3-5-1-1,Mike Jones,chelsea,0.6,1.2
+23,2018-01-20,12,Matchweek 24,Sat,Away,W,4,0,Brighton,58,30600,César Azpilicueta,3-4-3,Jonathan Moss,chelsea,1.3,0.8
+24,2018-01-31,19,Matchweek 25,Wed,Home,L,0,3,Bournemouth,65,41464,Gary Cahill,3-4-3,Lee Probert,chelsea,1.2,1.1
+25,2018-02-05,20,Matchweek 26,Mon,Away,L,1,4,Watford,55,20157,Gary Cahill,3-4-3,Mike Dean,chelsea,0.7,2.3
+26,2018-02-12,20,Matchweek 27,Mon,Home,W,3,0,West Brom,57,41071,César Azpilicueta,3-4-3,Lee Mason,chelsea,1.9,0.7
+27,2018-02-25,14,Matchweek 28,Sun,Away,L,1,2,Manchester Utd,56,75060,César Azpilicueta,3-4-3,Martin Atkinson,chelsea,1.7,1.2
+28,2018-03-04,16,Matchweek 29,Sun,Away,L,0,1,Manchester City,29,54328,César Azpilicueta,3-4-3,Michael Oliver,chelsea,0.1,0.9
+29,2018-03-10,17,Matchweek 30,Sat,Home,W,2,1,Crystal Palace,62,40800,Gary Cahill,3-4-3,Anthony Taylor,chelsea,3.1,1.1
+30,2018-04-01,16,Matchweek 32,Sun,Home,L,1,3,Tottenham,49,41364,César Azpilicueta,3-4-3,Andre Marriner,chelsea,1.0,1.4
+31,2018-04-08,16,Matchweek 33,Sun,Home,D,1,1,West Ham,59,41324,Gary Cahill,3-4-3,Kevin Friend,chelsea,1.7,0.3
+32,2018-04-14,12,Matchweek 34,Sat,Away,W,3,2,Southampton,58,31764,Gary Cahill,3-4-3,Mike Dean,chelsea,0.8,1.0
+33,2018-04-19,19,Matchweek 31,Thu,Away,W,2,1,Burnley,60,21264,Gary Cahill,3-5-2,Robert Madley,chelsea,1.7,0.2
+34,2018-04-28,17,Matchweek 36,Sat,Away,W,1,0,Swansea City,49,20900,Gary Cahill,3-5-1-1,Jonathan Moss,chelsea,1.5,0.7
+35,2018-05-06,16,Matchweek 37,Sun,Home,W,1,0,Liverpool,32,41314,Gary Cahill,3-5-1-1,Anthony Taylor,chelsea,0.6,0.5
+36,2018-05-09,19,Matchweek 35,Wed,Home,D,1,1,Huddersfield,78,38910,César Azpilicueta,3-4-3,Lee Mason,chelsea,1.9,0.7
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,0,3,Newcastle Utd,58,52294,Gary Cahill,3-5-1-1,Martin Atkinson,chelsea,1.0,2.2
+0,2017-08-11,19,Matchweek 1,Fri,Home,W,4,3,Leicester City,68,59387,Petr Čech,3-4-3,Mike Dean,arsenal,2.5,1.5
+1,2017-08-19,17,Matchweek 2,Sat,Away,L,0,1,Stoke City,76,29459,Petr Čech,3-4-3,Andre Marriner,arsenal,1.5,0.7
+2,2017-08-27,16,Matchweek 3,Sun,Away,L,0,4,Liverpool,52,53206,Laurent Koscielny,3-4-3,Craig Pawson,arsenal,0.6,3.1
+3,2017-09-09,15,Matchweek 4,Sat,Home,W,3,0,Bournemouth,58,59262,Laurent Koscielny,3-4-3,Anthony Taylor,arsenal,2.2,0.6
+4,2017-09-17,13,Matchweek 5,Sun,Away,D,0,0,Chelsea,49,41478,Laurent Koscielny,3-4-3,Michael Oliver,arsenal,1.4,0.8
+5,2017-09-25,20,Matchweek 6,Mon,Home,W,2,0,West Brom,69,59134,Laurent Koscielny,3-4-3,Robert Madley,arsenal,2.2,0.9
+6,2017-10-01,12,Matchweek 7,Sun,Home,W,2,0,Brighton,64,59378,Petr Čech,3-4-3,Kevin Friend,arsenal,2.4,0.4
+7,2017-10-14,17,Matchweek 8,Sat,Away,L,1,2,Watford,54,20384,Per Mertesacker,3-4-3,Niel Swarbrick,arsenal,1.0,1.6
+8,2017-10-22,13,Matchweek 9,Sun,Away,W,5,2,Everton,67,39189,Per Mertesacker,3-4-3,Craig Pawson,arsenal,3.5,1.0
+9,2017-10-28,15,Matchweek 10,Sat,Home,W,2,1,Swansea City,72,59493,Per Mertesacker,3-4-3,Lee Mason,arsenal,2.0,0.9
+10,2017-11-05,14,Matchweek 11,Sun,Away,L,1,3,Manchester City,43,54286,Laurent Koscielny,3-4-3,Michael Oliver,arsenal,0.3,1.8
+11,2017-11-18,12,Matchweek 12,Sat,Home,W,2,0,Tottenham,43,59530,Laurent Koscielny,3-4-3,Mike Dean,arsenal,2.1,0.7
+12,2017-11-26,14,Matchweek 13,Sun,Away,W,1,0,Burnley,64,21722,Laurent Koscielny,3-4-3,Lee Mason,arsenal,1.8,0.4
+13,2017-11-29,19,Matchweek 14,Wed,Home,W,5,0,Huddersfield,69,59285,Laurent Koscielny,3-4-3,Graham Scott,arsenal,4.0,0.5
+14,2017-12-02,17,Matchweek 15,Sat,Home,L,1,3,Manchester Utd,75,59547,Laurent Koscielny,3-4-3,Andre Marriner,arsenal,4.7,1.8
+15,2017-12-10,12,Matchweek 16,Sun,Away,D,1,1,Southampton,67,31643,Per Mertesacker,3-4-3,Robert Madley,arsenal,0.7,1.3
+16,2017-12-13,20,Matchweek 17,Wed,Away,D,0,0,West Ham,69,56921,Laurent Koscielny,4-3-3,Jonathan Moss,arsenal,1.0,0.4
+17,2017-12-16,15,Matchweek 18,Sat,Home,W,1,0,Newcastle Utd,71,59379,Laurent Koscielny,4-3-3,Stuart Attwell,arsenal,1.8,0.3
+18,2017-12-22,19,Matchweek 19,Fri,Home,D,3,3,Liverpool,54,59409,Laurent Koscielny,4-2-3-1,Martin Atkinson,arsenal,1.2,2.0
+19,2017-12-28,20,Matchweek 20,Thu,Away,W,3,2,Crystal Palace,64,25762,Laurent Koscielny,3-4-3,Michael Oliver,arsenal,1.8,1.3
+20,2017-12-31,16,Matchweek 21,Sun,Away,D,1,1,West Brom,65,26223,Laurent Koscielny,3-4-3,Mike Dean,arsenal,0.9,1.5
+21,2018-01-03,19,Matchweek 22,Wed,Home,D,2,2,Chelsea,58,59379,Petr Čech,3-4-3,Anthony Taylor,arsenal,1.2,3.0
+22,2018-01-14,13,Matchweek 23,Sun,Away,L,1,2,Bournemouth,59,10836,Petr Čech,3-4-3,Kevin Friend,arsenal,1.1,0.8
+23,2018-01-20,15,Matchweek 24,Sat,Home,W,4,1,Crystal Palace,63,59386,Laurent Koscielny,4-1-4-1,Chris Kavanagh,arsenal,2.9,0.6
+24,2018-01-30,19,Matchweek 25,Tue,Away,L,1,3,Swansea City,74,20819,Laurent Koscielny,4-3-3,Lee Mason,arsenal,1.3,2.1
+25,2018-02-03,17,Matchweek 26,Sat,Home,W,5,1,Everton,57,59306,Laurent Koscielny,4-2-3-1,Niel Swarbrick,arsenal,2.6,1.2
+26,2018-02-10,12,Matchweek 27,Sat,Away,L,0,1,Tottenham,50,83222,Laurent Koscielny,4-3-3,Anthony Taylor,arsenal,0.6,2.6
+27,2018-03-01,19,Matchweek 28,Thu,Home,L,0,3,Manchester City,46,58420,Laurent Koscielny,4-2-3-1,Andre Marriner,arsenal,1.3,1.5
+28,2018-03-04,13,Matchweek 29,Sun,Away,L,1,2,Brighton,67,30620,Laurent Koscielny,4-2-3-1,Stuart Attwell,arsenal,1.2,1.2
+29,2018-03-11,13,Matchweek 30,Sun,Home,W,3,0,Watford,59,59131,Petr Čech,4-2-3-1,Martin Atkinson,arsenal,2.2,1.4
+30,2018-04-01,13,Matchweek 32,Sun,Home,W,3,0,Stoke City,69,59371,Jack Wilshere,4-2-3-1,Craig Pawson,arsenal,3.3,0.4
+31,2018-04-08,14,Matchweek 33,Sun,Home,W,3,2,Southampton,64,59374,Petr Čech,4-2-3-1,Andre Marriner,arsenal,1.6,2.0
+32,2018-04-15,13,Matchweek 34,Sun,Away,L,1,2,Newcastle Utd,71,52210,Petr Čech,4-3-3,Anthony Taylor,arsenal,1.2,0.8
+33,2018-04-22,13,Matchweek 35,Sun,Home,W,4,1,West Ham,67,59422,Laurent Koscielny,4-3-3,Lee Mason,arsenal,1.8,0.8
+34,2018-04-29,16,Matchweek 36,Sun,Away,L,1,2,Manchester Utd,41,75035,Granit Xhaka,4-2-3-1,Kevin Friend,arsenal,0.5,1.7
+35,2018-05-06,16,Matchweek 37,Sun,Home,W,5,0,Burnley,63,59540,Petr Čech,4-3-3,Andre Marriner,arsenal,2.6,0.3
+36,2018-05-09,19,Matchweek 31,Wed,Away,L,1,3,Leicester City,59,32095,Petr Čech,4-3-3,Graham Scott,arsenal,1.4,2.2
+37,2018-05-13,15,Matchweek 38,Sun,Away,W,1,0,Huddersfield,55,24122,Aaron Ramsey,4-3-3,Michael Oliver,arsenal,2.0,1.7
+0,2017-08-12,15,Matchweek 1,Sat,Away,W,3,2,Chelsea,38,41616,Tom Heaton,4-4-1-1,Craig Pawson,burnley,0.6,1.5
+1,2017-08-19,15,Matchweek 2,Sat,Home,L,0,1,West Brom,66,19619,Tom Heaton,4-4-1-1,Martin Atkinson,burnley,1.3,0.9
+2,2017-08-27,16,Matchweek 3,Sun,Away,D,1,1,Tottenham,34,67862,Tom Heaton,4-4-1-1,Lee Mason,burnley,0.9,2.3
+3,2017-09-10,13,Matchweek 4,Sun,Home,W,1,0,Crystal Palace,36,18862,Tom Heaton,4-4-2,Michael Oliver,burnley,0.3,2.0
+4,2017-09-16,15,Matchweek 5,Sat,Away,D,1,1,Liverpool,29,53231,Ben Mee,4-4-1-1,Roger East,burnley,0.2,2.2
+5,2017-09-23,15,Matchweek 6,Sat,Home,D,0,0,Huddersfield,52,20759,Ben Mee,4-5-1,Chris Kavanagh,burnley,0.3,0.3
+6,2017-10-01,14,Matchweek 7,Sun,Away,W,1,0,Everton,37,38448,Ben Mee,4-4-1-1,Jonathan Moss,burnley,0.4,1.1
+7,2017-10-14,15,Matchweek 8,Sat,Home,D,1,1,West Ham,62,20945,Ben Mee,4-4-1-1,Stuart Attwell,burnley,1.2,0.9
+8,2017-10-21,15,Matchweek 9,Sat,Away,L,0,3,Manchester City,23,54118,Ben Mee,4-4-1-1,Roger East,burnley,0.2,3.1
+9,2017-10-30,20,Matchweek 10,Mon,Home,W,1,0,Newcastle Utd,47,21031,Ben Mee,4-4-1-1,Mike Dean,burnley,0.9,0.5
+10,2017-11-04,15,Matchweek 11,Sat,Away,W,1,0,Southampton,38,30491,Ben Mee,4-4-1-1,Lee Probert,burnley,0.2,0.7
+11,2017-11-18,15,Matchweek 12,Sat,Home,W,2,0,Swansea City,39,18895,Ben Mee,4-4-1-1,Martin Atkinson,burnley,1.6,0.6
+12,2017-11-26,14,Matchweek 13,Sun,Home,L,0,1,Arsenal,36,21722,Ben Mee,4-4-1-1,Lee Mason,burnley,0.4,1.8
+13,2017-11-29,19,Matchweek 14,Wed,Away,W,2,1,Bournemouth,38,10302,Ben Mee,4-4-1-1,Roger East,burnley,1.1,1.2
+14,2017-12-02,15,Matchweek 15,Sat,Away,L,0,1,Leicester City,48,30714,Ben Mee,4-4-1-1,Paul Tierney,burnley,1.0,1.4
+15,2017-12-09,15,Matchweek 16,Sat,Home,W,1,0,Watford,49,19479,Jack Cork,4-2-3-1,Lee Probert,burnley,0.5,1.1
+16,2017-12-12,19,Matchweek 17,Tue,Home,W,1,0,Stoke City,51,19909,Jack Cork,4-4-1-1,Mike Jones,burnley,0.4,1.1
+17,2017-12-16,15,Matchweek 18,Sat,Away,D,0,0,Brighton,42,29921,Ben Mee,4-4-1-1,Chris Kavanagh,burnley,1.2,1.5
+18,2017-12-23,17,Matchweek 19,Sat,Home,L,0,3,Tottenham,41,21650,Ben Mee,4-4-1-1,Michael Oliver,burnley,0.2,3.1
+19,2017-12-26,15,Matchweek 20,Tue,Away,D,2,2,Manchester Utd,29,75046,Ben Mee,4-1-4-1,Martin Atkinson,burnley,0.5,2.0
+20,2017-12-30,15,Matchweek 21,Sat,Away,D,0,0,Huddersfield,44,24095,Ben Mee,4-4-1-1,Paul Tierney,burnley,1.2,0.1
+21,2018-01-01,15,Matchweek 22,Mon,Home,L,1,2,Liverpool,42,21756,Ben Mee,4-4-1-1,Roger East,burnley,1.3,1.7
+22,2018-01-13,15,Matchweek 23,Sat,Away,L,0,1,Crystal Palace,56,24696,Ben Mee,4-2-3-1,Michael Oliver,burnley,0.7,1.4
+23,2018-01-20,15,Matchweek 24,Sat,Home,L,0,1,Manchester Utd,48,21841,Ben Mee,4-4-1-1,Mike Dean,burnley,1.0,0.8
+24,2018-01-31,19,Matchweek 25,Wed,Away,D,1,1,Newcastle Utd,48,50174,Ben Mee,4-4-1-1,Simon Hooper,burnley,1.0,2.2
+25,2018-02-03,12,Matchweek 26,Sat,Home,D,1,1,Manchester City,30,21658,Ben Mee,4-4-2,Martin Atkinson,burnley,0.9,1.8
+26,2018-02-10,15,Matchweek 27,Sat,Away,L,0,1,Swansea City,43,20179,Ben Mee,4-4-2,Andre Marriner,burnley,0.5,0.7
+27,2018-02-24,15,Matchweek 28,Sat,Home,D,1,1,Southampton,51,20982,Ben Mee,4-4-1-1,Robert Madley,burnley,1.3,0.8
+28,2018-03-03,12,Matchweek 29,Sat,Home,W,2,1,Everton,55,20802,Ben Mee,4-4-1-1,Chris Kavanagh,burnley,2.1,1.5
+29,2018-03-10,15,Matchweek 30,Sat,Away,W,3,0,West Ham,48,56904,Ben Mee,4-4-1-1,Lee Mason,burnley,1.4,0.8
+30,2018-03-31,15,Matchweek 32,Sat,Away,W,2,1,West Brom,53,23455,Ben Mee,4-4-2,Lee Probert,burnley,1.3,0.5
+31,2018-04-07,15,Matchweek 33,Sat,Away,W,2,1,Watford,40,20044,Jack Cork,4-4-2,Paul Tierney,burnley,1.0,1.2
+32,2018-04-14,15,Matchweek 34,Sat,Home,W,2,1,Leicester City,40,21727,Jack Cork,4-4-2,Martin Atkinson,burnley,0.9,1.9
+33,2018-04-19,19,Matchweek 31,Thu,Home,L,1,2,Chelsea,40,21264,Jack Cork,4-4-2,Robert Madley,burnley,0.2,1.7
+34,2018-04-22,13,Matchweek 35,Sun,Away,D,1,1,Stoke City,56,29532,Jack Cork,4-4-2,Mike Dean,burnley,1.6,0.4
+35,2018-04-28,15,Matchweek 36,Sat,Home,D,0,0,Brighton,45,19459,Jack Cork,4-4-2,Roger East,burnley,1.5,0.4
+36,2018-05-06,16,Matchweek 37,Sun,Away,L,0,5,Arsenal,37,59540,Jack Cork,4-4-1-1,Andre Marriner,burnley,0.3,2.6
+37,2018-05-13,15,Matchweek 38,Sun,Home,L,1,2,Bournemouth,51,20720,Jack Cork,4-4-1-1,Paul Tierney,burnley,1.1,1.3
+0,2017-08-12,15,Matchweek 1,Sat,Home,W,1,0,Stoke City,60,39045,Phil Jagielka,3-4-3,Niel Swarbrick,everton,0.6,0.4
+1,2017-08-21,20,Matchweek 2,Mon,Away,D,1,1,Manchester City,36,49108,Phil Jagielka,3-5-2,Robert Madley,everton,0.6,1.1
+2,2017-08-27,13,Matchweek 3,Sun,Away,L,0,2,Chelsea,43,41382,Phil Jagielka,3-4-3,Jonathan Moss,everton,0.4,1.0
+3,2017-09-09,15,Matchweek 4,Sat,Home,L,0,3,Tottenham,51,38835,Leighton Baines,4-2-3-1,Graham Scott,everton,0.9,1.8
+4,2017-09-17,16,Matchweek 5,Sun,Away,L,0,4,Manchester Utd,51,75042,Phil Jagielka,3-4-3,Andre Marriner,everton,1.1,2.9
+5,2017-09-23,15,Matchweek 6,Sat,Home,W,2,1,Bournemouth,51,38133,Leighton Baines,4-3-3,Martin Atkinson,everton,2.0,0.3
+6,2017-10-01,14,Matchweek 7,Sun,Home,L,0,1,Burnley,63,38448,Leighton Baines,4-2-2-2,Jonathan Moss,everton,1.1,0.4
+7,2017-10-15,13,Matchweek 8,Sun,Away,D,1,1,Brighton,53,30565,Phil Jagielka,4-2-3-1,Michael Oliver,everton,1.5,1.0
+8,2017-10-22,13,Matchweek 9,Sun,Home,L,2,5,Arsenal,33,39189,Phil Jagielka,3-4-3,Craig Pawson,everton,1.0,3.5
+9,2017-10-29,16,Matchweek 10,Sun,Away,L,0,2,Leicester City,59,31891,Phil Jagielka,4-4-1-1,Andre Marriner,everton,0.6,1.3
+10,2017-11-05,16,Matchweek 11,Sun,Home,W,3,2,Watford,38,38609,Phil Jagielka,4-3-3,Graham Scott,everton,2.1,2.0
+11,2017-11-18,15,Matchweek 12,Sat,Away,D,2,2,Crystal Palace,31,25526,Phil Jagielka,4-3-3,Anthony Taylor,everton,1.8,2.0
+12,2017-11-26,13,Matchweek 13,Sun,Away,L,1,4,Southampton,33,30461,Phil Jagielka,4-4-2,Kevin Friend,everton,0.2,2.0
+13,2017-11-29,20,Matchweek 14,Wed,Home,W,4,0,West Ham,44,38242,Wayne Rooney,4-1-4-1,Michael Oliver,everton,1.5,1.1
+14,2017-12-02,15,Matchweek 15,Sat,Home,W,2,0,Huddersfield,47,39167,Wayne Rooney,4-1-4-1,Chris Kavanagh,everton,0.7,0.3
+15,2017-12-10,14,Matchweek 16,Sun,Away,D,1,1,Liverpool,21,53082,Wayne Rooney,4-4-2,Craig Pawson,everton,0.9,1.6
+16,2017-12-13,19,Matchweek 17,Wed,Away,W,1,0,Newcastle Utd,45,51042,Wayne Rooney,4-2-3-1,Martin Atkinson,everton,1.2,0.8
+17,2017-12-18,20,Matchweek 18,Mon,Home,W,3,1,Swansea City,51,37580,Wayne Rooney,4-2-3-1,Jonathan Moss,everton,2.0,0.8
+18,2017-12-23,12,Matchweek 19,Sat,Home,D,0,0,Chelsea,32,39191,Phil Jagielka,4-1-4-1,Robert Madley,everton,0.3,1.8
+19,2017-12-26,15,Matchweek 20,Tue,Away,D,0,0,West Brom,48,25364,Ashley Williams,3-1-4-2,Roger East,everton,0.4,1.5
+20,2017-12-30,15,Matchweek 21,Sat,Away,L,1,2,Bournemouth,53,10497,Phil Jagielka,4-3-3,Lee Probert,everton,0.5,1.5
+21,2018-01-01,17,Matchweek 22,Mon,Home,L,0,2,Manchester Utd,40,39188,Wayne Rooney,4-2-3-1,Andre Marriner,everton,1.2,1.4
+22,2018-01-13,17,Matchweek 23,Sat,Away,L,0,4,Tottenham,39,76251,Phil Jagielka,4-2-3-1,Craig Pawson,everton,0.3,3.8
+23,2018-01-20,15,Matchweek 24,Sat,Home,D,1,1,West Brom,56,39061,Ashley Williams,4-2-3-1,Stuart Attwell,everton,1.1,1.1
+24,2018-01-31,19,Matchweek 25,Wed,Home,W,2,1,Leicester City,44,38390,Phil Jagielka,4-2-3-1,Chris Kavanagh,everton,1.2,2.2
+25,2018-02-03,17,Matchweek 26,Sat,Away,L,1,5,Arsenal,43,59306,Ashley Williams,3-4-3,Niel Swarbrick,everton,1.2,2.6
+26,2018-02-10,15,Matchweek 27,Sat,Home,W,3,1,Crystal Palace,52,39139,Wayne Rooney,4-3-3,Jonathan Moss,everton,1.5,1.5
+27,2018-02-24,17,Matchweek 28,Sat,Away,L,0,1,Watford,46,20430,Wayne Rooney,4-3-3,Anthony Taylor,everton,0.8,0.6
+28,2018-03-03,12,Matchweek 29,Sat,Away,L,1,2,Burnley,45,20802,Ashley Williams,4-3-3,Chris Kavanagh,everton,1.5,2.1
+29,2018-03-10,15,Matchweek 30,Sat,Home,W,2,0,Brighton,59,39199,Phil Jagielka,4-2-3-1,Roger East,everton,1.5,0.3
+30,2018-03-17,15,Matchweek 31,Sat,Away,W,2,1,Stoke City,57,30022,Phil Jagielka,4-2-3-1,Martin Atkinson,everton,2.3,0.8
+31,2018-03-31,17,Matchweek 32,Sat,Home,L,1,3,Manchester City,19,39221,Phil Jagielka,4-2-3-1,Paul Tierney,everton,0.9,1.5
+32,2018-04-07,12,Matchweek 33,Sat,Home,D,0,0,Liverpool,39,39220,Phil Jagielka,4-3-3,Michael Oliver,everton,0.6,0.9
+33,2018-04-14,15,Matchweek 34,Sat,Away,D,1,1,Swansea City,49,20933,Phil Jagielka,4-2-3-1,Lee Mason,everton,1.6,1.3
+34,2018-04-23,20,Matchweek 35,Mon,Home,W,1,0,Newcastle Utd,56,39061,Phil Jagielka,4-3-3,Robert Madley,everton,0.7,0.8
+35,2018-04-28,15,Matchweek 36,Sat,Away,W,2,0,Huddersfield,46,24121,Phil Jagielka,4-2-3-1,Lee Probert,everton,0.6,0.6
+36,2018-05-05,17,Matchweek 37,Sat,Home,D,1,1,Southampton,54,38225,Phil Jagielka,4-2-3-1,Jonathan Moss,everton,0.5,0.7
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,1,3,West Ham,43,56926,Phil Jagielka,3-1-4-2,Graham Scott,everton,1.6,1.1
+0,2017-08-11,19,Matchweek 1,Fri,Away,L,3,4,Arsenal,32,59387,Wes Morgan,4-4-1-1,Mike Dean,leicester city,1.5,2.5
+1,2017-08-19,15,Matchweek 2,Sat,Home,W,2,0,Brighton,45,31902,Wes Morgan,4-4-1-1,Lee Probert,leicester city,2.0,0.2
+2,2017-08-26,17,Matchweek 3,Sat,Away,L,0,2,Manchester Utd,31,75021,Wes Morgan,4-4-1-1,Michael Oliver,leicester city,0.9,2.8
+3,2017-09-09,15,Matchweek 4,Sat,Home,L,1,2,Chelsea,41,30923,Wes Morgan,4-4-2,Lee Mason,leicester city,1.4,0.8
+4,2017-09-16,15,Matchweek 5,Sat,Away,D,1,1,Huddersfield,41,24129,Wes Morgan,4-4-1-1,Jonathan Moss,leicester city,1.3,0.7
+5,2017-09-23,17,Matchweek 6,Sat,Home,L,2,3,Liverpool,45,32004,Wes Morgan,4-4-1-1,Anthony Taylor,leicester city,2.8,1.7
+6,2017-09-30,15,Matchweek 7,Sat,Away,D,0,0,Bournemouth,39,10444,Wes Morgan,4-4-1-1,Graham Scott,leicester city,0.6,1.4
+7,2017-10-16,20,Matchweek 8,Mon,Home,D,1,1,West Brom,57,30203,Wes Morgan,4-4-1-1,Mike Dean,leicester city,1.3,0.2
+8,2017-10-21,15,Matchweek 9,Sat,Away,W,2,1,Swansea City,44,20521,Wes Morgan,4-4-1-1,Michael Oliver,leicester city,1.9,0.8
+9,2017-10-29,16,Matchweek 10,Sun,Home,W,2,0,Everton,41,31891,Wes Morgan,4-4-1-1,Andre Marriner,leicester city,1.3,0.6
+10,2017-11-04,12,Matchweek 11,Sat,Away,D,2,2,Stoke City,53,29602,Wes Morgan,4-4-1-1,Robert Madley,leicester city,1.5,1.0
+11,2017-11-18,15,Matchweek 12,Sat,Home,L,0,2,Manchester City,27,31908,Wes Morgan,4-4-1-1,Graham Scott,leicester city,0.2,1.9
+12,2017-11-24,20,Matchweek 13,Fri,Away,D,1,1,West Ham,50,56897,Wes Morgan,4-4-1-1,Martin Atkinson,leicester city,0.4,0.9
+13,2017-11-28,19,Matchweek 14,Tue,Home,W,2,1,Tottenham,38,31950,Wes Morgan,4-4-1-1,Anthony Taylor,leicester city,0.6,2.4
+14,2017-12-02,15,Matchweek 15,Sat,Home,W,1,0,Burnley,52,30714,Wes Morgan,4-4-1-1,Paul Tierney,leicester city,1.4,1.0
+15,2017-12-09,17,Matchweek 16,Sat,Away,W,3,2,Newcastle Utd,62,52117,Wes Morgan,4-4-1-1,Niel Swarbrick,leicester city,0.5,0.9
+16,2017-12-13,19,Matchweek 17,Wed,Away,W,4,1,Southampton,47,27714,Wes Morgan,4-2-3-1,Chris Kavanagh,leicester city,1.8,1.5
+17,2017-12-16,12,Matchweek 18,Sat,Home,L,0,3,Crystal Palace,56,31081,Wes Morgan,4-2-3-1,Martin Atkinson,leicester city,0.9,1.7
+18,2017-12-23,19,Matchweek 19,Sat,Home,D,2,2,Manchester Utd,49,32202,Wes Morgan,4-2-3-1,Jonathan Moss,leicester city,1.4,1.9
+19,2017-12-26,15,Matchweek 20,Tue,Away,L,1,2,Watford,51,20308,Wes Morgan,4-2-3-1,Chris Kavanagh,leicester city,1.3,1.2
+20,2017-12-30,15,Matchweek 21,Sat,Away,L,1,2,Liverpool,39,53226,Wes Morgan,4-4-1-1,Niel Swarbrick,leicester city,0.7,2.9
+21,2018-01-01,15,Matchweek 22,Mon,Home,W,3,0,Huddersfield,52,31748,Wes Morgan,4-4-2,Graham Scott,leicester city,1.5,0.2
+22,2018-01-13,15,Matchweek 23,Sat,Away,D,0,0,Chelsea,44,41552,Kasper Schmeichel,4-4-1-1,Mike Jones,leicester city,1.2,0.6
+23,2018-01-20,15,Matchweek 24,Sat,Home,W,2,0,Watford,54,31891,Kasper Schmeichel,4-4-1-1,Lee Probert,leicester city,1.9,0.9
+24,2018-01-31,19,Matchweek 25,Wed,Away,L,1,2,Everton,56,38390,Kasper Schmeichel,4-2-3-1,Chris Kavanagh,leicester city,2.2,1.2
+25,2018-02-03,15,Matchweek 26,Sat,Home,D,1,1,Swansea City,60,31179,Kasper Schmeichel,4-4-2,Anthony Taylor,leicester city,1.7,0.3
+26,2018-02-10,17,Matchweek 27,Sat,Away,L,1,5,Manchester City,30,54416,Christian Fuchs,3-5-2,Mike Jones,leicester city,0.1,2.5
+27,2018-02-24,12,Matchweek 28,Sat,Home,D,1,1,Stoke City,65,31769,Wes Morgan,4-2-3-1,Michael Oliver,leicester city,1.2,0.2
+28,2018-03-03,15,Matchweek 29,Sat,Home,D,1,1,Bournemouth,55,31384,Wes Morgan,4-3-3,Lee Probert,leicester city,2.7,1.4
+29,2018-03-10,15,Matchweek 30,Sat,Away,W,4,1,West Brom,56,23558,Wes Morgan,4-2-3-1,Robert Madley,leicester city,2.1,0.3
+30,2018-03-31,15,Matchweek 32,Sat,Away,W,2,0,Brighton,52,30629,Wes Morgan,4-4-1-1,Chris Kavanagh,leicester city,1.2,1.8
+31,2018-04-07,15,Matchweek 33,Sat,Home,L,1,2,Newcastle Utd,65,32066,Wes Morgan,4-2-3-1,Stuart Attwell,leicester city,1.4,0.4
+32,2018-04-14,15,Matchweek 34,Sat,Away,L,1,2,Burnley,60,21727,Wes Morgan,4-4-1-1,Martin Atkinson,leicester city,1.9,0.9
+33,2018-04-19,19,Matchweek 35,Thu,Home,D,0,0,Southampton,54,31160,Jamie Vardy,4-4-1-1,Roger East,leicester city,0.6,0.8
+34,2018-04-28,15,Matchweek 36,Sat,Away,L,0,5,Crystal Palace,50,25750,Wes Morgan,4-4-1-1,Mike Dean,leicester city,0.6,3.0
+35,2018-05-05,15,Matchweek 37,Sat,Home,L,0,2,West Ham,53,32013,Wes Morgan,4-4-1-1,Chris Kavanagh,leicester city,0.5,1.6
+36,2018-05-09,19,Matchweek 31,Wed,Home,W,3,1,Arsenal,41,32095,Wes Morgan,4-4-2,Graham Scott,leicester city,2.2,1.4
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,4,5,Tottenham,36,77841,Wes Morgan,4-2-3-1,Craig Pawson,leicester city,1.4,1.8
+0,2017-08-13,13,Matchweek 1,Sun,Home,L,0,2,Tottenham,28,52077,Jonjo Shelvey,4-2-3-1,Andre Marriner,newcastle utd,0.8,2.5
+1,2017-08-20,13,Matchweek 2,Sun,Away,L,0,1,Huddersfield,48,24128,Jamaal Lascelles,4-2-3-1,Craig Pawson,newcastle utd,0.7,0.3
+2,2017-08-26,15,Matchweek 3,Sat,Home,W,3,0,West Ham,37,52093,Jamaal Lascelles,4-2-3-1,Niel Swarbrick,newcastle utd,2.3,0.6
+3,2017-09-10,16,Matchweek 4,Sun,Away,W,1,0,Swansea City,38,20872,Jamaal Lascelles,4-2-3-1,Mike Jones,newcastle utd,1.0,1.2
+4,2017-09-16,15,Matchweek 5,Sat,Home,W,2,1,Stoke City,42,51795,Jamaal Lascelles,4-2-3-1,Stuart Attwell,newcastle utd,2.0,0.7
+5,2017-09-24,16,Matchweek 6,Sun,Away,L,0,1,Brighton,51,30468,Jamaal Lascelles,4-2-3-1,Andre Marriner,newcastle utd,1.5,1.0
+6,2017-10-01,16,Matchweek 7,Sun,Home,D,1,1,Liverpool,33,52303,Jamaal Lascelles,4-2-3-1,Craig Pawson,newcastle utd,0.3,1.3
+7,2017-10-15,16,Matchweek 8,Sun,Away,D,2,2,Southampton,38,31437,Jamaal Lascelles,4-4-2,Kevin Friend,newcastle utd,1.2,1.5
+8,2017-10-21,15,Matchweek 9,Sat,Home,W,1,0,Crystal Palace,54,52251,Jamaal Lascelles,4-2-3-1,Stuart Attwell,newcastle utd,0.3,0.5
+9,2017-10-30,20,Matchweek 10,Mon,Away,L,0,1,Burnley,53,21031,Jamaal Lascelles,4-2-3-1,Mike Dean,newcastle utd,0.5,0.9
+10,2017-11-04,15,Matchweek 11,Sat,Home,L,0,1,Bournemouth,48,52237,Jamaal Lascelles,4-4-2,Paul Tierney,newcastle utd,0.7,1.5
+11,2017-11-18,17,Matchweek 12,Sat,Away,L,1,4,Manchester Utd,35,75035,Jonjo Shelvey,4-4-2,Craig Pawson,newcastle utd,1.1,3.1
+12,2017-11-25,15,Matchweek 13,Sat,Home,L,0,3,Watford,53,52188,Jonjo Shelvey,4-4-2,Chris Kavanagh,newcastle utd,0.9,2.0
+13,2017-11-28,20,Matchweek 14,Tue,Away,D,2,2,West Brom,52,25534,Ciaran Clark,4-2-3-1,Lee Probert,newcastle utd,0.9,1.5
+14,2017-12-02,12,Matchweek 15,Sat,Away,L,1,3,Chelsea,35,41538,Ciaran Clark,3-4-3,Kevin Friend,newcastle utd,0.6,3.2
+15,2017-12-09,17,Matchweek 16,Sat,Home,L,2,3,Leicester City,38,52117,Ciaran Clark,4-4-1-1,Niel Swarbrick,newcastle utd,0.9,0.5
+16,2017-12-13,19,Matchweek 17,Wed,Home,L,0,1,Everton,55,51042,Jamaal Lascelles,4-2-3-1,Martin Atkinson,newcastle utd,0.8,1.2
+17,2017-12-16,15,Matchweek 18,Sat,Away,L,0,1,Arsenal,29,59379,Jamaal Lascelles,4-4-2,Stuart Attwell,newcastle utd,0.3,1.8
+18,2017-12-23,15,Matchweek 19,Sat,Away,W,3,2,West Ham,36,56955,Jamaal Lascelles,4-4-2,Lee Mason,newcastle utd,1.7,2.1
+19,2017-12-27,19,Matchweek 20,Wed,Home,L,0,1,Manchester City,23,52311,Jamaal Lascelles,5-4-1,Andre Marriner,newcastle utd,0.2,1.8
+20,2017-12-30,15,Matchweek 21,Sat,Home,D,0,0,Brighton,46,52209,Jamaal Lascelles,4-4-2,Anthony Taylor,newcastle utd,0.5,0.5
+21,2018-01-01,15,Matchweek 22,Mon,Away,W,1,0,Stoke City,41,28471,Jamaal Lascelles,4-2-3-1,Chris Kavanagh,newcastle utd,1.7,1.5
+22,2018-01-13,15,Matchweek 23,Sat,Home,D,1,1,Swansea City,42,51444,Jamaal Lascelles,4-2-3-1,Graham Scott,newcastle utd,1.4,1.3
+23,2018-01-20,17,Matchweek 24,Sat,Away,L,1,3,Manchester City,20,54452,Jamaal Lascelles,5-4-1,Paul Tierney,newcastle utd,1.0,2.1
+24,2018-01-31,19,Matchweek 25,Wed,Home,D,1,1,Burnley,52,50174,Jamaal Lascelles,4-4-1-1,Simon Hooper,newcastle utd,2.2,1.0
+25,2018-02-04,14,Matchweek 26,Sun,Away,D,1,1,Crystal Palace,45,25746,Jamaal Lascelles,4-4-1-1,Andre Marriner,newcastle utd,0.9,3.0
+26,2018-02-11,14,Matchweek 27,Sun,Home,W,1,0,Manchester Utd,36,52309,Jamaal Lascelles,4-4-1-1,Craig Pawson,newcastle utd,0.5,1.9
+27,2018-02-24,15,Matchweek 28,Sat,Away,D,2,2,Bournemouth,37,10808,Jamaal Lascelles,4-4-1-1,Roger East,newcastle utd,3.0,1.7
+28,2018-03-03,17,Matchweek 29,Sat,Away,L,0,2,Liverpool,30,53287,Jamaal Lascelles,3-4-3,Graham Scott,newcastle utd,0.3,1.5
+29,2018-03-10,15,Matchweek 30,Sat,Home,W,3,0,Southampton,37,52246,Jamaal Lascelles,4-4-1-1,Andre Marriner,newcastle utd,1.3,0.3
+30,2018-03-31,15,Matchweek 32,Sat,Home,W,1,0,Huddersfield,63,52261,Jamaal Lascelles,4-4-1-1,Martin Atkinson,newcastle utd,2.4,0.1
+31,2018-04-07,15,Matchweek 33,Sat,Away,W,2,1,Leicester City,35,32066,Jamaal Lascelles,4-4-1-1,Stuart Attwell,newcastle utd,0.4,1.4
+32,2018-04-15,13,Matchweek 34,Sun,Home,W,2,1,Arsenal,29,52210,Jamaal Lascelles,4-4-1-1,Anthony Taylor,newcastle utd,0.8,1.2
+33,2018-04-23,20,Matchweek 35,Mon,Away,L,0,1,Everton,44,39061,Jamaal Lascelles,4-4-1-1,Robert Madley,newcastle utd,0.8,0.7
+34,2018-04-28,15,Matchweek 36,Sat,Home,L,0,1,West Brom,62,52283,Jamaal Lascelles,4-4-1-1,David Coote,newcastle utd,1.8,0.7
+35,2018-05-05,15,Matchweek 37,Sat,Away,L,1,2,Watford,61,20375,Jamaal Lascelles,4-4-1-1,Roger East,newcastle utd,0.7,2.5
+36,2018-05-09,20,Matchweek 31,Wed,Away,L,0,1,Tottenham,37,54923,Jamaal Lascelles,4-2-3-1,Niel Swarbrick,newcastle utd,1.0,0.8
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,3,0,Chelsea,42,52294,Jamaal Lascelles,4-2-3-1,Martin Atkinson,newcastle utd,2.2,1.0
+0,2017-08-12,15,Matchweek 1,Sat,Home,L,0,3,Huddersfield,56,25448,Jason Puncheon,3-4-3,Jonathan Moss,crystal palace,1.1,1.5
+1,2017-08-19,15,Matchweek 2,Sat,Away,L,0,1,Liverpool,29,53138,Jason Puncheon,3-5-2,Kevin Friend,crystal palace,0.7,2.5
+2,2017-08-26,15,Matchweek 3,Sat,Home,L,0,2,Swansea City,53,23477,Jason Puncheon,3-5-2,Andre Marriner,crystal palace,0.9,0.7
+3,2017-09-10,13,Matchweek 4,Sun,Away,L,0,1,Burnley,64,18862,Jason Puncheon,4-3-3,Michael Oliver,crystal palace,2.0,0.3
+4,2017-09-16,12,Matchweek 5,Sat,Home,L,0,1,Southampton,46,24199,Jason Puncheon,4-4-1-1,Robert Madley,crystal palace,2.0,1.0
+5,2017-09-23,15,Matchweek 6,Sat,Away,L,0,5,Manchester City,29,53526,Scott Dann,4-2-3-1,Niel Swarbrick,crystal palace,0.6,4.5
+6,2017-09-30,15,Matchweek 7,Sat,Away,L,0,4,Manchester Utd,41,75118,Jason Puncheon,4-3-3,Mike Dean,crystal palace,0.4,2.8
+7,2017-10-14,15,Matchweek 8,Sat,Home,W,2,1,Chelsea,43,25480,Scott Dann,4-4-2,Andre Marriner,crystal palace,1.7,0.8
+8,2017-10-21,15,Matchweek 9,Sat,Away,L,0,1,Newcastle Utd,46,52251,Scott Dann,4-4-2,Stuart Attwell,crystal palace,0.5,0.3
+9,2017-10-28,15,Matchweek 10,Sat,Home,D,2,2,West Ham,55,25242,Scott Dann,4-4-2,Robert Madley,crystal palace,2.6,0.8
+10,2017-11-05,12,Matchweek 11,Sun,Away,L,0,1,Tottenham,32,65270,Scott Dann,4-4-2,Kevin Friend,crystal palace,0.8,0.9
+11,2017-11-18,15,Matchweek 12,Sat,Home,D,2,2,Everton,69,25526,Scott Dann,4-4-2,Anthony Taylor,crystal palace,2.0,1.8
+12,2017-11-25,15,Matchweek 13,Sat,Home,W,2,1,Stoke City,54,23723,Mamadou Sakho,4-4-2,Mike Dean,crystal palace,1.4,0.7
+13,2017-11-28,19,Matchweek 14,Tue,Away,D,0,0,Brighton,46,29889,Mamadou Sakho,4-4-2,Andre Marriner,crystal palace,0.5,0.6
+14,2017-12-02,15,Matchweek 15,Sat,Away,D,0,0,West Brom,49,23531,Mamadou Sakho,4-4-2,Michael Oliver,crystal palace,0.6,1.9
+15,2017-12-09,15,Matchweek 16,Sat,Home,D,2,2,Bournemouth,45,24823,Mamadou Sakho,4-4-2,Kevin Friend,crystal palace,3.9,0.7
+16,2017-12-12,20,Matchweek 17,Tue,Home,W,2,1,Watford,53,23566,Scott Dann,4-4-2,Lee Mason,crystal palace,1.2,1.2
+17,2017-12-16,12,Matchweek 18,Sat,Away,W,3,0,Leicester City,44,31081,Scott Dann,4-4-2,Martin Atkinson,crystal palace,1.7,0.9
+18,2017-12-23,15,Matchweek 19,Sat,Away,D,1,1,Swansea City,36,20354,Scott Dann,4-4-2,Craig Pawson,crystal palace,1.3,0.5
+19,2017-12-28,20,Matchweek 20,Thu,Home,L,2,3,Arsenal,36,25762,Scott Dann,4-4-2,Michael Oliver,crystal palace,1.3,1.8
+20,2017-12-31,12,Matchweek 21,Sun,Home,D,0,0,Manchester City,26,25804,Scott Dann,4-3-3,Jonathan Moss,crystal palace,1.3,1.3
+21,2018-01-02,19,Matchweek 22,Tue,Away,W,2,1,Southampton,40,28411,Yohan Cabaye,4-2-3-1,Stuart Attwell,crystal palace,1.3,0.4
+22,2018-01-13,15,Matchweek 23,Sat,Home,W,1,0,Burnley,44,24696,Luka Milivojević,4-4-2,Michael Oliver,crystal palace,1.4,0.7
+23,2018-01-20,15,Matchweek 24,Sat,Away,L,1,4,Arsenal,37,59386,Luka Milivojević,4-4-2,Chris Kavanagh,crystal palace,0.6,2.9
+24,2018-01-30,19,Matchweek 25,Tue,Away,D,1,1,West Ham,59,56911,Luka Milivojević,4-4-2,Niel Swarbrick,crystal palace,0.9,1.1
+25,2018-02-04,14,Matchweek 26,Sun,Home,D,1,1,Newcastle Utd,55,25746,Luka Milivojević,4-4-2,Andre Marriner,crystal palace,3.0,0.9
+26,2018-02-10,15,Matchweek 27,Sat,Away,L,1,3,Everton,48,39139,Luka Milivojević,4-3-3,Jonathan Moss,crystal palace,1.5,1.5
+27,2018-02-25,12,Matchweek 28,Sun,Home,L,0,1,Tottenham,25,25287,Luka Milivojević,4-3-3,Kevin Friend,crystal palace,0.2,1.7
+28,2018-03-05,20,Matchweek 29,Mon,Home,L,2,3,Manchester Utd,31,25840,Luka Milivojević,4-4-2,Niel Swarbrick,crystal palace,0.6,1.2
+29,2018-03-10,17,Matchweek 30,Sat,Away,L,1,2,Chelsea,38,40800,Luka Milivojević,4-4-2,Anthony Taylor,crystal palace,1.1,3.1
+30,2018-03-17,15,Matchweek 31,Sat,Away,W,2,0,Huddersfield,45,23918,Luka Milivojević,4-3-3,Mike Dean,crystal palace,2.7,0.3
+31,2018-03-31,12,Matchweek 32,Sat,Home,L,1,2,Liverpool,33,25807,Luka Milivojević,4-3-3,Niel Swarbrick,crystal palace,1.9,1.8
+32,2018-04-07,15,Matchweek 33,Sat,Away,D,2,2,Bournemouth,47,10730,Luka Milivojević,4-4-2,Jonathan Moss,crystal palace,1.1,1.9
+33,2018-04-14,15,Matchweek 34,Sat,Home,W,3,2,Brighton,49,24656,Luka Milivojević,4-4-2,Andre Marriner,crystal palace,2.1,1.5
+34,2018-04-21,15,Matchweek 35,Sat,Away,D,0,0,Watford,48,20401,Luka Milivojević,4-4-2,Chris Kavanagh,crystal palace,0.3,0.6
+35,2018-04-28,15,Matchweek 36,Sat,Home,W,5,0,Leicester City,50,25750,Luka Milivojević,4-4-2,Mike Dean,crystal palace,3.0,0.6
+36,2018-05-05,12,Matchweek 37,Sat,Away,W,2,1,Stoke City,59,29687,Luka Milivojević,4-4-2,Martin Atkinson,crystal palace,1.1,0.5
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,2,0,West Brom,59,25357,Luka Milivojević,4-4-2,Jonathan Moss,crystal palace,2.2,0.2
+0,2017-08-12,15,Matchweek 1,Sat,Away,L,0,1,West Brom,69,25011,Simon Francis,4-4-1-1,Robert Madley,bournemouth,0.5,1.3
+1,2017-08-19,15,Matchweek 2,Sat,Home,L,0,2,Watford,55,10501,Andrew Surman,4-4-1-1,Roger East,bournemouth,1.0,2.4
+2,2017-08-26,12,Matchweek 3,Sat,Home,L,1,2,Manchester City,30,10419,Andrew Surman,5-3-2,Mike Dean,bournemouth,0.5,1.4
+3,2017-09-09,15,Matchweek 4,Sat,Away,L,0,3,Arsenal,42,59262,Steve Cook,3-5-1-1,Anthony Taylor,bournemouth,0.6,2.2
+4,2017-09-15,20,Matchweek 5,Fri,Home,W,2,1,Brighton,62,10369,Simon Francis,4-4-1-1,Craig Pawson,bournemouth,1.2,0.9
+5,2017-09-23,15,Matchweek 6,Sat,Away,L,1,2,Everton,49,38133,Simon Francis,4-4-1-1,Martin Atkinson,bournemouth,0.3,2.0
+6,2017-09-30,15,Matchweek 7,Sat,Home,D,0,0,Leicester City,61,10444,Simon Francis,4-4-1-1,Graham Scott,bournemouth,1.4,0.6
+7,2017-10-14,15,Matchweek 8,Sat,Away,L,0,1,Tottenham,28,73502,Simon Francis,3-5-1-1,Robert Madley,bournemouth,0.2,1.8
+8,2017-10-21,15,Matchweek 9,Sat,Away,W,2,1,Stoke City,47,29500,Simon Francis,4-4-1-1,Lee Probert,bournemouth,1.1,1.2
+9,2017-10-28,17,Matchweek 10,Sat,Home,L,0,1,Chelsea,42,10998,Simon Francis,3-4-1-2,Craig Pawson,bournemouth,0.5,1.6
+10,2017-11-04,15,Matchweek 11,Sat,Away,W,1,0,Newcastle Utd,52,52237,Simon Francis,4-4-2,Paul Tierney,bournemouth,1.5,0.7
+11,2017-11-18,15,Matchweek 12,Sat,Home,W,4,0,Huddersfield,31,10879,Simon Francis,4-4-1-1,Lee Probert,bournemouth,0.7,1.2
+12,2017-11-25,15,Matchweek 13,Sat,Away,D,0,0,Swansea City,51,20228,Andrew Surman,4-4-1-1,Stuart Attwell,bournemouth,0.4,0.9
+13,2017-11-29,19,Matchweek 14,Wed,Home,L,1,2,Burnley,62,10302,Simon Francis,4-4-1-1,Roger East,bournemouth,1.2,1.1
+14,2017-12-03,13,Matchweek 15,Sun,Home,D,1,1,Southampton,49,10764,Simon Francis,4-4-1-1,Jonathan Moss,bournemouth,0.9,1.5
+15,2017-12-09,15,Matchweek 16,Sat,Away,D,2,2,Crystal Palace,55,24823,Simon Francis,4-4-1-1,Kevin Friend,bournemouth,0.7,3.9
+16,2017-12-13,20,Matchweek 17,Wed,Away,L,0,1,Manchester Utd,43,74798,Simon Francis,4-4-1-1,Graham Scott,bournemouth,0.8,1.1
+17,2017-12-17,16,Matchweek 18,Sun,Home,L,0,4,Liverpool,44,10780,Simon Francis,4-4-1-1,Andre Marriner,bournemouth,0.6,2.5
+18,2017-12-23,15,Matchweek 19,Sat,Away,L,0,4,Manchester City,22,54270,Andrew Surman,3-4-3,Mike Jones,bournemouth,0.4,1.5
+19,2017-12-26,15,Matchweek 20,Tue,Home,D,3,3,West Ham,55,10596,Simon Francis,4-4-1-1,Stuart Attwell,bournemouth,2.9,1.7
+20,2017-12-30,15,Matchweek 21,Sat,Home,W,2,1,Everton,47,10497,Simon Francis,4-4-1-1,Lee Probert,bournemouth,1.5,0.5
+21,2018-01-01,12,Matchweek 22,Mon,Away,D,2,2,Brighton,51,30152,Simon Francis,4-4-2,Michael Oliver,bournemouth,1.5,2.4
+22,2018-01-14,13,Matchweek 23,Sun,Home,W,2,1,Arsenal,41,10836,Simon Francis,3-4-3,Kevin Friend,bournemouth,0.8,1.1
+23,2018-01-20,15,Matchweek 24,Sat,Away,D,1,1,West Ham,52,56948,Simon Francis,3-4-3,Martin Atkinson,bournemouth,0.5,0.8
+24,2018-01-31,19,Matchweek 25,Wed,Away,W,3,0,Chelsea,35,41464,Simon Francis,3-4-3,Lee Probert,bournemouth,1.1,1.2
+25,2018-02-03,15,Matchweek 26,Sat,Home,W,2,1,Stoke City,57,10614,Simon Francis,3-4-3,Paul Tierney,bournemouth,1.7,0.7
+26,2018-02-11,12,Matchweek 27,Sun,Away,L,1,4,Huddersfield,50,23823,Simon Francis,3-4-3,Michael Oliver,bournemouth,0.3,2.2
+27,2018-02-24,15,Matchweek 28,Sat,Home,D,2,2,Newcastle Utd,63,10808,Simon Francis,4-4-1-1,Roger East,bournemouth,1.7,3.0
+28,2018-03-03,15,Matchweek 29,Sat,Away,D,1,1,Leicester City,45,31384,Simon Francis,4-4-1-1,Lee Probert,bournemouth,1.4,2.7
+29,2018-03-11,16,Matchweek 30,Sun,Home,L,1,4,Tottenham,37,10623,Simon Francis,4-4-1-1,Mike Dean,bournemouth,1.2,2.4
+30,2018-03-17,15,Matchweek 31,Sat,Home,W,2,1,West Brom,60,10242,Simon Francis,4-4-1-1,Graham Scott,bournemouth,0.7,1.6
+31,2018-03-31,15,Matchweek 32,Sat,Away,D,2,2,Watford,50,20393,Steve Cook,4-4-1-1,Andy Madley,bournemouth,1.7,0.7
+32,2018-04-07,15,Matchweek 33,Sat,Home,D,2,2,Crystal Palace,53,10730,Simon Francis,4-4-1-1,Jonathan Moss,bournemouth,1.9,1.1
+33,2018-04-14,17,Matchweek 34,Sat,Away,L,0,3,Liverpool,39,52959,Simon Francis,5-4-1,Chris Kavanagh,bournemouth,0.3,2.0
+34,2018-04-18,19,Matchweek 35,Wed,Home,L,0,2,Manchester Utd,45,10952,Simon Francis,4-4-1-1,Graham Scott,bournemouth,1.2,1.3
+35,2018-04-28,15,Matchweek 36,Sat,Away,L,1,2,Southampton,60,31778,Simon Francis,3-4-3,Anthony Taylor,bournemouth,0.7,1.5
+36,2018-05-05,15,Matchweek 37,Sat,Home,W,1,0,Swansea City,45,10820,Simon Francis,3-4-3,Kevin Friend,bournemouth,1.9,1.3
+37,2018-05-13,15,Matchweek 38,Sun,Away,W,2,1,Burnley,49,20720,Andrew Surman,3-4-3,Paul Tierney,bournemouth,1.3,1.1
+0,2017-08-13,16,Matchweek 1,Sun,Away,L,0,4,Manchester Utd,45,74928,Mark Noble,4-2-3-1,Martin Atkinson,west ham,0.5,2.1
+1,2017-08-19,15,Matchweek 2,Sat,Away,L,2,3,Southampton,34,31424,Mark Noble,4-2-3-1,Lee Mason,west ham,2.0,2.1
+2,2017-08-26,15,Matchweek 3,Sat,Away,L,0,3,Newcastle Utd,63,52093,Mark Noble,4-2-3-1,Niel Swarbrick,west ham,0.6,2.3
+3,2017-09-11,20,Matchweek 4,Mon,Home,W,2,0,Huddersfield,44,56977,Winston Reid,3-4-3,Kevin Friend,west ham,1.7,0.4
+4,2017-09-16,15,Matchweek 5,Sat,Away,D,0,0,West Brom,63,24942,Winston Reid,3-4-3,Paul Tierney,west ham,0.3,0.7
+5,2017-09-23,12,Matchweek 6,Sat,Home,L,2,3,Tottenham,49,56988,Mark Noble,3-4-3,Michael Oliver,west ham,0.6,1.2
+6,2017-09-30,15,Matchweek 7,Sat,Home,W,1,0,Swansea City,44,56922,Mark Noble,4-4-2,Roger East,west ham,0.7,0.2
+7,2017-10-14,15,Matchweek 8,Sat,Away,D,1,1,Burnley,38,20945,Winston Reid,4-4-2,Stuart Attwell,west ham,0.9,1.2
+8,2017-10-20,20,Matchweek 9,Fri,Home,L,0,3,Brighton,65,56977,Winston Reid,4-2-3-1,Martin Atkinson,west ham,0.7,1.4
+9,2017-10-28,15,Matchweek 10,Sat,Away,D,2,2,Crystal Palace,45,25242,Mark Noble,3-5-2,Robert Madley,west ham,0.8,2.6
+10,2017-11-04,17,Matchweek 11,Sat,Home,L,1,4,Liverpool,48,56961,Mark Noble,3-4-3,Niel Swarbrick,west ham,1.2,2.7
+11,2017-11-19,16,Matchweek 12,Sun,Away,L,0,2,Watford,42,20018,Mark Noble,4-3-3,Andre Marriner,west ham,1.6,1.0
+12,2017-11-24,20,Matchweek 13,Fri,Home,D,1,1,Leicester City,50,56897,Winston Reid,4-2-3-1,Martin Atkinson,west ham,0.9,0.4
+13,2017-11-29,20,Matchweek 14,Wed,Away,L,0,4,Everton,56,38242,Winston Reid,4-1-4-1,Michael Oliver,west ham,1.1,1.5
+14,2017-12-03,16,Matchweek 15,Sun,Away,L,1,2,Manchester City,24,54203,Pablo Zabaleta,3-5-1-1,Mike Dean,west ham,0.6,2.3
+15,2017-12-09,12,Matchweek 16,Sat,Home,W,1,0,Chelsea,31,56953,Mark Noble,3-4-3,Anthony Taylor,west ham,0.3,1.2
+16,2017-12-13,20,Matchweek 17,Wed,Home,D,0,0,Arsenal,31,56921,Mark Noble,5-3-2,Jonathan Moss,west ham,0.4,1.0
+17,2017-12-16,16,Matchweek 18,Sat,Away,W,3,0,Stoke City,46,29265,Mark Noble,3-4-1-2,Graham Scott,west ham,3.1,1.1
+18,2017-12-23,15,Matchweek 19,Sat,Home,L,2,3,Newcastle Utd,64,56955,Winston Reid,3-4-3,Lee Mason,west ham,2.1,1.7
+19,2017-12-26,15,Matchweek 20,Tue,Away,D,3,3,Bournemouth,45,10596,James Collins,3-4-3,Stuart Attwell,west ham,1.7,2.9
+20,2018-01-02,19,Matchweek 22,Tue,Home,W,2,1,West Brom,53,56888,Winston Reid,3-4-3,Mike Jones,west ham,1.3,1.0
+21,2018-01-04,20,Matchweek 21,Thu,Away,D,1,1,Tottenham,30,50034,Mark Noble,3-5-1-1,Mike Dean,west ham,0.5,1.8
+22,2018-01-13,15,Matchweek 23,Sat,Away,W,4,1,Huddersfield,37,24105,Mark Noble,3-5-1-1,Jonathan Moss,west ham,0.9,0.7
+23,2018-01-20,15,Matchweek 24,Sat,Home,D,1,1,Bournemouth,48,56948,Mark Noble,3-5-1-1,Martin Atkinson,west ham,0.8,0.5
+24,2018-01-30,19,Matchweek 25,Tue,Home,D,1,1,Crystal Palace,41,56911,Mark Noble,3-4-3,Niel Swarbrick,west ham,1.1,0.9
+25,2018-02-03,15,Matchweek 26,Sat,Away,L,1,3,Brighton,45,30589,Mark Noble,3-4-3,Roger East,west ham,0.4,1.7
+26,2018-02-10,15,Matchweek 27,Sat,Home,W,2,0,Watford,37,56197,Mark Noble,3-4-3,Graham Scott,west ham,1.5,0.6
+27,2018-02-24,15,Matchweek 28,Sat,Away,L,1,4,Liverpool,33,53256,Mark Noble,3-4-3,Stuart Attwell,west ham,0.4,4.0
+28,2018-03-03,15,Matchweek 29,Sat,Away,L,1,4,Swansea City,54,20829,Mark Noble,3-4-3,Martin Atkinson,west ham,0.4,1.8
+29,2018-03-10,15,Matchweek 30,Sat,Home,L,0,3,Burnley,52,56904,Mark Noble,3-4-3,Lee Mason,west ham,0.8,1.4
+30,2018-03-31,15,Matchweek 32,Sat,Home,W,3,0,Southampton,49,56882,Mark Noble,3-4-3,Jonathan Moss,west ham,1.4,0.5
+31,2018-04-08,16,Matchweek 33,Sun,Away,D,1,1,Chelsea,41,41324,Mark Noble,3-4-3,Kevin Friend,west ham,0.3,1.7
+32,2018-04-16,20,Matchweek 34,Mon,Home,D,1,1,Stoke City,63,56795,Mark Noble,3-4-3,Michael Oliver,west ham,0.8,1.7
+33,2018-04-22,13,Matchweek 35,Sun,Away,L,1,4,Arsenal,33,59422,Mark Noble,3-4-3,Lee Mason,west ham,0.8,1.8
+34,2018-04-29,14,Matchweek 36,Sun,Home,L,1,4,Manchester City,26,56904,Mark Noble,3-5-1-1,Niel Swarbrick,west ham,0.2,2.4
+35,2018-05-05,15,Matchweek 37,Sat,Away,W,2,0,Leicester City,47,32013,Mark Noble,3-4-3,Chris Kavanagh,west ham,1.6,0.5
+36,2018-05-10,19,Matchweek 31,Thu,Home,D,0,0,Manchester Utd,44,56902,Mark Noble,3-4-3,Jonathan Moss,west ham,0.6,0.8
+37,2018-05-13,15,Matchweek 38,Sun,Home,W,3,1,Everton,57,56926,Mark Noble,3-4-3,Graham Scott,west ham,1.1,1.6
+0,2017-08-12,12,Matchweek 1,Sat,Home,D,3,3,Liverpool,46,20407,Heurelho Gomes,4-3-3,Anthony Taylor,watford,2.1,2.6
+1,2017-08-19,15,Matchweek 2,Sat,Away,W,2,0,Bournemouth,45,10501,Heurelho Gomes,4-3-3,Roger East,watford,2.4,1.0
+2,2017-08-26,15,Matchweek 3,Sat,Home,D,0,0,Brighton,43,20181,Heurelho Gomes,4-3-3,Graham Scott,watford,0.3,1.1
+3,2017-09-09,15,Matchweek 4,Sat,Away,W,2,0,Southampton,47,31435,Heurelho Gomes,4-2-3-1,Lee Probert,watford,0.7,0.3
+4,2017-09-16,15,Matchweek 5,Sat,Home,L,0,6,Manchester City,33,20305,Heurelho Gomes,4-2-3-1,Anthony Taylor,watford,0.5,3.3
+5,2017-09-23,15,Matchweek 6,Sat,Away,W,2,1,Swansea City,49,20372,Heurelho Gomes,4-2-3-1,Lee Mason,watford,1.2,1.7
+6,2017-09-30,15,Matchweek 7,Sat,Away,D,2,2,West Brom,65,24606,Troy Deeney,4-2-3-1,Michael Oliver,watford,1.4,1.9
+7,2017-10-14,17,Matchweek 8,Sat,Home,W,2,1,Arsenal,46,20384,Heurelho Gomes,3-4-3,Niel Swarbrick,watford,1.6,1.0
+8,2017-10-21,12,Matchweek 9,Sat,Away,L,2,4,Chelsea,48,41467,Troy Deeney,3-4-3,Jonathan Moss,watford,1.9,1.9
+9,2017-10-28,15,Matchweek 10,Sat,Home,L,0,1,Stoke City,69,20087,Troy Deeney,4-2-3-1,Michael Oliver,watford,1.2,1.1
+10,2017-11-05,16,Matchweek 11,Sun,Away,L,2,3,Everton,62,38609,Heurelho Gomes,4-3-3,Graham Scott,watford,2.0,2.1
+11,2017-11-19,16,Matchweek 12,Sun,Home,W,2,0,West Ham,58,20018,Heurelho Gomes,3-4-3,Andre Marriner,watford,1.0,1.6
+12,2017-11-25,15,Matchweek 13,Sat,Away,W,3,0,Newcastle Utd,47,52188,Heurelho Gomes,3-4-3,Chris Kavanagh,watford,2.0,0.9
+13,2017-11-28,20,Matchweek 14,Tue,Home,L,2,4,Manchester Utd,59,20552,Heurelho Gomes,3-5-2,Jonathan Moss,watford,1.4,1.2
+14,2017-12-02,15,Matchweek 15,Sat,Home,D,1,1,Tottenham,50,20278,Heurelho Gomes,3-4-3,Martin Atkinson,watford,0.4,0.8
+15,2017-12-09,15,Matchweek 16,Sat,Away,L,0,1,Burnley,51,19479,Troy Deeney,4-2-3-1,Lee Probert,watford,1.1,0.5
+16,2017-12-12,20,Matchweek 17,Tue,Away,L,1,2,Crystal Palace,47,23566,Troy Deeney,3-4-3,Lee Mason,watford,1.2,1.2
+17,2017-12-16,15,Matchweek 18,Sat,Home,L,1,4,Huddersfield,60,20026,Troy Deeney,3-4-3,Michael Oliver,watford,0.6,3.4
+18,2017-12-23,15,Matchweek 19,Sat,Away,L,0,1,Brighton,49,30473,Heurelho Gomes,4-2-3-1,Paul Tierney,watford,1.5,1.1
+19,2017-12-26,15,Matchweek 20,Tue,Home,W,2,1,Leicester City,49,20308,Heurelho Gomes,4-3-3,Chris Kavanagh,watford,1.2,1.3
+20,2017-12-30,15,Matchweek 21,Sat,Home,L,1,2,Swansea City,51,20002,Heurelho Gomes,4-2-3-1,Martin Atkinson,watford,1.2,1.1
+21,2018-01-02,20,Matchweek 22,Tue,Away,L,1,3,Manchester City,24,53556,Heurelho Gomes,4-2-3-1,Lee Mason,watford,1.0,2.1
+22,2018-01-13,15,Matchweek 23,Sat,Home,D,2,2,Southampton,56,20018,Heurelho Gomes,4-2-3-1,Roger East,watford,2.0,0.9
+23,2018-01-20,15,Matchweek 24,Sat,Away,L,0,2,Leicester City,46,31891,Troy Deeney,4-2-3-1,Lee Probert,watford,0.9,1.9
+24,2018-01-31,20,Matchweek 25,Wed,Away,D,0,0,Stoke City,51,27458,Troy Deeney,4-3-3,Jonathan Moss,watford,0.7,0.9
+25,2018-02-05,20,Matchweek 26,Mon,Home,W,4,1,Chelsea,45,20157,Troy Deeney,3-4-3,Mike Dean,watford,2.3,0.7
+26,2018-02-10,15,Matchweek 27,Sat,Away,L,0,2,West Ham,63,56197,Troy Deeney,3-4-3,Graham Scott,watford,0.6,1.5
+27,2018-02-24,17,Matchweek 28,Sat,Home,W,1,0,Everton,54,20430,Troy Deeney,4-2-3-1,Anthony Taylor,watford,0.6,0.8
+28,2018-03-03,15,Matchweek 29,Sat,Home,W,1,0,West Brom,53,20022,Troy Deeney,4-2-3-1,Paul Tierney,watford,1.3,1.1
+29,2018-03-11,13,Matchweek 30,Sun,Away,L,0,3,Arsenal,41,59131,Troy Deeney,4-2-3-1,Martin Atkinson,watford,1.4,2.2
+30,2018-03-17,17,Matchweek 31,Sat,Away,L,0,5,Liverpool,42,53287,Troy Deeney,3-4-3,Anthony Taylor,watford,0.4,2.3
+31,2018-03-31,15,Matchweek 32,Sat,Home,D,2,2,Bournemouth,50,20393,Troy Deeney,4-2-3-1,Andy Madley,watford,0.7,1.7
+32,2018-04-07,15,Matchweek 33,Sat,Home,L,1,2,Burnley,60,20044,Troy Deeney,4-2-3-1,Paul Tierney,watford,1.2,1.0
+33,2018-04-14,15,Matchweek 34,Sat,Away,L,0,1,Huddersfield,51,23961,Troy Deeney,4-2-3-1,Craig Pawson,watford,0.2,0.8
+34,2018-04-21,15,Matchweek 35,Sat,Home,D,0,0,Crystal Palace,52,20401,Troy Deeney,4-4-2,Chris Kavanagh,watford,0.6,0.3
+35,2018-04-30,20,Matchweek 36,Mon,Away,L,0,2,Tottenham,39,52675,Adrian Mariappa,4-2-3-1,Michael Oliver,watford,1.3,1.4
+36,2018-05-05,15,Matchweek 37,Sat,Home,W,2,1,Newcastle Utd,39,20375,Troy Deeney,4-4-2,Roger East,watford,2.5,0.7
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,0,1,Manchester Utd,48,75049,Heurelho Gomes,4-1-4-1,Lee Mason,watford,0.6,0.4
+0,2017-08-12,17,Matchweek 1,Sat,Home,L,0,2,Manchester City,23,30415,Bruno,4-4-2,Michael Oliver,brighton,0.3,1.9
+1,2017-08-19,15,Matchweek 2,Sat,Away,L,0,2,Leicester City,55,31902,Bruno,4-4-1-1,Lee Probert,brighton,0.2,2.0
+2,2017-08-26,15,Matchweek 3,Sat,Away,D,0,0,Watford,57,20181,Bruno,4-4-1-1,Graham Scott,brighton,1.1,0.3
+3,2017-09-09,15,Matchweek 4,Sat,Home,W,3,1,West Brom,48,30381,Bruno,4-4-1-1,Chris Kavanagh,brighton,0.4,1.0
+4,2017-09-15,20,Matchweek 5,Fri,Away,L,1,2,Bournemouth,38,10369,Lewis Dunk,4-4-1-1,Craig Pawson,brighton,0.9,1.2
+5,2017-09-24,16,Matchweek 6,Sun,Home,W,1,0,Newcastle Utd,49,30468,Bruno,4-4-1-1,Andre Marriner,brighton,1.0,1.5
+6,2017-10-01,12,Matchweek 7,Sun,Away,L,0,2,Arsenal,36,59378,Bruno,4-5-1,Kevin Friend,brighton,0.4,2.4
+7,2017-10-15,13,Matchweek 8,Sun,Home,D,1,1,Everton,47,30565,Bruno,4-4-2,Michael Oliver,brighton,1.0,1.5
+8,2017-10-20,20,Matchweek 9,Fri,Away,W,3,0,West Ham,35,56977,Bruno,4-4-2,Martin Atkinson,brighton,1.4,0.7
+9,2017-10-29,13,Matchweek 10,Sun,Home,D,1,1,Southampton,52,30564,Bruno,4-4-1-1,Niel Swarbrick,brighton,1.2,0.3
+10,2017-11-04,15,Matchweek 11,Sat,Away,W,1,0,Swansea City,44,20822,Bruno,4-4-2,Mike Dean,brighton,0.9,1.3
+11,2017-11-20,20,Matchweek 12,Mon,Home,D,2,2,Stoke City,53,29676,Bruno,4-4-1-1,Lee Mason,brighton,0.5,1.0
+12,2017-11-25,15,Matchweek 13,Sat,Away,L,0,1,Manchester Utd,42,75018,Bruno,4-5-1,Niel Swarbrick,brighton,0.5,1.2
+13,2017-11-28,19,Matchweek 14,Tue,Home,D,0,0,Crystal Palace,54,29889,Bruno,4-4-1-1,Andre Marriner,brighton,0.6,0.5
+14,2017-12-02,15,Matchweek 15,Sat,Home,L,1,5,Liverpool,43,30634,Bruno,4-4-1-1,Graham Scott,brighton,1.7,1.8
+15,2017-12-09,15,Matchweek 16,Sat,Away,L,0,2,Huddersfield,42,24018,Bruno,4-4-1-1,Stuart Attwell,brighton,0.3,2.2
+16,2017-12-13,20,Matchweek 17,Wed,Away,L,0,2,Tottenham,26,46438,Lewis Dunk,4-5-1,Robert Madley,brighton,0.4,1.5
+17,2017-12-16,15,Matchweek 18,Sat,Home,D,0,0,Burnley,58,29921,Bruno,4-2-3-1,Chris Kavanagh,brighton,1.5,1.2
+18,2017-12-23,15,Matchweek 19,Sat,Home,W,1,0,Watford,51,30473,Bruno,4-4-1-1,Paul Tierney,brighton,1.1,1.5
+19,2017-12-26,15,Matchweek 20,Tue,Away,L,0,2,Chelsea,33,41568,Lewis Dunk,4-5-1,Mike Dean,brighton,0.5,2.1
+20,2017-12-30,15,Matchweek 21,Sat,Away,D,0,0,Newcastle Utd,54,52209,Bruno,4-4-1-1,Anthony Taylor,brighton,0.5,0.5
+21,2018-01-01,12,Matchweek 22,Mon,Home,D,2,2,Bournemouth,49,30152,Lewis Dunk,4-4-1-1,Michael Oliver,brighton,2.4,1.5
+22,2018-01-13,15,Matchweek 23,Sat,Away,L,0,2,West Brom,56,25240,Bruno,4-4-1-1,Martin Atkinson,brighton,0.6,1.0
+23,2018-01-20,12,Matchweek 24,Sat,Home,L,0,4,Chelsea,42,30600,Lewis Dunk,5-3-2,Jonathan Moss,brighton,0.8,1.3
+24,2018-01-31,19,Matchweek 25,Wed,Away,D,1,1,Southampton,34,30034,Lewis Dunk,4-4-1-1,Mike Dean,brighton,1.1,1.4
+25,2018-02-03,15,Matchweek 26,Sat,Home,W,3,1,West Ham,55,30589,Lewis Dunk,4-4-1-1,Roger East,brighton,1.7,0.4
+26,2018-02-10,15,Matchweek 27,Sat,Away,D,1,1,Stoke City,42,29876,Lewis Dunk,4-4-1-1,Robert Madley,brighton,1.1,1.4
+27,2018-02-24,15,Matchweek 28,Sat,Home,W,4,1,Swansea City,47,30523,Lewis Dunk,4-4-1-1,Mike Dean,brighton,3.0,0.6
+28,2018-03-04,13,Matchweek 29,Sun,Home,W,2,1,Arsenal,33,30620,Lewis Dunk,4-4-1-1,Stuart Attwell,brighton,1.2,1.2
+29,2018-03-10,15,Matchweek 30,Sat,Away,L,0,2,Everton,41,39199,Lewis Dunk,4-4-1-1,Roger East,brighton,0.3,1.5
+30,2018-03-31,15,Matchweek 32,Sat,Home,L,0,2,Leicester City,48,30629,Lewis Dunk,4-1-4-1,Chris Kavanagh,brighton,1.8,1.2
+31,2018-04-07,15,Matchweek 33,Sat,Home,D,1,1,Huddersfield,42,30501,Lewis Dunk,4-4-1-1,Anthony Taylor,brighton,1.5,1.5
+32,2018-04-14,15,Matchweek 34,Sat,Away,L,2,3,Crystal Palace,51,24656,Lewis Dunk,4-3-3,Andre Marriner,brighton,1.5,2.1
+33,2018-04-17,19,Matchweek 35,Tue,Home,D,1,1,Tottenham,37,30440,Bruno,4-4-1-1,Kevin Friend,brighton,1.1,1.3
+34,2018-04-28,15,Matchweek 36,Sat,Away,D,0,0,Burnley,55,19459,Bruno,4-4-1-1,Roger East,brighton,0.4,1.5
+35,2018-05-04,20,Matchweek 37,Fri,Home,W,1,0,Manchester Utd,32,30611,Bruno,4-3-3,Craig Pawson,brighton,1.0,0.8
+36,2018-05-09,20,Matchweek 31,Wed,Away,L,1,3,Manchester City,27,54013,Bruno,4-5-1,Paul Tierney,brighton,1.2,1.6
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,0,4,Liverpool,28,50752,Lewis Dunk,4-2-3-1,Kevin Friend,brighton,0.1,2.8
+0,2017-08-12,15,Matchweek 1,Sat,Away,W,3,0,Crystal Palace,45,25448,Tommy Smith,4-2-3-1,Jonathan Moss,huddersfield,1.5,1.1
+1,2017-08-20,13,Matchweek 2,Sun,Home,W,1,0,Newcastle Utd,52,24128,Tommy Smith,4-2-3-1,Craig Pawson,huddersfield,0.3,0.7
+2,2017-08-26,15,Matchweek 3,Sat,Home,D,0,0,Southampton,45,23548,Tommy Smith,4-2-3-1,Stuart Attwell,huddersfield,1.4,0.7
+3,2017-09-11,20,Matchweek 4,Mon,Away,L,0,2,West Ham,56,56977,Tommy Smith,4-2-3-1,Kevin Friend,huddersfield,0.4,1.7
+4,2017-09-16,15,Matchweek 5,Sat,Home,D,1,1,Leicester City,59,24129,Tommy Smith,4-2-3-1,Jonathan Moss,huddersfield,0.7,1.3
+5,2017-09-23,15,Matchweek 6,Sat,Away,D,0,0,Burnley,48,20759,Tommy Smith,4-2-3-1,Chris Kavanagh,huddersfield,0.3,0.3
+6,2017-09-30,12,Matchweek 7,Sat,Home,L,0,4,Tottenham,41,24169,Tommy Smith,4-2-3-1,Niel Swarbrick,huddersfield,0.2,1.5
+7,2017-10-14,15,Matchweek 8,Sat,Away,L,0,2,Swansea City,59,20657,Tommy Smith,4-2-3-1,Paul Tierney,huddersfield,0.7,1.5
+8,2017-10-21,15,Matchweek 9,Sat,Home,W,2,1,Manchester Utd,23,24426,Tommy Smith,4-2-3-1,Lee Mason,huddersfield,1.2,0.8
+9,2017-10-28,15,Matchweek 10,Sat,Away,L,0,3,Liverpool,28,53268,Tommy Smith,4-5-1,Kevin Friend,huddersfield,0.1,2.1
+10,2017-11-04,15,Matchweek 11,Sat,Home,W,1,0,West Brom,50,24169,Jonathan Hogg,4-4-1-1,Roger East,huddersfield,0.3,0.4
+11,2017-11-18,15,Matchweek 12,Sat,Away,L,0,4,Bournemouth,69,10879,Aaron Mooy,4-2-3-1,Lee Probert,huddersfield,1.2,0.7
+12,2017-11-26,16,Matchweek 13,Sun,Home,L,1,2,Manchester City,22,24121,Tommy Smith,4-5-1,Craig Pawson,huddersfield,0.6,2.6
+13,2017-11-29,19,Matchweek 14,Wed,Away,L,0,5,Arsenal,31,59285,Jonathan Hogg,3-4-3,Graham Scott,huddersfield,0.5,4.0
+14,2017-12-02,15,Matchweek 15,Sat,Away,L,0,2,Everton,53,39167,Tommy Smith,4-2-3-1,Chris Kavanagh,huddersfield,0.3,0.7
+15,2017-12-09,15,Matchweek 16,Sat,Home,W,2,0,Brighton,58,24018,Tommy Smith,4-2-3-1,Stuart Attwell,huddersfield,2.2,0.3
+16,2017-12-12,20,Matchweek 17,Tue,Home,L,1,3,Chelsea,36,24169,Tommy Smith,4-5-1,Andre Marriner,huddersfield,0.7,1.5
+17,2017-12-16,15,Matchweek 18,Sat,Away,W,4,1,Watford,40,20026,Jonathan Hogg,4-4-2,Michael Oliver,huddersfield,3.4,0.6
+18,2017-12-23,15,Matchweek 19,Sat,Away,D,1,1,Southampton,47,29675,Christopher Schindler,4-2-3-1,Lee Probert,huddersfield,1.1,1.3
+19,2017-12-26,15,Matchweek 20,Tue,Home,D,1,1,Stoke City,59,24047,Tommy Smith,4-2-3-1,Anthony Taylor,huddersfield,1.8,1.6
+20,2017-12-30,15,Matchweek 21,Sat,Home,D,0,0,Burnley,56,24095,Christopher Schindler,4-2-3-1,Paul Tierney,huddersfield,0.1,1.2
+21,2018-01-01,15,Matchweek 22,Mon,Away,L,0,3,Leicester City,48,31748,Tommy Smith,4-2-3-1,Graham Scott,huddersfield,0.2,1.5
+22,2018-01-13,15,Matchweek 23,Sat,Home,L,1,4,West Ham,63,24105,Tommy Smith,4-2-3-1,Jonathan Moss,huddersfield,0.7,0.9
+23,2018-01-20,15,Matchweek 24,Sat,Away,L,0,2,Stoke City,51,29785,Jonathan Hogg,4-2-3-1,Michael Oliver,huddersfield,0.3,1.0
+24,2018-01-30,20,Matchweek 25,Tue,Home,L,0,3,Liverpool,26,24121,Jonathan Hogg,5-3-2,Kevin Friend,huddersfield,0.3,1.8
+25,2018-02-03,15,Matchweek 26,Sat,Away,L,0,2,Manchester Utd,26,74742,Tommy Smith,4-1-4-1,Stuart Attwell,huddersfield,0.2,1.6
+26,2018-02-11,12,Matchweek 27,Sun,Home,W,4,1,Bournemouth,50,23823,Jonathan Hogg,4-2-3-1,Michael Oliver,huddersfield,2.2,0.3
+27,2018-02-24,15,Matchweek 28,Sat,Away,W,2,1,West Brom,47,25920,Jonathan Hogg,4-2-3-1,Jonathan Moss,huddersfield,1.1,1.2
+28,2018-03-03,15,Matchweek 29,Sat,Away,L,0,2,Tottenham,26,68311,Jonathan Hogg,4-2-3-1,Kevin Friend,huddersfield,0.1,1.6
+29,2018-03-10,15,Matchweek 30,Sat,Home,D,0,0,Swansea City,80,23567,Jonathan Hogg,4-2-3-1,Michael Oliver,huddersfield,1.4,0.0
+30,2018-03-17,15,Matchweek 31,Sat,Home,L,0,2,Crystal Palace,55,23918,Jonathan Hogg,4-2-3-1,Mike Dean,huddersfield,0.3,2.7
+31,2018-03-31,15,Matchweek 32,Sat,Away,L,0,1,Newcastle Utd,37,52261,Tommy Smith,4-4-2,Martin Atkinson,huddersfield,0.1,2.4
+32,2018-04-07,15,Matchweek 33,Sat,Away,D,1,1,Brighton,58,30501,Jonathan Hogg,4-4-1-1,Anthony Taylor,huddersfield,1.5,1.5
+33,2018-04-14,15,Matchweek 34,Sat,Home,W,1,0,Watford,49,23961,Jonathan Hogg,4-2-3-1,Craig Pawson,huddersfield,0.8,0.2
+34,2018-04-28,15,Matchweek 36,Sat,Home,L,0,2,Everton,54,24121,Jonathan Hogg,4-2-3-1,Lee Probert,huddersfield,0.6,0.6
+35,2018-05-06,13,Matchweek 37,Sun,Away,D,0,0,Manchester City,22,54350,Tommy Smith,5-3-2,Mike Dean,huddersfield,0.2,0.8
+36,2018-05-09,19,Matchweek 35,Wed,Away,D,1,1,Chelsea,22,38910,Tommy Smith,5-3-2,Lee Mason,huddersfield,0.7,1.9
+37,2018-05-13,15,Matchweek 38,Sun,Home,L,0,1,Arsenal,45,24122,Jonathan Hogg,5-3-2,Michael Oliver,huddersfield,1.7,2.0
+0,2017-08-12,15,Matchweek 1,Sat,Home,D,0,0,Swansea City,60,31447,Steven Davis,4-2-3-1,Mike Jones,southampton,2.0,0.3
+1,2017-08-19,15,Matchweek 2,Sat,Home,W,3,2,West Ham,66,31424,Steven Davis,4-2-3-1,Lee Mason,southampton,2.1,2.0
+2,2017-08-26,15,Matchweek 3,Sat,Away,D,0,0,Huddersfield,55,23548,Steven Davis,4-2-3-1,Stuart Attwell,southampton,0.7,1.4
+3,2017-09-09,15,Matchweek 4,Sat,Home,L,0,2,Watford,53,31435,Steven Davis,4-2-3-1,Lee Probert,southampton,0.3,0.7
+4,2017-09-16,12,Matchweek 5,Sat,Away,W,1,0,Crystal Palace,54,24199,Steven Davis,4-2-3-1,Robert Madley,southampton,1.0,2.0
+5,2017-09-23,15,Matchweek 6,Sat,Home,L,0,1,Manchester Utd,60,31930,Steven Davis,4-2-3-1,Craig Pawson,southampton,1.0,1.2
+6,2017-09-30,15,Matchweek 7,Sat,Away,L,1,2,Stoke City,70,29285,Steven Davis,4-2-3-1,Mike Jones,southampton,1.4,2.4
+7,2017-10-15,16,Matchweek 8,Sun,Home,D,2,2,Newcastle Utd,62,31437,Maya Yoshida,4-4-2,Kevin Friend,southampton,1.5,1.2
+8,2017-10-21,17,Matchweek 9,Sat,Home,W,1,0,West Brom,65,29947,Steven Davis,4-1-2-1-2◆,Graham Scott,southampton,2.0,0.4
+9,2017-10-29,13,Matchweek 10,Sun,Away,D,1,1,Brighton,48,30564,Steven Davis,4-1-4-1,Niel Swarbrick,southampton,0.3,1.2
+10,2017-11-04,15,Matchweek 11,Sat,Home,L,0,1,Burnley,62,30491,Steven Davis,4-2-3-1,Lee Probert,southampton,0.7,0.2
+11,2017-11-18,15,Matchweek 12,Sat,Away,L,0,3,Liverpool,39,53256,Steven Davis,4-2-3-1,Mike Jones,southampton,0.4,2.0
+12,2017-11-26,13,Matchweek 13,Sun,Home,W,4,1,Everton,67,30461,Steven Davis,4-2-3-1,Kevin Friend,southampton,2.0,0.2
+13,2017-11-29,20,Matchweek 14,Wed,Away,L,1,2,Manchester City,26,53407,Maya Yoshida,5-4-1,Paul Tierney,southampton,1.3,1.4
+14,2017-12-03,13,Matchweek 15,Sun,Away,D,1,1,Bournemouth,51,10764,Steven Davis,4-2-3-1,Jonathan Moss,southampton,1.5,0.9
+15,2017-12-10,12,Matchweek 16,Sun,Home,D,1,1,Arsenal,33,31643,Maya Yoshida,4-2-3-1,Robert Madley,southampton,1.3,0.7
+16,2017-12-13,19,Matchweek 17,Wed,Home,L,1,4,Leicester City,53,27714,Steven Davis,4-2-3-1,Chris Kavanagh,southampton,1.5,1.8
+17,2017-12-16,15,Matchweek 18,Sat,Away,L,0,1,Chelsea,46,41562,Maya Yoshida,3-4-3,Roger East,southampton,0.5,1.4
+18,2017-12-23,15,Matchweek 19,Sat,Home,D,1,1,Huddersfield,53,29675,Steven Davis,4-2-3-1,Lee Probert,southampton,1.3,1.1
+19,2017-12-26,12,Matchweek 20,Tue,Away,L,2,5,Tottenham,43,55412,Maya Yoshida,4-1-4-1,Graham Scott,southampton,0.8,3.0
+20,2017-12-30,17,Matchweek 21,Sat,Away,D,0,0,Manchester Utd,46,75051,Maya Yoshida,4-2-3-1,Craig Pawson,southampton,0.6,1.7
+21,2018-01-02,19,Matchweek 22,Tue,Home,L,1,2,Crystal Palace,60,28411,Maya Yoshida,4-2-3-1,Stuart Attwell,southampton,0.4,1.3
+22,2018-01-13,15,Matchweek 23,Sat,Away,D,2,2,Watford,44,20018,Steven Davis,4-2-3-1,Roger East,southampton,0.9,2.0
+23,2018-01-21,16,Matchweek 24,Sun,Home,D,1,1,Tottenham,41,31361,Ryan Bertrand,4-2-3-1,Kevin Friend,southampton,0.8,1.2
+24,2018-01-31,19,Matchweek 25,Wed,Home,D,1,1,Brighton,66,30034,Steven Davis,4-2-3-1,Mike Dean,southampton,1.4,1.1
+25,2018-02-03,15,Matchweek 26,Sat,Away,W,3,2,West Brom,61,25911,Ryan Bertrand,4-2-3-1,Michael Oliver,southampton,0.9,0.8
+26,2018-02-11,16,Matchweek 27,Sun,Home,L,0,2,Liverpool,52,31915,Ryan Bertrand,4-2-3-1,Martin Atkinson,southampton,0.9,1.9
+27,2018-02-24,15,Matchweek 28,Sat,Away,D,1,1,Burnley,49,20982,Ryan Bertrand,4-2-3-1,Robert Madley,southampton,0.8,1.3
+28,2018-03-03,15,Matchweek 29,Sat,Home,D,0,0,Stoke City,65,30335,Ryan Bertrand,4-2-3-1,Anthony Taylor,southampton,0.9,0.8
+29,2018-03-10,15,Matchweek 30,Sat,Away,L,0,3,Newcastle Utd,63,52246,Ryan Bertrand,4-2-3-1,Andre Marriner,southampton,0.3,1.3
+30,2018-03-31,15,Matchweek 32,Sat,Away,L,0,3,West Ham,51,56882,Ryan Bertrand,4-4-2,Jonathan Moss,southampton,0.5,1.4
+31,2018-04-08,14,Matchweek 33,Sun,Away,L,2,3,Arsenal,36,59374,Ryan Bertrand,3-4-3,Andre Marriner,southampton,2.0,1.6
+32,2018-04-14,12,Matchweek 34,Sat,Home,L,2,3,Chelsea,42,31764,Ryan Bertrand,3-4-3,Mike Dean,southampton,1.0,0.8
+33,2018-04-19,19,Matchweek 35,Thu,Away,D,0,0,Leicester City,46,31160,Ryan Bertrand,3-4-3,Roger East,southampton,0.8,0.6
+34,2018-04-28,15,Matchweek 36,Sat,Home,W,2,1,Bournemouth,40,31778,Ryan Bertrand,3-4-3,Anthony Taylor,southampton,1.5,0.7
+35,2018-05-05,17,Matchweek 37,Sat,Away,D,1,1,Everton,46,38225,Ryan Bertrand,3-4-3,Jonathan Moss,southampton,0.7,0.5
+36,2018-05-08,19,Matchweek 31,Tue,Away,W,1,0,Swansea City,46,20858,Ryan Bertrand,3-4-3,Michael Oliver,southampton,1.2,0.5
+37,2018-05-13,15,Matchweek 38,Sun,Home,L,0,1,Manchester City,31,31882,Ryan Bertrand,5-4-1,Andre Marriner,southampton,0.5,0.8
+0,2017-08-12,15,Matchweek 1,Sat,Away,D,0,0,Southampton,40,31447,Leon Britton,4-3-1-2,Mike Jones,swansea city,0.3,2.0
+1,2017-08-19,12,Matchweek 2,Sat,Home,L,0,4,Manchester Utd,42,20862,Federico Fernández,3-1-4-2,Jonathan Moss,swansea city,0.4,3.0
+2,2017-08-26,15,Matchweek 3,Sat,Away,W,2,0,Crystal Palace,47,23477,Federico Fernández,3-5-2,Andre Marriner,swansea city,0.7,0.9
+3,2017-09-10,16,Matchweek 4,Sun,Home,L,0,1,Newcastle Utd,62,20872,Federico Fernández,4-3-1-2,Mike Jones,swansea city,1.2,1.0
+4,2017-09-16,17,Matchweek 5,Sat,Away,D,0,0,Tottenham,25,65366,Federico Fernández,3-5-2,Mike Dean,swansea city,0.2,1.1
+5,2017-09-23,15,Matchweek 6,Sat,Home,L,1,2,Watford,51,20372,Federico Fernández,3-5-2,Lee Mason,swansea city,1.7,1.2
+6,2017-09-30,15,Matchweek 7,Sat,Away,L,0,1,West Ham,56,56922,Federico Fernández,4-3-1-2,Roger East,swansea city,0.2,0.7
+7,2017-10-14,15,Matchweek 8,Sat,Home,W,2,0,Huddersfield,41,20657,Leon Britton,4-3-3,Paul Tierney,swansea city,1.5,0.7
+8,2017-10-21,15,Matchweek 9,Sat,Home,L,1,2,Leicester City,56,20521,Leon Britton,4-3-3,Michael Oliver,swansea city,0.8,1.9
+9,2017-10-28,15,Matchweek 10,Sat,Away,L,1,2,Arsenal,28,59493,Federico Fernández,3-5-2,Lee Mason,swansea city,0.9,2.0
+10,2017-11-04,15,Matchweek 11,Sat,Home,L,0,1,Brighton,56,20822,Federico Fernández,4-3-3,Mike Dean,swansea city,1.3,0.9
+11,2017-11-18,15,Matchweek 12,Sat,Away,L,0,2,Burnley,61,18895,Federico Fernández,4-3-3,Martin Atkinson,swansea city,0.6,1.6
+12,2017-11-25,15,Matchweek 13,Sat,Home,D,0,0,Bournemouth,49,20228,Wilfried Bony,4-1-2-1-2◆,Stuart Attwell,swansea city,0.9,0.4
+13,2017-11-29,19,Matchweek 14,Wed,Away,L,0,1,Chelsea,39,41365,Wilfried Bony,4-3-1-2,Niel Swarbrick,swansea city,0.1,1.5
+14,2017-12-02,15,Matchweek 15,Sat,Away,L,1,2,Stoke City,55,28261,Wilfried Bony,4-1-2-1-2◆,Craig Pawson,swansea city,0.4,1.1
+15,2017-12-09,15,Matchweek 16,Sat,Home,W,1,0,West Brom,54,19580,Wilfried Bony,4-3-3,Mike Dean,swansea city,1.5,0.3
+16,2017-12-13,19,Matchweek 17,Wed,Home,L,0,4,Manchester City,22,20870,Wilfried Bony,4-5-1,Anthony Taylor,swansea city,0.6,2.7
+17,2017-12-18,20,Matchweek 18,Mon,Away,L,1,3,Everton,49,37580,Federico Fernández,4-3-3,Jonathan Moss,swansea city,0.8,2.0
+18,2017-12-23,15,Matchweek 19,Sat,Home,D,1,1,Crystal Palace,64,20354,Federico Fernández,4-3-3,Craig Pawson,swansea city,0.5,1.3
+19,2017-12-26,17,Matchweek 20,Tue,Away,L,0,5,Liverpool,45,52850,Federico Fernández,4-5-1,Kevin Friend,swansea city,0.4,3.1
+20,2017-12-30,15,Matchweek 21,Sat,Away,W,2,1,Watford,49,20002,Federico Fernández,4-2-2-2,Martin Atkinson,swansea city,1.1,1.2
+21,2018-01-02,19,Matchweek 22,Tue,Home,L,0,2,Tottenham,33,20615,Àngel Rangel,5-3-2,Robert Madley,swansea city,0.4,1.3
+22,2018-01-13,15,Matchweek 23,Sat,Away,D,1,1,Newcastle Utd,58,51444,Kyle Bartley,4-4-2,Graham Scott,swansea city,1.3,1.4
+23,2018-01-22,20,Matchweek 24,Mon,Home,W,1,0,Liverpool,29,20886,Federico Fernández,5-4-1,Niel Swarbrick,swansea city,0.2,2.5
+24,2018-01-30,19,Matchweek 25,Tue,Home,W,3,1,Arsenal,26,20819,Łukasz Fabiański,5-4-1,Lee Mason,swansea city,2.1,1.3
+25,2018-02-03,15,Matchweek 26,Sat,Away,D,1,1,Leicester City,40,31179,Federico Fernández,5-4-1,Anthony Taylor,swansea city,0.3,1.7
+26,2018-02-10,15,Matchweek 27,Sat,Home,W,1,0,Burnley,57,20179,Federico Fernández,5-4-1,Andre Marriner,swansea city,0.7,0.5
+27,2018-02-24,15,Matchweek 28,Sat,Away,L,1,4,Brighton,53,30523,Federico Fernández,5-4-1,Mike Dean,swansea city,0.6,3.0
+28,2018-03-03,15,Matchweek 29,Sat,Home,W,4,1,West Ham,46,20829,Federico Fernández,5-4-1,Martin Atkinson,swansea city,1.8,0.4
+29,2018-03-10,15,Matchweek 30,Sat,Away,D,0,0,Huddersfield,20,23567,Federico Fernández,5-4-1,Michael Oliver,swansea city,0.0,1.4
+30,2018-03-31,15,Matchweek 32,Sat,Away,L,0,2,Manchester Utd,34,75038,Federico Fernández,5-4-1,Robert Madley,swansea city,0.2,2.2
+31,2018-04-07,15,Matchweek 33,Sat,Away,D,1,1,West Brom,48,23297,Federico Fernández,5-4-1,Roger East,swansea city,0.8,1.2
+32,2018-04-14,15,Matchweek 34,Sat,Home,D,1,1,Everton,51,20933,Federico Fernández,4-4-2,Lee Mason,swansea city,1.3,1.6
+33,2018-04-22,16,Matchweek 35,Sun,Away,L,0,5,Manchester City,18,54387,Federico Fernández,5-4-1,Craig Pawson,swansea city,0.3,3.2
+34,2018-04-28,17,Matchweek 36,Sat,Home,L,0,1,Chelsea,51,20900,André Ayew,3-4-3,Jonathan Moss,swansea city,0.7,1.5
+35,2018-05-05,15,Matchweek 37,Sat,Away,L,0,1,Bournemouth,55,10820,Federico Fernández,3-4-3,Kevin Friend,swansea city,1.3,1.9
+36,2018-05-08,19,Matchweek 31,Tue,Home,L,0,1,Southampton,54,20858,Federico Fernández,3-4-3,Michael Oliver,swansea city,0.5,1.2
+37,2018-05-13,15,Matchweek 38,Sun,Home,L,1,2,Stoke City,58,20673,Àngel Rangel,4-4-2,Anthony Taylor,swansea city,3.0,1.6
+0,2017-08-12,15,Matchweek 1,Sat,Away,L,0,1,Everton,40,39045,Ryan Shawcross,3-4-3,Niel Swarbrick,stoke city,0.4,0.6
+1,2017-08-19,17,Matchweek 2,Sat,Home,W,1,0,Arsenal,24,29459,Ryan Shawcross,3-4-3,Andre Marriner,stoke city,0.7,1.5
+2,2017-08-27,13,Matchweek 3,Sun,Away,D,1,1,West Brom,57,22704,Ryan Shawcross,3-4-3,Anthony Taylor,stoke city,1.3,0.8
+3,2017-09-09,17,Matchweek 4,Sat,Home,D,2,2,Manchester Utd,37,29320,Darren Fletcher,3-4-3,Niel Swarbrick,stoke city,1.2,2.1
+4,2017-09-16,15,Matchweek 5,Sat,Away,L,1,2,Newcastle Utd,58,51795,Darren Fletcher,3-4-3,Stuart Attwell,stoke city,0.7,2.0
+5,2017-09-23,15,Matchweek 6,Sat,Home,L,0,4,Chelsea,45,29661,Darren Fletcher,3-4-3,Mike Dean,stoke city,0.8,1.4
+6,2017-09-30,15,Matchweek 7,Sat,Home,W,2,1,Southampton,30,29285,Darren Fletcher,3-4-3,Mike Jones,stoke city,2.4,1.4
+7,2017-10-14,15,Matchweek 8,Sat,Away,L,2,7,Manchester City,21,54128,Darren Fletcher,4-4-1-1,Craig Pawson,stoke city,0.5,3.8
+8,2017-10-21,15,Matchweek 9,Sat,Home,L,1,2,Bournemouth,53,29500,Ryan Shawcross,3-4-3,Lee Probert,stoke city,1.2,1.1
+9,2017-10-28,15,Matchweek 10,Sat,Away,W,1,0,Watford,31,20087,Ryan Shawcross,3-4-3,Michael Oliver,stoke city,1.1,1.2
+10,2017-11-04,12,Matchweek 11,Sat,Home,D,2,2,Leicester City,47,29602,Ryan Shawcross,3-4-3,Robert Madley,stoke city,1.0,1.5
+11,2017-11-20,20,Matchweek 12,Mon,Away,D,2,2,Brighton,47,29676,Ryan Shawcross,3-4-3,Lee Mason,stoke city,1.0,0.5
+12,2017-11-25,15,Matchweek 13,Sat,Away,L,1,2,Crystal Palace,46,23723,Ryan Shawcross,3-4-3,Mike Dean,stoke city,0.7,1.4
+13,2017-11-29,20,Matchweek 14,Wed,Home,L,0,3,Liverpool,41,29423,Ryan Shawcross,3-4-3,Martin Atkinson,stoke city,0.9,2.9
+14,2017-12-02,15,Matchweek 15,Sat,Home,W,2,1,Swansea City,45,28261,Ryan Shawcross,4-4-2,Craig Pawson,stoke city,1.1,0.4
+15,2017-12-09,15,Matchweek 16,Sat,Away,L,1,5,Tottenham,29,62202,Ryan Shawcross,3-4-3,Roger East,stoke city,0.5,3.6
+16,2017-12-12,19,Matchweek 17,Tue,Away,L,0,1,Burnley,49,19909,Ryan Shawcross,4-4-2,Mike Jones,stoke city,1.1,0.4
+17,2017-12-16,16,Matchweek 18,Sat,Home,L,0,3,West Ham,54,29265,Ryan Shawcross,4-4-2,Graham Scott,stoke city,1.1,3.1
+18,2017-12-23,15,Matchweek 19,Sat,Home,W,3,1,West Brom,43,29057,Ryan Shawcross,4-2-3-1,Niel Swarbrick,stoke city,1.4,2.0
+19,2017-12-26,15,Matchweek 20,Tue,Away,D,1,1,Huddersfield,41,24047,Ryan Shawcross,4-2-3-1,Anthony Taylor,stoke city,1.6,1.8
+20,2017-12-30,15,Matchweek 21,Sat,Away,L,0,5,Chelsea,41,41433,Darren Fletcher,4-2-3-1,Kevin Friend,stoke city,0.2,2.6
+21,2018-01-01,15,Matchweek 22,Mon,Home,L,0,1,Newcastle Utd,59,28471,Joe Allen,4-3-3,Chris Kavanagh,stoke city,1.5,1.7
+22,2018-01-15,20,Matchweek 23,Mon,Away,L,0,3,Manchester Utd,40,74726,Darren Fletcher,4-2-3-1,Anthony Taylor,stoke city,1.3,1.5
+23,2018-01-20,15,Matchweek 24,Sat,Home,W,2,0,Huddersfield,49,29785,Ryan Shawcross,4-2-3-1,Michael Oliver,stoke city,1.0,0.3
+24,2018-01-31,20,Matchweek 25,Wed,Home,D,0,0,Watford,49,27458,Ryan Shawcross,4-2-3-1,Jonathan Moss,stoke city,0.9,0.7
+25,2018-02-03,15,Matchweek 26,Sat,Away,L,1,2,Bournemouth,43,10614,Ryan Shawcross,4-3-3,Paul Tierney,stoke city,0.7,1.7
+26,2018-02-10,15,Matchweek 27,Sat,Home,D,1,1,Brighton,58,29876,Ryan Shawcross,4-3-3,Robert Madley,stoke city,1.4,1.1
+27,2018-02-24,12,Matchweek 28,Sat,Away,D,1,1,Leicester City,35,31769,Jack Butland,4-1-4-1,Michael Oliver,stoke city,0.2,1.2
+28,2018-03-03,15,Matchweek 29,Sat,Away,D,0,0,Southampton,35,30335,Jack Butland,4-1-4-1,Anthony Taylor,stoke city,0.8,0.9
+29,2018-03-12,20,Matchweek 30,Mon,Home,L,0,2,Manchester City,24,29138,Jack Butland,4-3-3,Jonathan Moss,stoke city,0.4,1.6
+30,2018-03-17,15,Matchweek 31,Sat,Home,L,1,2,Everton,43,30022,Ryan Shawcross,4-3-3,Martin Atkinson,stoke city,0.8,2.3
+31,2018-04-01,13,Matchweek 32,Sun,Away,L,0,3,Arsenal,31,59371,Ryan Shawcross,4-4-1-1,Craig Pawson,stoke city,0.4,3.3
+32,2018-04-07,15,Matchweek 33,Sat,Home,L,1,2,Tottenham,35,29515,Ryan Shawcross,4-4-1-1,Graham Scott,stoke city,1.4,1.7
+33,2018-04-16,20,Matchweek 34,Mon,Away,D,1,1,West Ham,37,56795,Ryan Shawcross,4-4-1-1,Michael Oliver,stoke city,1.7,0.8
+34,2018-04-22,13,Matchweek 35,Sun,Home,D,1,1,Burnley,44,29532,Ryan Shawcross,4-4-2,Mike Dean,stoke city,0.4,1.6
+35,2018-04-28,12,Matchweek 36,Sat,Away,D,0,0,Liverpool,29,53255,Ryan Shawcross,4-4-2,Andre Marriner,stoke city,0.6,1.9
+36,2018-05-05,12,Matchweek 37,Sat,Home,L,1,2,Crystal Palace,41,29687,Ryan Shawcross,4-4-2,Martin Atkinson,stoke city,0.5,1.1
+37,2018-05-13,15,Matchweek 38,Sun,Away,W,2,1,Swansea City,43,20673,Ryan Shawcross,4-3-3,Anthony Taylor,stoke city,1.6,3.0
+0,2017-08-12,15,Matchweek 1,Sat,Home,W,1,0,Bournemouth,31,25011,Jake Livermore,4-1-4-1,Robert Madley,west brom,1.3,0.5
+1,2017-08-19,15,Matchweek 2,Sat,Away,W,1,0,Burnley,34,19619,Jake Livermore,4-1-4-1,Martin Atkinson,west brom,0.9,1.3
+2,2017-08-27,13,Matchweek 3,Sun,Home,D,1,1,Stoke City,43,22704,Jake Livermore,4-2-3-1,Anthony Taylor,west brom,0.8,1.3
+3,2017-09-09,15,Matchweek 4,Sat,Away,L,1,3,Brighton,52,30381,Jonny Evans,4-1-4-1,Chris Kavanagh,west brom,1.0,0.4
+4,2017-09-16,15,Matchweek 5,Sat,Home,D,0,0,West Ham,37,24942,Jonny Evans,4-2-3-1,Paul Tierney,west brom,0.7,0.3
+5,2017-09-25,20,Matchweek 6,Mon,Away,L,0,2,Arsenal,31,59134,Gareth Barry,3-5-2,Robert Madley,west brom,0.9,2.2
+6,2017-09-30,15,Matchweek 7,Sat,Home,D,2,2,Watford,35,24606,Jonny Evans,4-2-3-1,Michael Oliver,west brom,1.9,1.4
+7,2017-10-16,20,Matchweek 8,Mon,Away,D,1,1,Leicester City,43,30203,Jonny Evans,4-3-3,Mike Dean,west brom,0.2,1.3
+8,2017-10-21,17,Matchweek 9,Sat,Away,L,0,1,Southampton,35,29947,Jonny Evans,4-5-1,Graham Scott,west brom,0.4,2.0
+9,2017-10-28,15,Matchweek 10,Sat,Home,L,2,3,Manchester City,23,24003,Jonny Evans,3-5-2,Mike Jones,west brom,1.5,2.3
+10,2017-11-04,15,Matchweek 11,Sat,Away,L,0,1,Huddersfield,50,24169,Jonny Evans,3-5-2,Roger East,west brom,0.4,0.3
+11,2017-11-18,15,Matchweek 12,Sat,Home,L,0,4,Chelsea,39,23592,Jonny Evans,3-5-2,Jonathan Moss,west brom,0.8,1.6
+12,2017-11-25,15,Matchweek 13,Sat,Away,D,1,1,Tottenham,28,65905,Jonny Evans,3-5-2,Mike Jones,west brom,0.7,1.8
+13,2017-11-28,20,Matchweek 14,Tue,Home,D,2,2,Newcastle Utd,48,25534,Jonny Evans,3-5-2,Lee Probert,west brom,1.5,0.9
+14,2017-12-02,15,Matchweek 15,Sat,Home,D,0,0,Crystal Palace,51,23531,Jonny Evans,4-3-3,Michael Oliver,west brom,1.9,0.6
+15,2017-12-09,15,Matchweek 16,Sat,Away,L,0,1,Swansea City,46,19580,Jonny Evans,4-4-2,Mike Dean,west brom,0.3,1.5
+16,2017-12-13,20,Matchweek 17,Wed,Away,D,0,0,Liverpool,30,53243,Jonny Evans,4-5-1,Paul Tierney,west brom,0.4,2.1
+17,2017-12-17,14,Matchweek 18,Sun,Home,L,1,2,Manchester Utd,44,24782,Jonny Evans,4-3-3,Anthony Taylor,west brom,1.1,0.7
+18,2017-12-23,15,Matchweek 19,Sat,Away,L,1,3,Stoke City,57,29057,Jonny Evans,4-4-2,Niel Swarbrick,west brom,2.0,1.4
+19,2017-12-26,15,Matchweek 20,Tue,Home,D,0,0,Everton,52,25364,Jonny Evans,4-4-2,Roger East,west brom,1.5,0.4
+20,2017-12-31,16,Matchweek 21,Sun,Home,D,1,1,Arsenal,35,26223,Jonny Evans,5-3-2,Mike Dean,west brom,1.5,0.9
+21,2018-01-02,19,Matchweek 22,Tue,Away,L,1,2,West Ham,47,56888,Jonny Evans,4-2-3-1,Mike Jones,west brom,1.0,1.3
+22,2018-01-13,15,Matchweek 23,Sat,Home,W,2,0,Brighton,44,25240,Jonny Evans,4-4-2,Martin Atkinson,west brom,1.0,0.6
+23,2018-01-20,15,Matchweek 24,Sat,Away,D,1,1,Everton,44,39061,Jonny Evans,4-4-2,Stuart Attwell,west brom,1.1,1.1
+24,2018-01-31,20,Matchweek 25,Wed,Away,L,0,3,Manchester City,27,53241,James McClean,4-4-1-1,Robert Madley,west brom,0.2,2.3
+25,2018-02-03,15,Matchweek 26,Sat,Home,L,2,3,Southampton,39,25911,Gareth McAuley,4-4-2,Michael Oliver,west brom,0.8,0.9
+26,2018-02-12,20,Matchweek 27,Mon,Away,L,0,3,Chelsea,43,41071,Jonny Evans,5-3-2,Lee Mason,west brom,0.7,1.9
+27,2018-02-24,15,Matchweek 28,Sat,Home,L,1,2,Huddersfield,53,25920,Jonny Evans,4-4-2,Jonathan Moss,west brom,1.2,1.1
+28,2018-03-03,15,Matchweek 29,Sat,Away,L,0,1,Watford,47,20022,Jonny Evans,4-3-3,Paul Tierney,west brom,1.1,1.3
+29,2018-03-10,15,Matchweek 30,Sat,Home,L,1,4,Leicester City,44,23558,Ben Foster,4-3-3,Robert Madley,west brom,0.3,2.1
+30,2018-03-17,15,Matchweek 31,Sat,Away,L,1,2,Bournemouth,40,10242,Jonny Evans,3-5-2,Graham Scott,west brom,1.6,0.7
+31,2018-03-31,15,Matchweek 32,Sat,Home,L,1,2,Burnley,47,23455,Jonny Evans,3-5-2,Lee Probert,west brom,0.5,1.3
+32,2018-04-07,15,Matchweek 33,Sat,Home,D,1,1,Swansea City,52,23297,Chris Brunt,4-4-2,Roger East,west brom,1.2,0.8
+33,2018-04-15,16,Matchweek 34,Sun,Away,W,1,0,Manchester Utd,30,75095,Chris Brunt,4-4-1-1,Paul Tierney,west brom,0.7,0.7
+34,2018-04-21,12,Matchweek 35,Sat,Home,D,2,2,Liverpool,39,24520,Chris Brunt,4-4-1-1,Stuart Attwell,west brom,1.3,1.3
+35,2018-04-28,15,Matchweek 36,Sat,Away,W,1,0,Newcastle Utd,38,52283,Chris Brunt,4-4-1-1,David Coote,west brom,0.7,1.8
+36,2018-05-05,15,Matchweek 37,Sat,Home,W,1,0,Tottenham,26,23685,Chris Brunt,4-4-1-1,Mike Jones,west brom,1.6,1.2
+37,2018-05-13,15,Matchweek 38,Sun,Away,L,0,2,Crystal Palace,41,25357,Chris Brunt,4-4-1-1,Jonathan Moss,west brom,0.2,2.2
