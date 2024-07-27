@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Match Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+
+
+        .banner {
+            width: 95%;
+            height: 50vh;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+        .form-container {
+            background: transparent;
+            padding: 18px;
+            border-radius: 10px;
+            border: none;
+            outline: none;
+        }
+
+        .form-container h1 {
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #555;
+            text-align: center;
+        }
+
+        .radio-group {
+            display: flex;
+            align-items: center;
+            margin: 15px 0;
+        }
+
+        .radio-group label {
+            margin-right: 10px;
+            margin-bottom: 0;
+        }
+
+        .radio-group input {
+            margin-right: 5px;
+        }
+
+        .form-group {
+            margin: 10px 0;
+        }
+
+        .form-group input,
+        .form-group select {
+            width: 95%;
+            padding: 8px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .form-group input[type="number"] {
+            width: calc(95% - 2px);
+            /* Adjust for border */
+        }
+
+        button {
+            width: 95%;
+            padding: 8px 15px;
+            background: #007BFF;
+            border: none;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+            box-sizing: border-box;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus {
+
+            border-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;flex-wrap: wrap;">
+            <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+                {%if context.teamA%}
+                <img src="{{context.teamA_image}}" alt="Team A" class="banner">
+                <p>{{context.teamA }}</p>
+                {%else%}
+                <img src="../static/images/pl.jpg" alt="Team A" class="banner">
+                <p>Team A</p>
+                {%endif%}
+            </div>
+            {%if context.prediction=='1'%}
+            <div style="flex: 2;display: flex; flex-direction: column; align-items: center;">
+                <p style="text-decoration: underline;">
+                    {{context.teamA}} will <strong>win</strong> the match
+                </p>
+                <a href="/predict"
+                    style="margin-top: 20px;text-decoration: none; color: black;padding: 10px;background-color: rgb(116, 173, 219);border-radius: 10px;">
+                    Predict next</a>
+            </div>
+            {%elif context.prediction=='0'%}
+            <div style="flex: 2;display: flex; flex-direction: column; align-items: center;">
+                <p style="text-decoration: underline;">
+                    {{context.teamA}} will <strong>lose</strong> the match or will end in a <strong>draw</strong>
+
+                </p>
+                <a href="/predict"
+                    style="margin-top: 20px;text-decoration: none; color: black;padding: 10px;background-color: rgb(116, 173, 219);border-radius: 10px;">
+                    Predict next</a>
+            </div>
+            {%else%}
+
+            <div style="flex: 2;">
+                <div class="form-container">
+                    <h1>Football Match Winner Predictor</h1>
+                    <form id="scoreForm" method="post">
+                        <div class="form-group">
+                            <select name="team" id="Team" required>
+                                <option value="">-- Select a team A --</option>
+                                {%for team in context.teams%}
+                                <option value="{{team}}">{{team}}</option>
+
+                                {%endfor%}
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <select name="opponent" id="" required>
+                                <option value="">-- Select a team B --</option>
+                                {%for team in context.teams%}
+                                <option value="{{team}}">{{team}}</option>
+
+                                {%endfor%}
+                            </select>
+                        </div>
+                        <div style="margin: 10px 0px;">
+                            <label style="font-size: 14px;">Venue for Team A </label>
+                            <div class="radio-group">
+                                <input type="radio" name="venue" id="home" value="home" required>
+                                <label for="home">Home</label>
+                                <input type="radio" name="venue" id="away" value="away">
+                                <label for="away">Away</label>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <input type="number" name="attendance" id="attendance"
+                                placeholder="Stadium Attendance (e.g. 60699)" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="formation" id="formation" placeholder="Formation (e.g. 4-3-3)"
+                                required>
+                        </div>
+                        <div class="form-group">
+                            <input type="number" name="time" id="time"
+                                placeholder="Match Time in hr (e.g. 14 for 14:XX)" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="number" name="match_week" id="match_week"
+                                placeholder="Match Week (e.g. 4 for Matchweek 4)" required>
+                        </div>
+                        <button type="submit">Predict Score</button>
+                    </form>
+                    <h2 id="result" style="margin-top: 20px; text-align: center;"></h2>
+                </div>
+            </div>
+            {%endif%}
+            <div style="flex: 1; display: flex; flex-direction: column; align-items: center;">
+                {%if context.teamB%}
+
+                <img src="{{context.teamB_image}}" alt="Team B" class="banner">
+                <p>{{context.teamB}}</p>
+                {%else%}
+                <img src="../static/images/pl.jpg" alt="Team B" class="banner">
+                <p>Team B</p>
+                {%endif%}
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>Made with ♥</p>
+    </div>
+    <!-- <script>
+        document.getElementById('scoreForm').addEventListener('submit', async function (event) {
+            event.preventDefault();
+
+            // Gather data from form inputs
+            const data = {
+                homeTeam: document.getElementById('homeTeam').value,
+                awayTeam: document.getElementById('awayTeam').value,
+                venue: document.querySelector('input[name="venue"]:checked').value,
+                attendance: parseInt(document.getElementById('attendance').value),
+                formation: document.getElementById('formation').value,
+                matchTime: parseInt(document.getElementById('Time').value),
+                matchWeek: parseInt(document.getElementById('match_week').value)
+            };
+
+            try {
+                // Send data to server
+                const response = await fetch('http://127.0.0.1:5000/predict/', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                // Handle response
+                if (response.ok) {
+                    const result = await response.json();
+                    document.getElementById('result').innerText = `Predicted Score: ${result.predictedScore}`;
+                } else {
+                    document.getElementById('result').innerText = `Error: ${response.statusText}`;
+                }
+            } catch (error) {
+                document.getElementById('result').innerText = `Error: ${error.message}`;
+            }
+        });
+
+    </script> -->
+</body>
+
+</html>
