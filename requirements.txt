@@ -4,3 +4,5 @@ beautifulsoup4==4.12.3
 lxml==5.2.2
 html5lib==1.1
 xgboost==2.1.0
+flask==3.0.3
+flask_sqlalchemy==3.1.1
