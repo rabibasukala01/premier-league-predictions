@@ -10,8 +10,11 @@ You can look into bs4 code [here](https://github.com/rabibasukala01/premier-leag
 
  If it helped you in anyway ,please do ⭐ the repository.
 
- A glimpse of the flask web app:
+ A glimpse of the flask web app: </br>
 
+ ![gif](https://github.com/rabibasukala01/premier-league-predictions/blob/main/web/demo.gif) </br>
+
+ 
  ### how to run locally this repo:
 1. Clone the repo using git clone
 2. create a virtual environment [prefered]
