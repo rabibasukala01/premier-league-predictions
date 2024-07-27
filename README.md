@@ -8,7 +8,6 @@ You can look into bs4 code [here](https://github.com/rabibasukala01/premier-leag
 3. GradientBoostingClassifier remain high accuracy among others classifier with hyperparameter Tunings
 4. Only 7 feature is used so it might be reason for only 66% accuracy or am i wrong? pull requests are welcome  
 
- If it helped you in anyway ,please do ⭐ the repository.
 
  A glimpse of the flask web app: </br>
 
@@ -22,3 +21,5 @@ You can look into bs4 code [here](https://github.com/rabibasukala01/premier-leag
 4. `flask run --debug` to run the web app locally . Navigate to [url](http://127.0.0.1:5000/predict/) .
 
 Happy coding! 
+
+If it helped you in anyway ,please do ⭐ the repository.
